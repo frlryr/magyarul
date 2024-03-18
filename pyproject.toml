@@ -1,0 +1,84 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+# PEP 621. See https://www.python.org/dev/peps/pep-0621/
+name = "vye"
+description = "A stupidly simple framework/build tool for IoT."
+readme = "README.md"
+requires-python = ">=3.10"
+license = "MIT"
+authors = [
+    {name = "Diego Vitoriano", email = "diego.vitoriano@impi.sh"},
+]
+maintainers = [
+    {name = "Diego Vitoriano", email = "diego.vitoriano@impi.sh"},
+]
+keywords = [
+    "micropython",
+    "actor model",
+    "framework",
+    "tooling",
+    "iot",
+]
+classifiers = [
+    "Programming Language :: Python :: Implementation :: MicroPython",
+    "Topic :: Software Development :: Embedded Systems",
+    "Programming Language :: Python :: 3.10",
+    "Operating System :: POSIX :: Linux",
+    "Development Status :: 3 - Alpha",
+    "Intended Audience :: Developers",
+    "Environment :: Console",
+]
+dependencies = [
+    "docker~=7.0",
+    "tinydb~=4.8",
+    "jinja2~=3.1",
+    "click~=8.1",
+
+    # See https://github.com/docker/docker-py/issues/3113
+    "requests~=2.29",
+]
+dynamic = ["version"]
+scripts = { vye = "vye.cli:main" }
+
+[project.urls]
+Donate = "https://vye.impi.sh/donate/"
+Documentation = "https://vye.impi.sh/documentation/"
+Changes = "https://vye.impi.sh/changelog/"
+"Source Code" = "https://github.com/impi/vye/"
+"Issue Tracker" = "https://github.com/impi/vye/issues/"
+
+[tool.hatch]
+version.path = "src/vye/__init__.py"
+
+build.packages = ["src/vye"]
+build.artifacts = ["src/vye/app.py"]
+build.dependencies = [
+    "jinja2~=3.1",
+]
+
+envs.dev.dependencies = [
+    "bandit[toml]~=1.7",
+    "pre-commit~=3.6",
+    "coverage~=7.4",
+    "vulture~=2.11",
+    "pytest~=8.0",
+    "flake8~=7.0",
+    "pdoc~=14.4",
+    "ipdb~=0.13",
+]
+envs.dev.scripts.check = "pre-commit"
+envs.dev.scripts."build-docs" = "mkdir docs && pdoc -o docs src/vye/"
+envs.dev.scripts."serve-docs" = "pdoc -n -p8000 src/vye"
+
+[tool.hatch.build.hooks.custom]
+
+[tool.bandit]
+skips = [
+    "B101"
+]
+
+[tool.ruff.lint]
+select = ["F", "E", "W", "I001"]
