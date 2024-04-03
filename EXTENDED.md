@@ -243,3 +243,227 @@ Korán reggel ritkán rikkanta a rigó
 * Képzeld (pron. kébzeld): or just imagine. Used as a way to introduce something new to the conversation.
 * Nem bizony: is a way of agreeing with a negative. You can use bizony to agree with a positive. 
 
+
+
+# Anyu, Apu
+Anyu, anya                  Mom             common
+Apu, apa                    Dad             common
+
+Az anyukám                  My mum          Used by children
+Az apukám                   My dad          Used by children
+
+Az anyám, édesanyám         My mom          Used by adults*
+Az apám, édesapám           My father       Used by adults*
+A szüleim                   My parents      Used by adults*
+
+* * This is the most respectful and affectionate form.
+
+
+# Inkább
+* Means would rather. e.g Inkább tévet nézek, I'd rather watch TV
+* Used to express preference in particular situations
+
+
+# Jobban szeretek ..., mint ...
+* Means I better like ..., than ...
+* Used to express preferences in general.
+
+# Egyszer
+* Pronounced Etyszer
+* Has to meanings in English:
+    * Once when talking about a past event
+    * One day when talking about the future
+
+    e.g. Egyszer Rómában voltam és ..., Once I was in Rome and
+         Nagyon szeretnék egyuszer Angliában ..., One day I would love to see...
+
+# Remélem
+* It means I hope
+* Similar to hogy is often used after this verb
+
+    e.g. Remélen, hogy az édesanyád már jól van.
+         I hpe that your mother is recovered by now.
+
+* On its own it means I hope so.
+
+    e.g. Anna jön holnap? Remélem
+         Is Anna comming tomorrow? I hope so.
+
+# Későn, késő
+* Both means late
+* Későn is used in answer to the question Mikor? When?
+    
+    e.g. Apu későn jön haza. Dad comes home late
+
+* Késő is used in expressions like késő van.
+
+    e.g. Késő van. It is late.
+         Késő este. Late in the evening.
+
+# Courtesy Address
+                                                    Context
+    Teszik kérni    -> Does it please you to
+    Teszenek kérni  -> Would you like
+    Csókolom        -> I kiss you                   As a greeting, farewell
+    Kezét csókolom  -> I kiss your hand             As a greeting, farewell
+
+* Used by children when speaking to adults.
+* Used by adults when speaking to the elderly.
+* Used by middle-aged men when speaking to women (gentlemenry).
+* Used by elderly to adults when it suits, but would often use familiar for family members and formal for acquaitances.
+* Women will never say the csókolom variants (I kiss...).
+
+# Temperature
+    Celsius -> Celziusz
+    Fok     -> Centigrade degree
+
+* e.g. Ma 30*C lesz or Ma 30 fok lesz.
+* Mínusz and Plusz is also used. e.g Ma mínusz 30*C fok lesz.
+
+    Idő     -> Time, weather
+
+* e.g. Szalad/Rohan az idő (times flies)
+       Szép idő van        (the weather is nice)
+
+* You also say:
+    e.g. Szép idő van or Szép az idő -> (the weather is beautiful)
+         Rossz idő van or Rossz az idő -> (the weather is bad)
+         Csúnya -> nasty
+         Hideg  -> cold
+         Meleg  -> hot
+
+* Remember these forms:
+    e.g. Melegem van -> Im hot. 
+         Nincs melegem -> Im not hot.          
+         Meleged van -> Youre hot.
+         Nincs meleged -> Youre not hot (sing. familiar).   
+         Melege van -> Youre hot (sing. form) or He/she is hot.
+         Nincs melege -> Youre not hot (sing form) or He/she is not hot.
+
+* There are 2 verbs to represent cold: fazil (for someone) and  hideg (for something).
+
+# Öreg, régi
+* They both mean old in English.
+* Öreg is used to animated things.
+* Régi is used for inanimated things.
+
+# Fáj a lábam
+* Fáj a means My body part hurts. Lábam means foot.
+* e.g. 
+    Fáj a lábam -> My foot/leg hurts.
+    Fáj a lábad -> Your foot/leg hurts (sing. familiar).
+    Fáj a lába  -> Your (sing. form), his, her foot/leg hurts.
+
+* Other things that hurts
+* e.g.
+    a hátam     -> My back.
+    a hátad     -> Your back (sing. familiar).
+    a háta      -> Your (sing. form), his, her back.
+    a fejem     -> My head.
+    a fejed     -> Your head (sing. familiar).
+    a feje      -> Your (sing. form), his, her head.
+    a fogam     -> My tooth.
+    a fogad     -> Your tooth (sing. familiar)
+    a foga      -> Your (sing. form), his, her tooth.
+
+# Fáj mindenem
+* Means hurting all over.
+
+# Hiszen
+* Why, surely, but
+* It expresses surprise
+* e.g.
+    Öreg vagyok én már!                             -> I'm old
+    Hiszen meg csak hatvanhárom éves teszik lenni!  -> Why, you're still only 63!
+
+# Sikerült
+* Succeeded, managed to
+* Is followed by the infinitive.
+* Is impersonal form it can eb used in all three addresses, singular or plurarl.
+* e.g.
+    Sikerült bevásárolni?                           -> Did you manage to do the shopping?
+
+# Utcában, utcán
+* Used when talking about where someone lives
+* Used when talking about where something can be found, utcában is used only.
+* e.g.
+    Milyen utcában laktok?                          -> What street do you live in?
+    A Kossuth Lajos utcában van a múzeum            -> The museum is in Kossuth Lajos Street.
+
+# Micsoda ...?
+* What ...?, What sort of ...?
+* Synonym of Mi?
+* Its used to express surprise, indignation or curiosity.
+* e.g.
+    Nem sikerúlt taxit találni.                     -> I didnt manage to find a taxi.
+    Micsoda?                                        -> What?
+    Micsoda zaj ez?                                 -> What sort of noise is this?
+
+# Kicsoda?
+* Similar to Micsoda, but for people.
+* e.g.
+    Ő sem volt ott. Kicsoda?                        -> He/she wasnt there either. Who?
+    Hát ez kicsoda?                                 -> And who is this?
+
+# Kész, készem
+* Both means finished or ready
+* e.g.
+    Kész vagy?                                      -> Are you ready/finished?
+    Készem vágy?                                    -> Are you ready/finished?
+  
+  e.g.
+    Kész van az ebéd
+    Készem van az ebéd
+    Kész az ebéd
+
+# Szabad
+* Means allowed.
+* Nem szabad means not allowed.
+
+# Tilos
+* Means forbidden.
+* Nem tilos means not forbidden.
+
+# Lehet
+* Means possible.
+* Nem lehet means not possible.
+* Can be used like szabad.
+
+# Ugyan, ugyan már
+* Means nonsense, rubbish.
+* Expresses indignation, impatience or protest.
+* e.g.
+    Ha gyógyszert tetszik szedni, nem szaba alkoholt innit!     -> I fyou take medication, you mustnt drink alcohol
+    Ugyan!                                                      -> Nonsense!
+
+# Kint
+* Means outside, out of doors
+* Has a kinn form.
+* e.g.
+    Karcsi szeret kint focizni.                                 -> Karcsi likes playing football outside.
+
+# Bent
+* Means inside, in doors.
+* Has a benn form.
+* e.g.
+    Ki van benn a konyhában?                                    -> Who is inside the kitchen?
+
+# Fent
+* Means up.
+* Has a fenn form.
+* e.g.
+    Fent a hegyen sok turista van.                              -> There are a lot of tourists up on the mountains.
+
+# Lent
+* Means down, below.
+* Has a lenn form.
+* e.g.
+    Lenn, a földszinten lakik Sári néni.                        -> Sári néni lives down on the ground floor.
+
+# Különben sem
+* Means moreover, besides, anyway, for that matter.
+* Used in negative statements.
+* Különben is in positive ones.
+* e.g.
+    Nem megyek, különben is késő van.                           -> I'm not going. Its late anyway.
+    Egyedül különben sem iszom.                                 -> I dont drink on my own anyway.

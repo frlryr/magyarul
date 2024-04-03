@@ -535,3 +535,83 @@
   e Nem
   f Nem
   g Igen
+
+# 8
+## Questions
+1 
+  a
+  b
+  c
+  d
+  e
+2
+  a
+  b
+  c
+  d
+  e
+  f
+
+## Practice (feito no chute)
+1
+  a ajánlasz
+  b beváltani
+  c állatok
+  d segíteni
+  e értesz
+  f tanítanak
+  g takarítotok
+  h írtok
+2
+  a Zsófi zseret síelni
+  b Zsófi nem korcsolyázikni
+  c Zsófi imád teniszezikni
+  d Zsófi utál kocogni
+  e Zsófi tud kosárlabdázikni
+  f Zsófi nem röplabdázikni
+  g Zsófi tud úszikni
+  h Zsófi szeret tornázik
+  i Zsófi sakkozik sakkozik
+3
+  a Király Ferenc jobban szeret koncertre járni, mint sétálni
+  b Asztalos Gizi jobban szeret videót nézni, mint moziba jarni
+  c Sípos Kati jobban szeret operába menni, mint úszni
+  d Polgár Géza jobban szeret sörözni, mint színházba jarni
+  e Tordai Judit jobban szeret úszni, mint sportolni
+  f Balázs Kinga jobban szeret könyvet olvasni, ming tévét nézni
+  g Fekete László jobban szeret rádiót hallgatni, mint újságot olvasni
+4
+  a Ma
+  b mai
+  c januári
+  d Január
+  e január
+  f Szeged
+  g Szegedi
+  h Szeged
+  i Szeged
+  j szegedi
+5
+  a Ági munka után a repülőtérre siet, mert jön Juliska néni.
+  b Kati munka után a közérzetre siet, mert este vacsorát főz..
+  c Zsuzsa munka után a uszodára siet, mert imád úszni.
+  d Eszter munka után a Pestre siet, mert édesanyja kórházban van.
+  e Ica munka után a otthonára siet, mert jó film lesz a tévében.
+6
+  a Csak egy.
+  b Igen. Az este.
+  c Házban lift nincs.
+  d Nem. Csak este.
+  e Nem tudom.
+7
+  Peti akarni nyugati autót.
+8
+
+9
+  a Házamban.
+  b Nem tudom.
+  c Igen. Minden nap.
+  d Olvasni.
+  e Beszélni.
+  f Számítógép.
+  g Filmet nézni
