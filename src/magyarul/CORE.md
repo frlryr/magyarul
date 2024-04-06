@@ -165,63 +165,64 @@
 | 3rd | (Ő) iszik    | He/She drinks |   | (Ők) isznak    | They drink |          |
 
 ## Endings
-### -t ending
-* On front vowel words the ö linking vowel is necessary when the final word is ö, ő, ü, or ű.
-* HINT: Hence why front vowel words can take either an e or ö.
-
-### -T ending
+### Accusative: -t
 * The object of hungarian sentence is marked by -t.
-* This is called the object or accusative ending.
-* Certain verbs requires an object and therefore a -t ending. e.g kér, köszönöm, etc.
+* Transitive verbs requires an object and therefore a -t ending.
+    * e.g kér, köszönöm, etc.
 * If the word ends with a vowel it follows it. e.g mi - mit, fekete - feketét, kávé - kávét, etc
 * If the words ends in a consonant a linking vowel is added based on it being front or back word.
 * Back vowels: mostly o, sometimes a.
 * Front vowels: usually e, sometime ö.
 * Some consonant words might not need a linking vowerl. e.g. sör - sört, asztal - asztalt, etc.
+* On front vowel words the ö linking vowel is necessary when the final word is ö, ő, ü, or ű.
+* HINT: Hence why front vowel words can take either an e or ö.
 
-e.g. Étlap                                              Étlapot
-     Ház                                                Házat
-     Pörkölt                                            Pörkölet
-     Gyümölcs                                           Gyümölcsöt
+| Noun     | Object     |
+|----------|------------|
+| Ház      | Házat      |
+| Pörkölt  | Pörköltet  |
+| Gyümölcs | Gyümölcsöt |
 
-### -ba and be ending
-* They mean to and into
-* Back vowel words use -ba. Final a turns into á.
-* Front vowel words use -be. Final e turns into é.
-* Used after all foreign and some HUngaria places.
-* User enclosed places. e.g. Mozi, színház, opera, bank, uszoda, hotel, etc.
-* Words like Magyarország takes -ra and Budapest takes -re endings.
-* e.g. Étterembenbe
+### : -ba, be, -ban, -ben
+#### : -ba, be
+* Means to and into
+* Back vowel words take -ba. Final a turns into á.
+* Front vowel words take -be. Final e turns into é.
+* Used after all foreign and some Hungarian places.
+* Used after enclosed places.
+    * e.g. Mozi, színház, opera, bank, uszoda, hotel, etc.
+* Words like magyarország takes -ra and Budapest takes -re endings.
 
-### -ban and -ben ending
-* Its equivallent to in or at.
-* Back vowel words take -ban.
-* Front vowel words take -ebn.
-* The final a changes to á.
-* The final e changes to é.
+#### : -ban, -ben
+* Means in or at.
+* Back vowel words take -ban. Final a turns into á.
+* Front vowel words take -ben. Final e turns into é.
 * They are used with the same words as -ba/be ending.
-Standard
-    Mi?         Hova/Hová?          Hol?
-    London      Londonba            Londonban
-    Firenze     Firenzébe           Firenzében
-    Mozi        Moziba              Moziban
-    Színház     Színházba           Színházban
-    Opera       Operába             Operában
-    Bank        Bankba              Bankban
-    Uszoda      Uszodába            Uszodában
-    Hotel       Hotelba             Hotelban
-    Utca        Utcába              Utcábab
-    Kerület     Kerületbe           Kerületben
-Exception
-    Mi?              Hova/Hová?             Hol?
-    Budapeste        Budapestre             Budapesten
-    Magyarország     Magyarországra         Magyarországon
-    Repülőtér        Repülőtérre            Repülőtéren
-    Tér              Térre                  Téren
-    Út               Útra                   Úton
-    Körút            Körútra                Körúton
+
+| Mi?          | Hova/Hová?     | Hol?           | Context   |
+|--------------|----------------|----------------|-----------|
+| London       | Londoba        | Londoban       |           |
+| Firenze      | Firenzébe      | Firenzében     |           |
+| Mozi         | Moziba         | Moziban        |           |
+| Színház      | Színházba      | Színházban     |           |
+| Opera        | Operába        | Operában       |           |
+| Bank         | Bankba         | Bankban        |           |
+| Uszoda       | Uszodába       | Uszodában      |           |
+| Hotel        | Hotelba        | Hotelban       |           |
+| Utca         | Utcába         | Utcában        |           |
+| Kerület      | Kerületbe      | Kerületben     |           |
+| Budapeste    | Butapestre     | Budapesten     | Exception |
+| Magyarország | Magyarországra | Magyarországon | Exception |
+| Repülőtér    | Repülőtérre    | Repülőtéren    | Exception |
+| Tér          | Térre          | Téren          | Exception |
+| Út           | Útra           | Úton           | Exception |
+| Körút        | Körútra        | Körúton        | Exception |
 
 ## Pronouns &
+* Except for Ő and Ők, personal pronouns are usually omitted.
+* Unless meant for emphasis or clarity.
+* Ő means He/She, but its "agenderized".
+
 |     | Singular | Meaning |   | Plural | Meaning | Context  |
 |-----|----------|---------|---|--------|---------|----------|
 | 1st | Én       | I       |   | Mi     | We      |          |
@@ -230,19 +231,18 @@ Exception
 | 2nd | Ön       | You     |   | Önök   | You     | Official |
 | 3rd | Ő        | He/She  |   | Ők     | They    |          |
 
-* Except for Ő and Ők, personal pronouns are usually omitted.
-* Unless meant for emphasis or clarity.
-* Ő means He/She, but its "agenderized".
-
 # Semantics
 
 # Intonation
-Statements        Medium to falling pitch
-Questions
-    Question-word   Rise high pitch on first syllable
-    Yes-or-no       Medium pitch to a slight drop to rise high pitch on the last or penultimate syllable
-* If there are only one or two syllable in and after the focus of the question, your voice will rise on the last syllable. e.g. Eszter éhes?
-* Uf there are three or more syllables in and aftern the focus of the question, your voice will go up on the penultimate syllable and the come down again. e.g Eszter amerikai?
+* Statements:
+    * Medium to falling pitch.
+* Questions:
+    * Question-word, rise pitch on first syllable.
+    * Yes-or-no, medium pitch to a drop and a rise on the penultimate/last syllable.
+* On 1~2 syllables in/after the question focus, your voice will rise on the last syllable.
+    * e.g. Eszter éhes?
+* On 3+ syllables in/after the question focs, your voice will go up on the penultimate syllable and the come down again.
+    * e.g Eszter amerikai?
 
 # Quirks
 ## Esz, Azt
@@ -252,30 +252,28 @@ Questions
 | Asz    | That    |
 
 ## Is
+* Always comes after the word it refers to.
+* Is never stressed.
+* Is always pronounced together with the preceding word.
+    * e.g. Én is kérek sört `<>` I also want beer.
+    * e.g. Én sört is kérek `<>` I want beer too/as well.
+
 | Magyar | Meaning            |
 |--------|--------------------|
 | Is     | Too, Also, As well |
 
-* Always comes after the word it refers to.
-* Is never stressed.
-* Is always pronounced together with the preceding word.
+## Pedig
+* Used as a contrast in a second phrase.
+    * e.g. Először levest kérek, utána pedig pörköltet. `<>` First I want a soup and then a stew
+    * e.g. Ica kávét kér, Ági pedig teát. `<>` Ica wants coffee, but Ági wants tea.
 
-e.g. Én is kérek sört                                   I also want beer.
-     Én sört is kérek                                   I want beer too/as well.
-
-## Pedig and, however, but, on the other hand
 | Magyar | Meaning                              |
 |--------|--------------------------------------|
 | Pedig  | And, However, But, On the other hand |
 
-* Used as a contrast in a second phrase.
-
-e.g. Először levest kérek, utána pedig pörköltet.       First I want a soup and then a stew
-     Ica kávét kér, Ági pedig teát.                     Ica wants coffee, but Ági wants tea.
-
 ## A, az the
-* A for words starting with a consonant
-* Az for words starting with a vowel
+* A for words starting with a consonant.
+* Az for words starting with a vowel.
 
 ## Ordinal Numbers
 
