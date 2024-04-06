@@ -66,9 +66,7 @@
 ### Present: Lenni
 * Means to be (the famous verb to be all known as tu biu :-D).
 * Is an irregular verb.
-* Van/vannak are omitted when:
-    * Describing people
-    * Giving their jobs or nationalities.
+* See [van, vannak](#van-vannak).
 
 |     | Singular    | Meaning   |   | Plural         | Meaning  | Context  |
 |-----|-------------|-----------|---|----------------|----------|----------|
@@ -267,166 +265,197 @@
     * e.g. Először levest kérek, utána pedig pörköltet. `<>` First I want a soup and then a stew
     * e.g. Ica kávét kér, Ági pedig teát. `<>` Ica wants coffee, but Ági wants tea.
 
-| Magyar | Meaning                              |
-|--------|--------------------------------------|
-| Pedig  | And, However, But, On the other hand |
+| Magyar | Meaning                              | Context |
+|--------|--------------------------------------|---------|
+| Pedig  | And, However, But, On the other hand |         |
 
-## A, az the
+## A, az
+* Means the.
 * A for words starting with a consonant.
 * Az for words starting with a vowel.
 
+## Cardinal Numbers
+* Name of year are read in full. Jesus.
+    * e.g. 101 is százegy, 200 is kétszás, 300 is Háromszás
+    * e.g. 845 Nyolcszáznegyvenöt
+    * e.g. 2600 Kétezerhatszás
+
+| Magyar     | Meaning           | Context                     |
+|------------|-------------------|-----------------------------|
+| Egy        | One               |                             |
+| Kettő, Két | Two               | Kettő is used standalone    |
+| Három      | Three             |                             |
+| Négy       | Four              |                             |
+| Öt         | Five              |                             |
+| Hat        | Six               |                             |
+| Hét        | Seven             |                             |
+| Nyolc      | Eight             |                             |
+| Kilenc     | Nine              |                             |
+| Tíz        | Ten               |                             |
+| Tizen      | Tens              | Tizenegy, Tizenhat, ...     |
+| Húsz       | Twenty            |                             |
+| Huszon     | Twenties          | Huszonegy, Huszonhat, ...   |
+| Harminc    | Thirties          | Harmincegy, Harminchat, ... |
+| Negyven    | Forties           |                             |
+| Ötven      | Fifties           |                             |
+| Hatvan     | Sixties           |                             |
+| Hetven     | Seventies         |                             |
+| Nyolcvan   | Eighties          |                             |
+| Kilencven  | Nineties          |                             |
+| Száz       | Hundreds          |                             |
+| Ezer       | Thousands         |                             |
+| Tízezer    | Ten thousands     |                             |
+| Százezer   | Hundred thousands |                             |
+| Millió     | Million           |                             |
+| Milliárd   | Billion           |                             |
+
 ## Ordinal Numbers
-
-    Első            First
-    Második         Second
-    Harmadik        Third
-    Negyedik        Fourth
-    Ötödik          Fifth
-    Hatodik         Sixth
-    Hetedik         Seventh
-    Nyolcadik       Eighth
-    Kilencedik      Ninth
-    Tizedik         Tenth
-    Tizennegyedik   ELeventh
-    Tizenkettedik   Twelfth
-    Tizenharmadik   Thirteenth
-    Huszadik        Twentieth
-    Harmincadik     Thirtieth
-    Negyvenedik     Fortieth
-    Ötvenedik       Fiftieth
-    Hatvanadik      Sixtieth
-    Hetvenedik      Seventieth
-    Nyolcsvanadik   Eightieth
-    Kilencvenedik   Ninetieth
-    Századik        Hundredth
-    Ezredik         Thousandth
-
 * Ordinal numbers follow the same pattern as cardinal numbers.
 
-## Cardinal Numbers
-                                                            Context
-    Egy                                 1
-    Kettő, Két                          2                   Kettő is used standalone while két is followed by something.
-    Három                               3
-    Négy                                4
-    Öt                                  5
-    Hat                                 6
-    Hét                                 7
-    Nyolc                               8
-    Kilenc                              9
-    Tíz                                 10
-    Tizen                               Tens                Tizenegy, Tizenhat, ...
-    Húsz                                20
-    Huszon                              Twenties            Huszonegy, Huszonhat, ...
-    Harminc                             Thirties            Harmincegy, Harminchat, ...
-    Negyven                             Forties
-    Ötven                               Fifties
-    Hatvan                              Sixties
-    Hetven                              Seventies
-    Nyolcvan                            Eighties
-    Kilencven                           Nineties
-    Száz                                Hundreds
-    Ezer                                Thousands
-    Tízezer                             Ten thousands
-    Százezer                            Hundred thousands
-    Millió                              Million
-    Milliárd                            Billion
-
-* 101 is százegy, 200 is kétszás, 300 is Háromszás
-* 845 Nyolcszáznegyvenöt
-* 2600 Kétezerhatszás
-* Name of year are read in full. Jesus.
+| Magyar        | Meaning    | Context |
+|---------------|------------|---------|
+| Első          | First      |         |
+| Második       | Second     |         |
+| Harmadik      | Third      |         |
+| Negyedik      | Fourth     |         |
+| Ötödik        | Fifth      |         |
+| Hatodik       | Sixth      |         |
+| Hetedik       | Seventh    |         |
+| Nyolcadik     | Eighth     |         |
+| Kilencedik    | Ninth      |         |
+| Tizedik       | Tenth      |         |
+| Tizennegyedik | Eleventh   |         |
+| Tizenkettedik | Twelfth    |         |
+| Tizenharmadik | Thirteenth |         |
+| Huszadik      | Twentieth  |         |
+| Harmincadik   | Thirtieth  |         |
+| Negyvenedik   | Fortieth   |         |
+| Ötvenedik     | Fiftieth   |         |
+| Hatvanadik    | Sixtieth   |         |
+| Hetvenedik    | Seventieth |         |
+| Nyolcsvanadik | Eightieth  |         |
+| Kilencvenedik | Ninetieth  |         |
+| Századik      | Hundredth  |         |
+| Ezredik       | Thousandth |         |
 
 ## Sok, kevés, néhány
-
-    Sok                                 A lot of, many, much
-    Kevés                               A little, a few
-    Néhány                              A few
-
 * Are all followed by singular.
 
-## Mennyibe kerül
+| Magyar | Meaning           | Context |
+|--------|-------------------|---------|
+| Sok    | A lot, many, much |         |
+| Kéves  | A little, a few   |         |
+| Néhány | A few             |         |
+
+## Mennyibe kerül?
 * When answering this question put -ba or -be after the word denoting price or currency.
-* Mennyi + be
-* e.g. Ötszázhatvan forintba or Ötszázhatvanba.
+    * e.g. Mennyibe kerül? Ötszázhatvan forintba or Ötszázhatvanba.
+* Mennyi + be(?)
+
+| Magyar         | Meaning               | Context |
+|----------------|-----------------------|---------|
+| Mennyibe kerül | How much does it cost |         |
 
 ## Nincs, nicsen
 * Are negatives of van.
 * Both are correct.
 * Nincs is more common
-* See van and vannak
 
-## Ul and Ül
+## Ul, Ül
+* Used for languages.
+    * e.g. Magyar, magyarul.
 * Back vowel words ending takes ul.
 * Front vowel words ending takes ül.
-* Use for languages
-* a and e ending words usually change to á and é. E.g. francia, franciául.
+* A and e ending words usually change to á and é.
+    * e.g. Francia, franciául.
 
-## Van and Vannak
-* Can not be ommited when asking/stating how somebody is.
+## Van, Vannak
+* Are omitted when:
+    * Describing people
+    * Giving their jobs or nationalities.
+* Cannot be ommited:
+    * When asking or stating how somebody is.
 
 ## Egy
-* Indefinite article: a, an.
+* Means a, an.
 * Has only one form.
-* Is not used when givin profession.
+* Is not used when giving profession.
 
-## Van or Is
+## Van, Is
 * Used when:
-    * Asking or saying where somebody or thing is. e.g. Közel van a Blaha Lujza tér?
-    * Asking or stating how someone is. e.g. Hogy van Eszter?
-    * Using certain weather expressions. e.g. Hideg/Meleg van.
-    * Using in the sense of there is. e.g. Vat itt valahol egy posta?
-    * Asking or stating if something is available. e.g. Van gyulai kolbász?
+    * Asking or saying where somebody or thing is.
+        * e.g. Közel van a Blaha Lujza tér?
+    * Asking or stating how someone is. See [van, vannak](#van-vannak)
+        * e.g. Hogy van Eszter?
+    * Using certain weather expressions.
+        * e.g. Hideg/Meleg van.
+    * Using in the sense of there is.
+        * e.g. Vat itt valahol egy posta?
+    * Asking or stating if something is available.
+        * e.g. Van gyulai kolbász?
 
-## Inner or From Here and Onnan or From There
-* Where has at least 3 ways in Hungarian. e.g. Where at? Where to? Where from?
-* Itt and ott will vary depending on which one you're answering.
+## Itt, ott
+* Means here, there respectively.
+* They vary depending on the where case they're answering.
+    * e.g. Where at? Where to? Where from?
 
-    Honnan?         Hol?        Hova/Hová
-    Innen           Itt         Ide
-    Onnan           Ott         Oda
+| Honnan? | Hol? | Hova/Hová? |
+|---------|------|------------|
+| Innen   | Itt  | Ide        |
+| Onnan   | Ott  | Oda        |
 
 ## Word order &
 * It can vary greatly (something similar to portuguese).
-* The golden rule is, you often want to emphasize one or a group of words.
-    This is called focus and is often followed by the verb.
+* The golden rule is:
+    * You want to emphasize one or a group of words.
+    * This is called focus and is often followed by the verb.
+* The only two time when the focus is not followed by the verb are:
+    * When there is no verb in the sentence.
+        * e.g. János magyar.
+    * When the focus is the verb.
+        * e.g. Kérek egy feketét.
+* In hungarian, stressing the word also hightlights the focus on a word.
+* HINT: The question word is always the focus of a question. Therefore when answering a question-word question, first answer the question-word and the follow the word order of the rest of the question.
+    * e.g. Hol volt Sanyi? Velencében volt Sanyi or just Velencében.
 
-            Angol           vagyok              "American" I am (not another nationality)
-            Én              vagyok angol        "I" am american (not someone else)
-    Sanyi   Velencében      volt                In "Venice" Sanyi was (not somewhere else)
-            Sanyi           volt Velencében     "Sanyi" was in Venice (not someone else)
+| Magyar                | Meaning                                    | Context |
+|-----------------------|--------------------------------------------|---------|
+| Angol vagyok          | "American" I am (not another nationality)  |         |
+| Én vagyok angol       | "I" am american (not someone else)         |         |
+| Sanyi Velencében volt | In "Venice" Sanyi was (not somewhere else) |         |
+| Sanyi volt Velencében | "Sanyi" was in Venice (not someone else)   |         |
 
-* The onely twi time when the focus is not followed by the verb are:
-    * When there is no verb in the sentence. e.g. János magyar.
-    * When the focus is the verb. e.g. Kérek egy feketét.
+## Már, még
+### Már
+* Means already, yet, before.
+* Used in positive sentences and questions.
+    * e.g. Voltál már Budapesten?
 
-* In hungarian, stressing the word also hightlight the focus on a word.
-* HINT: The question word is always the focus of a question. Therefore when answering a question-word question, first answer the question-word and the follow the word order of the rest of the question. e.g. Hol volt Sanyi? Velencében volt Sanyi or just Velencében.
+### Még
+* Means yet, before
+* Used in negative sentences and questions.
+    * e.g. Még nem voltál Budapesten?
+* HINT: még also means even or still.
+    * e.g. Még te is? Igen, még én is.
+    * e.g. Jársz még angolra.
 
-## Már, még (already, yet, before)
-* Már, already, yet, before, is used in positive sentences and questions. e.g. Voltál már Budapesten?
-* Még, yet, before, is used in negative sentences and questions. e.g. Még nem voltál Budapesten?
-* HINT:
-    Még also means even on sentences like:
-        * Még te is?
-        * Igen, még én is.
-    Or still in sentences like:
-        * Jársz még angolra.
+## Valami, valaki
+* Means something, somebody respectively.
 
-## Valami (Something)
-## Valaki (Somebody)
-
-## Haza (home)
+## Haza
+* Means home.
 * Has different form depending on the question.
-    Honnan?         Hol?        Hová?
-    Itthonról       Itthon      Haza
-    Otthonról       Otthon      Haza
-    Hazulról
-* Itthon and Itthonról are used when talking about your own or someone else's home and you are actually there.
-* Otthon and Otthonról are used when you are talking about your own, or someone else's home but you are not there.
+* Itthon, Itthonról are used when talking about your own, or someone else's home and you are actually there.
+* Otthon, Otthonról are used when you are talking about your own, or someone else's home but you are not there.
+
+| Honnan?   | Hol?   | Hova/Hová? |
+|-----------|--------|------------|
+| Itthonról | Itthon | Haza       |
+| Otthonról | Otthon | Haza       |
+| Hazulról  |        |            |
 
 ## És
 * It means and
 * It can be ommited.
-    e.g. Andrea munka után bevásárol és foz -> Andrea does the shopping and the cooking after work
-         Andrea munka után bevásárol, foz -> Andrea does the shopping and the cooking after work
+    * e.g. Andrea munka után bevásárol és foz.
+    * e.g. Andrea munka után bevásárol, foz.
