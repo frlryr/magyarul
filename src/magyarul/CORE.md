@@ -43,6 +43,26 @@
 | zs    |            |
 
 ## Verbs &
+### Transitive and Intransitive
+* Iszik can also take an object.
+    * e.g. Sayin sört iszik.
+* Verbs that can take an object are called transitive.
+    * e.g. Kérek egy sört.
+* Verbs that can never take an object are called intransitive.
+    * e.g. Moziba megyek.
+
+### Past: Lenni
+* Means to be (the famous verb to be all known as tu biu :-D).
+* Is an irregular verb.
+
+|     | Singular    | Meaning     |   | Plural         | Meaning   | Context  |
+|-----|-------------|-------------|---|----------------|-----------|----------|
+| 1st | (Én) voltam | I was       |   | (Mi) voltunk   | We were   |          |
+| 2nd | (Te) voltál | You were    |   | (Ti) voltanok  | You were  | Familiar |
+| 2nd | (Maga) volt | You were    |   | (Maguk) voltak | You were  | Formal   |
+| 2nd | (Ön) volt   | You were    |   | (Önök) voltak  | You were  | Official |
+| 3rd | (Ő) volt    | He/She were |   | (Ők) voltak    | They were |          |
+
 ### Present: Lenni
 * Means to be (the famous verb to be all known as tu biu :-D).
 * Is an irregular verb.
@@ -58,6 +78,18 @@
 | 2nd | (Ön) van    | You are   |   | (Önök) vannak  | You are  | Official |
 | 3rd | (Ő) van     | He/She is |   | (Ők) vannak    | They are |          |
 
+### Future: Lenni
+* Means to be (the famous verb to be all known as tu biu :-D).
+* Is an irregular verb.
+
+|     | Singular    | Meaning        |   | Plural          | Meaning      | Context  |
+|-----|-------------|----------------|---|-----------------|--------------|----------|
+| 1st | (Én) leszek | I will be      |   | (Mi) leszünk    | We will be   |          |
+| 2nd | (Te) leszel | You will be    |   | (Ti) lesztek    | You will be  | Familiar |
+| 2nd | (Maga) lesz | You will be    |   | (Maguk) lesznek | You will be  | Formal   |
+| 2nd | (Ön) lesz   | You will be    |   | (Önök) lesznek  | You will be  | Official |
+| 3rd | (Ő) lesz    | He/She will be |   | (Ők) lesznek    | They will be |          |
+
 ### Present: Megy
 * Means to go.
 * Is an irregular verb.
@@ -70,115 +102,67 @@
 | 2nd | (Ön) megy   | You go      |   | (Önök) mennek  | You go  | Official |
 | 3rd | (Ő) megy    | He/She goes |   | (Ők) mennek    | They go |          |
 
-### Lesz
-* Irregular verb will be
-    Singular                                                        Context
-    Én leszek              I will be
-    Te leszel              You will be                              Familiar
-    Maga lesz              You will be                              Formal
-    Ön lesz                You will be                              Official
-    Ő lesz                 He,she will be
+### Present: Tud
+* Means to know.
+* Is a regular verb.
 
-    Plural
-    Mi leszünk             We will be
-    Ti lesztek             You will be                              Familiar
-    Maguk lesznek          You will be                              Formal
-    Önök lesznek           You will be                              Official
-    Ők lesznek             They will be
+|     | Singular   | Meaning      |   | Plural         | Meaning   | Context  |
+|-----|------------|--------------|---|----------------|-----------|----------|
+| 1st | (Én) tudok | I know       |   | (Mi) tudokunk  | We know   |          |
+| 2nd | (Te) tudsz | You know     |   | (Ti) tudok     | You know  | Familiar |
+| 2nd | (Maga) tud | You know     |   | (Maguk) tudnak | You know  | Formal   |
+| 2nd | (Ön) tud   | You know     |   | (Önök) tudnak  | You know  | Official |
+| 3rd | (Ő) tud    | He/She knows |   | (Ők) tudnak    | They know |          |
 
-### Present tense: standard verbs with singular forms
-    Back vowel verbs                                        Context
-    (Én) tudok            I know
-    (Te) tudsz            You know                          Familiar
-    (Maga) tud            You know                          Formal
-    (Ön) tud              You know                          Formal
-    (Ő) tud               He/she knowns
+### Present: Beszél
+* Means to speak.
+* Is a regular verb.
 
-    Front vowel verbs                                       Context
-    (Én) beszélek         I speak
-    (Te) beszélsz         You speak                          Familiar
-    (Maga) beszél         You speak                          Formal
-    (Ön) beszél           You speak                          Formal
-    (Ő) beszél            He/she speaks
+|     | Singular      | Meaning       |   | Plural            | Meaning    | Context  |
+|-----|---------------|---------------|---|-------------------|------------|----------|
+| 1st | (Én) beszélek | I speak       |   | (Mi) beszélünk    | We speak   |          |
+| 2nd | (Te) beszélsz | You speak     |   | (Ti) beszéltek    | You speak  | Familiar |
+| 2nd | (Maga) beszél | You speak     |   | (Maguk) beszélnek | You speak  | Formal   |
+| 2nd | (Ön) beszél   | You speak     |   | (Önök) beszélnek  | You speak  | Official |
+| 3rd | (Ő) beszél    | He/She speaks |   | (Ők) beszélnek    | They speak |          |
 
-### Present tense: standard verbs with plural forms
-    Back vowel verbs                                        Context
-    (Mi) tudokunk        We know
-    (Ti) tudok            You know                          Familiar
-    (Maguk) tudnak        You know                          Formal
-    (Önök) tudnak         You know                          Formal
-    (Ők) tudnak           They know
-
-    Front vowel verbs                                       Context
-    (Mi) beszélünk        We speak
-    (Ti) beszéltek        You speak                          Familiar
-    (Maguk) beszélnek     You speak                          Formal
-    (Önök) beszélnek      You speak                          Formal
-    (Ők) beszélnek        They speak
-
-### Conjugation (Past): Lenni
-* Standad verb
-    Én      voltam      I was
-    Te      voltál      You were            Familiar
-    Maga    volt        You were            Formal
-    Ön      volt        You were            Official
-    Ő       volt        He/She were
-
-    Mi      voltunk     We were
-    Ti      voltanok    You were            Familiar
-    Magük   voltak      You were            Formal
-    Önök    voltak      You were            Official
-    Ők      voltak      They were
-
-### Ül (sit)
-* Standard front vowel verb
+### Present: Ül
+* Means to sit.
+* Is a regular verb?
 * Has differente conjugation from front vowel verbs.
 * HINT: This is due to the ü sound.
-    Én      ülök        I sit
-    Te      ülsz        You sit                 Familiar
-    Maga    ül          You sit                 Formal
-    Ön      ül          You sit                 Official
-    Ő       ül          He/She sits
 
-    Mi      ülünk       We sit
-    Ti      ültök       You sit                 Familiar
-    Magük   ülnek       You sit                 Formal
-    Önök    ülnek       You sit                 Official
-    Ők      ülnek       They sit
+|     | Singular  | Meaning     |   | Plural        | Meaning  | Context  |
+|-----|-----------|-------------|---|---------------|----------|----------|
+| 1st | (Én) ülök | I sit       |   | (Mi) ülünk    | We sit   |          |
+| 2nd | (Te) ülsz | You sit     |   | (Ti) ültök    | You sit  | Familiar |
+| 2nd | (Maga) ül | You sit     |   | (Maguk) ülnek | You sit  | Formal   |
+| 2nd | (Ön) ül   | You sit     |   | (Önök) ülnek  | You sit  | Official |
+| 3rd | (Ő) ül    | He/She sits |   | (Ők) ülnek    | They sit |          |
 
-### Jön (come)
-* Irregular verb.
-    Én      jövök       I come
-    Te      jössz       You come                 Familiar
-    Maga    jön         You come                 Formal
-    Ön      jön         You come                 Official
-    Ő       jön         He/She comes
+### Present: Jön
+* Means to come (hehe).
+* Is an irregular verb.
 
-    Mi      jövünk      We sit
-    Ti      jöttök      You sit                  Familiar
-    Magük   jönnek      You sit                  Formal
-    Önök    jönnek      You sit                  Official
-    Ők      jönnek      They sit
+|     | Singular   | Meaning      |   | Plural         | Meaning   | Context  |
+|-----|------------|--------------|---|----------------|-----------|----------|
+| 1st | (Én) jövök | I come       |   | (Mi) jövünk    | We come   |          |
+| 2nd | (Te) jössz | You come     |   | (Ti) jöttök    | You come  | Familiar |
+| 2nd | (Maga) jön | You come     |   | (Maguk) jönnek | You come  | Formal   |
+| 2nd | (Ön) jön   | You come     |   | (Önök) jönnek  | You come  | Official |
+| 3rd | (Ő) jön    | He/She comes |   | (Ők) jönnek    | They come |          |
 
-# Iszik (drink)
-* Irregular verb.
-    Én      iszom       I drink
-    Te      iszol       You drink                Familiar
-    Maga    iszik       You drink                Formal
-    Ön      iszik       You drink                Official
-    Ő       iszik       He/She drinks
+### Present: Iszik (drink)
+* Means to drink.
+* Is an irregular verb.
 
-    Mi      iszunk      We drink
-    Ti      isztok      You drink                Familiar
-    Magük   isznak      You drink                Formal
-    Önök    isznak      You drink                Official
-    Ők      isznak      They drink
-
-# Transitive and Intransitive verbs &
-* Iszik can also take an object. e.g. Sayin sört iszik.
-* Verbs that can take an object are called transitive. e.g. Kér: Kérek egy sört.
-* Verbs that can never take an object are called intransitive. Megy: Moziba megyek.
-
+|     | Singular     | Meaning       |   | Plural         | Meaning    | Context  |
+|-----|--------------|---------------|---|----------------|------------|----------|
+| 1st | (Én) iszom   | I drink       |   | (Mi) iszunk    | We drink   |          |
+| 2nd | (Te) iszol   | You drink     |   | (Ti) isztok    | You drink  | Familiar |
+| 2nd | (Maga) iszik | You drink     |   | (Maguk) isznak | You drink  | Formal   |
+| 2nd | (Ön) iszik   | You drink     |   | (Önök) isznak  | You drink  | Official |
+| 3rd | (Ő) iszik    | He/She drinks |   | (Ők) isznak    | They drink |          |
 
 ## Endings
 ### -t ending
@@ -237,7 +221,7 @@ Exception
     Út               Útra                   Úton
     Körút            Körútra                Körúton
 
-## Personal Pronouns &
+## Pronouns &
 |     | Singular | Meaning |   | Plural | Meaning | Context  |
 |-----|----------|---------|---|--------|---------|----------|
 | 1st | Én       | I       |   | Mi     | We      |          |
@@ -249,17 +233,6 @@ Exception
 * Except for Ő and Ők, personal pronouns are usually omitted.
 * Unless meant for emphasis or clarity.
 * Ő means He/She, but its "agenderized".
-
-## Verbs
-### Lenni to be &
-    Singular                    Plural                      Context
-1st (Én) vagyok     I am        Mi vagyunk      We are
-2nd (Te) vagy       You are     Ti vagytok      You are     Familiar
-2nd (Maga) van      You are     Maguk vannak    You are     Formal
-2nd (Ön) van        You are     Önök vannak     You are     Official
-3rd (Ő) van         He/She is   Ők vannak       They are
-
-* Van and vannak are omitted when describing people, giving their jobs or nationalities.
 
 # Semantics
 
