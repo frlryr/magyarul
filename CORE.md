@@ -63,6 +63,17 @@ e.g. Étlap                                              Étlapot
 * Unless meant for emphasis or clarity.
 * Ő means He/She, but its "agenderized".
 
+## Verbs
+### Lenni to be &
+    Singular                    Plural                      Context
+1st (Én) vagyok     I am        Mi vagyunk      We are
+2nd (Te) vagy       You are     Ti vagytok      You are     Familiar
+2nd (Maga) van      You are     Maguk vannak    You are     Formal
+2nd (Ön) van        You are     Önök vannak     You are     Official
+3rd (Ő) van         He/She is   Ők vannak       They are
+
+* Van and vannak are omitted when describing people, giving their jobs or nationalities.
+
 # Semantics
 
 # Intonation
@@ -86,7 +97,7 @@ e.g. Étlap                                              Étlapot
 e.g. Én is kérek sört                                   I also want beer.
      Én sört is kérek                                   I want beer too/as well.
 
-# Pedig and, however, but, on the other hand
+# Pedig
 | Magyar | Meaning                              |
 |--------|--------------------------------------|
 | Pedig  | And, However, But, On the other hand |
@@ -95,16 +106,6 @@ e.g. Én is kérek sört                                   I also want beer.
 
 e.g. Először levest kérek, utána pedig pörköltet.       First I want a soup and then a stew
      Ica kávét kér, Ági pedig teát.                     Ica wants coffee, but Ági wants tea.
-
-# Lenni to be &
-    Singular                    Plural                      Context
-1st (Én) vagyok     I am        Mi vagyunk      We are
-2nd (Te) vagy       You are     Ti vagytok      You are     Familiar
-2nd (Maga) van      You are     Maguk vannak    You are     Formal
-2nd (Ön) van        You are     Önök vannak     You are     Official
-3rd (Ő) van         He/She is   Ők vannak       They are
-
-* Van and vannak are omitted when describing people, giving their jobs or nationalities.
 
 # A, az the
 * A for words starting with a consonant
@@ -222,6 +223,114 @@ Questions
 
 
 # Verbs
+## Endings
+### -ni
+* Is the infinitive form of the verb
+* It's equivalent to the to form of the verb. e.g. to cook, to live.
+* Most verbs takes it directly.
+* Verbs ending in ít or two consonants take the a or the e linking vowel. e.g. takarít <> takarítani, ért <> érteni.
+* The following verbs ending with sz are irregular:
+    lesz    <> lenni    -> to be
+    vesz    <> venni    -> to buy
+    hisz    <> hinni    -> to believe, to think
+    visz    <> vinni    -> to take, to carry
+    tesz    <> tenni    -> to put
+    eszik   <> enni     -> to eat
+    iszik   <> inni     -> to drink
+* The following verbs a also irregular
+    megy    <> menni    -> to go
+    alszik  <> aludni   -> to sleep
+    van     <> lenni    -> to be
+    fekszik <> feküdni  -> to lie
+
+
+### -ít or two consonants
+* Linking vowel is needed before endings starting with a consonant
+* See Back vowel verbs, present
+
+### -ra and -re
+* These are not verbs tense specific ending
+* If the word is taking -n in Hol? questions it takes -ra (back vowel words) or -re (front vowel words) when answering Hova?
+* Final a, e changes to á, e.
+* It can also mean for or to.
+    e.g. Zoli minden délután edzésre <> Zoli goes to training every afternoon.
+         Jársz angolra? <> Do you go to English classes?
+         Mi van reggelire/ebédre/vacsorára? <> What is for breakfast/lunch/supper.
+
+### -i
+* Is not a verb tense specific ending
+* It turns the word into an adjective.
+    e.g. ma, mai            <> mai újság    -> today's paper
+         közel, közeli      <> közeli rokon -> close relative
+         család. családi    <> családi ház  -> a house for a family
+
+* Some groups that take -i ending:
+    time expressions
+    name of the months
+    nams of the parts of the day
+    ma, tegnap, tegnapelott, holnap, honapután
+    places names
+    the four points of the compass
+        nyugat, nyugati -> west, western
+        kelet, keleti   -> east, eastern
+        észak, északi   -> north, northern
+        dél, déli        -> south, southern
+
+* Some irregulars:
+    hét, heti       -> week, weekly
+    messze, messzi  -> far, far away
+    hónap, havi     -> month, monthly
+    este, esti      -> evening, evening(ly)
+
+
+## Back vowel verbs, present
+én takaritok, i clean           | mi takarítunk, we clean
+te takarítasz, you clean        | ti takarítotok, you clean, familiar
+maga/ön takarít, you clean      | maguk/önök takarítanak, you clean, formal/official
+ő takarít, he/she cleans        | ők takarítanak, they clean
+
+## Front vowel verbs
+én értek, i understand          | mi értünk, we understand
+te értesz, you understand       | ti értetek, you understand, familiar
+maguk/ön ért, you understand    | maguk/önök értenek, you understand, formal/official
+ő ért, he/she understands       | ők értenek, they understand
+
+# Fron vowel verbs with ö, ő, ü or ű as final vower
+én töltök, i spend              | mi töltünk, we spend
+te töltesz, you spend           | ti töltötök, you spend, familiar
+maguk/ön tölt, you spend        | maguk/önök töltenek, you spend, formal/official
+ő tölt, he/she spends           | ők töltenek, they spend
+
+### Standard
+#### Present tense
+##### Tud
+* Means not only to know, but also can, be able to.
+* You do not used tud with verbs like lát (see), hall (hear), ért (understand)
+
+##### Beszel
+##### Takarít?
+##### Ír
+én írok, i write                | mi írunk, we write
+te írsz, you write              | ti írtok, you write, familiar
+maguk/ön ír, you write          | maguk/önök írnak, you write, formal/official
+ő ír, he/she writes             | ők írnak, they write
+
+* Verbs like ír or iszil containing only i and/or í, take back the vowel ending
+
+#### Past tense
+##### Tud
+##### Beszel
+##### Takarít?
+##### Ír
+#### Future tense
+##### Tud
+##### Beszel
+##### Takarít?
+##### Ír
+
+
+
+
 ## Present tense: standard verbs with singular forms
     Back vowel verbs                                        Context
     (Én) tudok            I know
@@ -463,3 +572,9 @@ Exception
     Hazulról
 * Itthon and Itthonról are used when talking about your own or someone else's home and you are actually there.
 * Otthon and Otthonról are used when you are talking about your own, or someone else's home but you are not there.
+
+# És
+* It means and
+* It can be ommited.
+    e.g. Andrea munka után bevásárol és foz -> Andrea does the shopping and the cooking after work
+         Andrea munka után bevásárol, foz -> Andrea does the shopping and the cooking after work

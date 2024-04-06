@@ -218,7 +218,9 @@ Patyulat
 
 
 # Curiosity
+
 ## Housing
+
     Albérlet        Lodging
     Papucs          Slippers
     Vendég          Guest
@@ -245,3 +247,25 @@ Patyulat
 * Előszoba or hall for hall.
 * Dolgozószoba for study room.
 * 
+
+# Mit sportolsz?
+    Futball, labdarúgas, foci                       Football
+    Úszás                                           Swimming
+    Kosárlabda                                      Basketball
+    Röplabda                                        Volleyball
+    Korcsolyázás                                    Skating
+    Tenisz                                          Tennis
+    Kocogás                                         Jogging
+    Torna                                           Gymnastics
+    Síelés                                          Skiing
+    Sakkozás                                        Chess
+    Krikett                                         Cricket
+    Golf                                            Golf
+    Fallabda                                        Squash
+    Rögbi                                           Rugby]
+
+# District Heating
+* Most housing share heating sources at a district level.
+
+# Talking about the weather
+* Hungarians rarely talk about the weather as smalltalk since its empirical.
