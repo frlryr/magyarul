@@ -31,7 +31,7 @@
     Burgonya                            Potato                                  Official
     Szabad a taxi?                      Is this taxi free?                      When refering to a taxi.
     Szabad?                             Can I get past?                         Trying to get past someone or off the bus.
-    Szabad?                             Do you mind if I sit here?              Walking to a table where someone is already sit.          
+    Szabad?                             Do you mind if I sit here?              Walking to a table where someone is already sit.
     Szabad vagy ma este?                Are you free tonight?                   Familiar
     Szabad ma este?                     Are you free tonight?                   Formal
 
@@ -41,7 +41,7 @@
                                                                             Context
 Hogy tétszik                        How do you like it?                     Things/people that can be described as szép
 Hogy ízlik                          How does it taste?                      Things that can be described as finom
-Parancsol                           Order                                   
+Parancsol                           Order
 Legyen szíves                       Please                                  Singular
 Legyenek szívesek                   Please                                  Plural formal
 Legyetek szívesek                   Please                                  Plural familiar
@@ -55,13 +55,13 @@ Foglalt                             Occupied, Engaged
     Jó napot (kívánok)    Good morning/afternoon            9am to 7pm
     Jó estét (kívánok)    Good evening                      7pm to ?pm
 
-* Adding Kívánok is more polite 
+* Adding Kívánok is more polite
 
 # Farewells
                                                             Context
     (A) viszontlátásra!   Goodbye                           Any time      (Formal)
     Viszlát!                                                Any time      (Informal)
-    Jó éjszakát (kívánok) Good night                        Late at night (Formal)   
+    Jó éjszakát (kívánok) Good night                        Late at night (Formal)
 
 * Adding Kívánok is more polite
 
@@ -76,13 +76,13 @@ Foglalt                             Occupied, Engaged
     Szervusz                    Szervusztok                 Anytime (Informal, Old fashioned)
 
 
-* Szervusz and Szervusztok are often pronounced with b instead of v. 
+* Szervusz and Szervusztok are often pronounced with b instead of v.
 
 # Catch All
                                                             Context
     Tessék                Here you go                       Handing something to someone
                           Come in                           When answering the door
-                          Hello                             When answering the phone             
+                          Hello                             When answering the phone
                           What can I do for you             In a shop
                           Take a seat                       When pointing to a chair
                           Yes, it is                        When asked is a table/chair is free
@@ -171,7 +171,7 @@ Ismer and tud, means to know, but ismer is used in a sense of acquaitance with s
 
 Kérem, Nincs mit and Szívesen, all means youre welcome
                                                                                         Context
-    Én      tudom, ismerem      I know          Mi tudjuk, ismerjük     We know                     
+    Én      tudom, ismerem      I know          Mi tudjuk, ismerjük     We know
     Te      tudod, ismered      You know        Ti tudjátok, ismeritek  You know        Familiar
     Maga    tudja, ismeri       You know        Maguk, ismerik          You know        Formal
     Ön      tudja, ismeri       You know        Önök, ismerik           You known       Official
@@ -179,7 +179,7 @@ Kérem, Nincs mit and Szívesen, all means youre welcome
 
 
 
-    
+
 
 
 
@@ -217,7 +217,7 @@ Kérem, Nincs mit and Szívesen, all means youre welcome
 * Megy expresses a particular action. While jár express a habitual, frequent action.
 * Nő means woman and is usually added after a profession to express its female version.
 * Sometimes asszony (married/mature woman) is used instead. e.g. üzletember - üzletasszony
- 
+
 
 ## trava lingua
 Répa, retek, mogyuró
@@ -227,7 +227,7 @@ Korán reggel ritkán rikkanta a rigó
 # Expressions
 # Hány éves? (How old is He/She)
 * When asking or answering van is omitted.
-    Én      huszonöt éves vagyok               
+    Én      huszonöt éves vagyok
     Te      huszonöt éves vagy                  Familiar
     Maga    huszonöt éves                       Formal
     Ön      huszonöt éves                       Official
@@ -235,7 +235,7 @@ Korán reggel ritkán rikkanta a rigó
 
 
 ## Expression
-* Lakik: means live in a sense of residing. e.g. Lakásban laknak. 
+* Lakik: means live in a sense of residing. e.g. Lakásban laknak.
 * Él: means live in a sense of generality. e.g Jól él.
 * Mennyit keresel?: How much do you earn?
 * Majd: some time in the future. e.g Én majd a kertben dolgozom.
@@ -467,3 +467,4 @@ A szüleim                   My parents      Used by adults*
 * e.g.
     Nem megyek, különben is késő van.                           -> I'm not going. Its late anyway.
     Egyedül különben sem iszom.                                 -> I dont drink on my own anyway.
+* Nem bizony: is a way of agreeing with a negative. You can use bizony to agree with a positive.

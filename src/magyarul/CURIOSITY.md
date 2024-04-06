@@ -15,7 +15,7 @@
 
 # Coffees
                                                                                 Context
-    Kávéház                             Coffee                  
+    Kávéház                             Coffee
     Cukrászda                           Confectionary?
     Presszó                             Presso
     Eszpresszó                          Espresso
@@ -28,7 +28,7 @@
     Közért                              Smallmarket
     ABC                                 Smallmarket
     Csemege                             Smallmarket
-    
+
     Zöldség                             Vegetable
     Gyümölcs                            Fruit
     Hentes                              Butcher
@@ -237,7 +237,7 @@ Patyulat
 * Emelet (or floor) is used for block of flats to indicate floor. e.g. Negyemeletes ház.
 * Szoba (or room) is used for both to indicate amount of rooms. e.g. Negyszobas ház.
 
-* Its not a tradition in Hungary to have a nappali (or living-room). 
+* Its not a tradition in Hungary to have a nappali (or living-room).
 * Usually its the paratents hálószoba (bedroom) which doubles as a sitting-room.
 * Hence why rekamié (sofa bed) is common in Hungary.
 * Szoba is used to indcate living and sleeping areas.
@@ -269,3 +269,4 @@ Patyulat
 
 # Talking about the weather
 * Hungarians rarely talk about the weather as smalltalk since its empirical.
+*

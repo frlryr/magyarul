@@ -1,6 +1,6 @@
 # 1
 ## Questions
-1 
+1
   a true
   b false
   c true
@@ -22,7 +22,7 @@
   d A viszontlátásra | A viszlát
   e Jó éjszakát kívánok
 3
-  a Canadian, secretary 
+  a Canadian, secretary
   b British, tanár
   c Irish, business man
 4
@@ -53,7 +53,7 @@
 
 # 2
 ## Questions
-1 
+1
   a true
   b false
   c false
@@ -93,7 +93,7 @@
   e Én tanulok magyarul
   f János csak egy kicsit tud spanyolul
 5
-  a 
+  a
   b Nem jól tudok magyarul
   c Brit vagyok
   d Csak egy kicsit tudok magyarul
@@ -118,7 +118,7 @@
 8
   a
     a Ági szerint az angol nem nehéz nyelv
-    b Kati szerint a német elég nehéz nyelv 
+    b Kati szerint a német elég nehéz nyelv
     c Pál szerint a francia egy kicsit nehéz nyelv
     d Andrea szerint az olasz nehéz nyelv
     e John szerint a magyar negyon nehéz nyelv
@@ -132,7 +132,7 @@
 
 # 3
 ## Questions
-1 
+1
   a i
   b ii
   c i
@@ -155,7 +155,7 @@
   d iv
   e v
   f vi
-  
+
   * I have no idea what she wants.
 3
   * Pincér! (To call for a waiter)
@@ -197,7 +197,7 @@
 
 # 4
 ## Questions
-1 
+1
   a i
   b ii
   c i
@@ -222,9 +222,9 @@
   b Mennyibe kerül egy kiló szőlő?
     Egy kiló szőlő harómszáznyolcsvan forintba kerül
   c Mennyibe kerül egy kiló ábra?
-    Egy kiló ábra egyszáznyolcsvan forintba kerül  
+    Egy kiló ábra egyszáznyolcsvan forintba kerül
   d Mennyibe kerül egy kiló cseresznye?
-    Egy kiló cseresznye kétszázharminc forintba kerül 
+    Egy kiló cseresznye kétszázharminc forintba kerül
   e Mennyibe kerül egy kiló A?
     Egy kiló A háromszázhúsz forintba kerül
   f Mennyibe kerül egy kiló B?
@@ -237,7 +237,7 @@
   a
     - Egy kiló almát és két kiló szőlőt, legyen szíves.
     - Tessék, kilencszázhetven forintot kérek.
-  b 
+  b
     - Egy és fél kiló szilvat és fél kiló epret, legyen szíves.
     - Tessék, kilencszázhetven forintot kérek.
   c
@@ -263,7 +263,7 @@
     - Hány forint egy amerikai dollár?
     - Egyszázhuszonkét forint huszonhat fillér amerikai dollár.
 5
-  a 
+  a
     - Kétszáz fontot szeretnék beváltani.
     - Tessék, huszonhétezer hatszáznyolcvanhárom forint kilencvenkilenc fillér.
   b
@@ -295,7 +295,7 @@
 
 # 5
 ## Questions
-1 
+1
   a Igen.
   b Nem. A Vas utca kicsit messze.
   c Nem. Janet nem ismeri a Blaha Lujza teret.
@@ -333,7 +333,7 @@
   f vi
   g viii
   h vii
-6 
+6
   - Ticket, passes.
   - Mas Lujza, I'm Béla, your husband...
 7
@@ -353,7 +353,7 @@
 
 # 6
 ## Questions
-1 
+1
   a Velencében volt
   b este franciaórára megy
   c még nem volt
@@ -409,7 +409,7 @@
     Tanárnő - Voltál már Szegedben, Attila?
     Attila  - Nem, még nem voltam.
     Tanárnő - Szerinted milyen város Szeged?
-    Attila  - 
+    Attila  -
 2
   Mit csinál ma Tibor?
     Reggel Tibor megy futok a parkban.
@@ -447,7 +447,7 @@
 
 # 7
 ## Questions
-1 
+1
   a True
   b False
   c True
@@ -519,7 +519,7 @@
   f Seregi Antal szombaton szinházba megy.
   g Seregi Antal vasárnap a kertben dolgozik.
 9
-  a ban 
+  a ban
   b ban
   c ban
   d ban
