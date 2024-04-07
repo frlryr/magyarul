@@ -167,7 +167,8 @@
 * The object of hungarian sentence is marked by -t.
 * Transitive verbs requires an object and therefore a -t ending.
     * e.g kér, köszönöm, etc.
-* If the word ends with a vowel it follows it. e.g mi - mit, fekete - feketét, kávé - kávét, etc
+* If the word ends with a vowel it follows it.
+    * e.g mi - mit, fekete - feketét, kávé - kávét, etc
 * If the words ends in a consonant a linking vowel is added based on it being front or back word.
 * Back vowels: mostly o, sometimes a.
 * Front vowels: usually e, sometime ö.
