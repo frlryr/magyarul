@@ -113,6 +113,19 @@
 | 2nd | (Ön) tud   | You know     |   | (Önök) tudnak  | You know  | Official |
 | 3rd | (Ő) tud    | He/She knows |   | (Ők) tudnak    | They know |          |
 
+### Present: Ismer
+* Means to know.
+* Is a regular verb.
+* Used in a sense of acquaitance with somebody or thing.
+
+|     | Singular      | Meaning      |   | Plural          | Meaning   | Context  |
+|-----|---------------|--------------|---|-----------------|-----------|----------|
+| 1st | (Én) ismerem  | I know       |   | (Mi) ismerjük   | We know   |          |
+| 2nd | (Te) ismered  | You know     |   | (Ti) ismeritek  | You know  | Familiar |
+| 2nd | (Maga) ismeri | You know     |   | (Maguk) ismerik | You know  | Formal   |
+| 2nd | (Ön) ismeri   | You know     |   | (Önök) ismerik  | You know  | Official |
+| 3rd | (Ő) ismeri    | He/She knows |   | (Ők) ismerik    | They know |          |
+
 ### Present: Beszél
 * Means to speak.
 * Is a regular verb.
