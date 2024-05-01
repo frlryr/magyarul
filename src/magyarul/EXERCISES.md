@@ -615,3 +615,79 @@
   e Beszélni.
   f Számítógép.
   g Filmet nézni
+
+# 9
+## Questions (feito no chute)
+1
+  a True
+  b False
+  c False
+  d True
+  e True 
+2
+  a ?
+  b ?
+  c ?
+  d ?
+  e ?
+## Practice (feito no chute)
+1
+  a i
+  b ii
+  c iii
+  d i
+  e i
+2 
+  a ?
+  b ?
+  c ?
+  d ?
+  e ?
+  f ?
+  g ?
+  h ?
+3
+  a
+  b
+  c
+  d
+4
+  a Siófokon ma huszonnegy fok lesz.
+  b Debrecenben ma huszonöt fok lesz.
+  c Tihanyban ma huszonhárom fok lesz.
+  d Miskolcban ma huszonegy fok lesz.
+  e Pécsben ma huszonhét fok lesz.
+5
+  a
+    i de
+    ii de
+    iii hanem
+    iv hanem
+    v hanem
+  b
+    i még
+    ii még
+    iii már
+    iv még
+    v már
+ 
+6
+  a ? 
+  b ? 
+  c ? 
+  d ? 
+  e ? 
+  f ? 
+7
+  a iv
+  b v
+  c vi
+  d i
+  e iii
+  f ii
+8
+  a Negy van. 
+  b Nem. Én melegen szeretem.
+  c Kint jó van.
+  d Harminc fok lesz.
+  e Nem.

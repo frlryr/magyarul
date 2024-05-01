@@ -453,6 +453,8 @@
 * Means already, yet, before.
 * Used in positive sentences and questions.
     * e.g. Voltál már Budapesten?
+* It can be used negatively.
+    * e.g. Mág nem.
 
 ### Még
 * Means yet, before
@@ -461,6 +463,8 @@
 * HINT: még also means even or still.
     * e.g. Még te is? Igen, még én is.
     * e.g. Jársz még angolra.
+* It can be used negatively.
+    * e.g. Még nem.
 
 ## Valami, valaki
 * Means something, somebody respectively.
@@ -480,8 +484,51 @@
 | Hazulról  |        |            |
 
 ## És
-* It means and
+* It means and.
 * It can be ommited.
     * e.g. Andrea munka után bevásárol és foz.
     * e.g. Andrea munka után bevásárol, foz.
+
+## Hanem, de
+* Both means but.
+* Hanem is used when contradicting or correcting a negative phrase.
+    * e.g. Fritz nem német, hanem osztrák.
+* De not so muhc contradicts a previous phrase, as enlarges on what
+    has previously been said.
+    * e.g. Egy kicsit fúj s szél, de süt a nap.
+
+## Hányam
+* It means How many people/of ...?
+* Numbers with -an/-en ending express the number of people present or doing something.
+    * e.g. Négyem vagyunk a családban.
+* Note also the forms: sokan, kevesen, néhányan and páran. These always take the thrid
+    person plural. Sok (a lof of, many), kevés (a few, some), néhány (a few, some) and
+    pár (a couple of) are followed by the third person singular.
+    * e.g. Sokan nem szeretnek futni.
+    * e.g. Sok ember nem szeret futni.
+
+## Minden
+* It mean every.
+* Is followed by the third person singular form of the verb.
+    * e.g. Miden gyerek szeret tévét nézni.
+* Note some other expressions containing minden:
+    * e.g. Mindenki nagy házat akar.
+    * e.g. Ma mindenhol hideg van.
+    * e.g. Mindenhová gyalog jársz.
+    * e.g. Mindenhonnan ide jönnek tanulni.
+
+## Amikor
+* It means when.
+* Unlike Mikor? (When?) this is not a questio word.
+    * e.g. Mikor leszel otthon?
+    * e.g. Amikor én otthon voltam, Sanyi az irodában volt.
+* Note look at these other pairs:
+
+| Magyar     | Meaning     | Magyar      | Meaning    |
+|------------|-------------|-------------|------------|
+| Ki?        | Who?        | Aki         | who        |
+| Mi?        | What?       | Ami         | what       |
+| Hol?       | Where?      | Ahol        | where      |
+| Hova/Hová? | Where to?   | Ahova/Ahová | where to   |
+| Honnan?    | Where from? | Ahonna      | where from | 
 """

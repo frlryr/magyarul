@@ -135,6 +135,9 @@
 
 # District Heating
 * Most housing share heating sources at a district level.
+    * e.g. Még nincs fűtés a lakásban.
+* This means in certain blocks of flats the heating is centrally turned on in autumn
+    , and turned off in spring.
 
 # Talking about the weather
 * Hungarians rarely talk about the weather as smalltalk since its empirical.
@@ -160,6 +163,9 @@
 | Golf         | Golf       |         |
 | Fallabda     | Squash     |         |
 | Rögbi        | Rugby      |         |
+
+# Courtesy Address
+
 
 # Dictionary
 *
