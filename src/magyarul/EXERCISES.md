@@ -1,449 +1,433 @@
 # 1
 ## Questions
 1
-  a true
-  b false
-  c true
+  a [v ] true
+  b [v ] false
+  c [v ] true
 2
-  a false
-  b Robert
+  a [v ] false
+  b [vp] Robert
 
 ## Practice
 1
-  a iii
-  b ii
-  c ii
-  d iii
-  e ii?
+  a [v ] iii
+  b [v ] ii
+  c [x ] ii  -> iii
+  d [v ] iii
+  e [x ] ii? -> i
 2
-  a Jó napot kívánok
-  b Jó napot kívánok
-  c Jó éstet kívánok
-  d A viszontlátásra | A viszlát
-  e Jó éjszakát kívánok
+  a [x ] Jó napot kívánok -> Jó reggelt
+  b [v ] Jó napot kívánok
+  c [v ] Jó éstet kívánok
+  d [vp] A viszontlátásra | A viszlát
+  e [x ] Jó éjszakát kívánok -> viszontlátásra
 3
-  a Canadian, secretary
-  b British, tanár
-  c Irish, business man
+  a [x ] Canadian, secretary
+  b [x ] British, tanár
+  c [x ] Irish, business man
 4
-  a Szabo Géza magyar orvos
-  b Long Elizabeth amerikai újságíró
-  c Campbell George brit rendőr
+  a [v ] Szabo Géza magyar orvos
+  b [v ] Long Elizabeth amerikai újságíró
+  c [v ] Campbell George brit rendőr
 5
-  a No
-  b Pincér
-  c Scott
-  d Yes
-  e No
-  f No
-  g Autószerelő
+  a [vp] No -> Nem
+  b [v ] Pincér
+  c [v ] Scott
+  d [vp] Yes -> Igen
+  e [vp] No   -> Nem
+  f [vp] No   -> Nem
+  g [v ] Autószerelő
 6
-  a Az
-  b A
-  c A
-  d Az
+  a [v ] Az
+  b [v ] A
+  c [v ] A
+  d [v ] Az
 7
-  a Diego
-  b Vitoriano da Silva
-  c Computer Scientist
-  d Nem, én brazilai vagyok
+  a [v ] Diego
+  b [v ] Vitoriano da Silva
+  c [v ] Computer Scientist
+  d [v ] Nem, én brazilai vagyok
 8
-    Én Vitoriano Diego vagyok
-    Én brazilai vagyok
+    [v ] Én Vitoriano Diego vagyok
+    [v ] Én brazilai vagyok
 
 # 2
 ## Questions
 1
-  a true
-  b false
-  c false
-  d true
-  e false
+  a [vp] true   -> Igen
+  b [vp] false  -> Nem
+  c [vp] false  -> Nem
+  d [vp] true   -> Igen
+  e [vp] false  -> Nem
 2
-  a Jill egy kicsit fáradt.
-  b Igen. Ő kér feketét.
-  c Ő akar feketét
-  d Igen.
-  e Nem. Csak egy kicsit.
+  a [x ] Jill egy kicsit fáradt.
+  b [x ] Igen. Ő kér feketét.
+  c [x ] Ő akar feketét
+  d [vp ] Igen.
+  e [vp ] Nem. Csak egy kicsit.
 
 ## Practice
 1
-  a iii
-  b i
-  c iii
-  d ii
-  e ii?
-  f i
-  g i
+  a [v ] iii
+  b [v ] i
+  c [v ] iii
+  d [v ] ii
+  e [v ] ii?
+  f [x ] i -> iii
+  g [v ] i
 2
-  BVW: tanár, fáradt, foglalkozás, skót, sajnos
-  FVW: rendőr, ön, itt, étterem, éhes
-  ?:   fiatalember, finom (id say BVW)
+  [v ] BVW: tanár, fáradt, foglalkozás, skót, sajnos
+  [v ] FVW: rendőr, ön, itt, étterem, éhes
+  [v ] ?:   fiatalember, finom (id say BVW)
 3
-  a beszélek
-  b tanul
-  c beszélsz
-  d tanul
-  e tud
+  a [v ] beszélek
+  b [v ] tanul
+  c [v ] beszélsz
+  d [v ] tanul
+  e [v ] tud
 4
-  a Én jól tudok angolul
-  b Ön elég jól beszélek franciául
-  c Te egy kicsit tudsz németül
-  d Maga nagyon jól beszél olasz
-  e Én tanulok magyarul
-  f János csak egy kicsit tud spanyolul
+  a [v ] Én jól tudok angolul
+  b [v ] Ön elég jól beszélek franciául
+  c [v ] Te egy kicsit tudsz németül
+  d [vp] Maga nagyon jól beszél olaszul
+  e [v ] Én tanulok magyarul
+  f [v ] János csak egy kicsit tud spanyolul
 5
-  a
-  b Nem jól tudok magyarul
-  c Brit vagyok
-  d Csak egy kicsit tudok magyarul
-  e Tud angolul?
-  f Viszontlátásra!
+  a [x ] 
+  b [x ] Nem jól tudok magyarul
+  c [x ] Brit vagyok
+  d [vp] Csak egy kicsit tudok magyarul
+  e [x ] Tud angolul? -> Beszél
+  f [v ] Viszontlátásra!
 6
-  a Szia!
-  b Én jól. Csak egy kicsit szomjas
-  c Köszönöm, kérek sör
-  d Egészségünkre!
-  e Nagyon finom!
-  f Igen. Egy kicsit
-  g Köszönöm. Igen
-  h Nagyon szépen köszönjük(?)
+  a [v ] Szia!
+  b [vp] Én jól. Csak egy kicsit szomjas
+  c [vp] Köszönöm, kérek sör
+  d [x ] Egészségünkre! -> Egészégedre!
+  e [x ] Nagyon finom!
+  f [vp] Igen. Egy kicsit
+  g [vp] Köszönöm. Igen
+  h [x ] Nagyon szépen köszönjük(?) -> Köszönöm szépen
 7
-  a , Diego, Diego,
-  b Szia, Diego vagyok
-  c Diego Vitoriano da Silva vagyok
-  d Nem. Brazil vagyok
-  e Igen. Egy kicsit, de érdekesl
-  f Nagyon tetszik(ek) magyarország.
+  a [vp] , Diego, Diego,
+  b [vp] Szia, Diego vagyok
+  c [vp] Diego Vitoriano da Silva vagyok
+  d [vp] Nem. Brazil vagyok
+  e [vp] Igen. Egy kicsit, de érdekesl
+  f [vp] Nagyon tetszik(ek) magyarország.
 8
-  a
-    a Ági szerint az angol nem nehéz nyelv
-    b Kati szerint a német elég nehéz nyelv
-    c Pál szerint a francia egy kicsit nehéz nyelv
-    d Andrea szerint az olasz nehéz nyelv
-    e John szerint a magyar negyon nehéz nyelv
+  a [v ] Ági szerint az angol nem nehéz nyelv
+  b [v ] Kati szerint a német elég nehéz nyelv
+  c [v ] Pál szerint a francia egy kicsit nehéz nyelv
+  d [v ] Andrea szerint az olasz nehéz nyelv
+  e [v ] John szerint a magyar negyon nehéz nyelv
 9
-  a fáradt
-  b halászlé
-  c üzletember
-  d angol
-  e és
-  álmos
-
+  a [v ] fáradt
+  b [v ] halászlé
+  c [v ] üzletember
+  d [v ] angol
+  e [v ] és
 # 3
 ## Questions
 1
-  a i
-  b ii
-  c i
+  a [v ] i
+  b [v ] ii
+  c [v ] i
 2
-  a János gulyás kér.
-  b Igen. Ő kér feketét.
-  c Igen.
-  d Nem. Voros bort kerunk.
+  a [vp ] János gulyás kér.
+  b [x ] Igen. Ő kér feketét.
+  c [vp] Igen.
+  d [vp] Nem. Voros bort kerunk.
 
 ## Practice
 1
-  a ii
-  b i, iii
-  c iii
-  d i (or ii)
+  a [v ] ii
+  b [vp] iii
+  c [v ] iii
+  d [v ] i
 2
-  a i
-  b ii
-  c iii
-  d iv
-  e v
-  f vi
+  a [x ] i -> iv
+  b [v ] ii
+  c [x ] iii -> i
+  d [x ] iv -> iii
+  e [v ] v
+  f [v ] vi
 
   * I have no idea what she wants.
 3
-  * Pincér! (To call for a waiter)
-  * Köszönöm. (As he or she approaches)
-  * Én tyúkhúsleves kérek, legyen szíves.
+  * [vp] Pincér! (To call for a waiter)
+  * [vp] Köszönöm. (As he or she approaches)
+  * [vp] Én tyúkhúsleves kérek, legyen szíves.
 4
-  a Jó napot kívánok, Pincér ur. Én étlapot kérek, legyen szíves
-  b Pincér!
-  c Én gesztenyepürét kérek. Friss-e?
-  d Teát, legyen szíves.
-  e Köszönöm. Én számlát kérek.
+  a [v ] Jó napot kívánok, Pincér ur. Én étlapot kérek, legyen szíves
+  b [vp] Pincér!
+  c [x ] Én gesztenyepürét kérek. Friss-e?
+  d [v ] Teát, legyen szíves.
+  e [x ] Köszönöm. Én számlát kérek.
 5
-  Pincér! Szia, az leves hideg, pedig kenyéret és sót kérek pedig.
+  [vp] Pincér! Szia, az leves hideg, pedig kenyéret és sót kérek pedig.
 6
-  a Én amerikai is vagyok.
-  b Attila franciául is tud.
-  c Éva beszél angolul is.
-  d Sört is kérek.
-  e Te kérsz üdítőt is?
-  f Palacsintát is kér?
+  a [v ] Én amerikai is vagyok.
+  b [v ] Attila franciául is tud.
+  c [x ] Éva beszél angolul is. -> Éva is beszél angolul
+  d [v ] Sört is kérek.
+  e [x ] Te kérsz üdítőt is? -> Te is kérsz üdítőt 
+  f [v ] Palacsintát is kér?
 7
-  a kérünk
-  b beszélnek
-  c tanultok
-  d tudnak
-  e kérnek
+  a [v ] kérünk
+  b [v ] beszélnek
+  c [v ] tanultok
+  d [v ] tudnak
+  e [v ] kérnek
 8
-  a leves
-  b attila
-  c somlói
-  d savanyúság
-  e angolul
-  f borsó
-  g burgonya
-  h amerikai
-  i nagyon
+  a [v ] leves
+  b [v ] attila
+  c [v ] somlói
+  d [v ] savanyúság
+  e [x ] angolul -> angol
+  f [v ] borsó
+  g [v ] burgonya
+  h [v ] amerikai
+  i [v ] nagyon
 
   lassabban
 
 # 4
 ## Questions
 1
-  a i
-  b ii
-  c i
-  d ii
+  a [x ] i -> ii
+  b [x ] ii -> i
+  c [v ] i
+  d [x ] ii -> i
 2
-  a két
-  b két
-  c Drága.
-  d ?
+  a [vp] két
+  b [x ] két
+  c [v ] Drága.
+  d [x ] ?
 
 ## Practice
 1
-  a Nyolcszázkilencvenhat
-  b Ezer
-  c Ezerötszázhuszonhat
-  d Ezernyolcszázhuszonöt
-  e Ezernyolcszáznegyvennyolcs
-  f Ezerkilencszázötvenhat
+  a [v ] Nyolcszázkilencvenhat
+  b [v ] Ezer
+  c [v ] Ezerötszázhuszonhat
+  d [v ] Ezernyolcszázhuszonöt
+  e [vp] Ezernyolcszáznegyvennyolcs - Ezernyolcszáznegyvennyolc 
+  f [v ] Ezerkilencszázötvenhat
 2
-  a Mennyibe kerül egy kiló körte?
-    Egy kiló körte harómszáz forintba kerül
-  b Mennyibe kerül egy kiló szőlő?
-    Egy kiló szőlő harómszáznyolcsvan forintba kerül
-  c Mennyibe kerül egy kiló ábra?
-    Egy kiló ábra egyszáznyolcsvan forintba kerül
-  d Mennyibe kerül egy kiló cseresznye?
-    Egy kiló cseresznye kétszázharminc forintba kerül
-  e Mennyibe kerül egy kiló A?
-    Egy kiló A háromszázhúsz forintba kerül
-  f Mennyibe kerül egy kiló B?
-    Egy kiló B kétszáztíz forintba kerül
-  g Mennyibe kerül egy kiló banán?
-    Egy kiló banán háromszázötven forintba kerül
-  h Mennyibe kerül egy kiló C?
-    Egy kiló C háromszáznegyven forintba kerül
-3
-  a
-    - Egy kiló almát és két kiló szőlőt, legyen szíves.
-    - Tessék, kilencszázhetven forintot kérek.
-  b
-    - Egy és fél kiló szilvat és fél kiló epret, legyen szíves.
-    - Tessék, kilencszázhetven forintot kérek.
-  c
-    - Egy kiló körtet és egy kiló barackat, legyen szíves.
-    - Tessék, kilencszázhetven forintot kérek.
-  d
-    - Egy és fél kiló almát és fél kiló szilvat, legyen szíves.
-    - Tessék, kilencszázhetven forintot kérek.
-  e
-    - Két kiló körtet és fél kiló barackat, legyen szíves.
-    - Tessék, kilencszázhetven forintot kérek.
-4
-  a
-    - Hány forint egy angol font?
-    - Háromszázötvennegy forint hetvenöt fillér angol font.
-  b
-    - Hány forint egy ausztrál dollár?
-    - Százharminc forint harminchat fillér ausztrál dollár.
-  c
-    - Hány forint egy euró?
-    - Kétszázharminckilenc forint kilencvenkilenc fillér euró.
-  d
-    - Hány forint egy amerikai dollár?
-    - Egyszázhuszonkét forint huszonhat fillér amerikai dollár.
-5
-  a
-    - Kétszáz fontot szeretnék beváltani.
-    - Tessék, huszonhétezer hatszáznyolcvanhárom forint kilencvenkilenc fillér.
-  b
-    - Százhatvan fontot szeretnék beváltani.
-    - Tessék, negyvenezer háromszáshatvenhat forint negyven fillér.
-  c
-    - Száznyolcvan fontot szeretnék beváltani.
-    - Tessék, negyvekétnezer ötvennyolc forint nyolcvan fillér.
+  a [v ] Mennyibe kerül egy kiló körte?
+    [v ] Egy kiló körte harómszáz forintba kerül
+  b [vp] Mennyibe kerül egy kiló szőlő?
+    [vp] Egy kiló szőlő harómszáznyolcsvan forintba kerül
+  c [vp] Mennyibe kerül egy kiló ábra?
+    [vp] Egy kiló ábra egyszáznyolcsvan forintba kerül
+  d [vp] Mennyibe kerül egy kiló cseresznye?
+    [vp] Egy kiló cseresznye kétszázharminc forintba kerül
+  e [vp] Mennyibe kerül egy kiló A?
+    [vp] Egy kiló A háromszázhúsz forintba kerül
+  f [vp] Mennyibe kerül egy kiló B?
+    [vp] Egy kiló B kétszáztíz forintba kerül
+  g [vp] Mennyibe kerül egy kiló banán?
+    [vp] Egy kiló banán háromszázötven forintba kerül
+  h [vp] Mennyibe kerül egy kiló C?
+    [vp] Egy kiló C háromszáznegyven forintba kerül
 
-    - Hetven fontot szeretnék beváltani.
-    - Tessék, huszonhatezer százhetvennyolc forint hatvan fillér .
+NOTE: I think I got confused with order and mixed up things.
+3
+  a [vp] Egy kiló almát és két kiló szőlőt, legyen szíves.
+    [vp] Tessék, kilencszázhetven forintot kérek.
+  b [vp] Egy és fél kiló szilvat és fél kiló epret, legyen szíves.
+    [vp] Tessék, kilencszázhetven forintot kérek.
+  c [vp] Egy kiló körtet és egy kiló barackat, legyen szíves.
+    [vp] Tessék, kilencszázhetven forintot kérek.
+  d [vp] Egy és fél kiló almát és fél kiló szilvat, legyen szíves.
+    [vp] Tessék, kilencszázhetven forintot kérek.
+  e [vp] Két kiló körtet és fél kiló barackat, legyen szíves.
+    [vp] Tessék, kilencszázhetven forintot kérek.
+  
+NOTE: I think I got confused with order and mixed up things.
+4
+  a [v ] Hány forint egy angol font?
+    [vp] Háromszázötvennegy forint hetvenöt fillér angol font.
+  b [v ] Hány forint egy ausztrál dollár?
+    [vp] Százharminc forint harminchat fillér ausztrál dollár.
+  c [v ] Hány forint egy euró?
+    [vp] Kétszázharminckilenc forint kilencvenkilenc fillér euró.
+  d [v ] Hány forint egy amerikai dollár?
+    [vp] Egyszázhuszonkét forint huszonhat fillér amerikai dollár. -> Egyszázhuszonkét
+5
+  a [x ] Kétszáz fontot szeretnék beváltani.
+    [x ] Tessék, huszonhétezer hatszáznyolcvanhárom forint kilencvenkilenc fillér.
+  b [x ] Százhatvan fontot szeretnék beváltani.
+    [x ] Tessék, negyvenezer háromszáshatvenhat forint negyven fillér.
+  c [x ] Száznyolcvan fontot szeretnék beváltani.
+    [x ] Tessék, negyvekétnezer ötvennyolc forint nyolcvan fillér.
+  d [x ] Hetven fontot szeretnék beváltani.
+    [x ] Tessék, huszonhatezer százhetvennyolc forint hatvan fillér.
+
+NOTE: I think I got confused with order and mixed up things.
 6
-  a
-  b
-  c
-  d
-  e
-  f
+  a [x ]
+  b [x ]
+  c [x ]
+  d [x ]
+  e [x ]
+  f [x ]
 7
-  a
-  b
-  c
-  d
-  e
+  a [x ]
+  b [x ]
+  c [x ]
+  d [x ]
+  e [x ]
 8
-  a megyek
-  b mész
-  c mentel
+  a [v ] megyek
+  b [v ] mész
+  c [x ] mentel -> mentek
 
 # 5
 ## Questions
 1
-  a Igen.
-  b Nem. A Vas utca kicsit messze.
-  c Nem. Janet nem ismeri a Blaha Lujza teret.
-  d Igen.
+  a [v] Igen.
+  b [x ] Nem. A Vas utca kicsit messze.
+  c [v ] Nem. Janet nem ismeri a Blaha Lujza teret.
+  d [x ] Igen.
 2
-  a Két perc messze gyalog.
-  b Nem.
-  c Közel Petőfi Sándor utca.
-  d Ott egy a metró megálló közel Blaha Lujza és egy közel Astoria.
+  a [vp] Két perc messze gyalog.
+  b [vp] Nem.
+  c [vp] Közel Petőfi Sándor utca.
+  d [vp] Ott egy a metró megálló közel Blaha Lujza és egy közel Astoria.
 
 ## Practice
 1
-  Hol van a férfi WC?
-  Hol van a női WC?
-2
+  [v ] Hol van a férfi WC?
+  [v ] Hol van a női WC?
+2 [x ]
 3
-  a Hol van a Halászbástya? Budán van, a Várban.
-  b Hol van a Országház? Kossuth Lajos téren van.
-  c Hol van a Mátyás-templom? Szentháromság téren van.
-  d Hol van a Szent István-bazilika? Szent István téren van.
-  e Hol van a Nemzeti Múzeum? Múzeum körúton van.
-  f Hol van a Király fürdő? Ganz utcában van.
+  a [v ] Hol van a Halászbástya? Budán van, a Várban.
+  b [vp] Hol van az Országház? Kossuth Lajos téren van.
+  c [vp] Hol van a Mátyás-templom? Szentháromság téren van.
+  d [vp] Hol van a Szent István-bazilika? Szent István téren van.
+  e [vp] Hol van a Nemzeti Múzeum? Múzeum körúton van.
+  f [vp] Hol van a Király fürdő? Ganz utcában van.
 4
-  a Ezernyolcszáz forint.
+  a [x ] Ezernyolcszáz forint.
   b
-    b1
-    b2
-    b3
+    i   [x ]
+    ii  [x ]
+    iii [x ]
 5
-  a iv
-  b i
-  c v
-  d ii
-  e iii
-  f vi
-  g viii
-  h vii
+  a [v ] iv
+  b [v ] i
+  c [v ] v
+  d [v ] ii
+  e [v ] iii
+  f [v ] vi
+  g [v ] viii
+  h [v ] vii
 6
-  - Ticket, passes.
-  - Mas Lujza, I'm Béla, your husband...
+  - [v ] Ticket, passes.
+  - [v ] Mas Lujza, I'm Béla, your husband...
 7
-  a Leveleket légipostán angliába Johntól, legyen szíves
-  b Leveleket légipostán írországba Patricktól, legyen szíves
-  c Leveleket légipostán ausztráliába Sheilatól, legyen szíves
-  d Leveleket légipostán amerikába Carolinetól, legyen szíves
-  e Leveleket légipostán új-zélandra Jasontól, legyen szíves
-  f Leveleket légipostán kanadába Pattól, legyen szíves
+  a [vp] Leveleket légipostán angliába Johntól, legyen szíves
+  b [vp] Leveleket légipostán írországba Patricktól, legyen szíves
+  c [vp] Leveleket légipostán ausztráliába Sheilatól, legyen szíves
+  d [vp] Leveleket légipostán amerikába Carolinetól, legyen szíves
+  e [vp] Leveleket légipostán új-zélandra Jasontól, legyen szíves
+  f [vp] Leveleket légipostán kanadába Pattól, legyen szíves
 8
-  a teret
-  b tudjuk
-  c angol
-  d nincs közel
-  e jól van
-  f zárva van.
+  a [v ] teret
+  b [v ] tudjuk
+  c [v ] angol
+  d [vp] nincs közel
+  e [v ] jól van
+  f [v ] zárva van.
 
 # 6
 ## Questions
 1
-  a Velencében volt
-  b este franciaórára megy
-  c még nem volt
-  d a főnök
-  e az új tanárnő csinos
+  a [vp] Velencében volt
+  b [vp] este franciaórára megy
+  c [vp] még nem volt
+  d [vp] a főnök
+  e [vp] az új tanárnő csinos
+
+NOTE: I'm pretty sure I got this right, but decided to write down instead of referencing?
 2
-  a Mert Sanyi Velencében volt.
-  b Sörözőben.
-  c Nem siet Csaba haza.
-  d Sajnos Sanyi sok volt a munka.
-  e Tanult.
-  f Nem tudom, még fiatal.
-  g Miert tanárnő csinos.
+  a [v ] Mert Sanyi Velencében volt.
+  b [vp] Sörözőben.
+  c [x ] Nem siet Csaba haza.
+  d [vp] Sajnos Sanyi sok volt a munka.
+  e [vp] Tanult.
+  f [x ] Nem tudom, még fiatal.
+  g [x ] Miert tanárnő csinos.
 
 ## Practice
 1
-  a
-    Tanárnő - Voltál már Párizsban, Attila?
-    Attila  - Nem, még nem voltam.
-    Tanárnő - Szerinted milyen város Párizs?
-    Attila  - Azt hiszem, hogy nagyon érdekes város.
-  b
-    Tanárnő - Voltál már Rómaban, Attila?
-    Attila  - Nem, még nem voltam.
-    Tanárnő - Szerinted milyen város Róma?
-    Attila  - Azt hiszem, hogy nagyon szép, de egy kicsit piszkos.
-  c
-    Tanárnő - Voltál már Prágaban, Attila?
-    Attila  - Nem, még nem voltam.
-    Tanárnő - Szerinted milyen város Prága?
-    Attila  - Azt hiszem, hogy nagyon romantikus város.
-  d
-    Tanárnő - Voltál már Varsóban, Attila?
-    Attila  - Nem, még nem voltam.
-    Tanárnő - Szerinted milyen város Varsó?
-    Attila  - Azt hiszem, hogy nagyon elég csúnya város.
-  e
-    Tanárnő - Voltál már Berlinben, Attila?
-    Attila  - Nem, még nem voltam.
-    Tanárnő - Szerinted milyen város Berlin?
-    Attila  - Azt hiszem, hogy egy kicsit unalmas város.
-  fhogy
-    Tanárnő - Voltál már Bécsben, Attila?
-    Attila  - Nem, még nem voltam.
-    Tanárnő - Szerinted milyen város Bécs?
-    Attila  - Azt hiszem, hogy nagyon tiszta város.
-  g
-    Tanárnő - Voltál már Londonban, Attila?
-    Attila  - Nem, még nem voltam.
-    Tanárnő - Szerinted milyen város London?
-    Attila  - Azt hiszem, hogy nagyon túl nagy város.
-  h
-    Tanárnő - Voltál már Szegedben, Attila?
-    Attila  - Nem, még nem voltam.
-    Tanárnő - Szerinted milyen város Szeged?
-    Attila  -
+  a [v ] Tanárnő - Voltál már Párizsban, Attila?
+    [v ] Attila  - Nem, még nem voltam.
+    [v ] Tanárnő - Szerinted milyen város Párizs?
+    [v ] Attila  - Azt hiszem, hogy nagyon érdekes város.
+  b [v ] Tanárnő - Voltál már Rómaban, Attila?
+    [x ] Attila  - Nem, még nem voltam.
+    [v ] Tanárnő - Szerinted milyen város Róma?
+    [vp] Attila  - Azt hiszem, hogy nagyon szép, de egy kicsit piszkos.
+  c [v ] Tanárnő - Voltál már Prágaban, Attila?
+    [v ] Attila  - Nem, még nem voltam.
+    [vp] Tanárnő - Szerinted milyen város Prága?
+    [vp] Attila  - Azt hiszem, hogy nagyon romantikus város.
+  d [vp] Tanárnő - Voltál már Varsóban, Attila?
+    [vp] Attila  - Nem, még nem voltam.
+    [vp] Tanárnő - Szerinted milyen város Varsó?
+    [vp] Attila  - Azt hiszem, hogy nagyon elég csúnya város.
+  e [vp] Tanárnő - Voltál már Berlinben, Attila?
+    [vp] Attila  - Nem, még nem voltam.
+    [vp] Tanárnő - Szerinted milyen város Berlin?
+    [vp] Attila  - Azt hiszem, hogy egy kicsit unalmas város.
+  f [vp] Tanárnő - Voltál már Bécsben, Attila?
+    [vp] Attila  - Nem, még nem voltam.
+    [vp] Tanárnő - Szerinted milyen város Bécs?
+    [vp] Attila  - Azt hiszem, hogy nagyon tiszta város.
+  g [vp] Tanárnő - Voltál már Londonban, Attila?
+    [vp] Attila  - Nem, még nem voltam.
+    [vp] Tanárnő - Szerinted milyen város London?
+    [vp] Attila  - Azt hiszem, hogy nagyon túl nagy város.
+  h [vp] Tanárnő - Voltál már Szegedben, Attila?
+    [vp] Attila  - Nem, még nem voltam.
+    [vp] Tanárnő - Szerinted milyen város Szeged?
+    [vp] Attila  -
+
+NOTE: NOTE: I'm pretty sure I got this right, but the answers are as cryptic as the questions.
 2
-  Mit csinál ma Tibor?
-    Reggel Tibor megy futok a parkban.
-    Délelőtt Tibor megy vásárol az ABC-ben.
-    Délben Tibor megy ebédel.
-    Délután Tibor megy a király fürdőbe.
-    Este Tibor megy moziba.
+  [vp] Mit csinál ma Tibor?
+  [vp] Reggel Tibor megy futok a parkban.
+  [vp] Délelőtt Tibor megy vásárol az ABC-ben.
+  [vp] Délben Tibor megy ebédel.
+  [vp] Délután Tibor megy a király fürdőbe.
+  [vp] Este Tibor megy moziba.
+
+NOTE: NOTE: I'm pretty sure I got this right, but the answers are as cryptic as the questions.
 3
-  a Bori néni éves nyolcsvanhárom most.
-  b Karcsi bácsi éves nyolcsvanhet most.
-  c Jutka éves negyvenhat most.
-  d Péter 1986-ben született.
-  e Kerekes Anna 1969-ben született.
-  f Peti 1998-ben született.
+  a [x ] Bori néni éves nyolcsvanhárom most.
+  b [x ] Karcsi bácsi éves nyolcsvanhet most.
+  c [vp] Jutka éves negyvenhat most.
+  d [vp] Péter 1986-ben született.
+  e [v ] Kerekes Anna 1969-ben született.
+  f [v ] Peti 1998-ben született.
 4
-  a ii
-  b i
+  a [x ] ii -> i
+  b [x ] i -> ii
 5
-  a ii
-  b ii
-  c i
-  d ii
-  e ii
-
-  OBS: Um chute no escuro.
+  a [x ] ii
+  b [v ] ii
+  c [x ] i
+  d [v ] ii
+  e [v ] ii
 6
-  a v
-  b i
-  c ii
-  d iv
-  e iii
-  f vi
-
-  OBS: Um chute no escuro.
+  a [v ] v
+  b [v ] i
+  c [v ] ii
+  d [v ] iv
+  e [v ] iii
+  f [v ] vi
 
 # 7
 ## Questions

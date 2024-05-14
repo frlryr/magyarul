@@ -165,7 +165,56 @@
 | Rögbi        | Rugby      |         |
 
 # Courtesy Address
+*
 
+# Telephone Calls
+* Telephone numbs are six or seven figures in two groups.
+    * e.g. 983-645
+    * e.g. 174-3652
+
+| Magyar                                        | Meaning                                           | Context |
+|-----------------------------------------------|---------------------------------------------------|---------|
+| Telefonfülke                                  | Telephone box                                     |         |
+| A telefon nem működik                         | The telephone is out of order                     |         |
+| Foglalt                                       | Engaged (line)                                    |         |
+| Halló, itt John Smith beszél                  | This is John Smith speaking                       |         |
+| Kivel beszélek?                               | Who am I speaking to?                             |         |
+| Ki beszél?                                    | Who is speaking?                                  |         |
+| Gábor otthon van?                             | Is Gábor there?                                   |         |
+| Mellék                                        | Extension                                         |         |
+| A huszonhatos melléket, legyen szíves         | Extension 26, please                              |         |
+| Egy pillanat. Rögtön (pron. köktön) kapcsolom | Just a minute. I'll put you through straight away |         |
+| Németh Lászlóval szeretnék beszélni           | I would like to speak to László Németh            |         |
+| Szeretnék üzenetet hagyni                     | I would like to leave a message                   |         |
+| Majd később visszahívom                       | I'll call him/her back later                      |         |
+| Hívjon fel ... -s számon                      | Could he/she ring me on ...                       |         |
+
+# Telling the time
+* Official time is split in 24 hours.
+    * e.g. Tizennégy óra húsz perc van.
+* In everyday life time uses 12 hours system, when answering the questions:
+    * Hány óra van?
+    * Hány óra?
+    * Mennyi idő van?
+    * Mennyi az ido?
+* To say o'clock:
+    * e.g. Öt óra van.
+* To say a quarter past five or related you have to think on the following hour.
+    * e.g. Negyed hat van (lit. It's a quarter of six).
+    * e.g. Fél hat van (lit. It's half of six).
+    * e.g. Háromnegyed hat van (lit. It's three quarters of six).
+* In writting this would be represented as:
+    * e.g. 1/4 6.
+    * e.g. 1/2 6.
+    * e.g. 3/4 6.
+* To say 10 past 5 use the 24 hour system.
+    * e.g. Öt óra tíz perc van.
+* To answer the questions: Hány órakor?, Hánykor? or Mikor? use the -kor ending.
+    * e.g. Öt órakor (or just ötkor) találkozunk.
+    * e.g. Negyed hatkor lesz a meccs.
+* In writting this would be represented as:
+    * e.g. 5-kor.
+    * e.g. 1/4 6-kor.
 
 # Dictionary
 *

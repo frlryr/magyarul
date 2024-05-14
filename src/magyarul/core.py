@@ -176,6 +176,61 @@
 | 2nd | (Ön) iszik   | You drink     |   | (Önök) isznak  | You drink  | Official |
 | 3rd | (Ő) iszik    | He/She drinks |   | (Ők) isznak    | They drink |          |
 
+## Postpositions (aka "prepositions for hungarians")
+* They are similar to prepositions, but comes after the word they're refereing to (duh).
+* There are 3 main groups:
+
+### Used in "place" expressions
+* e.g. A ház előtt egy magas fa van. 
+* e.g. A há mögött van a garázs.
+* e.g. A zsék allaül a kutya.
+* e.g. Az épület felett egy repülőgép repül.
+* e.g. Az asztal körül öten ülnek.
+
+| Magyar         | Meaning              | Context |
+|----------------|----------------------|---------|
+| Előtt          | In front of, Outside |         |
+| Mögött         | Behind               |         |
+| Alatt          | Under                |         |
+| Felett, Föllöt | Abover, Over         |         |
+| Körül          | Around               |         |
+| Mellett        | Next to, Beside      |         |
+| Után           | After                |         |
+| Között         | Between, Among       |         |
+
+### Used in "time" expressions
+* e.g. Nyolcs óra előtt nincs nyitva az ABC.
+* e.g. Ebéd után pihenek.
+* e.g. Egy-két nap alatt kész lesz a magnó.
+* e.g. A múzeum csak péntek délután 15 és 18 óra között van nyitva.
+* e.g. Nyolcs óra körül jön a postás.
+
+| Magyar     | Meaning         | Context |
+|------------|-----------------|---------|
+| Előtt      | Before          |         |
+| Után       | After           |         |
+| Alatt      | In, During      |         |
+| Közben     | During          |         |
+| Között     | Between         |         |
+| Körül      | About, At About |         |
+| Fele, Felé | About, At About |         |
+| Óta        | Since           |         |
+| Múlva      | In ... time     |         |
+
+### Used in more abstract ideas
+* e.g. Cukor nélkül kérsz teát?
+* e.g. Mindig Ági miatt késtek.
+* e.g. Cukor helyeet mézet kérek.
+* e.g. Mari szerint  itt nagyon hideg van.
+
+| Magyar  | Meaning      | Context |
+|---------|--------------|---------|
+| Nélkül  | Without      |         |
+| Miatt   | Because of   |         |
+| Helyett | Instead of   |         |
+| Szerint | According to |         |
+| Ellen   | Against      |         |
+
 ## Endings
 ### Accusative: -t
 * The object of hungarian sentence is marked by -t.
@@ -233,6 +288,36 @@
 | Tér          | Térre          | Téren          | Exception |
 | Út           | Útra           | Úton           | Exception |
 | Körút        | Körútra        | Körúton        | Exception |
+
+### : -val, -vel
+* Equivalent to with and, sometimes, by.
+* Back vowel words take -val. Final a turns into á.
+* Front vowel words take -vel. Final e turns into é.
+* If ending in a consonant the -v turns into the last consonant.
+    * e.g. Cukor - Cukorral
+    * e.g. Tej - Tejjel
+* If ending in 2-letter consonant (sz, gy, etc), only the first letter is doubled.
+    * e.g. Busz - Busszal
+    * e.g. Balazs - Balazzsal
+
+### : -lak, -lek
+* Are used when I is the subject (the doer of the action) or you is the object.
+* It can only be used with familar address and with transitive verbs.
+* With most verbs it is attached to the verb stem.
+    * e.g. Látlak.
+    * e.g. Szeretlék.
+* With verbs ending with -ít or 2 consonants a linking vowel a or e is required.
+    * e.g. Tanítalak.
+    * e.g. Értelek.
+* When you is the object, it is translated as:
+    * Téged (Singular, Familiar)
+    * Benneteket (Plural, Familiar)
+    * Titeket (Plural, Familiar)
+* Téged is usually left out unless you want to emphasize who you're talking about.
+    * e.g. Téged várlak, nem Pétert.
+* To avoid misunderstanding use titeket or benneteket.
+    * e.g. Látlak benneteket.
+    * e.g. Szeretlek titeket.
 
 ## Pronouns &
 * Except for Ő and Ők, personal pronouns are usually omitted.

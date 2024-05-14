@@ -215,6 +215,31 @@
 | Képzeld          | Or just imagine         | Pron. kébzeld. Used as a way to introduce something new to the conversation       |
 | Nem bizony       |                         | Is a way of agreeing with a negative. You can use bizony to agree with a positive |
 
+## Random VII
+* Can also be used in positive form.
+    * e.g. Van kedved ...?
+* The latter two forms are used in courtesy address.
+    * e.g. Van/nincs kedve sétálni, Lajos bácsi?
+* Note that nincs is a negative question which requires a positive answer with de.
+    * e.g. Nincs kedved este videót nézni? De igen.
+
+| Magyar              | Meaning               | Context                                                               |
+|---------------------|-----------------------|-----------------------------------------------------------------------|
+| Nincs kedved ...?   | Do you feel like ...? | Singular, Familiar. To introduce, suggest or invite someone somewhere |
+| Nincs kedve ...?    |                       | Singular, Formal                                                      |
+| Nincs kedvetek ...? |                       | Plural, Farmiliar                                                     |
+| Nincs kedvü ...?    |                       | Plural, Formal                                                        |
+
+*
+
+| Magyar                    | Meaning            | Context                                                         |
+|---------------------------|--------------------|-----------------------------------------------------------------|
+| De jó!                    | Great! Lovely!     | To express enthusiasm                                           |
+| Negyszerű! Fantasztikus!  | Similar to De jó!  | To express enthusiasm                                           |
+| Jön                       | "Coming"           | A movement towards, to go with or the same place as the speaker |
+| Megy                      | "Going away"       | A movement away from the speaker                                |
+| Jár                       | Similar to Jön/Jár | A frequent movement towards or away from the speaker            |
+
 ## Greetings
 * Adding Kívánok is more polite.
 * See [greetings/farewells extended](#greetingsfarewells-extended).
@@ -422,6 +447,42 @@
 * Különben is in positive ones.
     * e.g. Nem megyek, különben is késő van.
     * e.g. Egyedül különben sem iszom.
+
+## Hányas
+* Means what number?
+
+| Hány?     | Hányas?     |
+|-----------|-------------|
+| Egy       | Egyes       |
+| Két/Kettő | Kettes      |
+| Három     | Hármas      |
+| Négy      | Négyes      |
+| Öt        | Ötös        |
+| Hat       | Hatos       |
+| Hét       | Hetes       |
+| Nyolc     | Nyolcas     |
+| Kilenc    | Kilences    |
+| Tíz       | Tízes       |
+| Húsz      | Húszas      |
+| Harminc   | Harmincas   |
+| Negyven   | Negyvenes   |
+| Ötven     | Ötvenes     |
+| Hatvan    | Hatvanas    |
+| Hetven    | Hetvenes    |
+| Nyolcvan  | Nyolcvanas  |
+| Kilencven | Kilencvenes |
+| Száz      | Százas      |
+| Ezer      | Ezres       |
+
+* These forms are frequently used when talking about:
+    * Public transport.
+        * e.g. Hányas busz jár a József körúton?
+    * Coins and banknotes.
+        * e.g. Anyu, tudsz adni egy ötezrest?
+    * Telephone extensions.
+        * e.g. A negyvenhatos melléket, legyen szíves.
+    * Flat numbers.
+        * e.g. A Tóth család a második emeleten lakik a négyes lakásban.
 
 ===
 
