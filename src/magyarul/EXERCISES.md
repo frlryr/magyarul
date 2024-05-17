@@ -432,246 +432,245 @@ NOTE: NOTE: I'm pretty sure I got this right, but the answers are as cryptic as 
 # 7
 ## Questions
 1
-  a True
-  b False
-  c True
-  d True
-  e False
-  f True
+  a [vp] True -> Igen
+  b [vp] False -> Nem, 
+  c [x ] True -> Nem,
+  d [vp] True -> Igen
+  e [vp] False -> Nem, 
+  f [vp] True -> Igen
 2
-  a Zugló.
-  b Világos, tágas, kétszobás.
-  c Ő Hatvanöt éves.
-  d Ők nincs telefon.
-  e Augusztusban.
-  f Ő majd a kertben dolgozom.
-  g Negyvenezer forintot
+  a [x ] Zugló.
+  b [x ] Világos, tágas, kétszobás.
+  c [vp] Ő Hatvanöt éves.
+  d [x ] Ők nincs telefon.
+  e [vp] Augusztusban.
+  f [x ] Ő majd a kertben dolgozom.
+  g [v ] Negyvenezer forintot
 
 ## Practice (feito no chute)
 1
-  a költözöm
-  b él
-  c lakik
-  d panaszkodsz
-  e nem ég
-  f napozsz
-2
-  a kicsit
-  b kis
-  c kicsit
-  d kicsit
-  e kicsit
-  f kicsi
+  a [v ] költözöm
+  b [v ] él
+  c [v ] lakik
+  d [v ] panaszkodsz
+  e [v ] nem ég
+  f [vp] napozsz -> napozol
+2 i kis, ii kicsi, iii kicsit
+  a [x ] iii -> i or ii
+  b [x ] i -> ii
+  c [v ] iii
+  d [v ] iii
+  e [x ] iii -> i or ii
+  f [v ] ii
 3
-  a ismerem sem
-  b bort sem
-  c Zsolt sem
-  d egri bikavért sem
-  e Mi sem
-  f Barack semross
+  a [x ] ismerem sem -> sem ismeren
+  b [vp] bort sem 
+  c [x ] Zsolt sem -> sem tud
+  d [vp] egri bikavért sem
+  e [vp] Mi sem
+  f [x ] Barack semross -> semkell
 4
-  a ?
-  b ?
-  c ?
-  d ?
-  e ?
-  f ?
+  a [x ]
+  b [x ]
+  c [x ]
+  d [x ]
+  e [x ]
+  f [x ]
 5
-  a A papucs az ágyon van
-  b A szótár a földön van
-  c A táska a tévé tetején van
-  d A rádió a szőnyeg van?
-  e A szék a szekrény tetején van
+  a [v ] A papucs az ágyon van
+  b [v ] A szótár a földön van
+  c [v ] A táska a tévé tetején van
+  d [x ] A rádió a szőnyeg van?
+  e [x ] A szék a szekrény tetején van
 6
-  a Kedd
-  b Vasárnap
-  c Péntek
-  d Csütörtök
+  a [vp] Kedd
+  b [vp] Vasárnap
+  c [vp] Péntek
+  d [vp] Csütörtök
 7
-  a A macska az ablakban ül.
-  b A macska a hűtőszekrényen ül.
-  c A macska az asztalon ül.
-  d A macska a polcon ül.
-  e A macska a mosógépen ül.
-  e  A macska a gáztűzhelyben ül.
+  a [v ] A macska az ablakban ül.
+  b [v ] A macska a hűtőszekrényen ül.
+  c [v ] A macska az asztalon ül.
+  d [v ] A macska a polcon ül.
+  e [v ] A macska a mosógépen ül.
+  e [v ] A macska a gáztűzhelyben ül.
 8
-  a Seregi Antal hétfőn reggel fut a parkban.
-  b Seregi Antal kedden délután Szentendrére meg.
-  c Seregi Antal szerdán korán reggel a repülőtérre meg esk.
-  d Seregi Antal csütörtökön este angolórára van.
-  e Seregi Antal pénteken uszodába meg.
-  f Seregi Antal szombaton szinházba megy.
-  g Seregi Antal vasárnap a kertben dolgozik.
+  a [v ] Seregi Antal hétfőn reggel fut a parkban.
+  b [vp] Seregi Antal kedden délután Szentendrére megy.
+  c [vp] Seregi Antal szerdán korán reggel a repülőtérre meg esk.
+  d [vp] Seregi Antal csütörtökön este angolórára megy.
+  e [vp] Seregi Antal pénteken uszodába megy.
+  f [vp] Seregi Antal szombaton szinházba megy.
+  g [vp] Seregi Antal vasárnap a kertben dolgozik.
 9
-  a ban
-  b ban
-  c ban
-  d ban
-  e en
-  f szomszéden
-  g panaszkodik
-  h folyosóban
+  a [x ] ban
+  b [x ] ban
+  c [x ] ban
+  d [x ] ban
+  e [x ] en
+  f [x ] szomszéden
+  g [v ] panaszkodik
+  h [x ] folyosóban
 10
-  a Aquiraz
-  b Nem
-  c Hásban
-  d ? Eu sei mas não vou sair procurando jesus
-  e Nem
-  f Nem
-  g Igen
+  a [vp] Aquiraz
+  b [vp] Nem
+  c [vp] Hásban
+  d [x ] 
+  e [vp] Nem
+  f [vp] Nem
+  g [vp] Igen
 
 # 8
 ## Questions
 1 
-  a
-  b
-  c
-  d
-  e
+  a [x ]
+  b [x ]
+  c [x ]
+  d [x ]
+  e [x ]
 2
-  a
-  b
-  c
-  d
-  e
-  f
+  a [x ]
+  b [x ]
+  c [x ]
+  d [x ]
+  e [x ]
+  f [x ]
 
 ## Practice (feito no chute)
 1
-  a ajánlasz
-  b beváltani
-  c állatok
-  d segíteni
-  e értesz
-  f tanítanak
-  g takarítotok
-  h írtok
+  a [v ] ajánlasz
+  b [v ] beváltani
+  c [v ] állatok
+  d [v ] segíteni
+  e [v ] értesz
+  f [v ] tanítanak
+  g [v ] takarítotok
+  h [v ] írtok
 2
-  a Zsófi zseret síelni
-  b Zsófi nem korcsolyázikni
-  c Zsófi imád teniszezikni
-  d Zsófi utál kocogni
-  e Zsófi tud kosárlabdázikni
-  f Zsófi nem röplabdázikni
-  g Zsófi tud úszikni
-  h Zsófi szeret tornázik
-  i Zsófi sakkozik sakkozik
+  a [v ] Zsófi zseret síelni.
+  b [x ] Zsófi nem korcsolyázikni.
+  c [x ] Zsófi imád teniszezikni.
+  d [v ] Zsófi utál kocogni.
+  e [x ] Zsófi tud kosárlabdázikni.
+  f [x ] Zsófi nem röplabdázikni.
+  g [x ] Zsófi tud úszikni.
+  h [x ] Zsófi szeret tornázik.
+  i [x ] Zsófi sakkozik sakkozik.
 3
-  a Király Ferenc jobban szeret koncertre járni, mint sétálni
-  b Asztalos Gizi jobban szeret videót nézni, mint moziba jarni
-  c Sípos Kati jobban szeret operába menni, mint úszni
-  d Polgár Géza jobban szeret sörözni, mint színházba jarni
-  e Tordai Judit jobban szeret úszni, mint sportolni
-  f Balázs Kinga jobban szeret könyvet olvasni, ming tévét nézni
-  g Fekete László jobban szeret rádiót hallgatni, mint újságot olvasni
+  a [v ] Király Ferenc jobban szeret koncertre járni, mint sétálni.
+  b [v ] Asztalos Gizi jobban szeret videót nézni, mint moziba jarni.
+  c [v ] Sípos Kati jobban szeret operába menni, mint úszni.
+  d [v ] Polgár Géza jobban szeret sörözni, mint színházba jarni.
+  e [x ] Tordai Judit jobban szeret úszni, mint sportolni.
+  f [vp] Balázs Kinga jobban szeret könyvet olvasni, ming tévét nézni.
+  g [v ] Fekete László jobban szeret rádiót hallgatni, mint újságot olvasni.
 4
-  a Ma
-  b mai
-  c januári
-  d Január
-  e január
-  f Szeged
-  g Szegedi
-  h Szeged
-  i Szeged
-  j szegedi
+  a [v ] Ma
+  b [v ] mai
+  c [v ] januári
+  d [x ] Január
+  e [v ] január
+  f [v ] Szeged
+  g [v ] Szegedi
+  h [x ] Szeged
+  i [x ] Szeged
+  j [v ] szegedi
 5
-  a Ági munka után a repülőtérre siet, mert jön Juliska néni.
-  b Kati munka után a közérzetre siet, mert este vacsorát főz..
-  c Zsuzsa munka után a uszodára siet, mert imád úszni.
-  d Eszter munka után a Pestre siet, mert édesanyja kórházban van.
-  e Ica munka után a otthonára siet, mert jó film lesz a tévében.
+  a [v ] Ági munka után a repülőtérre siet, mert jön Juliska néni.
+  b [vp] Kati munka után a közérzetre siet, mert este vacsorát főz.
+  c [vp] Zsuzsa munka után a uszodára siet, mert imád úszni.
+  d [v ] Eszter munka után a Pestre siet, mert édesanyja kórházban van.
+  e [x ] Ica munka után a otthonára siet, mert jó film lesz a tévében.
 6
-  a Csak egy.
-  b Igen. Az este.
-  c Házban lift nincs.
-  d Nem. Csak este.
-  e Nem tudom.
-7
-  Peti akarni nyugati autót.
-8
-
+  a [vp] Csak egy.
+  b [vp] Igen. Az este.
+  c [vp] Házban lift nincs.
+  d [x ] Nem. Csak este.
+  e [x ] Nem tudom.
+7 [vp] Peti akarni nyugati autót.
+8 [x ]
 9
-  a Házamban.
-  b Nem tudom.
-  c Igen. Minden nap.
-  d Olvasni.
-  e Beszélni.
-  f Számítógép.
-  g Filmet nézni
+  a [vp] Házamban.
+  b [vp] Nem tudom.
+  c [vp] Igen. Minden nap.
+  d [vp] Olvasni.
+  e [vp] Beszélni.
+  f [vp] Számítógép.
+  g [vp] Filmet nézni
 
 # 9
 ## Questions (feito no chute)
 1
-  a True
-  b False
-  c False
-  d True
-  e True 
+  a [vp] True -> Igen.
+  b [x ] False -> Nem,
+  c [vp] False -> Nem,
+  d [vp] True -> Igen.
+  e [x ] True -> Nem,
 2
-  a ?
-  b ?
-  c ?
-  d ?
-  e ?
+  a [x] 
+  b [x] 
+  c [x] 
+  d [x] 
+  e [x] 
+
 ## Practice (feito no chute)
 1
-  a i
-  b ii
-  c iii
-  d i
-  e i
+  a [x ] i
+  b [v ] ii
+  c [x ] iii
+  d [v ] i
+  e [x ] i
 2 
-  a ?
-  b ?
-  c ?
-  d ?
-  e ?
-  f ?
-  g ?
-  h ?
+  a [x ]
+  b [x ]
+  c [x ]
+  d [x ]
+  e [x ]
+  f [x ]
+  g [x ]
+  h [x ]
 3
-  a
-  b
-  c
-  d
+  a [x ]
+  b [x ]
+  c [x ]
+  d [x ]
 4
-  a Siófokon ma huszonnegy fok lesz.
-  b Debrecenben ma huszonöt fok lesz.
-  c Tihanyban ma huszonhárom fok lesz.
-  d Miskolcban ma huszonegy fok lesz.
-  e Pécsben ma huszonhét fok lesz.
+  a [v ] Siófokon ma huszonnegy fok lesz.
+  b [v ] Debrecenben ma huszonöt fok lesz.
+  c [v ] Tihanyban ma huszonhárom fok lesz.
+  d [vp] Miskolcban ma huszonegy fok lesz.
+  e [v ] Pécsben ma huszonhét fok lesz.
 5
   a
-    i de
-    ii de
-    iii hanem
-    iv hanem
-    v hanem
+    i   [x ] de
+    ii  [x ] de
+    iii [x ] hanem
+    iv  [x ] hanem
+    v   [v ] hanem
   b
-    i még
-    ii még
-    iii már
-    iv még
-    v már
+    i   [x ] még
+    ii  [v ] még
+    iii [x ] már
+    iv  [x ] még
+    v   [v ] már
  
 6
-  a ? 
-  b ? 
-  c ? 
-  d ? 
-  e ? 
-  f ? 
+  a [x ] 
+  b [x ] 
+  c [x ] 
+  d [x ] 
+  e [x ] 
+  f [x ] 
 7
-  a iv
-  b v
-  c vi
-  d i
-  e iii
-  f ii
+  a [v ] iv
+  b [v ] v
+  c [v ] vi
+  d [v ] i
+  e [v ] iii
+  f [v ] ii
 8
-  a Negy van. 
-  b Nem. Én melegen szeretem.
-  c Kint jó van.
-  d Harminc fok lesz.
-  e Nem.
+  a [vp] Negy van. 
+  b [vp] Nem. Én melegen szeretem.
+  c [vp] Kint jó van.
+  d [vp] Harminc fok lesz.
+  e [vp] Nem.
