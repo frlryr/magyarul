@@ -484,6 +484,72 @@
     * Flat numbers.
         * e.g. A Tóth család a második emeleten lakik a négyes lakásban.
 
+## Ajándék
+* Means gift, present.
+* Typical souvenirs include chocolates, brandy called konyakosmeggy tokaji,
+    pirospaprika and hímzet.
+* You can usually find them in a Népművészeti bolt.
+* OBS: Not an expression, but a word. Maybe we should move words away from this section.
+
+## Uram
+* Means monsieur (lit. my sir).
+* Polite way to address a male customer.
+
+## Fiatalember
+* Means young man.
+
+## Hölgyem
+* Means my lady.
+* Can be used with any age.
+
+## Asszonyom
+* Means madam.
+* Can be used with married or middle-aged.
+
+## Jobban teszed, ha ...
+* Means "You will do better if".
+* It's a good way to give advice.
+    * e.g. Jobban tezitek, ha (plural, familiar)
+    * e.g. Jobban teszi, ha (singular, formal)
+    * e.g. Jobban teszik, ha (plural, formal)
+* Other similar expressions are:
+    * e.g. Jobb, ha (it is better if)
+    * e.g. Jobb lesz, ha (it will be better if)
+    * e.g. Legjobb lesz, ha (it will be best if)
+
+## Tényleg?
+* Means Really?
+* It expresses surprise.
+    * e.g. Afrikában születtem. Tényleg?
+           I was born in Africa. Really?
+
+## Nem vagyok benne biztos, hogy ...
+* Means "I'm not sure that".
+* It expresses uncertainty.
+    * e.g. Nem vagyok benne biztos, hogy ez jó ötlet. Hátha nem tetszik neki?
+           I'm not sure that this is a good idea. What if he/she doesn't like it?
+
+## Milyen színű ...?
+* Means "What colour ..."
+* Piros, vörös both means red. Piros is safer and widely used as color while vörös
+    is used for wine, hair color and other cases.
+
+| Magyar       | Meaning       | Context |
+|--------------|---------------|---------|
+| Barna        | Brown         |         |
+| Bordó        | Maroon        |         |
+| Drapp        | Beige         |         |
+| Fehér        | White         |         |
+| Fekete       | Black         |         |
+| Kék          | Blue          |         |
+| Lila         | Purple, Lilac |         |
+| Narancssárga | Orange        |         |
+| Piros        | Red           |         |
+| Rózsaszín    | Pink          |         |
+| Sárga        | Yellow        |         |
+| Szürke       | Grey          |         |
+| Zöld         | Green         |         |
+
 ===
 
     Én                  nem érek rá

@@ -216,6 +216,58 @@
     * e.g. 5-kor.
     * e.g. 1/4 6-kor.
 
+# Namedays
+* Birthdays are usually celebrated within immediate family.
+* Namedays are printed in calendars and are known to everybody.
+* Traditionally, people pull the person's ear and recite the following.
+    * e.g. Isten éltessen sokáig, a füled érjen bokáig!
+           May God grant you a long life, and may your ears reach your ankles!
+
+| Magyar      | Meaning  | Context |
+|-------------|----------|---------|
+| Születésnap | Birthday |         |
+| Névnap      | Nameday  |         |
+
+# Clothes and shoes
+* Numbers are used when answering the question Hányas? when asking about size of clothes.
+    * e.g. Negyvenes lábam van.
+* Clothes and shoes have different sizes (méret).
+* They talk about foot size not shoe size.
+
+| Magyar              | Meaning   | Context |
+|---------------------|-----------|---------|
+| Csizma              | Boots     |         |
+| Farmer(-t)          | Jeans     |         |
+| Harisnya            | Stockings |         |
+| Harisnyanadrág(-ot) | Tights    |         |
+| Kesztyű             | Gloves    |         |
+| Nadrág(-ot)         | Trousers  |         |
+| Papucs(-ot)         | Slippers  |         |
+| Pizsama             | Pyjamas   |         |
+| Szandál(-t)         | Sandals   |         |
+| Szemüveg(-et)       | Glasses   |         |
+| Zokni               | Socks     |         |
+| Cipő                | Shoes     |         |
+
+## Leaving out the subject
+* When talking about the same person there is no need to repeat or use a
+    personal pronoun.
+    * e.g. Én egy Liszt-lemezt adok anyunak. Imádja Liszt Ferencet.
+           I'm giving Mum a Liszt record. She adoras Franz Liszt.
+
+## Expression of quantity
+* There is no equivalent of of in the following Hungarian expressions
+
+| Magyar                    | Meaning             | Context |
+|---------------------------|---------------------|---------|
+| Egy csokor virág          | A bunch of flowers  |         |
+| Egy doboz csokoládé/csoki | A box of chocolates |         |
+| Egy doboz cigaretta       | A box of cigarettes |         |
+| Egy doboz gyufa           | A box of matches    |         |
+| Egy pohár viz             | A glass of water    |         |
+| Egy korsó sör             | A glass of beer     |         |
+| Egy üveg bor              | A bottle of wine    |         |
+
 # Dictionary
 *
 
