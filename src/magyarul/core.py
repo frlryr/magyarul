@@ -1,5 +1,21 @@
 """
 # Grammar
+## Definite article: a, az
+* Usage similar to English.
+* With the following usable exceptions:
+    * Before abstract nouns (like happiness, life, death, etc).
+        * e.g. Nehéz az élet.
+               Life is difficult.
+    * Before street names.
+        * e.g. A Baross utcában lakunk.
+               We live in Baross street.
+    * Before names of meals.
+        * e.g. A reggeli 7 órakor lesz.
+               Breakfast will be at 7 o'clock.
+    * In some general statements before singular nouns, where English is plural.
+        * e.g. Irén csak a rövid szoknyát.
+               Irén likes only short skirts.
+
 ## Vowels &
 ### Front Vowels
 * Tongue in the front of the mouth.
@@ -176,9 +192,64 @@
 | 2nd | (Ön) iszik   | You drink     |   | (Önök) isznak  | You drink  | Official |
 | 3rd | (Ő) iszik    | He/She drinks |   | (Ők) isznak    | They drink |          |
 
+### Definite Conjugation
+* There are only 3 tenses in Hungaria: past, present and future.
+* All 3 tenses have 2 types of conjugation: indefinite and definite.
+* There is no equivalent of definite conjugation in English.
+* They will mean the same in either cases.
+* The indefinite conjugation is used with intransitive and transitive verbs which takes an
+    indefinite object or no object at all.
+* The definite conjugation is used with transitive verbs which takes a definite object.
+* An object is indefinite if:
+    * Is preceded by an indefinite article (i.e. egy).
+        * e.g. Anikó egy pulóvert vesz.
+               Anikó is buying a pullover. 
+    * Is not preceded by neither indefinite or definite article (i.e. a, az) and is not the
+        name of a particular person or thing.
+        * e.g. Kávét kérsz?
+               Is it coffee that you want?
+    * Is expressed by infinitive.
+        * e.g. Nem szeretek portolni.
+               I don't like doing sports.
+* An object is definite if:
+    * Is preceded by a definte article (i.e. a, az).
+        * e.g. Szereted a szőlőt?
+               Do you like grapes?
+    * Is the name of a particular person or thing.
+        * e.g. Jól ismerem Sopront?
+               I known Sopron well.
+    * Is expressed by ez or az.
+        * e.g. Esz kérem.
+               I want this.
+        * e.g. Azt nem szeretem.
+               I don't like that
+* Question words kit, mit, hány, hányat, milyen and milyent require the indefinite conjugation.
+* Question words melyik, melyiket, hányadik and hányadikat (i.e. those containing -ik)
+    require the definte conjugation.
+* Definite conjugation is also required when a third person object is implied, but not stated.
+    * e.g. Ismered János? Ismerem.
+           Do you known János? Yes, I know him.
+* The verb köszön means greet or say goodbye to someone when conjugated in indefinite conjugation.
+                  means thanks when conjugated in definite conjugation.
+
+### Verbs requiring the use of endings
+* A lot of hungarian verbs require a certain ending to be used with them.
+* A good analogy is verbs in English that require a preposition (i.e. start with, speak to)
+    * e.g. Magyaroszágon az ebéd levessel kezdődik.
+           In Hungary lunch starts with soup.
+* In dictionaries the ending to be taken is shown like this:
+    * Kezdődik (vmivel, valamivel)
+    * Beszél (vkivel, valakivel)
+* The ending when compared is not symmetric and may vary or not make sense.
+* Some verbs require different endings to express different endings.
+    * Hisz (vmit), believe.
+    * Hisz (vmiben, vkiben), believe in.
+
 ## Postpositions (aka "prepositions for hungarians")
 * They are similar to prepositions, but comes after the word they're refereing to (duh).
 * There are 3 main groups:
+
+
 
 ### Used in "place" expressions
 * e.g. A ház előtt egy magas fa van. 
@@ -319,6 +390,31 @@
     * e.g. Látlak benneteket.
     * e.g. Szeretlek titeket.
 
+### Dative: -nak, -nek
+* As with most endings final a/e turns into á/é.
+* Is used when there is an object in a sentence, the person receiving this object
+    takes the ending.
+    * e.g. Adok Katinak egy barackot.
+           I give Kati a peach.
+* Can be expressed by for or to in English.
+* Is used after certain verbs. See following table.
+
+| Magyar    | Meaning        | Context              |
+|-----------|----------------|----------------------|
+| Ad        | Give           | vkinek, vmit, sy, sg |
+| Visz      | Take           | vkinek, vmit, sy, sg |
+| Köt       | Knit           | vkinek, vmit, sy, sg |
+| Ír        | Write          | vkinek, vmit, sy, sg |
+| Felel     | Answer         | vkinek, vmit, sy, sg |
+| Főz       | Cook           | vkinek, vmit, sy, sg |
+| Ajándékoz | Give as a gift | vkinek, vmit, sy, sg |
+| Mond      | Say            | vkinek, vmit, sy, sg |
+| Vesz      | Buy            | vkinek, vmit, sy, sg |
+| Fizet     | Pay            | vkinek, vmit, sy, sg |
+| Válaszol  | Answer         | vkinek, vmit, sy, sg |
+| Hoz       | Bring          | vkinek, vmit, sy, sg |
+| Olvas     | Read           | vkinek, vmit, sy, sg |
+
 ## Pronouns &
 * Except for Ő and Ők, personal pronouns are usually omitted.
 * Unless meant for emphasis or clarity.
@@ -346,6 +442,17 @@
 * On 3+ syllables in/after the question focs, your voice will go up on the penultimate
     syllable and the come down again.
     * e.g Eszter amerikai?
+
+## Question tags: ugye, nem
+* A statement can be turned into a question by putting ugye or nem after it.
+* Ugye can be used in both positive or negatively sentences.
+    * Can come at the very beginning of a question as well. In this case the question
+        is asking for reassurance.''
+* Nem can only be used in positive statement.
+* They both have a rising statement.
+* When responding to a statement with nem, de is used to give a positive answer.
+    * e.g. Szereted a kakaót nem? De igen.
+           You like cocoa, don't you? Yes, I do.
 
 # Quirks
 ## Esz, Azt
