@@ -559,3 +559,64 @@ NOTE: NOTE: I'm pretty sure I got this right, but the answers are as cryptic as 
 
 # 11
 ## Practice
+1
+  a 
+  b 
+  c 
+  d 
+  e 
+  f 
+2
+  a 
+  b 
+  c 
+  e 
+  f 
+  g 
+  h 
+3
+  a 
+  b 
+  c 
+  d 
+  e 
+  f 
+4
+  a
+  b
+  c
+  d
+  e
+  f
+  g
+  h
+  i
+  j
+  k
+  l
+  m
+5
+  a
+  b
+  c
+  d
+  e
+6
+  a
+  b
+  c
+  d
+7
+  a
+  b
+  c
+  d
+  e
+  f
+8
+  a
+  b
+  c
+  d
+  e
+  f

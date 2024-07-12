@@ -1,11 +1,260 @@
-'# 1
+# 1
 ## Repetition
+Fiatalember,    Jó napot kivánok!
+                Jó napot kivánok!
+                Jó napot kivánok!
+                Jó napot kivánok!
+                Jó napot kivánok!
+Robert,         Jó napot!
+                Jó napot!
+                Jó napot!
+                Jó napot!
+                Jó napot!
+Fiatalember,    Az útlevelét, legyen szíves!
+                Az útlevelét, legyen szíves!
+Robert,         Tessék.
+                Tessék.
+                Tessék.
+                Tessék.
+                Tessék.
+Fiatalember,    Köszönom. Mi a neve?
+                Köszönom. Mi a neve?
+                Köszönom. Mi a neve?
+                Köszönom. Mi a neve?
+                Köszönom. Mi a neve?
+Robert,         Robert Stuart.
+                Robert Stuart.
+                Robert Stuart.
+                Robert Stuart.
+                Robert Stuart.
+Fiatalember,    Ön angol?
+                Ön angol?
+                Ön angol?
+                Ön angol?
+                Ön angol?
+Robert,         Nem, skót vagyok.
+                Nem, skót vagyok.
+                Nem, skót vagyok.
+                Nem, skót vagyok.
+                Nem, skót vagyok.
+Fiatalember,    Skót?
+                Skót?
+                Skót?
+                Skót?
+                Skót?
+Robert,         Igen, skót vagyok.
+                Igen, skót vagyok.
+                Igen, skót vagyok.
+                Igen, skót vagyok.
+                Igen, skót vagyok.
+Fiatalember,    Á, skót! Értem. Rendben van. Viszontlátasra!
+                Á, skót! Értem. Rendben van. Viszontlátásra!
+                Á, skót! Értem. Rendben van. Viszontlátásra!
+                Á, skót! Értem. Rendben van. Viszontlátásra!
+                Á, skót! Értem. Rendben van. Viszontlátásra!
+Robert,         Viszontlátásra!
+                Viszontlátásra!
+                Viszontlátásra!
+                Viszontlátásra!
+                Viszontlátásra!
 
 # 2
 ## Repetition
+Jill,   Szia, Mari!
+        Szia, Mari!
+        Szia, Mari!
+        Szia, Mari!
+        Szia, Mari!
+Mari,   Szia, Jill! Hogy vagy?
+        Szia, Jill! Hogy vagy?
+        Szia, Jill! Hogy vagy?
+        Szia, Jill! Hogy vagy?
+        Szia, Jill! Hogy vagy?
+Jill,   Kösz, jól. Csak egy kicsit fáradt vagyok.
+        Kösz, jól. Csak egy kicsit fáradt vagyok.
+        Kösz, jól. Csak egy kicsit fáradt vagyok.
+        Kösz, jól. Csak egy kicsit fáradt vagyok.
+        Kösz, jól. Csak egy kicsit fáradt vagyok.
+Mari,   Kérsz egy feketét?
+        Kérsz egy feketét?
+        Kérsz egy feketét?
+        Kérsz egy feketét?
+        Kérsz egy feketét?
+Jill,   Köszönöm, kérek.
+        Köszönom, kérek.
+        Köszönöm, kérek.
+        Köszönöm, kérek.
+        Köszönöm, kérek.
+Mari,   (Handing it to her) Tessék!
+        (Handing it to her) Tessék!
+        (Handing it to her) Tessék!
+        (Handing it to her) Tessék!
+        (Handing it to her) Tessék!
+Jill,   Köszönöm szépen.
+        Köszönöm szépen.
+        Köszönöm szépen.
+        Köszönöm szépen.
+        Köszönöm szépen.
+Mari,   Szívesen.
+        Szívesen.
+        Szívesen.
+        Szívesen.
+        Szívesen.
+Jill,   (Taking a sip) Egy kicsit erős, de nagyon finom.
+        (Taking a sip) Egy kicsit erős, de nagyon finom.
+        (Taking a sip) Egy kicsit erős, de nagyon finom.
+        (Taking a sip) Egy kicsit erős, de nagyon finom.
+        (Taking a sip) Egy kicsit erős, de nagyon finom.
+
+(Ildi, Mari's sister, enters the room. Mari introduces them)
+
+Mari,   (Pointing at them) Ildi, Jill, Jill, Ildi.
+        (Pointing at them) Ildi, Jill, Jill, Ildi.
+        (Pointing at them) Ildi, Jill, Jill, Ildi.
+        (Pointing at them) Ildi, Jill, Jill, Ildi.
+        (Pointing at them) Ildi, Jill, Jill, Ildi.
+Ildi,   Szia, Ildi vagyok.
+        Szia, Ildi vagyok.
+        Szia, Ildi vagyok.
+        Szia, Ildi vagyok.
+        Szia, Ildi vagyok. 
+Jill,   Szia, Jill vagyok.
+        Szia, Jill vagyok.
+        Szia, Jill vagyok.
+        Szia, Jill vagyok.
+        Szia, Jill vagyok.
+
+(They shake hands.)
+
+Ildi,   Hogy tetszik Budapest?
+        Hogy tetszik Budapest?
+        Hogy tetszik Budapest?
+        Hogy tetszik Budapest?
+        Hogy tetszik Budapest?
+Jill,   Szerintem nagyon szép város.
+        Szerintem nagyon szép város.
+        Szerintem nagyon szép város.
+        Szerintem nagyon szép város.
+        Szerintem nagyon szép város.
+Ildi,   Jól beszélsz magyarul!
+        Jól beszélsz magyarul!
+        Jól beszélsz magyarul!
+        Jól beszélsz magyarul!
+        Jól beszélsz magyarul!
+Jill,   Én? Á, nem. Sajnos csak egy kicsit tudok magyarul.
+        Én? Á, nem. Sajnos csak egy kicsit tudok magyarul.
+        Én? Á, nem. Sajnos csak egy kicsit tudok magyarul.
+        Én? Á, nem. Sajnos csak egy kicsit tudok magyarul.
+        Én? Á, nem. Sajnos csak egy kicsit tudok magyarul.
 
 # 3
 ## Repetition
+(They enter.)
+
+János,  Szabad ez az asztal?
+        Szabad ez az asztal?
+        Szabad ez az asztal?
+        Szabad ez az asztal?
+        Szabad ez az asztal?
+Pincér, Sajnos foglalt. De az ott szabad.
+        Sajnos foglalt. De az ott szabad.
+        Sajnos foglalt. De az ott szabad.
+        Sajnos foglalt. De az ott szabad.
+        Sajnos foglalt. De az ott szabad.
+
+(They sit down.)
+
+János,  Kérünk egy étlapot.
+        Kérünk egy étlapot.
+        Kérünk egy étlapot.
+        Kérünk egy étlapot.
+        Kérünk egy étlapot.
+Pincér, Tessék.
+        Tessék.
+        Tessék.
+        Tessék.
+        Tessék.
+János,  Köszönöm. Mit kérsz, Jenny?
+        Köszönöm. Mit kérsz, Jenny?
+        Köszönöm. Mit kérsz, Jenny?
+        Köszönöm. Mit kérsz, Jenny?
+        Köszönöm. Mit kérsz, Jenny?
+Jenny,  Egy gulyáslevest és utána pörköltet.
+        Egy gulyáslevest és utána pörköltet.
+        Egy gulyáslevest és utána pörköltet.
+        Egy gulyáslevest és utána pörköltet.
+        Egy gulyáslevest és utána pörköltet.
+János,  Salátát is kérsz?
+        Salátát is kérsz?
+        Salátát is kérsz?
+        Salátát is kérsz?
+        Salátát is kérsz?
+Jenny,  Igen, uborkasalátát is kérek.
+        Igen, uborkasalátát is kérek.
+        Igen, uborkasalátát is kérek.
+        Igen, uborkasalátát is kérek.
+        Igen, uborkasalátát is kérek.
+János,  És mit kérsz inni?
+        És mit kérsz inni?
+        És mit kérsz inni?
+        És mit kérsz inni?
+        És mit kérsz inni?
+Jenny,  Talán egy pohár vörös bort.
+        Talán egy pohár vörös bort.
+        Talán egy pohár vörös bort.
+        Talán egy pohár vörös bort.
+        Talán egy pohás vörös bort.
+János,  Én is vörös kérek. Pincér!
+        Én is vörös kérek. Pincér!
+        Én is vörös kérek. Pincér!
+        Én is vörös kérek. Pincér!
+        Én is vörös kérek. Pincér!
+Pincér, Mit parancsolnak?
+        Mit parancsolnak?
+        Mit parancsolnak?
+        Mit parancsolnak?
+        Mit parancsolnak?
+János,  Először egy gulyáslevest és egy hideg gyümölcslevest kérünk, utána pedig egy pörköltet és egy paprikás csirkét. És lét uborkasalátát is, legyen szíves.
+        Először egy gulyáslevest és egy hideg gyümolcslevest kérünk, utána pedig egy pörköltet és egy paprikás csirkét. És lét uborkasalátát is, legyen szíves.
+        Először egy gulyáslevest és egy hideg gyümolcslevest kérünk, utána pedig egy pörköltet és egy paprikás csirkét. És lét uborkasalátát is, legyen szíves.
+        Először egy gulyáslevest és egy hideg gyümolcslevest kérünk, utána pedig egy pörköltet és egy paprikás csirkét. És lét uborkasalátát is, legyen szíves.
+        Először egy gulyáslevest és egy hideg gyümolcslevest kérünk, utána pedig egy pörköltet és egy paprikás csirkét. És lét uborkasalátát is, legyen szíves.
+Pincér, És inni mit hozhatok?
+        És inni mit hozhatok?
+        És inni mit hozhatok?
+        És inni mit hozhatok?
+        És inni mit hozhatok?
+János,  Egy üveg egri bikavért kérünk.
+        Egy üveg egri bikavért kérünk.
+        Egy üveg egri bikavért kérünk.
+        Egy üveg egri bikavért kérünk.
+        Egy üveg egri bikavért kérünk.
+
+(After the waiter has brought the soup.)
+
+János,  Hogy ízlik a magyar gulyás, Jenny?
+        Hogy ízlik a magyar gulyás, Jenny?
+        Hogy ízlik a magyar gulyás, Jenny?
+        Hogy ízlik a magyar gulyás, Jenny?
+        Hogy ízlik a magyar gulyás, Jenny?
+Jenny,  Nagyon finom!
+        Nagyon finom!
+        Nagyon finom!
+        Nagyon finom!
+        Nagyon finom!
+János,  Örülök, hogy ízlik.
+        Örülök, hogy ízlik.
+        Örülök, hogy ízlik.
+        Örülök, hogy ízlik.
+        Örülök, hogy ízlik.
+
+(After the meal.)
+
+János,  Pincér! Fizetek!
+        Pincér! Fizetek!
+        Pincér! Fizetek!
+        Pincér! Fizetek!
+        Pincér! Fizetek!
 
 # 4
 ## Repetition
@@ -70,7 +319,7 @@ Kormos G.,  Titok! Majd meglátod.
             Titok! Majd meglátod.
             Titok! Majd meglátod.
 
-After work Géza Kormos goes to a fashionable boutique in Teréz körút.
+(After work Géza Kormos goes to a fashionable boutique in Teréz körút.)
 
 Eladó,      Tessék uram, mit parancsol?
             Tessék uram, mit parancsol?
