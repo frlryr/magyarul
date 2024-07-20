@@ -434,6 +434,54 @@
     Önök                nem érnek rá
     Ők                  nem érnek rá
 
+## Szoba kiadó
+* Means "room to let".
+
+| Magyar          | Meaning      | Context                                  |
+|-----------------|--------------|------------------------------------------|
+| Hotel           | Hotel        |                                          |
+| Szálloda        | Hotel        |                                          |
+| Szálló          | Hotel        |                                          |
+| Első Osztályú   | 1st Class    | Hotel only? Can it be used for services? |
+| Másod Osztályú  | 2nd Class    | Hotel only? Can it be used for services? |
+| Harmad Osztályú | 3rd Class    | Hotel only? Can it be used for services? |
+| Kemping         | Camping site |                                          |
+| Panzió          | Pension      |                                          |
+| Szoba kiadó     | Sim. Pension | Share with a family.                     |
+
+## A reggeli hétkor van
+* Means "breakfast is at 7"
+
+## Nem lehetne...?
+* Means "Would it be possible ...?"
+* Used to suggest a change of plan.
+* Possible answers:
+    * e.g. Sajnos nem lehet.
+           Unfortunately, it isn't possible.
+    * e.g. Hogyne lehetne.
+           Of course it's possible.
+
+## Sívesen
+* Means "happily".
+* It expresses willingness.
+* It's used with the conjugated verb.
+    * e.g. Szívesen készítek reggelit
+           I'll be happy to make breakfast.
+    * e.g. Szívesen neki adom a könivet.
+           I'll be happy to give the book.
+
+## Milyen
+* Means "how, what".
+* Similarly de can be used.
+* It's used in exclamations.
+    * e.g. Milyen gyönyörű az erkélyről.
+           How lovely the view is from the balcony!
+    * e.g. Milyen szép ház!
+           What a lovely house!
+    * e.g. De gyönyörű az erkélyről a kilátás!
+      e.g. De szép ház!
+
+
 ## Courtesy Address
 * Used by children when speaking to adults.
 * Used by adults when speaking to the elderly.
