@@ -258,6 +258,131 @@ János,  Pincér! Fizetek!
 
 # 4
 ## Repetition
+Kati,   (To herself.) Kell egy kiló krumpli, fél kiló paradicsom, háromnegyed kiló paprika, negyed kiló gomba, egy kiló alma és egy kiló barack. Kenyér és hús is kell. Azután pedig a közértbe megyek. Kell két liter tej, sajt, sonka, szalámi és kolbász.
+        (To herself.) Kell egy kiló krumpli, fél kiló paradicsom, háromnegyed kiló paprika, negyed kiló gomba, egy kiló alma és egy kiló barack. Kenyér és hús is kell. Azután pedig a közértbe megyek. Kell két liter tej, sajt, sonka, szalámi és kolbász.
+        (To herself.) Kell egy kiló krumpli, fél kiló paradicsom, háromnegyed kiló paprika, negyed kiló gomba, egy kiló alma és egy kiló barack. Kenyér és hús is kell. Azután pedig a közértbe megyek. Kell két liter tej, sajt, sonka, szalámi és kolbász.
+        (To herself.) Kell egy kiló krumpli, fél kiló paradicsom, háromnegyed kiló paprika, negyed kiló gomba, egy kiló alma és egy kiló barack. Kenyér és hús is kell. Azután pedig a közértbe megyek. Kell két liter tej, sajt, sonka, szalámi és kolbász.
+        (To herself.) Kell egy kiló krumpli. fél kiló paradicsom, háromnegyed kiló paprika, negyed kiló gomba, egy kiló alma és egy kiló barack. Kenyér és hús is kell. Azután pedig a közértbe megyek. Kell két liter tej, sajt, sonka, szalámi és kolbász. 
+
+(Having done some of he shopping. Kati enters an ABC. She walks up to the counter.)
+
+Eladó,  Tessék.
+        Tessék.
+        Tessék.
+        Tessék.
+        Tessék.
+
+Kati,   Húsz deka sajtot, tizenöt deka sonkát és huszonöt deka téliszalámit kérek. Mennyibe kerül most tíz deka téliszalámi?
+        Húsz deka sajtot, tizenöt deka sonkát és huszonöt deka teliszalámit kérek. Mennyibe kerül most tíz deka téliszalámi?
+        Húsz deka sajtot, tizenöt deka sonkát és huszonöt deka teliszalámit kérek. Mennyibe kerül most tíz deka téliszalámi?
+        Húsz deka sajtot, tizenöt deka sonkát és huszonöt deka teliszalámit kérek. Mennyibe kerül most tíz deka téliszalámi?
+        Húsz deka sajtot, tizenöt deka sonkát és huszonöt deka teliszalámit kérek. Mennyibe kerül most tíz deka téliszálámi?
+
+Eladó,  Ötvennégy forintba.
+        Ötvennégy forintba.
+        Ötvennégy forintba.
+        Ötvennégy forintba.
+        Ötvennégy forintba.
+
+Kati,   Hm. Nagyon drága. Elég lesz tíz deka is.
+        Hm. Nagyon drága. Elég lesz tíz deka is.
+        Hm. Nagyon drága. Elég lesz tíz deka is.
+        Hm. Nagyon drága. Elég lesz tíz deka is.
+        Hm. Nagyon drága. Elég lesz tíz deka is.
+
+Eladó,  Tessék. Még valamit?
+        Tessék. Még valamit?
+        Tessék. Még valamit?
+        Tessék. Még valamit?
+        Tessék. Még valamit?
+
+Kati,   Van gyulai kolbász?
+        Van gyulai kolbász?
+        Van gyulai kolbász?
+        Van gyulai kolbász?
+        Van gyulai kolbász?
+
+Eladó,  Sajnos nincsen.
+        Sajnos nincsen.
+        Sajnos nincsen.
+        Sajnos nincsen.
+        Sajnos nincsen.
+
+Kati,   Nem baj, jó lesz a házi kolbász is. Harminc dekát, legyen szíves.
+        Nem baj, jó lesz a házi kolbász is. Harminc dekát, legyen szíves.
+        Nem baj, jó lesz a házi kolbász is. Harminc dekát, legyen szíves.
+        Nem baj, jó lesz a házi kolbász is. Harminc dekát, legyen szíves.
+        Nem baj, jó lesz a házi kolbász is. Harminc dekát, legyen szíves.
+
+Eladó,  Harminchárom deka. Jó lesz?
+        Harminchárom deka. Jó lesz?
+        Harminchárom deka. Jó lesz?
+        Harminchárom deka. Jó lesz?
+        Harminchárom deka. Jó lesz?
+
+Kati,   Jó.
+        Jó.
+        Jó.
+        Jó.
+        Jó
+
+Eladó,  Más valamit?
+        Más valamit?
+        Más valamit?
+        Más valamit?
+        Más valamit?
+
+Kati,   Köszönöm, mást nem kérek.
+        Köszönöm, mást nem kérek.
+        Köszönöm, mást nem kérek.
+        Köszönöm, mást nem kérek.
+        Köszönöm, mást nem kérek.
+
+(Kati looks at her watch and she sunddenly realizes that she will be late at the airport unless she takes a taxi. She approaches a taxi stand.)
+
+Kati,   Szabad a taxi?
+        Szabad a taxi?
+        Szabad a taxi?
+        Szabad a taxi?
+        Szabad a taxi?
+
+Taxis,  Igen. Hová parancsol?
+        Igen. Hová parancsol?
+        Igen. Hová parancsol?
+        Igen. Hová parancsol?
+        Igen. Hová parancsol?
+
+Kati,   A Ferihegyi repülőtérre, legyen szíves.
+        A Ferihegyi repülőtérre, legyen szíves.
+        A Ferihegyi repülőtérre, legyen szíves.
+        A Ferihegyi repülőtérre, legyen szíves.
+        A Ferihegyi repülőtérre, legyen szíves.
+
+(They arrive at the airport.)
+
+Kati,   Mennyit fizetek?
+        Mennyit fizetek?
+        Mennyit fizetek?
+        Mennyit fizetek?
+        Mennyit fizetek?
+
+Taxis,  Hatszáznyolcvan forintot kérek.
+        Hatszáznyolcvan forintot kérek.
+        Hatszáznyolcvan forintot kérek.
+        Hatszáznyolcvan forintot kérek.
+        Hatszáznyolcvan forintot kérek.
+
+Kati,   Tessék. (She is handing him the fare with the tip.). Köszönöm.
+        Tessék. (She is handing him the fare with the tip.). Köszönöm.
+        Tessék. (She is handing him the fare with the tip.). Köszönöm.
+        Tessék. (She is handing him the fare with the tip.). Köszönöm.
+        Tessék. (She is handing him the fare with the tip.). Köszönöm.
+
+Taxis,  Én köszönöm.
+        Én köszönöm.
+        Én köszönöm.
+        Én köszönöm.
+        Én köszönöm.
 
 # 5
 ## Repetition
