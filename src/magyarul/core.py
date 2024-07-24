@@ -232,6 +232,44 @@
 * The verb köszön means greet or say goodbye to someone when conjugated in indefinite conjugation.
                   means thanks when conjugated in definite conjugation.
 
+#### Present tense II
+* The verb is always in the definite conjugation in expressions like:
+    * e.g. Azt mondja, hogy ...
+           He/she says that ...
+    * e.g. Remélem, hogy ...
+           I hope that ...
+    * e.g. Azt hiszem, hogy ...
+           I think that ...
+    * e.g. Úgy tudom, hogy ...
+           As far as I know ...
+* The object pronouns őt, magát, önt, őket, magukat and önöket require the definite conjugation
+    even if only implied.
+    * e.g. Hogy hívják?
+           What's your/his/her name? (What's önt|magát|őn name)
+* The object pronouns engem, téged, minket, bennünket, titeket and benneteket, always require
+    indefinite conjugation.
+* Cardinal numbers take the indefinite conjugation.
+    * e.g. Csak egy cukrot kérek.
+           I only want one sugar.
+* Ordinal numbers take the definite conjugation.
+    * e.g. A másodikat kéred?
+           Do you want the second one?
+* The courtesy address remains the same whether the object is definite or indefinite.
+    * e.g. A híradót tetszik nézni?
+           Are you watching the news?
+    * e.g. Egy filmet tetszik nézni?
+           Are you watching a film?
+* With verbs ending in a sibilant (s, sz, z, dz) the j of the ending changes to the sibilant.
+    * s + j = ss
+    * z + J = zz
+    * sz + j = ssz
+    * dz + j = ddz
+* When you are pronouncing verbs in the definite conjugation.
+    * d + j = ggy
+    * t + j = tty
+    * l + j = jj
+    * n + j = nny
+
 ### Verbs requiring the use of endings
 * A lot of hungarian verbs require a certain ending to be used with them.
 * A good analogy is verbs in English that require a preposition (i.e. start with, speak to)
@@ -303,6 +341,10 @@
 | Ellen   | Against      |         |
 
 ## Endings
+### -ról, -ről
+* Words taking the endnig -n
+* TODO I was here
+
 ### Accusative: -t
 * The object of hungarian sentence is marked by -t.
 * Transitive verbs requires an object and therefore a -t ending.
@@ -427,6 +469,19 @@
 | 2nd | Maga     | You     |   | Maguk  | You     | Formal   |
 | 2nd | Ön       | You     |   | Önök   | You     | Official |
 | 3rd | Ő        | He/She  |   | Ők     | They    |          |
+
+### Personal Pronouns
+#### Object form
+* 1st and 2nd person plural have two forms.
+* Bennünket and Benneteket are more commonly used.
+
+| Ki?  | Kit?  | Kik?  | Kiket?             |
+|------|-------|-------|--------------------|
+| Én   | Engem | Mi    | Bennünket/Minket   |
+| Te   | Téged | Ti    | Benneteket/Titeket |
+| Maga | Magát | Maguk | Magukat            |
+| Ön   | Önt   | Önök  | Önöket             |
+| Ő    | Őt    | Ők    | Őket               |
 
 # Semantics
 
