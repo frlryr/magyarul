@@ -1,5 +1,4 @@
 # 1
-## Repetition
 Fiatalember,    Jó napot kivánok!
                 Jó napot kivánok!
                 Jó napot kivánok!
@@ -59,7 +58,6 @@ Robert,         Viszontlátásra!
                 Viszontlátásra!
 
 # 2
-## Repetition
 Jill,   Szia, Mari!
         Szia, Mari!
         Szia, Mari!
@@ -148,7 +146,6 @@ Jill,   Én? Á, nem. Sajnos csak egy kicsit tudok magyarul.
         Én? Á, nem. Sajnos csak egy kicsit tudok magyarul.
 
 # 3
-## Repetition
 (They enter.)
 
 János,  Szabad ez az asztal?
@@ -257,7 +254,6 @@ János,  Pincér! Fizetek!
         Pincér! Fizetek!
 
 # 4
-## Repetition
 Kati,   (To herself.) Kell egy kiló krumpli, fél kiló paradicsom, háromnegyed kiló paprika, negyed kiló gomba, egy kiló alma és egy kiló barack. Kenyér és hús is kell. Azután pedig a közértbe megyek. Kell két liter tej, sajt, sonka, szalámi és kolbász.
         (To herself.) Kell egy kiló krumpli, fél kiló paradicsom, háromnegyed kiló paprika, negyed kiló gomba, egy kiló alma és egy kiló barack. Kenyér és hús is kell. Azután pedig a közértbe megyek. Kell két liter tej, sajt, sonka, szalámi és kolbász.
         (To herself.) Kell egy kiló krumpli, fél kiló paradicsom, háromnegyed kiló paprika, negyed kiló gomba, egy kiló alma és egy kiló barack. Kenyér és hús is kell. Azután pedig a közértbe megyek. Kell két liter tej, sajt, sonka, szalámi és kolbász.
@@ -385,25 +381,231 @@ Taxis,  Én köszönöm.
         Én köszönöm.
 
 # 5
-## Repetition
+Janet,  Bocsánat, eltévedtem. Tudna segíteni?
+        Bocsánat, eltévedtem. Tudna segíteni?
+        Bocsánat, eltévedtem. Tudna segíteni?
+        Bocsánat, eltévedtem. Tudna segíteni?
+        Bocsánat. eltévedtem. Tudna segíteni?
+Férfi,  Hogyne. Hová akar menni?
+        Hogyne. Hová akar menni?
+        Hogyne. Hová akar menni?
+        Hogyne. Hová akar menni?
+        Hogyne. Hová akar menni?
+Janet,  Egy pillanat! (She pulls the address out of her pocket and reads it out.) Itt a cím: Vas utca három, második emelet négy.
+        Egy pillanat! (She pulls the address out of her pocket and reads it out.) Itt a cím: Vas utca három, második emelet négy.
+        Egy pillanat! (She pulls the address out of her pocket and reads it out.) Itt a cím: Vas utca három, második emelet negy.
+        Egy pillanat! (She pulls the address out of her pocket and reads it out.) Itt a cím: Vas utca három, második emelet negy.
+Férfi,  A Vas utca nagyon közel van. Talán tíz perc gyalog. Ismeri a Blaha Lujza teret?
+        A Vas utca nagyon közel van. Talán tíz perc gyalog. Ismeri a Blaha Lujza teret?
+        A Vas utca nagyon közel van. Talán tíz perc gyalog. Ismeri a Blaha Lujza teret?
+        A Vas utca nagyon közel van. Talán tíz perc gyalog. Ismeri a Blaha Lujza teret?
+        A Vas utca nagyon közel van. Talán tíz perc gyalog. Ismeri a Blaha Lujza teret?
+Janet,  Nem, sajnos nem ismerem. Hol van a Blaha Lujza tér?
+        Nem, sajnos nem ismerem. Hol van a Blaha Lujza tér?
+        Nem, sajnos nem ismerem. Hol van a Blaha Lujza tér?
+        Nem, sajnos nem ismerem. Hol van a Blaha Lujza tér?
+        Nem, sajnos nem ismerem. Hol van a Blaha Lujza tér?
+Férfi,  Menjen egyenesen tovább! A Blaha Lujza tér innen két perc. A Vas utca pedig a harmadik utca balra.
+        Menjen egyenesen tovább! A Blaha Lujza tér innen két perc. A Vas utca pedig a harmadik utca balra.
+        Menjen egyenesen tovább! A Blaha Lujza tér innen két perc. A Vas utca pedig a harmadik utca balra.
+        Menjen egyenesen tovább! A Blaha Lujza tér innen két perc. A Vas utca pedig a harmadik utca balra.
+        Menjen egyenesen tovább! A Blaha Lujza tér innen két perc. A Vas utca pedig a harmadik utca balra.
+Janet,  Tényleg nincs messze. Van itt valahol egy posta? Az ott zárva van.
+        Tényleg nincs messze. Van itt valahol egy posta? Az ott zárva van.
+        Tényleg nincs messze. Van itt valahol egy posta? Az ott zárva van.
+        Tényleg nincs messze. Van itt valahol egy posta? Az ott zárva van.
+        Tényleg nincs messze. Van itt valahol egy posta? Az ott zárva van.
+Férfi,  Nem tudom. Én csak a Petőfi Sándor utcában tudok egy postát.
+        Nem tudom. Én csak a Petőfi Sándor utcában tudok egy postát.
+        Nem tudom. Én csak a Petőfi Sándor utcában tudok egy postát.
+        Nem tudom. Én csak a Petőfi Sándor utcában tudok egy postát.
+        Nem tudom. Én csak a Petőfi Sándor utcában tudok egy postát.
+Janet,  És hol van a Petőfi Sándor utca?
+        És hol van a Petőfi Sándor utca?
+        És hol van a Petőfi Sándor utca?
+        És hol van a Petőfi Sándor utca?
+        És hol van a Petőfi Sándor utca?
+Férfi,  Menjen egyenesen tovább a Rákóczi úton! Az Astoria innen talán húsz-huszonöt perc. A 
+Petőfi Sándor utca pedig onnan a harmadik utca jobbra.
+        Menjen egyenesen tovább a Rákóczi úton! Az Astoria innen talán húsz-huszonöt perc. A Petőfi Sándor utca pedig onnan a harmadik utca jobbra.
+        Menjen egyenesen tovább a Rákóczi úton! Az Astoria innen talán húsz-huszonöt perc. A Petőfi Sándor utca pedig onnan a harmadik utca jobbra.
+        Menjen egyenesen tovább a Rákóczi úton! Az Astoria innen talán húsz-huszonöt perc. A Petőfi Sándor utca pedig onnan a harmadik utca jobbra.
+        Menjen egyenesen tovább a Rákóczi úton! Az Astoria innen talán húsz-huszonöt perc. A Petőfi Sándor utca pedig onnan a harmadik utca jobbra.
+Janet,  Hm. Egy kicsit messze van. Lehet metróval is menni?
+        Hm. Egy kicsit messze van. Lehet metróval is menni?
+        Hm. Egy kicsit messze van. Lehet metróval is menni?
+        Hm. Egy kicsit messze van. Lehet metróval is menni?
+        Hm. Egy kicsit messze van. Lehet metróval is menni?
+Férfi,  Igen. A metrómegálló a Blaha Lujza téren van. Az Astoria az első megálló.
+        Igen. A metrómegálló a Blaha Lujza téren van. Az Astoria az első megálló.
+        Igen. A metromegálló a Blaha Lujza téren van. Az Astoria az első megálló.
+        Igen. A metromegálló a Blaha Lujza téren van. Az Astoria az első megálló.
+        Igen. A metromegálló a Blaha Lujza téren van. Az Astoria az első megálló.
+Janet,  Nagyon szépen köszönöm.
+        Nagyon szépen köszönöm.
+        Nagyon szépen köszönöm.
+        Nagyon szépen köszönöm.
+        Nagyon szépen köszönöm.
+Férfi,  Kérem. Nincs mit.
+        Kérem. Nincs mit.
+        Kérem. Nincs mit.
+        Kérem. Nincs mit.
+        Kérem. Nincs mit.
 
 # 6
-## Repetition
+Sanyi,  Szia, Csaba!
+        Szia, Csaba!
+        Szia, Csaba!
+        Szia, Csaba!
+        Szia, Csaba!
+Csaba,  Szia, Sanyi! Mi újsag? Régen voltál franciaórán ...
+        Szia, Sanyi! Mi újsag? Régen voltál franciaórán ...
+        Szia, Sanyi! Mi újsag? Régen voltál franciaórán ...
+        Szia, Sanyi! Mi újsag? Régen voltál franciaórán ...
+        Szia, Sanyi! Mi újsag? Régen voltál franciaórán ...
+Sanyi,  Velencében voltam. De ráérsz? Van itt egy jó söröző. Gyere, iszunk egy korsó sört! Jössz?
+        Velencében voltam. De ráérsz? Van itt egy jó söröző. Gyere, iszunk egy korsó sört! Jössz?
+        Velencében voltam. De ráérsz? Van itt egy jó söröző. Gyere, iszunk egy korsó sört! Jössz?
+        Velencében voltam. De ráérsz? Van itt egy jó söröző. Gyere, iszunk egy korsó sört! Jössz?
+        Velencében voltam. De ráérsz? Van itt egy jó söröző. Gyere, iszunk egy korsó sört! Jössz?
+Csaba,  Jó, jövök. Most nem sietek haza. Este franciaóra lesz.
+        Jó, jövök. Most nem sietek haza. Este franciaóra lesz.
+        Jó, jövök. Most nem sietek haza. Este franciaóra lesz.
+        Jó, jövök. Most nem sietek haza. Este franciaóra lesz.
+        Jó, jövök. Most nem sietek haza. Este franciaóra lesz.  
+
+(They sit down at a table.)
+
+Csaba,  Szóval Olaszországban voltál. És milyen volt?
+        Szóval Olaszországban voltál. És milyen volt?
+        Szóval Olaszországban voltál. És milyen volt?
+        Szóval Olaszországban voltál. És milyen volt?
+        Szóval Olaszországban voltál. És milyen volt?
+Sanyi,  Nagyon érdekes! Sok olasz városban voltam már, de Velencében még nem. Nagyon romantikus város. Sajnos túl sok volt a munka, és csak este voltam szabad. Talán legközelebb többet látok. És te? Jársz még franciára?
+        Nagyon érdekes! Sok olasz városban voltam már, de Velencében még nem. Nagyon romantikus város. Sajnos túl sok volt a munka, és csak este voltam szabad. Talán legközelebb többet látok. És te? Jársz még franciára?
+        Nagyon érdekes! Sok olasz városban voltam már, de Velencében még nem. Nagyon romantikus város. Sajnos túl sok volt a munka, és csak este voltam szabad. Talán legközelebb többet látok. És te? Jársz még franciára?
+        Nagyon érdekes! Sok olasz városban voltam már, de Velencében még nem. Nagyon romantikus város. Sajnos túl sok volt a munka, és csak este voltam szabad. Talán legközelebb többet látok. És te? Jársz még franciára?
+        Nagyon érdekes! Sok olasz városban voltam már, de Velencében még nem. Nagyon romantikus város. Sajnos túl sok volt a munka, és csak este voltam szabad. Talán legközelebb többet látok. És te? Jársz még franciára?
+Csaba,  Persze. Most mindenki tanul.
+        Persze. Most mindenki tanul.
+        Persze. Most mindenki tanul.
+        Persze. Most mindenki tanul.
+        Persze. Most mindenki tanul.
+Sanyi,  Hogyhogy? Még te is?
+        Hogyhogy? Még te is?
+        Hogyhogy? Még te is?
+        Hogyhogy? Még te is?
+        Hogyhogy? Még te is?
+Csaba,  Még én is! Egész nap csak ülök az irodában, és ha nincs ott a főnök, tanulok.
+        Még én is! Egész nap csak ülök az irodában, és ha nincs ott a főnök, tanulok.
+        Még én is! Egész nap csak ülök az irodában, és ha nincs ott a főnök, tanulok.
+        Még én is! Egész nap csak ülök az irodában, és ha nincs ott a főnök, tanulok.
+        Még és is! Egész nap csak ülök az irodában, és ha nincs ott a főnök, tanulok.
+Sanyi,  Mi törtent? Jól vagy?
+        Mi törtent? Jól vagy?
+        Mi törtent? Jól vagy?
+        Mi törtent? Jól vagy?
+        Mi törtent? Jól vagy?
+Csaba,  (Laughing.) Jól. Új tanárnő. Van az iskolában.
+        (Laughing.) Jól. Új tanárnő. Van az iskolában.
+        (Laughing.) Jól. Új tanárnő. Van az iskolában.
+        (Laughing.) Jól. Új tanárnő. Van az iskolában.
+        (Laughing.) Jól. Új tanárnő. Van az iskolában.
+Sanyi,  Hány éves? Fiatal?
+        Hány éves? Fiatal?
+        Hány éves? Fiatal?
+        Hány éves? Fiatal?
+        Hány éves? Fiatal?
+Csaba,  Azt hiszem, huszonnégy éves. Nagyon csinos ...  
+        Azt hiszem, huszonnégy éves. Nagyon csinos ...
+        Azt hiszem, huszonnégy éves. Nagyon csinos ...
+        Azt hiszem, huszonnégy éves. Nagyon csinos ...
+        Azt hiszem, huszonnégy éves. Nagyon csinos ...
+Sanyi,  Aha! Már értem. Azt hiszem, hogy ma este én is jövök franciaórára!
+        Aha! Már értem. Azt hiszem, hogy ma este én is jövök franciaórára!
+        Aha! Már értem. Azt hiszem, hogy ma este én is jövök franciaórára!
+        Aha! Már értem. Azt hiszem, hogy ma este én is jövök franciaórára!
+        Aha! Már értem. Azt hiszem, hogy ma este én is jövök franciaórára!
 
 # 7
-## Repetition
+Béla,   Szervusz, János! Mi újság?
+        Szervusz, János! Mi újság?
+        Szervusz, János! Mi újság?
+        Szervusz, János! Mi újság?
+        Szervusz, János! Mi újság?
+János,  Szervusz, Béla! Képzeld, hétfőn költözünk!
+        Szervusz, Béla! Képzeld, hétfőn költözünk!
+        Szervusz, Béla! Képzeld, hétfőn költözünk!
+        Szervusz, Béla! Képzeld, hétfőn költözünk!
+        Szervusz, Béla! Képzeld, hétfőn költözünk!
+Béla,   Költöztök? Hová?
+        Költöztök? Hová?
+        Költöztök? Hová?
+        Költöztök? Hová?
+        Költöztök? Hová?
+János,  Egy szép kis családi házba Zuglóba, a tizennegyedik kerületbe. Ez a lakás nagyon kicsi, csak másfél szobás. Túl kicsi a konyha, a fürdőszoba, az előszoba. Nincs telefon. A feleségem mindig mérges, mert a szomszédban hangos a magnó. Meg aztán én sem vagyok már fiatal. Hatvanöt éves leszek júliusban. Gyakran rossz a lift, mi meg a hatodik emeleten lakunk.
+        Egy szép kis családi házba Zuglóba, a tizennegyedik kerületbe. Ez a lakás nagyon kicsi, csak másfél szobás. Túl kicsi a konyha, a fürdőszoba, az előszoba. Nincs telefon. A feleségem mindig mérges, mert a szomszédban hangos a magnó. Meg aztán én sem vagyok már fiatal. Hatvanöt éves leszek júliusban. Gyakran rossz a lift, mi meg a hatodik emeleten lakunk.
+        Egy szép kis családi házba Zuglóba, a tizennegyedik kerületbe. Ez a lakás nagyon kicsi, csak másfél szobás. Túl kicsi a konyha, a fürdőszoba, az előszoba. Nincs telefon. A feleségem mindig mérges, mert a szomszédban hangos a magnó. Meg aztán én sem vagyok már fiatal. Hatvanöt éves leszek júliusban. Gyakran rossz a lift, mi meg a hatodik emeleten lakunk.
+        Egy szép kis családi házba Zuglóba, a tizennegyedik kerületbe. Ez a lakás nagyon kicsi, csak másfél szobás. Túl kicsi a konyha, a fürdőszoba, az előszoba. Nincs telefon. A feleségem mindig mérges, mert a szomszédban hangos a magnó. Meg aztán én sem vagyok már fiatal. Hatvanöt éves leszek júliusban. Gyakran rossz a lift, mi meg a hatodik emeleten lakunk.
+        Egy szép kis családi házba Zuglóba, a tizennegyedik kerületbe. Ez a lakás nagyon kicsi, csak másfel szobás. Túl kicsi a konyha, a fürdőszoba, az előszoba. Nincs telefon. A feleségem mindig mérges, mert a szomszédban hangos a magnó. Meg aztán én sem vagyok már fiatal. Hatvanöt éves leszek júliusban. Gyakran rossz a lift, mi meg a hatodik emeleten lakunk.
+Béla,   Mi sem nagyon szeretünk itt lakni. A feleségem mindig panaszkodik, meet piszkos a lépcső és a kapu éjszaka is nyitva van. Este túl sötét van, a folyosón gyakran nem ég a villany. És milyen az új ház?
+        Mi sem nagyon szeretünk itt lakni. A feleségem mindig panaszkodik, meet piszkos a lépcső és a kapu éjszaka is nyitva van. Este túl sötét van, a folyosón gyakran nem ég a villany. És milyen az új ház?
+        Mi sem nagyon szeretünk itt lakni. A feleségem mindig panaszkodik, meet piszkos a lépcső és a kapu éjszaka is nyitva van. Este túl sötét van, a folyosón gyakran nem ég a villany. És milyen az új ház?
+        Mi sem nagyon szeretünk itt lakni. A feleségem mindig panaszkodik, meet piszkos a lépcső és a kapu éjszaka is nyitva van. Este túl sötét van, a folyosón gyakran nem ég a villany. És milyen az új ház?
+        Mi sem nagyon szeretünk itt lakni. A feleségem mindig panaszkodik, meet piszkos a lépcső és a kapu éjszaka is nyitva van. Este túl sötét van, a folyosón gyakran nem ég a villany. És milyen az új ház?
+János,  Nagyon szép! Világos, tágas, kétszobás. A kert is szép nagy. Sok gyümölcsfa és virág van benne. Augusztusban nyugíjba megyek. A feleségem is nyugdíjas. Én majd a kertben dolgozom, ő meg majd napozik és olvas.
+        Nagyon szép! Világos, tágas, kétszobás. A kert is szép nagy. Sok gyümölcsfa és virág van benne. Augusztusban nyugíjba megyek. A feleségem is nyugdíjas. Én majd a kertben dolgozom, ő meg majd napozik és olvas.
+        Nagyon szép! Világos, tágas, ketszobás. A kert is szép nagy. Sok gyümölcsfa és virág van benne. Augusztusban nyugíjba megyek. A feleségem is nyugdíjas. Én majd a kertben dolgozom, ő meg majd napozik és olvas.
+        Nagyon szép! Világos, tágas, ketszobás. A kert is szép nagy. Sok gyümölcsfa és virág van benne. Augusztusban nyugíjba megyek. A feleségem is nyugdíjas. Én majd a kertben dolgozom, ő meg majd napozik és olvas.
+        Nagyon szép! Világos, tágas, ketszobás. A kert is szép nagy. Sok gyümölcsfa és virág van benne, Augusztusban nyugíjba megyek. A feleségem is nyugdíjas. Én majd a kertben dolgozom, ő meg majd napozik és olvas.
+Béla,   És milyen utcában laktok majd?
+        És milyen utcában laktok majd?
+        És milyen utcában laktok majd?
+        És milyen utcában laktok majd?
+        És milyen utcában laktok majd?
+János,  A Kaffka Margit utcában.
+        A Kaffka Margit utcában.
+        A Kaffka Margit utcában.
+        A Kaffka Margit utcában.
+        A Kaffka Margit utcában.
+Béla,   Nem ismerem.
+        Nem ismerem.
+        Nem ismerem.
+        Nem ismerem.
+        Nem ismerem.
+János,  És te hogy vagy?
+        És te hogy vagy?
+        És te hogy vagy?
+        És te hogy vagy?
+        És te hogy vagy?
+Béla,   Megvagyok. Most új munkahelyen dolgozom, Mátyas téren.
+        Megvagyok. Most új munkahelyen dolgozom, Mátyas téren.
+        Megvagyok. Most új munkahelyen dolgozom, Mátyas téren.
+        Megvagyok. Most új munkahelyen dolgozom, Mátyas téren.
+        Megvagyok. Most új munkahelyen dolgozom, Mátyas téren.
+János,  És itt mennyit keresel?
+        És itt mennyit keresel?
+        És itt mennyit keresel?
+        És itt mennyit keresel?
+        És itt mennyit keresel?
+Béla,   Negyvenezer forintot kapok egy hónapban. Ez manapság nem rossz pénz!
+        Negyvenezer forintot kapok egy hónapban. Ez manapság nem rossz pénz!
+        Negyvenezer forintot kapok egy hónapban. Ez manapság nem rossz pénz!
+        Negyvenezer forintot kapok egy hónapban. Ez manapság nem rossz pénz!
+        Negyvenezer forintot kapok egy hónapban. Ez manapság nem rossz pénz!
+János,  Nem bizony!
+        Nem bizony!
+        Nem bizony!
+        Nem bizony!
+        Nem bizony!
 
 # 8
-## Repetition
 
 # 9
-## Repetition
 
 # 10
-## Repetition
 
 # 11
-## Repetition
 Gyuszi,     Apu, ugye tudod, hogy ma van Irén nap?
             Apu, ugye tudod, hogy ma van Irén nap?
             Apu, ugye tudod, hogy ma van Irén nap?
