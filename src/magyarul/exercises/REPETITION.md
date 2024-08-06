@@ -600,6 +600,89 @@ János,  Nem bizony!
         Nem bizony!
 
 # 8
+Riporter,   Mit és hol reggelizel, ebédelsz és vacsorázol?
+            Mit és hol reggelizel, ebédelsz és vacsorázol?
+            Mit és hol reggelizel, ebédelsz és vacsorázol?
+            Mit és hol reggelizel, ebédelsz és vacsorázol?
+            Mit és hol reggelizel, ebédelsz és vacsorázol?
+
+Zoli,       Otthon reggelizem. Reggelire általában vajas kiflit vagy zsemlét eszem, és kakaót vagy tejes kávét iszom. Az iskolaban ebédelek. Ebédre mindig van leves. A második fogás pedig főzelék vagy hús, rizs, krumpli, tészta. Este anyu főz vacsorát. De ha későn jön haza, mert sok a munka az irodában, csak hideget eszünk vacsorára.
+            Otthon reggelizem. Reggelire általában vajas kiflit vagy zsemlét eszem, és kakaót vagy tejes kávét iszom. Az iskolaban ebédelek. Ebédre mindig van leves. A második fogás pedig főzelék vagy hús, rizs, krumpli, tészta. Este anyu főz vacsorát. De ha későn jön haza, mert sok a munka az irodában, csak hideget eszünk vacsorára.
+            Otthon reggelizem. Reggelire általában vajas kiflit vagy zsemlét eszem, és kakaót vagy tejes kávét iszom. Az iskolaban ebédelek. Ebédre mindig van leves. A második fogás pedig főzelék vagy hús, rizs, krumpli, tészta. Este anyu főz vacsorát. De ha későn jön haza, mert sok a munka az irodában, csak hideget eszünk vacsorára.
+            Otthon reggelizem. Reggelire általában vajas kiflit vagy zsemlét eszem, és kakaót vagy tejes kávét iszom. Az iskolaban ebédelek. Ebédre mindig van leves. A második fogás pedig főzelék vagy hús, rizs, krumpli, tészta. Este anyu főz vacsorát. De ha későn jön haza, mert sok a munka az irodában, csak hideget eszünk vacsorára.
+            Otthon reggelizem. Reggelire általában vajas kiflit vagy zsemlét eszem, és kakaót vagy tejes kávét iszom. Az iskolaban ebédelek. Ebédre mindig van leves. A második fogás pedig főzelék vagy hús, rizs, krumpli, tészta. Este anyu főz vacsorát. De ha későn jön haza, mert sok a munka az irodában, csak hideget eszünk vacsorára.
+
+Riporter,   Mit csinálsz délután, iskola után?
+            Mit csinálsz délután, iskola után?
+            Mit csinálsz délután, iskola után?
+            Mit csinálsz délután, iskola után?
+            Mit csinálsz délután, iskola után?
+
+Zoli,       Hazamegyek és először eszem valamit. Az iskolában elég rosszul főznek, és délután mindig éhes vagyok. Aztán hétfőn és szerdán edzésre, kedden és csütörtökön pedig angolra megyek.
+            Hazamegyek és először eszem valamit. Az iskolában elég rosszul főznek, és délután mindig éhes vagyok. Aztán hétfőn és szerdán edzésre, kedden és csütörtökön pedig angolra megyek.
+            Hazamegyek és először eszem valamit. Az iskolában elég rosszul főznek, és délután mindig éhes vagyok. Aztán hétfőn és szerdán edzésre, kedden és csütörtökön pedig angolra megyek.
+            Hazamegyek és először eszem valamit. Az iskolában elég rosszul főznek, és délután mindig éhes vagyok. Aztán hétfőn és szerdán edzésre, kedden és csütörtökön pedig angolra megyek.
+            Hazamegyek és először eszem valamit. Az iskolában elég rosszul főznek, és délután mindig éhes vagyok. Aztán hétfőn és szerdán edzésre, kedden és csütörtökön pedig angolra megyek.
+
+Riporter,   Mit sportolsz?
+            Mit sportolsz?
+            Mit sportolsz?
+            Mit sportolsz?
+            Mit sportolsz?
+
+Zoli,       Focizok.
+            Focizok.
+            Focizok.
+            Focizok.
+            Focizok.
+
+Riporter,   És mikor tanulsz?
+            És mikor tanulsz?
+            És mikor tanulsz?
+            És mikor tanulsz?
+            És mikor tanulsz?
+
+Zoli,       Este. De utálok leckét írni. Inkább magnót hallgatok vagy tévét nézek. De anyu mérges, ha túl hangos a magnó.
+            Este. De utálok leckét írni. Inkább magnót hallgatok vagy tévét nézek. De anyu mérges, ha túl hangos a magnó.
+            Este. De utálok leckét írni. Inkább magnót hallgatok vagy tévét nézek. De anyu mérges, ha túl hangos a magnó.
+            Este. De utálok leckét írni. Inkább magnót hallgatok vagy tévét nézek. De anyu mérges, ha túl hangos a magnó.
+            Este. De utálok leckét írni. Inkább magnót hallgatok vagy tévét nézek. De anyu mérges, ha túl hangos a magnó.
+
+Riporter,   Ha nem értesz valamit, a szüleid tudnak segíteni?
+            Ha nem értesz valamit, a szüleid tudnak segíteni?
+            Ha nem értesz valamit, a szüleid tudnak segíteni?
+            Ha nem értesz valamit, a szüleid tudnak segíteni?
+            Ha nem értesz valamit, a szüleid tudnak segíteni?
+
+Zoli,       Nem nagyon érnek rá. Anyu munka után bevásárol, főz. Mindig fáradt és ideges. Apu későn jár haza, mert két munkahelyen dolgozik.
+            Nem nagyon érnek rá. Anyu munka után bevásárol, főz. Mindig fáradt és ideges. Apu későn jár haza, mert két munkahelyen dolgozik.
+            Nem nagyon érnek rá. Anyu munka után bevásárol, főz. Mindig fáradt és ideges. Apu későn jár haza, mert két munkahelyen dolgozik.
+            Nem nagyon érnek rá. Anyu munka után bevásárol, főz. Mindig fáradt és ideges. Apu későn jár haza, mert két munkahelyen dolgozik.
+            Nem nagyon érnek rá. Anyu munka után bevásárol, főz. Mindig fáradt és ideges. Apu későn jár haza, mert két munkahelyen dolgozik.
+
+Riporter,   Segítesz otthon a házimunkában?
+            Segítesz otthon a házimunkában?
+            Segítesz otthon a házimunkában?
+            Segítesz otthon a házimunkában?
+            Segítesz otthon a házimunkában?
+
+Zoli,       Nem nagyon. A szüleim takarítanak. Én újságot veszek, mert apu szeret újságot olvasni, vagy néha segítek bevásárolni.
+            Nem nagyon. A szüleim takarítanak. Én újságot veszek, mert apu szeret újságot olvasni, vagy néha segítek bevásárolni.
+            Nem nagyon. A szüleim takarítanak. Én újságot veszek, mert apu szeret újságot olvasni, vagy néha segítek bevásárolni.
+            Nem nagyon. A szüleim takarítanak. Én újságot veszek, mert apu szeret újságot olvasni, vagy néha segítek bevásárolni.
+            Nem nagyon. A szüleim takarítanak. Én újságot veszek, mert apu szeret újságot olvasni, vagy néha segítek bevásárolni.
+
+Riporter,   És mit szeretnél elérni? Mi leszel, ha felnőtt leszel?
+            És mit szeretnél elérni? Mi leszel, ha felnőtt leszel?
+            És mit szeretnél elérni? Mi leszel, ha felnőtt leszel?
+            És mit szeretnél elérni? Mi leszel, ha felnőtt leszel?
+            És mit szeretnél elérni? Mi leszel, ha felnőtt leszel?
+
+Zoli,       Nem is tudom. Talá állatorvos. Sok pénzt szeretnék egy nyugati kocsit és egy nagy házat is. Szeretnék sokat utazni külföldre. Imádok meccsre járni és nagyon szeretnék egyszer Angliában egy focimeccset látni. Remélem, hogy sikerül! De lehet, hogy mindez csak álom...
+            Nem is tudom. Talá állatorvos. Sok pénzt szeretnék egy nyugati kocsit és egy nagy házat is. Szeretnék sokat utazni külföldre. Imádok meccsre járni és nagyon szeretnék egyszer Angliában egy focimeccset látni. Remélem, hogy sikerül! De lehet, hogy mindez csak álom...
+            Nem is tudom. Talá állatorvos. Sok pénzt szeretnék egy nyugati kocsit és egy nagy házat is. Szeretnék sokat utazni külföldre. Imádok meccsre járni és nagyon szeretnék egyszer Angliában egy focimeccset látni. Remélem, hogy sikerül! De lehet, hogy mindez csak álom...
+            Nem is tudom. Talá állatorvos. Sok pénzt szeretnék egy nyugati kocsit és egy nagy házat is. Szeretnék sokat utazni külföldre. Imádok meccsre járni és nagyon szeretnék egyszer Angliában egy focimeccset látni. Remélem, hogy sikerül! De lehet, hogy mindez csak álom...
+            Nem is tudom. Talá állatorvos. Sok penzt szeretnék egy nyugati kocsit és egy nagy házat is. Szeretnék sokat utazni külföldre. Imádok meccsre járni és nagyon szeretnék egyszer Angliában egy focimeccset látni. Remélem, hogy sikerül! De lehet, hogy mindez csak álom...
 
 # 9
 
