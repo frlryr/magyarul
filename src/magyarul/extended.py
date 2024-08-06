@@ -550,6 +550,27 @@
 | Szürke       | Grey          |         |
 | Zöld         | Green         |         |
 
+## Compound words
+* Made of two separate words.
+    * e.g. Balantonfüred.
+* If the second element contains only front vowels, the word will take front vowel
+    endings.
+
+## Polite requets
+### Tessék, tessenek
+* If followed by infinitive then they are used to express polite request.
+    * e.g. Tessék befáradni!
+           Please come in!
+* These words are mostly used when talking to customers.
+
+## Az egyik ..., a másik ...
+* Means "The one ..., the other ...".
+* It's like the English.
+    * Két szoba kiadó: az egyik az első, a másik a harmadik emeleten van.
+      There are two rooms to let. One is on the first, the other is on the third
+        floor.
+
+
 ===
 
     Én                  nem érek rá

@@ -342,8 +342,20 @@
 
 ## Endings
 ### -ról, -ről
-* Words taking the endnig -n
-* TODO I was here
+* Used with words taking the ending:
+    * -n in answer to Hol?.
+    * -ra/-re in answer to Hová?.
+    * -ról for back vowel words.
+    * -ről for front vowel words.
+* In answer to the question Honnan?
+
+### -ból, -ből
+* Used with words taking the ending:
+    * -ban/-ben in answer to Hol?.
+    * -ba/-be in answer to Hová?.
+    * -ból for back vowel words.
+    * -ből for front vowel words.
+* In answer to the question Honnan?
 
 ### Accusative: -t
 * The object of hungarian sentence is marked by -t.
