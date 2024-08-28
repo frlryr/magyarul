@@ -685,8 +685,175 @@ Zoli,       Nem is tudom. Talá állatorvos. Sok pénzt szeretnék egy nyugati k
             Nem is tudom. Talá állatorvos. Sok penzt szeretnék egy nyugati kocsit és egy nagy házat is. Szeretnék sokat utazni külföldre. Imádok meccsre járni és nagyon szeretnék egyszer Angliában egy focimeccset látni. Remélem, hogy sikerül! De lehet, hogy mindez csak álom...
 
 # 9
+Erzsi           , Csókolom, Mariska néni! Hogy tetszik lenni?
+                  Csókolom, Mariska néni! Hogy tetszik lenni?
+                  Csókolom, Mariska néni! Hogy tetszik lenni?
+                  Csókolom, Mariska néni! Hogy tetszik lenni?
+                  Csókolom, Mariska néni! Hogy tetszik lenni?
+Mariska néni    , Szervusz, Erzsi! Nem túl jól. Fáj a hátam meg a lábam. Öreg vagyok én már!
+                  Szervusz, Erzsi! Nem túl jól. Fáj a hátam meg a lábam. Öreg vagyok én már!
+                  Szervusz, Erzsi! Nem túl jól. Fáj a hátam meg a lábam. Öreg vagyok én már!
+                  Szervusz, Erzsi! Nem túl jól. Fáj a hátam meg a lábam. Öreg vagyok én már!
+                  Szervusz, Erzsi! Nem túl jól. Fáj a hátam meg a lábam. Öreg vagyok én már!
+Erzsi           , Öreg? Hiszen még csak hatvanhárom éves tetszik lenni! Ez ma már nem kor.
+                  Öreg? Hiszen még csak hatvanhárom éves tetszik lenni! Ez ma már nem kor.
+                  Öreg? Hiszen még csak hatvanhárom éves tetszik lenni! Ez ma már nem kor.
+                  Öreg? Hiszen még csak hatvanhárom éves tetszik lenni! Ez ma már nem kor.
+                  Öreg? Hiszen még csak hatvanhárom éves tetszik lenni! Ez ma már nem kor.
+Mariska néni    , Dehogynem! Szalad az idő ... Itt az öregség meg a reuma. Már az orvosság sem segít.
+                  Dehogynem! Szalad az idő ... Itt az öregség meg a reuma. Már az orvosság sem segít.
+                  Dehogynem! Szalad az idő ... Itt az öregség meg a reuma. Már az orvosság sem segít.
+                  Dehogynem! Szalad az idő ... Itt az öregség meg a reuma. Már az orvosság sem segít.
+                  Dehogynem! Szalad az idő ... Itt az öregség meg a reuma. Már az orvosság sem segít.
+Erzsi           , Sikerült taxit találni a pályaudvaron? 
+                  Sikerült taxit találni a pályaudvaron?
+                  Sikerült taxit találni a pályaudvaron?
+                  Sikerült taxit találni a pályaudvaron?
+                  Sikerült taxit találni a pályaudvaron?
+Mariska néni    , Taxit? A taxi túl drága! És ez a város! Szép, de mindenki mindig rohan ... a sok autó az utcán, a zaj, a piszok, a tömeg ... Hogy tudtok itt élni? És micsoda szeptember ez? Fúj a szél, eszik az eső, hideg van. A fejem is kezd fájni ...
+                  Taxit? A taxi túl drága! És ez a város! Szép, de mindenki mindig rohan ... a sok autó az utcán, a zaj, a piszok, a tömeg ... Hogy tudtok itt élni? És micsoda szeptember ez? Fúj a szél, eszik az eső, hideg van. A fejem is kezd fájni ...
+                  Taxit? A taxi túl drága! És ez a város! Szép, de mindenki mindig rohan ... a sok autó az utcán, a zaj, a piszok, a tömeg ... Hogy tudtok itt élni? És micsoda szeptember ez? Fúj a szél, eszik az eső, hideg van. A fejem is kezd fájni ...
+                  Taxit? A taxi túl drága! És ez a város! Szép, de mindenki mindig rohan ... a sok autó az utcán, a zaj, a piszok, a tömeg ... Hogy tudtok itt élni? És micsoda szeptember ez? Fúj a szél, eszik az eső, hideg van. A fejem is kezd fájni ...
+                  Taxit? A taxi túl drága! És ez a város! Szép, de mindenki mindig rohan ... a sok autó az utcán, a zaj, a piszok, a tömeg ... Hogy tudtok itt élni? És micsoda szeptember ez? Fúj a szél, eszik az eső, hideg van. A fejem is kezd fájni ...
+Erzsi           , A rádió szerint ma csak kilenc-tíz fok lesz. De hát nemsokára október lesz, Mariska néni. Jön a tél. Nem tetszik fázni? Még nincs fűtés a lakásban.
+                  A rádió szerint ma csak kilenc-tíz fok lesz. De hát nemsokára október lesz, Mariska néni. Jön a tél. Nem tetszik fázni? Még nincs fűtés a lakásban.
+                  A rádió szerint ma csak kilenc-tíz fok lesz. De hát nemsokára október lesz, Mariska néni. Jön a tél. Nem tetszik fázni? Még nincs fűtés a lakásban.
+                  A rádió szerint ma csak kilenc-tíz fok lesz. De hát nemsokára október lesz, Mariska néni. Jön a tél. Nem tetszik fázni? Még nincs fűtés a lakásban.
+                  A rádió szerint ma csak kilenc-tíz fok lesz. De hát nemsokára október lesz, Mariska néni. Jön a tél. Nem tetszik fázni? Még nincs fűtés a lakásban.
+Mariska néni    , Bizony nincs melegem! Jaj, a reumám ...
+                  Bizony nincs melegem! Jaj, a reumám ...
+                  Bizony nincs melegem! Jaj, a reumám ...
+                  Bizony nincs melegem! Jaj, a reumám ...
+                  Bizony nincs melegem! Jaj, a reumám ...
+Erzsi           , Nem tetszik kérni egy kávét? Hamarosan kész az ebéd és ebédelünk.
+                  Nem tetszik kérni egy kávét? Hamarosan kész az ebéd és ebédelünk.
+                  Nem tetszik kérni egy kávét? Hamarosan kész az ebéd és ebédelünk.
+                  Nem tetszik kérni egy kávét? Hamarosan kész az ebéd és ebédelünk.
+                  Nem tetszik kérni egy kávét? Hamarosan kész az ebéd és ebédelünk.
+Mariska néni    , Hm. Konyak nincsen?
+                  Hm. Konyak nincsen?
+                  Hm. Konyak nincsen?
+                  Hm. Konyak nincsen?
+                  Hm. Konyak nincsen?
+Erzsi           , De van. De Mariska néni. Ha gyógyszert tetszik szedni, nem szabad alkoholt inni!
+                  De van. De Mariska néni. Ha gyógyszert tetszik szedni, nem szabad alkoholt inni!
+                  De van. De Mariska néni. Ha gyógyszert tetszik szedni, nem szabad alkoholt inni!
+                  De van. De Mariska néni. Ha gyógyszert tetszik szedni, nem szabad alkoholt inni!
+                  De van. De Mariska néni. Ha gyógyszert tetszik szedni, nem szabad alkoholt inni!
+Mariska néni    , Ugyan! Nem orvosság, hanem konyak kell, amikor kint hideg van! Egyedül különben sem iszom, de ha ketten vagyunk, az más! Örülök, hogy jól vagytok. Egészségedre, Erzsi! 
+                  Ugyan! Nem orvosság, hanem konyak kell, amikor kint hideg van! Egyedül különben sem iszom, de ha ketten vagyunk, az más! Örülök, hogy jól vagytok. Egészségedre, Erzsi!
+                  Ugyan! Nem orvosság, hanem konyak kell, amikor kint hideg van! Egyedül különben sem iszom, de ha ketten vagyunk, az más! Örülök, hogy jól vagytok. Egészségedre, Erzsi!
+                  Ugyan! Nem orvosság, hanem konyak kell, amikor kint hideg van! Egyedül különben sem iszom, de ha ketten vagyunk, az más! Örülök, hogy jól vagytok. Egészségedre, Erzsi!
+                  Ugyan! Nem orvosság, hanem konyak kell, amikor kint hideg van! Egyedül különben sem iszom, de ha ketten vagyunk, az más! Örülök, hogy jól vagytok. Egészségedre, Erzsi!
+Erzsi           , Egészségére, Mariska néni!
+                  Egészségére, Mariska néni!
+                  Egészségére, Mariska néni!
+                  Egészségére, Mariska néni!
+                  Egészségére, Mariska néni!
 
 # 10
+Gábor       , Halló! Te vagy az, Márti?
+              Halló! Te vagy az, Márti?
+              Halló! Te vagy az, Márti?
+              Halló! Te vagy az, Márti?
+              Halló! Te vagy az, Márti?
+Női hang    , Nem kérem, ez az Állatkert.
+              Nem kérem, ez az Állatkert.
+              Nem kérem, ez az Állatkert.
+              Nem kérem, ez az Állatkert.
+Gábor       , Bocsánat! Téves.
+              Bocsánat! Téves.
+              Bocsánat! Téves.
+              Bocsánat! Téves.
+              Bocsánat! Téves.
+
+(He is dialing again.)
+
+Kisné       , Tessék!
+              Tessék!
+              Tessék!
+              Tessék!
+              Tessék!
+Gábor       , Jó napot kivánok! Kis lakás?
+              Jó napot kivánok! Kis lakás?
+              Jó napot kivánok! Kis lakás?
+              Jó napot kivánok! Kis lakás?
+              Jó napot kivánok! Kis lakás?
+Kisné       , Nem, elég nagy.
+              Nem, elég nagy.
+              Nem, elég nagy.
+              Nem, elég nagy.
+              Nem, elég nagy.
+Gábor       , (Laughing) Csókolom! Gábor vagyok. Mártával szeretnék beszélni.
+              (Laughing) Csókolom! Gábor vagyok. Mártával szeretnék beszélni.
+              (Laughing) Csókolom! Gábor vagyok. Mártával szeretnék beszélni.
+              (Laughing) Csókolom! Gábor vagyok. Mártával szeretnék beszélni.
+              (Laughing) Csókolom! Gábor vagyok. Mártával szeretnék beszélni.
+Kisné       , Szervusz, Gábor! Egy pillanat! Márta! Telefon!
+              Szervusz, Gábor! Egy pillanat! Márta! Telefon!
+              Szervusz, Gábor! Egy pillanat! Márta! Telefon!
+              Szervusz, Gábor! Egy pillanat! Márta! Telefon!
+              Szervusz, Gábor! Egy pillanat! Márta! Telefon!
+Márta       , Halló!
+              Halló!
+              Halló!
+              Halló!
+              Halló!
+Gábor       , Szia, Márti! Én vagyok az, Gábor.
+              Szia, Márti! Én vagyok az, Gábor.
+              Szia, Márti! Én vagyok az, Gábor.
+              Szia, Márti! Én vagyok az, Gábor.
+              Szia, Márti! Én vagyok az, Gábor.
+Márta       , Szia, Gábor! Mi van?
+              Szia, Gábor! Mi van?
+              Szia, Gábor! Mi van?
+              Szia, Gábor! Mi van?
+              Szia, Gábor! Mi van? 
+Gábor       , Nincs kedved este moziba jönni?
+              Nincs kedved este moziba jönni?
+              Nincs kedved este moziba jönni?
+              Nincs kedved este moziba jönni?
+              Nincs kedved este moziba jönni?
+Márta       , De igen. Milyen film megy a moziban?
+              De igen. Milyen film megy a moziban?
+              De igen. Milyen film megy a moziban?
+              De igen. Milyen film megy a moziban?
+              De igen. Milyen film megy a moziban?
+Gábor       , Egy régi magyar film. Szerelmesfilm a címe. Ismered?
+              Egy régi magyar film. Szerelmesfilm a címe. Ismered?
+              Egy régi magyar film. Szerelmesfilm a címe. Ismered?
+              Egy régi magyar film. Szerelmesfilm a címe. Ismered?
+              Egy régi magyar film. Szerelmesfilm a címe. Ismered?
+Márta       , Ez nem egy Szabó István-film?
+              Ez nem egy Szabó István-film?
+              Ez nem egy Szabó István-film?
+              Ez nem egy Szabó István-film?
+              Ez nem egy Szabó István-film?
+Gábor       , De igen.
+              De igen.
+              De igen.
+              De igen.
+              De igen.
+Márta       , De jó! Vali szerint nagyon jó film. Hánykor és hol találkozunk?
+              De jó! Vali szerint nagyon jó film. Hánykor és hol találkozunk?
+              De jó! Vali szerint nagyon jó film. Hánykor és hol találkozunk?
+              De jó! Vali szerint nagyon jó film. Hánykor és hol találkozunk?
+              De jó! Vali szerint nagyon jó film. Hánykor és hol találkozunk?
+Gábor       , Hétkor, a Bástya mozi előtt nem tudunk találkozni, mert Sári néni influenzás és most a gyógyszertárba megyek. A Moszkva térről jövök a négyes villamossal, de hétkor ott leszek. Ugye pontos leszel?
+              Hétkor, a Bástya mozi előtt nem tudunk találkozni, mert Sári néni influenzás és most a gyógyszertárba megyek. A Moszkva térről jövök a négyes villamossal, de hétkor ott leszek. Ugye pontos leszel?
+              Hétkor, a Bástya mozi előtt nem tudunk találkozni, mert Sári néni influenzás és most a gyógyszertárba megyek. A Moszkva térről jövök a négyes villamossal, de hétkor ott leszek. Ugye pontos leszel?
+              Hétkor, a Bástya mozi előtt nem tudunk találkozni, mert Sári néni influenzás és most a gyógyszertárba megyek. A Moszkva térről jövök a négyes villamossal, de hétkor ott leszek. Ugye pontos leszel?
+              Hétkor, a Bástya mozi előtt nem tudunk találkozni, mert Sári néni influenzás és most a gyógyszertárba megyek. A Moszkva térről jövök a négyes villamossal, de hétkor ott leszek. Ugye pontos leszel?
+Márta       , Persze. Akkor hétkor várlak a mozi előtt. Szia!
+              Persze. Akkor hétkor várlak a mozi előtt. Szia!
+              Persze. Akkor hétkor várlak a mozi előtt. Szia!
+              Persze. Akkor hétkor várlak a mozi előtt. Szia!
+              Persze. Akkor hétkor várlak a mozi előtt. Szia!
+Gábor       , Szia!
+              Szia!
+              Szia!
+              Szia!
+              Szia!
 
 # 11
 Gyuszi,     Apu, ugye tudod, hogy ma van Irén nap?
