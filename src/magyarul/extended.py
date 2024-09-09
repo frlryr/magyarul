@@ -570,7 +570,6 @@
       There are two rooms to let. One is on the first, the other is on the third
         floor.
 
-
 ===
 
     Én                  nem érek rá
