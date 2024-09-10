@@ -166,7 +166,7 @@ Ildi,   Szia, Ildi vagyok.
         Szia, Ildi vagyok.
         Szia, Ildi vagyok.
 ```
-``` 
+```
 Jill,   Szia, Jill vagyok.
         Szia, Jill vagyok.
         Szia, Jill vagyok.
@@ -358,7 +358,7 @@ Kati,   (To herself.) Kell egy kiló krumpli, fél kiló paradicsom, háromnegye
         (To herself.) Kell egy kiló krumpli, fél kiló paradicsom, háromnegyed kiló paprika, negyed kiló gomba, egy kiló alma és egy kiló barack. Kenyér és hús is kell. Azután pedig a közértbe megyek. Kell két liter tej, sajt, sonka, szalámi és kolbász.
         (To herself.) Kell egy kiló krumpli, fél kiló paradicsom, háromnegyed kiló paprika, negyed kiló gomba, egy kiló alma és egy kiló barack. Kenyér és hús is kell. Azután pedig a közértbe megyek. Kell két liter tej, sajt, sonka, szalámi és kolbász.
         (To herself.) Kell egy kiló krumpli, fél kiló paradicsom, háromnegyed kiló paprika, negyed kiló gomba, egy kiló alma és egy kiló barack. Kenyér és hús is kell. Azután pedig a közértbe megyek. Kell két liter tej, sajt, sonka, szalámi és kolbász.
-        (To herself.) Kell egy kiló krumpli. fél kiló paradicsom, háromnegyed kiló paprika, negyed kiló gomba, egy kiló alma és egy kiló barack. Kenyér és hús is kell. Azután pedig a közértbe megyek. Kell két liter tej, sajt, sonka, szalámi és kolbász. 
+        (To herself.) Kell egy kiló krumpli. fél kiló paradicsom, háromnegyed kiló paprika, negyed kiló gomba, egy kiló alma és egy kiló barack. Kenyér és hús is kell. Azután pedig a közértbe megyek. Kell két liter tej, sajt, sonka, szalámi és kolbász.
 ```
 ```
 (Having done some of he shopping. Kati enters an ABC. She walks up to the counter.)
@@ -629,7 +629,7 @@ Csaba,  Jó, jövök. Most nem sietek haza. Este franciaóra lesz.
         Jó, jövök. Most nem sietek haza. Este franciaóra lesz.
         Jó, jövök. Most nem sietek haza. Este franciaóra lesz.
         Jó, jövök. Most nem sietek haza. Este franciaóra lesz.
-        Jó, jövök. Most nem sietek haza. Este franciaóra lesz.  
+        Jó, jövök. Most nem sietek haza. Este franciaóra lesz.
 ```
 ```
 (They sit down at a table.)
@@ -691,7 +691,7 @@ Sanyi,  Hány éves? Fiatal?
         Hány éves? Fiatal?
 ```
 ```
-Csaba,  Azt hiszem, huszonnégy éves. Nagyon csinos ...  
+Csaba,  Azt hiszem, huszonnégy éves. Nagyon csinos ...
         Azt hiszem, huszonnégy éves. Nagyon csinos ...
         Azt hiszem, huszonnégy éves. Nagyon csinos ...
         Azt hiszem, huszonnégy éves. Nagyon csinos ...
@@ -935,7 +935,7 @@ Mariska néni    , Dehogynem! Szalad az idő ... Itt az öregség meg a reuma. M
                   Dehogynem! Szalad az idő ... Itt az öregség meg a reuma. Már az orvosság sem segít.
 ```
 ```
-Erzsi           , Sikerült taxit találni a pályaudvaron? 
+Erzsi           , Sikerült taxit találni a pályaudvaron?
                   Sikerült taxit találni a pályaudvaron?
                   Sikerült taxit találni a pályaudvaron?
                   Sikerült taxit találni a pályaudvaron?
@@ -984,7 +984,7 @@ Erzsi           , De van. De Mariska néni. Ha gyógyszert tetszik szedni, nem s
                   De van. De Mariska néni. Ha gyógyszert tetszik szedni, nem szabad alkoholt inni!
 ```
 ```
-Mariska néni    , Ugyan! Nem orvosság, hanem konyak kell, amikor kint hideg van! Egyedül különben sem iszom, de ha ketten vagyunk, az más! Örülök, hogy jól vagytok. Egészségedre, Erzsi! 
+Mariska néni    , Ugyan! Nem orvosság, hanem konyak kell, amikor kint hideg van! Egyedül különben sem iszom, de ha ketten vagyunk, az más! Örülök, hogy jól vagytok. Egészségedre, Erzsi!
                   Ugyan! Nem orvosság, hanem konyak kell, amikor kint hideg van! Egyedül különben sem iszom, de ha ketten vagyunk, az más! Örülök, hogy jól vagytok. Egészségedre, Erzsi!
                   Ugyan! Nem orvosság, hanem konyak kell, amikor kint hideg van! Egyedül különben sem iszom, de ha ketten vagyunk, az más! Örülök, hogy jól vagytok. Egészségedre, Erzsi!
                   Ugyan! Nem orvosság, hanem konyak kell, amikor kint hideg van! Egyedül különben sem iszom, de ha ketten vagyunk, az más! Örülök, hogy jól vagytok. Egészségedre, Erzsi!
@@ -1076,7 +1076,7 @@ Márta       , Szia, Gábor! Mi van?
               Szia, Gábor! Mi van?
               Szia, Gábor! Mi van?
               Szia, Gábor! Mi van?
-              Szia, Gábor! Mi van? 
+              Szia, Gábor! Mi van?
 ```
 ```
 Gábor       , Nincs kedved este moziba jönni?
@@ -1168,7 +1168,7 @@ Kormos G.,  (laughing) Honnan tudod?
             (laughing) Honnan tudod?
             (laughing) Honnan tudod?
             (laughing) Honnan tudod?
-            (laughing) Honnan tudod? 
+            (laughing) Honnan tudod?
 ```
 ```
 Gyuszi,     Nem nehéz kitalálni. Minden évben ugyanazt veszed. Azt hiszem, már egy kicsit unja. Szerintem jobban teszed, ha idén valami mást adsz neki.
@@ -1181,7 +1181,7 @@ Gyuszi,     Nem nehéz kitalálni. Minden évben ugyanazt veszed. Azt hiszem, m�
 Kormos G.,  Tudom, csak viccelek. Idén majd valami eredeti ajándékot kap.
             Tudom, csak viccelek. Idén majd valami eredeti ajándékot kap.
             Tudom, csak viccelek. idén majd valami eredeti ajándékot kap.
-            Tudom, csak viccelek. Idén majd valami eredeti ajándékot kap
+            Tudom, csak viccelek. Idén majd valami eredeti ajándékot kap.
             Tudom, csak viccelek. Idén majd valami eredeti ajándékot kap.
 ```
 ```
@@ -1288,5 +1288,145 @@ Kormos G.,  Igen, de túl hosszú. Irén csak a rövid szoknyát szereti. (With 
 
 # 12. Hány éjszakára?
 ```
+Jóska,          Jó napot kivánok! Látom, itt van kiadó szoba.
+                Jó napot kivánok! Látom, itt van kiadó szoba.
+                Jó napot kivánok! Látom, itt van kiadó szoba.
+                Jó napot kivánok! Látom, itt van kiadó szoba.
+                Jó napot kivánok! Látom, itt van kiadó szoba.
+Juliska néni,   Tessék? Nem hallom! Sajnos egy kicsit süket vagyok.
+                Tessék? Nem hallom! Sajnos egy kicsit süket vagyok.
+                Tessék? Nem hallom! Sajnos egy kicsit süket vagyok.
+                Tessék? Nem hallom! Sajnos egy kicsit süket vagyok.
+                Tessék? Nem hallom! Sajnos egy kicsit süket vagyok.
+Jóska,          (Raising his voice.) Tessék mondani, van szabad szoba?
+                (Raising his voice.) Tessék mondani, van szabad szoba?
+                (Raising his voice.) Tessék mondani, van szabad szoba?
+                (Raising his voice.) Tessék mondani, van szabad szoba?
+                (Raising his voice.) Tessék mondani, van szabad szoba?
+Juliska néni,   Igen, két üres szoba is van. Az egyik egyágyas, a másik pedig kétágyas. Hány személyre kellene?
+                Igen, két üres szoba is van. Az egyik egyágyas, a másik pedig kétágyas. Hány személyre kellene?
+                Igen, két üres szoba is van. Az egyik egyágyas, a másik pedig kétágyas. Hány személyre kellene?
+                Igen, két üres szoba is van. Az egyik egyágyas, a másik pedig kétágyas. Hány személyre kellene?
+                Igen, két üres szoba is van. Az egyik egyágyas, a másik pedig kétágyas. Hány személyre kellene?
+Jóska,          Két személyre. Ketten vagyunk a feleségemmel.
+                Két személyre. Ketten vagyunk a feleségemmel.
+                Két személyre. Ketten vagyunk a feleségemmel.
+                Két személyre. Ketten vagyunk a feleségemmel.
+                Két személyre. Ketten vagyunk a feleségemmel.
+Juliska néni,   Értem. Akkor nyilván a második szobát kérik. Hány éjszakára kellene?
+                Értem. Akkor nyilván a második szobát kérik. Hány éjszakára kellene?
+                Értem. Akkor nyilván a második szobát kérik. Hány éjszakára kellene?
+                Értem. Akkor nyilván a második szobát kérik. Hány éjszakára kellene?
+                Értem. Akkor nyilván a második szobát kérik. Hány éjszakára kellene?
+Jóska,          Valószínűleg két vagy három éjszakára, de még nem tudjuk biztosan. Egy csendes szobát keresünk szép kilátással.
+                Valószínűleg két vagy három éjszakára, de még nem tudjuk biztosan. Egy csendes szobát keresünk szép kilátással.
+                Valószínűleg két vagy három éjszakára, de még nem tudjuk biztosan. Egy csendes szobát keresünk szép kilátással.
+                Valószínűleg két vagy három éjszakára, de még nem tudjuk biztosan. Egy csendes szobát keresünk szép kilátással.
+                Valószínűleg két vagy három éjszakára, de még nem tudjuk biztosan. Egy csendes szobát keresünk szép kilátással.
+Juliska néni,   A kilátás nagyon szép. A egyik ablak a tóra néz, a másik a kertre.
+                A kilátás nagyon szép. A egyik ablak a tóra néz, a másik a kertre.
+                A kilátás nagyon szép. A egyik ablak a tóra néz, a másik a kertre.
+                A kilátás nagyon szép. A egyik ablak a tóra néz, a másik a kertre.
+                A kilátás nagyon szép. A egyik ablak a tóra néz, a másik a kertre.
+Klára,          A fürdőszoba közös a családdal?
+                A fürdőszoba közös a családdal?
+                A fürdőszoba közös a családdal?
+                A fürdőszoba közös a családdal?
+                A fürdőszoba közös a családdal?
+Juliska néni,   Mit mond? Nem hallom?
+                Mit mond? Nem hallom?
+                Mit mond? Nem hallom?
+                Mit mond? Nem hallom?
+                Mit mond? Nem hallom?
+Klára,          (Raising her voice.) Közös fürdőszoba a családdal?
+                (Raising her voice.) Közös fürdőszoba a családdal?
+                (Raising her voice.) Közös fürdőszoba a családdal?
+                (Raising her voice.) Közös fürdőszoba a családdal?
+                (Raising her voice.) Közös fürdőszoba a családdal?
+Juliska néni,   Igen.
+                Igen.
+                Igen.
+                Igen.
+                Igen.
+Klára,          És mennyibe kerül a szoba egy éjszakára?
+                És mennyibe kerül a szoba egy éjszakára?
+                És mennyibe kerül a szoba egy éjszakára?
+                És mennyibe kerül a szoba egy éjszakára?
+                És mennyibe kerül a szoba egy éjszakára?
+Juliska néni,   Kilencszáz forintba.
+                Kilencszáz forintba.
+                Kilencszáz forintba.
+                Kilencszáz forintba.
+                Kilencszáz forintba.
+Jóska,          Nem is drága. Az árban benne van a reggeli is?
+                Nem is drága. Az árban benne van a reggeli is?
+                Nem is drága. Az árban benne van a reggeli is?
+                Nem is drága. Az árban benne van a reggeli is?
+                Nem is drága. Az árban benne van a reggeli is?
+Juliska néni,   Nincsen. De ha kérnek reggelit, szívesen kérszítek. A reggeli hét órakor van a teraszon és plusz szávötven forintba kerül.
+                Nincsen. De ha kérnek reggelit, szívesen kérszítek. A reggeli hét órakor van a teraszon és plusz szávötven forintba kerül.
+                Nincsen. De ha kérnek reggelit, szívesen kérszítek. A reggeli hét órakor van a teraszon és plusz szávötven forintba kerül.
+                Nincsen. De ha kérnek reggelit, szívesen kérszítek. A reggeli hét órakor van a teraszon és plusz szávötven forintba kerül.
+                Nincsen. De ha kérnek reggelit, szívesen kérszítek. A reggeli hét órakor van a teraszon és plusz szávötven forintba kerül.
+Jóska,          Nem lehetne nyolckor reggelizni? Most szabadságon vagyunk és nem akarunk korán kelni.
+                Nem lehetne nyolckor reggelizni? Most szabadságon vagyunk és nem akarunk korán kelni.
+                Nem lehetne nyolckor reggelizni? Most szabadságon vagyunk és nem akarunk korán kelni.
+                Nem lehetne nyolckor reggelizni? Most szabadságon vagyunk és nem akarunk korán kelni.
+                Nem lehetne nyolckor reggelizni? Most szabadságon vagyunk és nem akarunk korán kelni.
+Juliska néni,   Hogyne lehetne!
+                Hogyne lehetne!
+                Hogyne lehetne!
+                Hogyne lehetne!
+                Hogyne lehetne!
+Jóska,          (Looking around cheerfully.) Nagyon szép helyen tetszenek lakni! És ha megunjuk Tihanyt, közel van Balatonfüred. Nem tetszik tudni, milyen gyakran indul hajó Tihanyból Balatonfüredre?
+                (Looking around cheerfully.) Nagyon szép helyen tetszenek lakni! És ha megunjuk Tihanyt, közel van Balatonfüred. Nem tetszik tudni, milyen gyakran indul hajó Tihanyból Balatonfüredre?
+                (Looking around cheerfully.) Nagyon szép helyen tetszenek lakni! És ha megunjuk Tihanyt, közel van Balatonfüred. Nem tetszik tudni, milyen gyakran indul hajó Tihanyból Balatonfüredre?
+                (Looking around cheerfully.) Nagyon szép helyen tetszenek lakni! És ha megunjuk Tihanyt, közel van Balatonfüred. Nem tetszik tudni, milyen gyakran indul hajó Tihanyból Balatonfüredre?
+                (Looking around cheerfully.) Nagyon szép helyen tetszenek lakni! És ha megunjuk Tihanyt, közel van Balatonfüred. Nem tetszik tudni, milyen gyakran indul hajó Tihanyból Balantofüredre?
+Juliska néni,   Úgy tudom, minden fél órában.
+                Úgy tudom, minden fél órában.
+                Úgy tudom, minden fél órában.
+                Úgy tudom, minden fél órában.
+                Úgy tudom, minden fél órában.
+Jóska,          Nagyszerű! De még nem is mutatkoztunk be: engem Jóskának hívnak, a feleségemet pedig Klárának hívják.
+                Nagyszerű! De még nem is mutatkoztunk be: engem Jóskának hívnak, a feleségemet pedig Klárának hívják.
+                Nagyszerű! De még nem is mutatkoztunk be: engem Jóskának hívnak, a feleségemet pedig Klárának hívják.
+                Nagyszerű! De még nem is mutatkoztunk be: engem Jóskának hívnak, a feleségemet pedig Klárának hívják.
+                Nagyszerű! De még nem is mutatkoztunk be: engem Jóskának hívnak, a feleségemet pedig Klárának hívják.
+Juliska néni,   Én pedig Juliska néni vagyok. Tessenek bafáradni! Megmutatom a szobát. (She leads the way.) Erre tessenek!
+                Én pedig Juliska néni vagyok. Tessenek bafáradni! Megmutatom a szobát. (She leads the way.) Erre tessenek!
+                Én pedig Juliska néni vagyok. Tessenek bafáradni! Megmutatom a szobát. (She leads the way.) Erre tessenek!
+                Én pedig Juliska néni vagyok. Tessenek bafáradni! Megmutatom a szobát. (She leads the way.) Erre tessenek!
+                Én pedig Juliska néni vagyok. Tessenek bafáradni! Megmutatom a szobát. (She leads the way.) Erre tessenek!
+Jóska,          Jó, megnézzük! (They enter a room.)
+                Jó, megnézzük! (They enter a room.)
+                Jó, megnézzük! (They enter a room.)
+                Jó, megnézzük! (They enter a room.)
+                Jó, megnézzük! (They enter a room.)
+Klára,          Erkély is van?! Milyen gyönyörű az erkélyről a kilátás! (Suddenly a loud snore comes through the thin wall from the adjoining room. Klára and Jóska look startled.)
+                Erkély is van?! Milyen gyönyörű az erkélyről a kilátás! (Suddenly a loud snore comes through the thin wall from the adjoining room. Klára and Jóska look startled.)
+                Erkély is van?! Milyen gyönyörű az erkélyről a kilátás! (Suddenly a loud snore comes through the thin wall from the adjoining room. Klára and Jóska look startled.)
+                Erkély is van?! Milyen gyönyörű az erkélyről a kilátás! (Suddenly a loud snore comes through the thin wall from the adjoining room. Klára and Jóska look startled.)
+                Erkély is van?! Milyen gyönyörű az erkélyről a kilátás! (Suddenly a loud snore comes through the thin wall from the adjoining room. Klára and Jóska look startled.)
+Klára,          Tessék mondani, mi ez a zaj?
+                Tessék mondani, mi ez a zaj?
+                Tessék mondani, mi ez a zaj?
+                Tessék mondani, mi ez a zaj?
+                Tessék mondani, mi ez a zaj?
+Juliska néni,   Zaj?! Ja! A férjem minden délután alszik ebéd után. De alig lehet hallani.
+                Zaj?! Ja! A férjem minden délután alszik ebéd után. De alig lehet hallani.
+                Zaj?! Ja! A férjem minden délután alszik ebéd után. De alig lehet hallani.
+                Zaj?! Ja! A férjem minden délután alszik ebéd után. De alig lehet hallani.
+                Zaj?! Ja! A férjem minden délután alszik ebéd után. De alig lehet hallani.
+Jóska,          Köszönjük szépen, de nem egészen ilyen szobát keresünk. (They leave hastily.)
+                Köszönjük szépen, de nem egészen ilyen szobát keresünk. (They leave hastily.)
+                Köszönjük szépen, de nem egészen ilyen szobát keresünk. (They leave hastily.)
+                Köszönjük szépen, de nem egészen ilyen szobát keresünk. (They leave hastily.)
+                Köszönjük szépen, de nem egészen ilyen szobát keresünk. (They leave hastily.)
+Juliska néni,   (Bewildered.) Nem értem! Mindig ezt mondják ...
+                (Bewildered.) Nem értem! Mindig ezt mondják ...
+                (Bewildered.) Nem értem! Mindig ezt mondják ...
+                (Bewildered.) Nem értem! Mindig ezt mondják ...
+                (Bewildered.) Nem értem! Mindig ezt mondják ...
 ```
-"""
+"""  # noqa: E501
