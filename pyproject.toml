@@ -5,9 +5,9 @@ build-backend = "hatchling.build"
 [project]
 # PEP 621. See https://www.python.org/dev/peps/pep-0621/
 name = "magyarul"
-description = "."
+description = ""
 readme = "README.md"
-requires-python = ">=3.10"
+requires-python = ">=3.12"
 license = "MIT"
 authors = [
     {name = "Diego Vitoriano", email = "diego.vitoriano@impi.sh"},
