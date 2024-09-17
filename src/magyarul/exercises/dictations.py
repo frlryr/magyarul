@@ -1429,4 +1429,78 @@ Juliska néni,   (Bewildered.) Nem értem! Mindig ezt mondják ...
                 (Bewildered.) Nem értem! Mindig ezt mondják ...
                 (Bewildered.) Nem értem! Mindig ezt mondják ...
 ```
+
+# 13. Én horgászni fogok apával
+```
+Feri,       Apu, te voltál már Szentendrén?
+            Apu, te voltál már Szentendrén?
+            Apu, te voltál már Szentendrén?
+            Apu, te voltál már Szentendrén?
+            Apu, te voltál már Szentendrén?
+B. János,   Voltam, de nagyon régen. Miért?
+            Voltam, de nagyon régen. Miért?
+            Voltam, de nagyon régen. Miért?
+            Voltam, de nagyon régen. Miért?
+            Voltam, de nagyon régen. Miért?
+Feri,       Pista szombaton ott volt a szüleivel. Azt mondja, hogy Szentendrénél a Dunában sok halat lehet fogni.
+            Pista szombaton ott volt a szüleivel. Azt mondja, hogy Szentendrénél a Dunában sok halat lehet fogni.
+            Pista szombaton ott volt a szüleivel. Azt mondja, hogy Szentendrénél a Dunában sok halat lehet fogni.
+            Pista szombaton ott volt a szüleivel. Azt mondja, hogy Szentendrénél a Dunában sok halat lehet fogni.
+            Pista szombaton ott volt a szüleivel. Azt mondja, hogy Szentendrénél a Dunában sok halat lehet fogni.
+B. János,   Tényleg? Hm ... Régen voltunk már horgászni ...
+            Tényleg? Hm ... Régen voltunk már horgászni ...
+            Tényleg? Hm ... Régen voltunk már horgászni ...
+            Tényleg? Hm ... Régen voltunk már horgászni ...
+            Tényleg? Hm ... Régen voltunk már horgászni ...
+Baloghné,   Csak a múlt szombaton ...
+            Csak a múlt szombaton ...
+            Csak a múlt szombaton ...
+            Csak a múlt szombaton ...
+            Csak a múlt szombaton ...
+Andrea,     Anyu, a Tóth Vali is volt Szentendrén. Azt mondja, hogy sok jó butik van a városba. Nagyon szeretnék egy divatos, sötétkét miniszoknyát a ballagásra. Vali is ott fog venni egyet. Holnapután szomba lesz. Nem megyünk Szentendrére?
+            Anyu, a Tóth Vali is volt Szentendrén. Azt mondja, hogy sok jó butik van a városba. Nagyon szeretnék egy divatos, sötétkét miniszoknyát a ballagásra. Vali is ott fog venni egyet. Holnapután szomba lesz. Nem megyünk Szentendrére?
+            Anyu, a Tóth Vali is volt Szentendrén. Azt mondja, hogy sok jó butik van a városba. Nagyon szeretnék egy divatos, sötétkét miniszoknyát a ballagásra. Vali is ott fog venni egyet. Holnapután szomba lesz. Nem megyünk Szentendrére?
+            Anyu, a Tóth Vali is volt Szentendrén. Azt mondja, hogy sok jó butik van a városba. Nagyon szeretnék egy divatos, sötétkét miniszoknyát a ballagásra. Vali is ott fog venni egyet. Holnapután szomba lesz. Nem megyünk Szentendrére?
+            Anyu, a Tóth Vali is volt Szentendrén. Azt mondja, hogy sok jó butik van a városba. Nagyon szeretnék egy divatos, sötétkét miniszoknyát a ballagásra. Vali is ott fog venni egyet. Holnapután szomba lesz. Nem megyünk Szentendrére?
+B. János,   Ti nők mindig csak a pénzt költitek!
+            Ti nők mindig csak a pénzt költitek!
+            Ti nők mindig csak a pénzt költitek!
+            Ti nők mindig csak a pénzt költitek!
+            Ti nők mindig csak a pénzt költitek!
+Baloghné,   Emlékszel, János? Szentendrén van a Kovács Margit Múzeum. És milyen romantikus volt a Duna-parton sétálni ... Holnapután elmegyünk a múzeumba és aztán sétálunk a városban.
+            Emlékszel, János? Szentendrén van a Kovács Margit Múzeum. És milyen romantikus volt a Duna-parton sétálni ... Holnapután elmegyünk a múzeumba és aztán sétálunk a városban.
+            Emlékszel, János? Szentendrén van a Kovács Margit Múzeum. És milyen romantikus volt a Duna-parton sétálni ... Holnapután elmegyünk a múzeumba és aztán sétálunk a városban.
+            Emlékszel, János? Szentendrén van a Kovács Margit Múzeum. És milyen romantikus volt a Duna-parton sétálni ... Holnapután elmegyünk a múzeumba és aztán sétálunk a városban.
+            Emlékszel, János? Szentendrén van a Kovács Margit Múzeum. És milyen romantikus volt a Duna-parton sétálni ... Holnapután elmegyünk a múzeumba és aztán sétálunk a városban.
+Feri,       De én nem akarok múzeumba menni! Utálok múzeumba járni! Én horgászni fogok apával. Jó, apa?
+            De én nem akarok múzeumba menni! Utálok múzeumba járni! Én horgászni fogok apával. Jó, apa?
+            De én nem akarok múzeumba menni! Utálok múzeumba járni! Én horgászni fogok apával. Jó, apa?
+            De én nem akarok múzeumba menni! Utálok múzeumba járni! Én horgászni fogok apával. Jó, apa?
+            De én nem akarok múzeumba menni! Utálok múzeumba járni! Én horgászni fogok apával. Jó, apa?
+B. János,   Jó! Vasárnap délben halászlét eszünk.
+            Jó! Vasárnap délben halászlét eszünk.
+            Jó! Vasárnap délben halászlét eszünk.
+            Jó! Vasárnap délben halászlét eszünk.
+            Jó! Vasárnap délben halászlét eszünk.
+Andrea,     Én nem fogok veletek egész nap a Duna-parton ülni! Ti mindig csak horgászni akartok. Nincs is még olyan jó idő!
+            Én nem fogok veletek egész nap a Duna-parton ülni! Ti mindig csak horgászni akartok. Nincs is még olyan jó idő!
+            Én nem fogok veletek egész nap a Duna-parton ülni! Ti mindig csak horgászni akartok. Nincs is még olyan jó idő!
+            Én nem fogok veletek egész nap a Duna-parton ülni! Ti mindig csak horgászni akartok. Nincs is még olyan jó idő!
+            Én nem fogok veletek egész nap a Duna-parton ülni! Ti mindig csak horgászni akartok. Nincs is még olyan jó idő!
+Feri,       Nem baj! Mi nem fázunk. Ti majd a Kovács Margit Múzeumba mentek és sétáltok a városban. Mi pedig horgászni fogunk. Ti is szeretitek a halászlét, nem?
+            Nem baj! Mi nem fázunk. Ti majd a Kovács Margit Múzeumba mentek és sétáltok a városban. Mi pedig horgászni fogunk. Ti is szeretitek a halászlét, nem?
+            Nem baj! Mi nem fázunk. Ti majd a Kovács Margit Múzeumba mentek és sétáltok a városban. Mi pedig horgászni fogunk. Ti is szeretitek a halászlét, nem?
+            Nem baj! Mi nem fázunk. Ti majd a Kovács Margit Múzeumba mentek és sétáltok a városban. Mi pedig horgászni fogunk. Ti is szeretitek a halászlét, nem?
+            Nem baj! Mi nem fázunk. Ti majd a Kovács Margit Múzeumba mentek és sétáltok a városban. Mi pedig horgászni fogunk. Ti is szeretitek a halászlét, nem?
+Andrea,     De igen. Feltéve persze, ha fogtok halat. Anyu, azt hiszem jobb lesz, ha holnap bevásárolunk.
+            De igen. Feltéve persze, ha fogtok halat. Anyu, azt hiszem jobb lesz, ha holnap bevásárolunk.
+            De igen. Feltéve persze, ha fogtok halat. Anyu, azt hiszem jobb lesz, ha holnap bevásárolunk.
+            De igen. Feltéve persze, ha fogtok halat. Anyu, azt hiszem jobb lesz, ha holnap bevárárolunk.
+            De igen. Feltéve persze, ha fogtok halat. Anyu, azt hiszem jobb lesz, ha holnap bevárárolunk.
+Baloghné,   Igazad van, Andrea. Biztos, ami biztos. Holnap veszünk babot, hátha csak bablevest eszünk vasárnap ebédre.
+            Igazad van, Andrea. Biztos, ami biztos. Holnap veszünk babot, hátha csak bablevest eszünk vasárnap ebédre.
+            Igazad van, Andrea. Biztos, ami biztos. Holnap veszünk babot, hátha csak bablevest eszünk vasárnap ebédre.
+            Igazad van, Andrea. Biztos, ami biztos. Holnap veszünk babot, hátha csak bablevest eszünk vasárnap ebédre.
+            Igazad van, Andrea. Biztos, ami biztos. Holnap veszünk babot, hátha csak bablevest eszünk vasárnap ebédre.
+```
 """  # noqa: E501
