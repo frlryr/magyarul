@@ -240,6 +240,27 @@
 | Megy                      | "Going away"       | A movement away from the speaker                                |
 | Jár                       | Similar to Jön/Jár | A frequent movement towards or away from the speaker            |
 
+## Random VIII
+* There are three words in Hungaria used in connection with shopping:
+    * Bevásárol means do all one's shopping. It's an intransitive verb.
+        * e.g. Holnap bevásárolunk.
+    * Vásárol means do some shopping. It's a transitive verb. It can be used without object.
+        * e.g. Mit csinálsz itt? Vásárolok.
+    * Vesz means buy something. It's a transitive verb. It can only be used with an objetc.
+        * e.g. Andreának veszünk majd egy miniszoknyát.
+* Igazad van means you are right (sing. fam.) expresses agreement.
+    * e.g. Igazam van
+           Igaza van
+           Igazun van
+           Igazatok
+           Igazuk
+* Nincs igazad means you are wrong (sing. fam.) expresses disagreement.
+    * e.g. Nincs igazam
+           Nincs igaza
+           Nincs igazunk
+           Nincs igazatok
+           Nincs igazuk
+
 ## Greetings
 * Adding Kívánok is more polite.
 * See [greetings/farewells extended](#greetingsfarewells-extended).
@@ -570,7 +591,16 @@
       There are two rooms to let. One is on the first, the other is on the third
         floor.
 
-===
+## Ilyen, olyan
+* It means such, like this, like that.
+    * a. Ilyen (this, like this, like that, such, such a) points to something
+        nearby, or refers to something that was just said.
+    * b. Olyan (that, like that, such, such a, so) points to something further
+        away, or refers back to something said by someone else.
+    * a. Ez a szoknya 10000 Ft! Most nem akarok ilyen sok pénzt költeni.
+    * b. Olyan kocsit veszek. Holnap hatkor indulunk.
+
+    ===
 
     Én                  nem érek rá
     Te                  nem érsz rá
@@ -598,4 +628,4 @@
 | Teszenek kérni | Would you like        |                         |
 | Csókolom       | I kiss you            | As a greeting, farewell |
 | Kezét csókolom | I kiss your hand      | As a greeting, farewell |
-"""
+"""  # noqa: E501
