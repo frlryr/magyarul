@@ -268,6 +268,26 @@
 | Egy korsó sör             | A glass of beer     |         |
 | Egy üveg bor              | A bottle of wine    |         |
 
+## School leavers' farewell ceremony
+* It's called ballagás.
+* It's an old tradition in Hungaria secondary schools.
+* Leavers' are given a small embroidedred bag with a symbolic pogácsa
+    (Hungaria savoury scone) and a small coin inside the bag.
+* It's how the alma matter sends her children on to the road of life.
+
+## Some verbs used differently from their English equivalents
+* Following verbs do not take tud (can) in Hungarian:
+    * a. Ért (understand)
+    * b. Lát (see)
+    * c. Talál (find)
+    * d. Emlékszik (remember)
+    * e. Hall (hear)
+    * e.g. a. Nem értelek, Jóska.
+    * e.g. b. Látod őket?
+    * e.g. c. Nem találom a tollat
+    * e.g. d. Nem emlékszem.
+    * e.g. e. Nem hallom a magnót.
+
 # Dictionary
 *
 
@@ -405,4 +425,4 @@
 | Rendőség     |         |         |
 | Tisztító     |         |         |
 | Patyulat     |         |         |
-"""
+"""  # noqa: E501

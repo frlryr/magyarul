@@ -68,6 +68,67 @@
 * Verbs that can never take an object are called intransitive.
     * e.g. Moziba megyek.
 
+
+### Future
+* It can be expressed by:
+    * The present tense with a time expression to avoid ambiguity.
+
+| Magyar                    | Meaning                 | Context |
+|---------------------------|-------------------------|---------|
+| Majd                      | Some time in the future |         |
+| Most vasárnap             | This Sunday             |         |
+| A jövő héten              | Next week               |         |
+| A jövő évben or jövőre    | Next year               |         |
+| Az ősszel                 | This autumn             |         |
+| A tavasszal               | This spring             |         |
+| Ezen a héten              | This week               |         |
+| Holnapután                | The day after tomorrow  |         |
+| A jövő szerdán            | Next Wednesday          |         |
+| A jövő hónapban           | Next month              |         |
+| A nyáron                  | This summer             |         |
+| A télen                   | This winter             |         |
+| Az idén or ebben az evben | This year               |         |
+| Rögtön (pron. röktön)     | Right away              |         |
+| Két hét múlva             | In two weeks' time      |         |
+| nyolc óra után            | After 8 o'clock         |         |
+| Mindjárt (pron. mingyárt) | Straightaway            |         |
+| Nemsokára                 | Soon                    |         |
+| Holnap                    | Tomorrow                |         |
+| Ebben a hónapban          | This month              |         |
+| Azonnal                   | Straightaway            |         |
+| Ma délután                | This afternoon          |         |
+| Holnap este               | Tomorrow evening        |         |
+| Hamarosan                 | Soon                    |         |
+| A hétvégen                | At the weekend          |         |
+
+    * The future tense
+        * This is made up of the present tense of the word fog plus the infinitive.
+        * Is usually used to express intention or certainty.
+
+* Everything that will, or will not, happen in the future is expressed by either the
+    present or the future tense in Hungarian.
+* They can express quite a few tenses in English.
+    * e.g. I'm buying
+           I'm going to buy
+           I'll buy
+           I'll be buying
+
+### Future: Főz
+* Means "will".
+
+|       | Indefinite Conjugation | Definite Conjugation |                  |
+|-------|------------------------|----------------------|------------------|
+| Én    | fogok főzni            | fogom főzni          | I will cook      |
+| Te    | fogsz főzni            | fogod főzni          | You will cook    |
+| Maga  | fog főzni              | fogja főzni          | You will cook    |
+| Ön    | fog főzni              | fogja főzni          | You will cook    |
+| Ő     | fog főzni              | fogja főzni          | He/she will cook |
+| Mi    | fogunk főzni           | fogjuk főzni         | We will cook     |
+| Ti    | fogtok főzni           | fogjátok főzni       | You will cook    |
+| Maguk | fognak főzni           | fogják főzni         | You will cook    |
+| Önök  | fognak főzni           | fogják főzni         | You will cook    |
+| Ők    | fognak főzni           | fogják főzni         | They will cook   |
+
 ### Past: Lenni
 * Means to be (the famous verb to be all known as tu biu :-D).
 * Is an irregular verb.
@@ -197,13 +258,13 @@
 * All 3 tenses have 2 types of conjugation: indefinite and definite.
 * There is no equivalent of definite conjugation in English.
 * They will mean the same in either cases.
-* The indefinite conjugation is used with intransitive and transitive verbs which takes an
-    indefinite object or no object at all.
+* The indefinite conjugation is used with intransitive and transitive verbs which takes
+    an indefinite object or no object at all.
 * The definite conjugation is used with transitive verbs which takes a definite object.
 * An object is indefinite if:
     * Is preceded by an indefinite article (i.e. egy).
         * e.g. Anikó egy pulóvert vesz.
-               Anikó is buying a pullover. 
+               Anikó is buying a pullover.
     * Is not preceded by neither indefinite or definite article (i.e. a, az) and is not the
         name of a particular person or thing.
         * e.g. Kávét kérsz?
@@ -287,10 +348,8 @@
 * They are similar to prepositions, but comes after the word they're refereing to (duh).
 * There are 3 main groups:
 
-
-
 ### Used in "place" expressions
-* e.g. A ház előtt egy magas fa van. 
+* e.g. A ház előtt egy magas fa van.
 * e.g. A há mögött van a garázs.
 * e.g. A zsék allaül a kutya.
 * e.g. Az épület felett egy repülőgép repül.
@@ -356,6 +415,28 @@
     * -ból for back vowel words.
     * -ből for front vowel words.
 * In answer to the question Honnan?
+
+### -nál, nél
+* Used to answer the question Hól?
+    * a. To indicate something happening or being at or by a certain place.
+    * b. With shops named after the profession of the person running them.
+    * c. When talking about something taking place at someone's place.
+    * d. Note that -nál, -nél is also used to mean on somebody.
+    * e.g. a. A folyónál találkozunk.
+    * e.g. b. A hentesnél most lehet téliszalámit kapni.
+    * e.g. c. Eszternél lesz a buli.
+    * e.g. d. Kinél van a könyv? Zsoltnál?
+
+#### Personal pronouns forms
+*
+
+| Ki?  | Kinél?  | Kik?  | Kiknél?  |
+|------|---------|-------|----------|
+| Én   | Nálam   | Mi    | Nálunk   |
+| Te   | Nálad   | Ti    | Nálatok  |
+| Maga | Magánál | Maguk | Maguknál |
+| Ön   | Önnél   | Önök  | Önöknél  |
+| Ő    | Nála    | Ők    | Náluk    |
 
 ### Accusative: -t
 * The object of hungarian sentence is marked by -t.
@@ -424,6 +505,17 @@
 * If ending in 2-letter consonant (sz, gy, etc), only the first letter is doubled.
     * e.g. Busz - Busszal
     * e.g. Balazs - Balazzsal
+
+#### Personal pronouns forms
+*
+
+| Ki?  | Kivel?  | Kik?  | Kikkel?  |
+|------|---------|-------|----------|
+| Én   | Velem   | Mi    | Velünk   |
+| Te   | Veled   | Ti    | Veletek  |
+| Maga | Magával | Maguk | Magukkal |
+| Ön   | Önnel   | Önök  | Önökkel  |
+| Ő    | Vele    | Ők    | Velük    |
 
 ### : -lak, -lek
 * Are used when I is the subject (the doer of the action) or you is the object.
@@ -789,5 +881,5 @@
 | Mi?        | What?       | Ami         | what       |
 | Hol?       | Where?      | Ahol        | where      |
 | Hova/Hová? | Where to?   | Ahova/Ahová | where to   |
-| Honnan?    | Where from? | Ahonna      | where from | 
-"""
+| Honnan?    | Where from? | Ahonna      | where from |
+"""  # noqa: E501
