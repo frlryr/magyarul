@@ -1503,4 +1503,88 @@ Baloghné,   Igazad van, Andrea. Biztos, ami biztos. Holnap veszünk babot, hát
             Igazad van, Andrea. Biztos, ami biztos. Holnap veszünk babot, hátha csak bablevest eszünk vasárnap ebédre.
             Igazad van, Andrea. Biztos, ami biztos. Holnap veszünk babot, hátha csak bablevest eszünk vasárnap ebédre.
 ```
+
+# 14. És hol tanult táncolni?
+```
+Kardos P.,  Azt hiszem, én már mindent elmondtam az állásról. Most maga következik. Először is néhany személyi adatot szeretnék tudni. Mikor és hol született?
+            Azt hiszem, én már mindent elmondtam az állásról. Most maga következik. Először is néhany személyi adatot szeretnék tudni. Mikor és hol született?
+            Azt hiszem, én már mindent elmondtam az állásról. Most maga következik. Először is néhany személyi adatot szeretnék tudni. Mikor és hol született?
+            Azt hiszem, én már mindent elmondtam az állásról. Most maga következik. Először is néhany személyi adatot szeretnék tudni. Mikor és hol született?
+            Azt hiszem, én már mindent elmondtam az állásról. Most maga következik. Először is néhany személyi adatot szeretnék tudni. Mikor és hol született?
+Mária,      1967. február 4-én születtem Egerben. De a szüleim 1970-ben Budapestre költöztek, és én itt Pesten jártam iskolába a Horváth Mihály téren.
+            1967. február 4-én születtem Egerben. De a szüleim 1970-ben Budapestre költöztek, és én itt Pesten jártam iskolába a Horváth Mihály téren.
+            1967. február 4-én születtem Egerben. De a szüleim 1970-ben Budapestre költöztek, és én itt Pesten jártam iskolába a Horváth Mihály téren.
+            1967. február 4-én születtem Egerben. De a szüleim 1970-ben Budapestre költöztek, és én itt Pesten jártam iskolába a Horváth Mihály téren.
+            1967. február 4-én születtem Egerben. De a szüleim 1970-ben Budapestre költöztek, és én itt Pesten jártam iskolába a Horváth Mihály téren.
+Kardos P.,  Szóval maga a híres Fazekas Mihály Gimnáziumba járt?
+            Szólva maga a híres Fazekas Mihály Gimnáziumba járt?
+            Szóval maga a híres Fazekas Mihály Gimnáziumba járt?
+            Szóval maga a híres Fazekas Mihály Gimnáziumba járt?
+            Szóval maga a híres Fazekas Mihály Gimnáziumba járt?
+Mária,      Gimnáziumba sajnos nem ide jártam, csak általános iskolába. Tanulni soha sem szerettem.
+            Gimnáziumba sajnos nem ide jártam, csak általános iskolába. Tanulni soha sem szerettem.
+            Gimnáziumba sajnos nem ide jártam, csak általános iskolába. Tanulni soha nem szerettem.
+            Gimnáziumba sajnos nem ide jártam, csak általános iskolába. Tanulni soha nem szerettem.
+            Gimnáziumba sajnos nem ide jártam, csak általános iskolába. Tanulni soha nem szerettem.
+Kardos P.,  Értem. És hol tanult táncolni?
+            Értem. És hol tanult táncolni?
+            Értem. És hol tanult táncolni?
+            Értem. És hol tanult táncolni?
+            Értem. És hol tanult táncolni?
+Mária,      Mindig is imádtam balettozni. Már az általános iskolában is különárára jártam Kocsis Márta nénihez. Híres, kiváló tanár és csodálatos ember volt. Szegény tavaly meghalt. Nem ismerte véletlenül.
+            Mindig is imádtam balettozni. Már az általános iskolában is különárára jártam Kocsis Márta nénihez. Híres, kiváló tanár és csodálatos ember volt. Szegény tavaly meghalt. Nem ismerte véletlenül.
+            Mindig is imádtam balettozni. Már az általános iskolában is különárára jártam Kocsis Márta nénihez. Híres, kiváló tanár és csodálatos ember volt. Szegény tavaly meghalt. Nem ismerte véletlenül.
+            Mindig is imádtam balettozni. Már az általános iskolában is különárára jártam Kocsis Márta nénihez. Híres, kiváló tanár es csodálatos ember volt. Szegény tavaly meghalt. Nem ismerte véletlenül.
+            Mindig is imádtam balettozni. Már az általános iskolában is különárára jártam Kocsis Márta nénihez. Híres, kiváló tanár es csodálatos ember volt. Szegény tavaly meghalt. Nem ismerte véletlenül.
+Kardos P.,  Dehogynem! Márta nénit mindenki ismerte. És hogy ment a balett?
+            Dehogynem! Márta nénit mindenki ismerte. És hogy ment a balett?
+            Dehogynem! Márta nénit mindenki ismerte. És hogy ment a balett?
+            Dehogynem! Márta nénit mindenki ismerte. És hogy ment a balett?
+            Dehogynem! Márta nénit mindenki ismerte. És hogy ment a balett?
+Mária,      Nagyon jól. Szerencsés voltam, mert Márta néni mindenkivel nagyon türelmes és kedves volt. Később ő küldött jazz-balettra is. De sajnos nem lehettem balett-táncos, mert sokáig beteg voltam.
+            Nagyon jól. Szerencsés voltam, mért Márta néni mindenkivel nagyon türelmes és kedves volt. Később ő küldött jazz-balettra is. De sajnos nem lehettem balett-táncos, mert sokáig beteg voltam.
+            Nagyon jól. Szerencsés voltam, mért Márta néni mindenkivel nagyon türelmes és kedves volt. Később ő küldött jazz-balettra is. De sajnos nem lehettem balett-táncos, mert sokáig beteg voltam.
+            Nagyon jól. Szerencsés voltam, mért Márta néni mindenkivel nagyon türelmes és kedves volt. Később ő küldött jazz-balettra is. De sajnos nem lehettem balett-táncos, mert sokáig beteg voltam.
+            Nagyon jól. Szerencsés voltam, mért Márta néni mindenkivel nagyon türelmes és kedves volt. Később ő küldött jazz-balettra is. De sajnos nem lehettem balett-táncos, mert sokáig beteg voltam.
+Kardos P.,  Szóval többé nem táncol?
+            Szóval többé nem táncol?
+            Szóval többé nem táncol?
+            Szóval többé nem táncol?
+            Szóval többé nem táncol?
+Mária,      Sajnos nem. Csak tánchazba járok a szabadidőmben. Ez a hobbim.
+            Sajnos nem. Csak tánchazba járok a szabadidőmben. Ez a hobbim.
+            Sajnos nem. Csak tánchazba járok a szabadidőmben. Ez a hobbim.
+            Sajnos nem. Csak tánchazba járok a szabadidőmben. Ez a hobbim.
+            Sajnos nem. Csak tánchazba járok a szabadidőmben. Ez a hobbim.
+Kardos P.,  És tanított már jazz-balettot?
+            És tanított már jazz-balettot?
+            És tanított már jazz-balettot?
+            És tanított már jazz-balettot?
+            És tanított már jazz-balettot?
+Mária,      Igen, a Balett Intézetben. A második évben jártak hozzám a gyerekek.
+            Igen, a Balett Intézetben. A második évben jártak hozzám a gyerekek.
+            Igen, a Balett Intézetben. A második évben jártak hozzám a gyerekek.
+            Igen, a Balett Intézetben. A második évben jártak hozzám a gyerekek.
+            Igen, a Balett Intézetben. A második évben jártak hozzám a gyerekek.
+Kardos P.,  Ilyen jó állást otthagyott?
+            Ilyen jó állást otthagyott?
+            Ilyen jó állást otthagyott?
+            Ilyen jó állást otthagyott?
+            Ilyen jó állást otthagyott?
+Mária,      Hát, muszáj volt. Két évvel ezelőtt férjhez mentem, és tavaly szültem. Most szeretnék visszamenni, de sajnos ott már más tanít. Nagyon szeretnék újra tanítani, és persze a pénz is jól jön.
+            Hát, muszáj volt. Két évvel ezelőtt férjhez mentem, és tavaly szültem. Most szeretnék visszamenni, de sajnos ott már más tanít. Nagyon szeretnék újra tanítani, és persze a pénz is jól jön.
+            Hát, muszáj volt. Két évvel ezelőtt férjhez mentem, és tavaly szültem. Most szeretnék visszamenni, de sajnos ott már más tanít. Nagyon szeretnék újra tanítani, és persze a pénz is jól jön.
+            Hát, muszáj volt. Két évvel ezelőtt férjhez mentem, és tavaly szültem. Most szeretnék visszamenni, de sajnos ott már más tanít. Nagyon szeretnék újra tanítani, és persze a pénz is jól jön.
+            Hát, muszáj volt. Két évvel ezelőtt férjhez mentem, és tavaly szültem. Most szeretnék visszamenni, de sajnos ott már más tanít. Nagyon szeretnék újra tanítani, és persze a pénz is jól jön.
+Kardos P.,  Értem. Azt hiszem, mindent megbeszéltünk. Vagy esetleg szeretne még valamit kérdezni?
+            Értem. Azt hiszem, mindent megbeszéltünk. Vagy esetleg szeretne még valamit kérdezni?
+            Értem. Azt hiszem, mindent megbeszéltünk. Vagy esetleg szeretne még valamit kérdezni?
+            Értem. Azt hiszem, mindent megbeszéltünk. Vagy esetleg szeretne még valamit kérdezni?
+            Értem. Azt hiszem, mindent megbeszéltünk. Vagy esetleg szeretne még valamit kérdezni?
+Mária,      Igen, csak egy utolsó kérdést. Megkapom az állást?
+            Igen, csak egy utolsó kérdést. Megkapom az állást?
+            Igen, csak egy utolsó kérdést. Megkapom az állást?
+            Igen, csak egy utolsó kérdést. Megkapom az állást?
+            Igen, csak egy utolsó kérdést. Megkapom az állást?
+```
 """  # noqa: E501
