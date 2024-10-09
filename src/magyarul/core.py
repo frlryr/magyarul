@@ -69,6 +69,88 @@
     * e.g. Moziba megyek.
 
 
+### Past
+#### Indefinite conjugation
+* Past tense is formed by an ending which has a short form -t and a long form -tt.
+    * Short form comes directly from the verb stem.
+    * Long form comes is preceded by a linking vowel (o for backvowel, e for frontvowel
+        and ö for frontvowel ending with ö, ő, ü or ű)
+
+| Verb Stem | -t, -ott, -ett, ött | Indefinite personal ending | Verb in the past tense | Meaning    |
+|-----------|---------------------|----------------------------|------------------------|------------|
+| vár       | -t                  | -ál                        | vártál                 | You waited |
+| segít     | -ett                | -él                        | segítettél             | You helped |
+
+* To use the long or the short form is based on the stem.
+    * a. the long form (-ott, -ett, -ött) is taken in all persons by
+        * verbs ending in two consonants.
+            * e.g. ért, értett.
+        * verbs ending in -ít.
+            * e.g tanít, tanított.
+        * one-syllable verbs ending in -t.
+            * e.g köt, kötött.
+    * b. the short form (-t) is taken in all persons by
+        * verbs ending in -ny, -r, -l, -j, -n, -ly.
+            * e.g. beszél, beszélt.
+                   vár, várt.
+                   fáj, fájt.
+                   köszön, köszönt.
+            * An easy way to remember is to learn the name Nyaraló Janó. It contains all
+                endings and you just have to add -ly.
+        * verbs of more than one syllable ending in -ad and -ed.
+            * e.g. marad, maradt.
+            * NOTE: Words like áll (stand) and száll (fly) are also in this group.
+    * c .the short form (-t) is taken in all persons except for the 3rd person singular form
+        of the indefinite conjugation. It takes the long form.
+        * NOTE: All verbs not mentioned in groups a and b are also part of this group.
+
+* The same personal endings are used whether the verb is in group a, b or c. And as usual
+    they have different endings when it comes to back and front vowels.
+
+| Back vowel verbs | Group a      | Group b  | Group c |
+|------------------|--------------|----------|---------|
+| Én               | tanítottam   | vártam   | adtam   |
+| Te               | tanítottál   | vártál   | adtál   |
+| Maga             | tanított     | várt     | adott   |
+| Ön               | tanított     | várt     | adott   |
+| Ő                | tanított     | várt     | adott   |
+| Mi               | tanítottunk  | vártunk  | adtunk  |
+| Ti               | tanítottatok | vártatok | adtatok |
+| Maguk            | tanítottak   | vártak   | adtak   |
+| Önök             | tanítottak   | vártak   | adtak   |
+| Ők               | tanítottak   | vártak   | adtak   |
+
+| Front vowel verbs | Group a    | Group b  | Group c  |
+|-------------------|------------|----------|----------|
+| Én                | kötöttem   | kértem   | néztem   |
+| Te                | kötöttél   | kértel   | néztél   |
+| Maga              | kötött     | kért     | nézett   |
+| Ön                | kötött     | kért     | nézett   |
+| Ő                 | kötött     | kért     | nézett   |
+| Mi                | kötöttünk  | kértünk  | néztünk  |
+| Ti                | kötöttetek | kértetek | néztetek |
+| Maguk             | kötötek    | kértek   | néztek   |
+| Önök              | kötötek    | kértek   | néztek   |
+| Ők                | kötötek    | kértek   | néztek   |
+
+* NOTE: That the 3rd person singular has no personal ending.
+
+| Irregular Verbs | Megy     | Jön      | Eszik   | Iszik   | Tesz     | Vesz     | Hisz     | Visz     | Lesz     | Fekszik    | Alszik     | Emlékszik    |
+|-----------------|----------|----------|---------|---------|----------|----------|----------|----------|----------|------------|------------|--------------|
+| Én              | Mentem   | Jöttem   | Ettem   | Ittam   | Tettem   | Vettem   | Hittem   | Vittem   | Lettem   | Feküdtem   | Aludtam    | Emlékeztem   |
+| Te              | Mentél   | Jöttél   | Ettél   | Ittál   | Tettél   | Vettél   | Hittél   | Vittél   | Lettél   | Feküdtél   | Aludtál    | Emlékeztél   |
+| Maga            | Ment     | Jött     | Evett   | Ivott   | Tett     | Vett     | Hitt     | Vitt     | Lett     | Feküdt     | Aludt      | Emlékezett   |
+| Ön              | Ment     | Jött     | Evett   | Ivott   | Tett     | Vett     | Hitt     | Vitt     | Lett     | Feküdt     | Aludt      | Emlékezett   |
+| Ő               | Ment     | Jött     | Evett   | Ivott   | Tett     | Vett     | Hitt     | Vitt     | Lett     | Feküdt     | Aludt      | Emlékezett   |
+| Mi              | Mentünk  | Jöttünk  | Ettünk  | Ittunk  | Tettünk  | Vettünk  | Hittünk  | Vittünk  | Lettünk  | Feküdtünk  | Aludtunk   | Emlékeztünk  |
+| Ti              | Mentetek | Jöttetek | Ettetek | Ittatok | Tettetek | Vettetek | Hittetek | Vittetek | Lettetek | Feküdtetek | Aludttatok | Emlékeztetek |
+| Maguk           | Mentek   | Jöttek   | Ettek   | Ittak   | Tettek   | Vettek   | Hittek   | Vittek   | Lettek   | Feküdtek   | Aludtak    | Emlékeztek   |
+| Önök            | Mentek   | Jöttek   | Ettek   | Ittak   | Tettek   | Vettek   | Hittek   | Vittek   | Lettek   | Feküdtek   | Aludtak    | Emlékeztek   |
+| Ők              | Mentek   | Jöttek   | Ettek   | Ittak   | Tettek   | Vettek   | Hittek   | Vittek   | Lettek   | Feküdtek   | Aludtak    | Emlékeztek   |
+
+* Everthing that happened or did not happen before the present
+    moment is expressed with the past tense.
+
 ### Future
 * It can be expressed by:
     * The present tense with a time expression to avoid ambiguity.
@@ -407,6 +489,8 @@
     * -ról for back vowel words.
     * -ről for front vowel words.
 * In answer to the question Honnan?
+* It also means about.
+    * e.g. Kiről írt István?
 
 ### -ból, -ből
 * Used with words taking the ending:
@@ -426,6 +510,23 @@
     * e.g. b. A hentesnél most lehet téliszalámit kapni.
     * e.g. c. Eszternél lesz a buli.
     * e.g. d. Kinél van a könyv? Zsoltnál?
+
+### -hoz, -hez, -höz
+* It means to.
+* Words taking -nál, -nél in answer to Hol? take this ending when answering
+    Hova?
+    * e.g. Este a folyóhoz mentünk.
+* Not only verbs, but some expressions require the use of endings. And there
+    is no logical meaning to it.
+    * e.g. Ágy egy külföldihez ment férjhez.
+
+| Ki?  | Kihez?  | Kik?  | Kikhez?  |
+|------|---------|-------|----------|
+| Én   | Hozzám  | Mi    | Hozzánk  |
+| Te   | Hozzad  | Ti    | Hozzátok |
+| Maga | Magához | Maguk | Magukhoz |
+| Ön   | Önhöz   | Önök  | Önökhöz  |
+| Ő    | Hozzá   | Ők    | Hozzájuk |
 
 #### Personal pronouns forms
 *
