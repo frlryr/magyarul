@@ -628,4 +628,47 @@
 | Teszenek kérni | Would you like        |                         |
 | Csókolom       | I kiss you            | As a greeting, farewell |
 | Kezét csókolom | I kiss your hand      | As a greeting, farewell |
+
+## Állas
+* Means job.
+* Same application as in English
+    * e.g. Végre kaptam egy jó állást!
+
+## Munka
+* Means work.
+* Same application as in English
+    * e.g. Tegnap nagyon sok volt a munka az irodában.
+
+## Nem
+* It means not.
+* It comes directly before the word it negates.
+* Together they are the focus of the sentence and are usually followed
+    by a verb.
+    * e.g. Nem vagyok balett-táncos.
+           Nem ballet-táncos vagyok, hanem operaénekes.
+
+## Soha, Sekin, Semmi, Sehol, Sehova, Sehonnan
+* It means never, nobody, nothing, nowhere, to nowhere, from nowhere
+    respectively, always require a negative expression like nem or sem.
+    * e.g. Soha nem mondasz igazat!
+           Senki sem érti Pétert.
+           Semmit nem akarsz enni?
+           Sehol sem kaptam téliszalámit.
+           A hétvégén sehova nem mentünk.
+           Sehonnan sem kaptam levelet.
+
+## Lehet
+* It means be possible, can be, may be.
+* It can be conjugated in Hungarian.
+    * e.g. 30 éves lehetett.
+           Sajnos nem lehettem balett-táncos, mert sokáig beteg voltam.
+
+## Más
+* It means other.
+* It refers to both people and things.
+* It can take a number of endings
+* It can be joined to other words.
+* It can mean alot of things.
+    * e.g. Köszönöm mást nem kérek.
+           Sajnos most vasárnap nem tudunk jönni. Talán majd máskor.
 """  # noqa: E501

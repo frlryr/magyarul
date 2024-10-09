@@ -288,6 +288,43 @@
     * e.g. d. Nem emlékszem.
     * e.g. e. Nem hallom a magnót.
 
+## Férjhez megy
+* Means get married.
+* Is only used about women.
+    * e.g. Erzsi tavaly férjhez ment.
+* To say who she married with use the endings -hoz/-hez/-höz.
+    * e.g. Tamáshoz ment férjhez.
+
+## Megnősült
+* Its the equivalent for Férjhez megy, but for men.
+    * e.g. Megnősült már János?
+* To say who he married with use the expression feleségül vesz (vkit).
+    * e.g. János feleségül vette Icát.
+
+## Összenházasodik
+* Used when two poeple are getting married.
+    * e.g. A múlt vasárnap Miklós és Anna összenházasodtak
+
+## Táncház
+* Means dance house.
+* Used to be the place where young poeple in villages went dancing.
+* The táncház movement started around the 70s and became popular in big cities.
+* It's place to learn folk dance and music.
+
+## Date
+* In answer to the question Hányadika van? ordinal numbers are used
+    with the -a, -e ending.
+    * e.g. Január másodika.
+* In answer to the question Hányakikan? the -n ending is used.
+    * e.g. Február negyedikén.
+
+# Importante People
+## Fazekas Mihály
+* Was a 18th-century Hungaria poet.
+* Lots of streets, schools and institutions are named after famous people.
+* There is a strong literary tradition in the country.
+* Culture and education is importante to Hungarians.
+
 # Dictionary
 *
 
