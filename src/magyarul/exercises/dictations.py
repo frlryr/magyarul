@@ -1174,8 +1174,8 @@ Kormos G.,  (laughing) Honnan tudod?
 Gyuszi,     Nem nehéz kitalálni. Minden évben ugyanazt veszed. Azt hiszem, már egy kicsit unja. Szerintem jobban teszed, ha idén valami mást adsz neki.
             Nem nehéz kitalálni. Minden évben ugyanazt veszed. Azt hiszem, már egy kicsit unja. Szerintem jobban teszed, ha idén valami mást adsz neki.
             Nem nehéz kitalálni. Minden évben ugyanszt veszed. Azt hiszem, már egy kicsit unja. Szerintem jobban teszed, ha idén valami mást adsz neki.
-            Nem nehéz kitalálni. Mindem évben ugyanszt veszed. Azt hiszem, már egy kicsit unja. Szerintem jobban teszed, ha idén valami mást adsz neki.
-            Nem nehén kitalálni. Mindem évben ugyanszt veszed. Azt hiszem, már egy kicsit unja. Szerintem jobban teszed, ha idén valami mást adsz neki.
+            Nem nehéz kitalálni. Minden évben ugyanszt veszed. Azt hiszem, már egy kicsit unja. Szerintem jobban teszed, ha idén valami mást adsz neki.
+            Nem nehén kitalálni. Minden évben ugyanszt veszed. Azt hiszem, már egy kicsit unja. Szerintem jobban teszed, ha idén valami mást adsz neki.
 ```
 ```
 Kormos G.,  Tudom, csak viccelek. Idén majd valami eredeti ajándékot kap.
@@ -1586,5 +1586,59 @@ Mária,      Igen, csak egy utolsó kérdést. Megkapom az állást?
             Igen, csak egy utolsó kérdést. Megkapom az állást?
             Igen, csak egy utolsó kérdést. Megkapom az állást?
             Igen, csak egy utolsó kérdést. Megkapom az állást?
+```
+
+# 15. Kedves Rita!
+```
+Bea,    Régen írt már Sári. Mi lehet vele? Tudod, milyen. Vele mindig történik valami.
+        Régen írt már Sári. Mi lehet vele? Tudod, milyen. Vele mindig történik valami.
+        Régen írt már Sári. Mi lehet vele? Tudod, milyen. Vele mindig történik valami.
+        Régen írt már Sári. Mi lehet vele? Tudod, milyen. Vele mindig történik valami.
+        Régen írt már Sári. Mi lehet vele? Tudod, milyen. Vele mindig történik valami.
+Rita,   Éppen ma reggel kaptam tőle levelet. Várj csak, itt van! (She pulls it out of her handbag and reads it out to Bea.)
+        Éppen ma reggel kaptam tőle levelet. Várj csak, itt van! (She pulls it out of her handbag and reads it out to Bea.)
+        Éppen ma reggel kaptam tőle levelet. Várj csak, itt van! (She pulls it out of her handbag and reads it out to Bea.)
+        Éppen ma reggel kaptam tőle levelet. Várj csak, itt van! (She pulls it out of her handbag and reads it out to Bea.)
+        Éppen ma reggel kaptam tőle levelet. Várj csak, itt van! (She pulls it out of her handbag and reads it out to Bea.)
+
+            ,, Kedves Rita!
+            ,, Kedves Rita!
+            ,, Kedves Rita!
+            ,, Kedves Rita!
+            ,, Kedves Rita!
+
+            ,, Ne haragudj hogy olyan sokáig nem írtam. Nem felej-tettelek el benneteket, de rengeteg minden történt velem. Képzeld megismerkedtem egy érdekes angol fiúval.
+            ,, Ne haragudj hogy olyan sokáig nem írtam. Nem felej-tettelek el benneteket, de rengeteg minden történt velem. Képzeld megismerkedtem egy érdekes angol fiúval.
+            ,, Ne haragudj hogy olyan sokáig nem írtam. Nem felej-tettelek el benneteket, de rengeteg minden történt velem. Képzeld megismerkedtem egy érdekes angol fiúval.
+            ,, Ne haragudj hogy olyan sokáig nem írtam. Nem felej-tettelek el benneteket, de rengeteg minden történt velem. Képzeld megismerkedtem egy érdekes angol fiúval.
+            ,, Ne haragudj hogy olyan sokáig nem írtam. Nem felej-tettelek el benneteket, de rengeteg minden történt velem. Képzeld megismerkedtem egy érdekes angol fiúval.
+Bea,    Ez jól kezdődik! Kíváncsi vagyok, kivel találkozott megint... Emlékszel, amikor azt a skót szoknyás fiút bemutatta?
+        Ez jól kezdődik! Kíváncsi vagyok, kivel találkozott megint... Emlékszel, amikor azt a skót szoknyás fiút bemutatta?
+        Ez jól kezdődik! Kíváncsi vagyok, kivel találkozott megint... Emlékszel, amikor azt a skót szoknyás fiút bemutatta?
+        Ez jól kezdődik! Kíváncsi vagyok, kivel találkozott megint... Emlékszel, amikor azt a skót szoknyás fiút bemutatta?
+        Ez jól kezdődik! Kíváncsi vagyok, kivel találkozott megint... Emlékszel, amikor azt a skót szoknyás fiút bemutatta?
+Rita,   És emlékszel az amerikai baseball-játékosra?
+        És emlékszel az amerikai baseball-játékosra?
+        És emlékszel az amerikai baseball-játékosra?
+        És emlékszel az amerikai baseball-játékosra?
+        És emlékszel az amerikai baseball-játékosra?
+
+(Both of them laugh.)
+
+Bea,    Folytasd! Mit ír?
+        Folytasd! Mit ír?
+        Folytasd! Mit ír?
+        Folytasd! Mit ír?
+        Folytasd! Mit ír?
+Rita,   ,, Pár nappal ezelőtt egy kisvendéglőbe mentem ebédelni a József körúton. Elég késő volt, délután fél négy fele lehetett. Nem volt nagy választék: már csak csirke és pörkölt maradt. Egy másik asztalnál egy 22 év körüli fíu ült az ablak mellett. Gondoltam, hogy turista lehet, mert egy hátizsák feküdt mellette a földön. A fiú odahívta a pincért, és a csirkét kérte. A pincér nem értette. A fiú lassan, hangosan megismételte: csírr-ke. A pincér még mindig nem értette, mit akar. A fiú ekkor felugrott és elkezdett hadonászni csapkodja és most már kiabálta: csírr-ke!!! A pincér ijedt arccal hátrált. Mindenki nevetett. ,, Azt hiszem, csirkét kér. - mondtam a pincérnek. ,, Á, csirke. - ismételte a pincér. ,, Most már értem! ,, De hát én is ezt mondtam! - mondta a fiú. Elmagyaráztam neki, hogy a kiejtése nem volt tökéletes. Együtt ebédeltünk. Sok mindenről beszélgettünk. Képzeld, este 8-ig ott ültünk az étteremben! Alig várom a vasárnapot. A hét húszas vonattal érkezem. A többit majd szóban elmondom. Beát is üdvözlöm. Sok puszi: Sari.
+        ,, Pár nappal ezelőtt egy kisvendéglőbe mentem ebédelni a József körúton. Elég késő volt, délután fél négy fele lehetett. Nem volt nagy választék: már csak csirke és pörkölt maradt. Egy másik asztalnál egy 22 év körüli fíu ült az ablak mellett. Gondoltam, hogy turista lehet, mert egy hátizsák feküdt mellette a földön. A fiú odahívta a pincért, és a csirkét kérte. A pincér nem értette. A fiú lassan, hangosan megismételte: csírr-ke. A pincér még mindig nem értette, mit akar. A fiú ekkor felugrott és elkezdett hadonászni csapkodja és most már kiabálta: csírr-ke!!! A pincér ijedt arccal hátrált. Mindenki nevetett. ,, Azt hiszem, csirkét kér. - mondtam a pincérnek. ,, Á, csirke. - ismételte a pincér. ,, Most már értem! ,, De hát én is ezt mondtam! - mondta a fiú. Elmagyaráztam neki, hogy a kiejtése nem volt tökéletes. Együtt ebédeltünk. Sok mindenről beszélgettünk. Képzeld, este 8-ig ott ültünk az étteremben! Alig várom a vasárnapot. A hét húszas vonattal érkezem. A többit majd szóban elmondom. Beát is üdvözlöm. Sok puszi: Sari.
+        ,, Pár nappal ezelőtt egy kisvendéglőbe mentem ebédelni a József körúton. Elég késő volt, délután fél négy fele lehetett. Nem volt nagy választék: már csak csirke és pörkölt maradt. Egy másik asztalnál egy 22 év körüli fíu ült az ablak mellett. Gondoltam, hogy turista lehet, mert egy hátizsák feküdt mellette a földön. A fiú odahívta a pincért, és a csirkét kérte. A pincér nem értette. A fiú lassan, hangosan megismételte: csírr-ke. A pincér még mindig nem értette, mit akar. A fiú ekkor felugrott és elkezdett hadonászni csapkodja és most már kiabálta: csírr-ke!!! A pincér ijedt arccal hátrált. Mindenki nevetett. ,, Azt hiszem, csirkét kér. - mondtam a pincérnek. ,, Á, csirke. - ismételte a pincér. ,, Most már értem! ,, De hát én is ezt mondtam! - mondta a fiú. Elmagyaráztam neki, hogy a kiejtése nem volt tökéletes. Együtt ebédeltünk. Sok mindenről beszélgettünk. Képzeld, este 8-ig ott ültünk az étteremben! Alig várom a vasárnapot. A hét húszas vonattal érkezem. A többit majd szóban elmondom. Beát is üdvözlöm. Sok puszi: Sari.
+        ,, Pár nappal ezelőtt egy kisvendéglőbe mentem ebédelni a József körúton. Elég késő volt, délután fél négy fele lehetett. Nem volt nagy választék: már csak csirke és pörkölt maradt. Egy másik asztalnál egy 22 év körüli fíu ült az ablak mellett. Gondoltam, hogy turista lehet, mert egy hátizsák feküdt mellette a földön. A fiú odahívta a pincért, és a csirkét kérte. A pincér nem értette. A fiú lassan, hangosan megismételte: csírr-ke. A pincér még mindig nem értette, mit akar. A fiú ekkor felugrott és elkezdett hadonászni csapkodja és most már kiabálta: csírr-ke!!! A pincér ijedt arccal hátrált. Mindenki nevetett. ,, Azt hiszem, csirkét kér. - mondtam a pincérnek. ,, Á, csirke. - ismételte a pincér. ,, Most már értem! ,, De hát én is ezt mondtam! - mondta a fiú. Elmagyaráztam neki, hogy a kiejtése nem volt tökéletes. Együtt ebédeltünk. Sok mindenről beszélgettünk. Képzeld, este 8-ig ott ültünk az étteremben! Alig várom a vasárnapot. A hét húszas vonattal érkezem. A többit majd szóban elmondom. Beát is üdvözlöm. Sok puszi: Sari.
+        ,, Pár nappal ezelőtt egy kisvendéglőbe mentem ebédelni a József körúton. Elég késő volt, délután fél négy fele lehetett. Nem volt nagy választék: már csak csirke és pörkölt maradt. Egy másik asztalnál egy 22 év körüli fíu ült az ablak mellett. Gondoltam, hogy turista lehet, mert egy hátizsák feküdt mellette a földön. A fiú odahívta a pincért, és a csirkét kérte. A pincér nem értette. A fiú lassan, hangosan megismételte: csírr-ke. A pincér még mindig nem értette, mit akar. A fiú ekkor felugrott és elkezdett hadonászni csapkodja és most már kiabálta: csírr-ke!!! A pincér ijedt arccal hátrált. Mindenki nevetett. ,, Azt hiszem, csirkét kér. - mondtam a pincérnek. ,, Á, csirke. - ismételte a pincér. ,, Most már értem! ,, De hát én is ezt mondtam! - mondta a fiú. Elmagyaráztam neki, hogy a kiejtése nem volt tökéletes. Együtt ebédeltünk. Sok mindenről beszélgettünk. Képzeld, este 8-ig ott ültünk az étteremben! Alig váram a vasárnapot. A hét húszas vonattal érkezem. A többit majd szóban elmondom. Beát is üdvözlöm. Sok puszi: Sari.
+Bea,    Tudtam, hogy Sári nem fog Pesten unatkozni!
+        Tudtam, hogy Sári nem fog Pesten unatkozni!
+        Tudtam, hogy Sári nem fog Pesten unatkozni!
+        Tudtam, hogy Sári nem fog Pesten unatkozni!
+        Tudtam, hogy Sári nem fog Pesten unatkozni!
 ```
 """  # noqa: E501
