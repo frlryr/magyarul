@@ -671,4 +671,27 @@
 * It can mean alot of things.
     * e.g. Köszönöm mást nem kérek.
            Sajnos most vasárnap nem tudunk jönni. Talán majd máskor.
+
+## Megismerkedik, Találkozik
+* Both means meet somebody.
+* It's used when meeting someone for the first time.
+* Találkozik also means to bump into somebody you already know.
+
+## Fiú
+* Means boy.
+* It can be using for young man in his 20s.
+
+## Vár
+* Means:
+    * a. Wait for somebody or something.
+    * b. Expect somebody or something.
+    * c. Look forward to something.
+    * e.g. Marit várom.
+           Levelet vársz?
+           Várom a nyarat.
+
+## Time expressions
+* Unlike in English, time expressions in Hungarian go from the general to the particular.
+    * e.g. Délután npegy óra fele lehetett.
+           Vasárnap este 11-kor érkeztünk a Balatonhoz.
 """  # noqa: E501

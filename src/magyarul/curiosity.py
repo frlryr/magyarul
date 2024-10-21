@@ -41,6 +41,38 @@
 | Kolbász      | Sausage        | Gyulai, Házi |
 | Szalámi      | Salami         | Téli         |
 
+# Writting letters
+* Informal expressions:
+    * When addressing: Kedves, Drága, Szia, etc.
+        * e.g. Kedves Kati!
+    * When closing: Szeretettel, Sok Szeretettel, Üdvözlettel, Üdv., Minden jót!, Szia!,
+        Puszi, Sok Puszi, Csókollak, etc.
+        * e.g. Szeretettel:
+    * Last 3 expressions in closing line is usually used for women (as they are too
+        intimate and only if you know them I'd assume).
+* Formal expressions:
+    * When addressing: Tisztelt, etc.
+        * e.g. Tisztelt Uram!
+    * When closing: Tisztelettel, etc.
+        * e.g. Tisztelettel:
+* Structure:
+    * When signing, use full name.
+    * When addressing poeple, all words begin with capital letter, followed by an
+        exclamation mark. Write it in the middle of the page.
+    * Write the closing line on the right hand side, followed by a colon and your
+        signature underneath.
+    * The date can be written in the top right hand corner, or after the name of
+        the place where the letter was written from, and is followed by a comma,
+        e.g. Budapest, 1992. december 7.
+    * In letters, to show respect, some poeple like to spell the personal pronouns
+        te, ti, maga, ön, önök with capital letter.
+    * Tradiotionally the address of the feladó (sender) is written on the envelope
+        either in the top left hand corner or on the back, but not on the letter
+        itself.
+
+# Writting cards
+*
+
 # Places to drink
 *
 
@@ -318,12 +350,28 @@
 * In answer to the question Hányakikan? the -n ending is used.
     * e.g. Február negyedikén.
 
-# Importante People
+# Notable People
 ## Fazekas Mihály
 * Was a 18th-century Hungaria poet.
 * Lots of streets, schools and institutions are named after famous people.
 * There is a strong literary tradition in the country.
 * Culture and education is importante to Hungarians.
+
+# Giving somebody one's regards
+* Üdvözöl (vkit) is an irregular verb meaning give somebody one's regards.
+
+|       | Indefinite Conjugation | Definite Conjugation |
+|-------|------------------------|----------------------|
+| Én    | Üdvözlök               | Üdvözlöm             |
+| Te    | Üdvözölsz              | Üdvözlöd             |
+| Maga  | Üdvövöl                | Üdvözli              |
+| Ön    | Üdvövöl                | Üdvözli              |
+| Ő     | Üdvövöl                | Üdvözli              |
+| Mi    | Üdvözlünk              | Üdvözöljük           |
+| Ti    | Üdvözöltök             | Üdvözlitek           |
+| Maguk | Üdvözölnek             | Üdvözlik             |
+| Önök  | Üdvözölnek             | Üdvözlik             |
+| Ők    | Üdvözölnek             | Üdvözlik             |
 
 # Dictionary
 *

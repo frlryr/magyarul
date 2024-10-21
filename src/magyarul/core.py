@@ -492,6 +492,58 @@
 * It also means about.
     * e.g. Kiről írt István?
 
+### -tól, -től
+* Used with words ending
+    * -nál, -nél in answer to Hol?
+    * -hoz, -hez, -höz in answer to Hova?
+    * -tól, -től in answer to Honnan?
+
+| Hol?     | Hová?    | Honnan?  |
+|----------|----------|----------|
+| Folyónál | Folyóhoz | Folyótól |
+| Péknél   | Pékhez   | Péktől   |
+| Áginál   | Ágihoz   | Ágitól   |
+
+#### Personal pronoun forms
+*
+
+| Ki?  | Kitől?  | Kik?  | Kiktől?  |
+|------|---------|-------|----------|
+| Én   | Tőlem   | Mi    | Tőlünk   |
+| Te   | Tőled   | Ti    | Tőletek  |
+| Maga | Magától | Maguk | Maguktól |
+| Ön   | Öntől   | Önök  | Önöktől  |
+| Ő    | Tőle    | Ők    | Tőlük    |
+
+### -ig
+* Means to , as fas as, up to, till, until.
+* It has only only form.
+* It is used in expressions of place and tmie.
+    * e.g. Meddig jöttök?
+           Egészen a kapuig.
+           Londontól Budapestig két óra az út.
+           Mettől meddig maradtatok náluk?
+           Reggel héttől este hétig dolgoztam.
+
+## Endings taken by -ez, -az
+* Forms evvel and avval can also be heard.
+
+| Ending           | Ez + Ending      | Az + Ending      |
+|------------------|------------------|------------------|
+| -t               | Ezt (pron. eszt) | Azt (pron. aszt) |
+| -ba, -be         | Ebbe             | Abba             |
+| -ban, -ben       | Ebben            | Abban            |
+| -ból, -ből       | Ebből            | Abból            |
+| -n               | Ezen             | Azon             |
+| -ra, -re         | Erre             | Arra             |
+| -ról, -ről       | Erről            | Arról            |
+| -nál, -nél       | Ennél            | Annál            |
+| -hoz, -hez, -höz | Ehhez            | Ahhoz            |
+| -tól, -től       | Ettől            | Attól            |
+| -val, -vel       | Ezzel*           | Azzal*           |
+| -nak, -nek       | Ennek            | Annak            |
+| -ig              | Eddig            | Addig            |
+
 ### -ból, -ből
 * Used with words taking the ending:
     * -ban/-ben in answer to Hol?.
