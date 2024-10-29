@@ -1641,4 +1641,54 @@ Bea,    Tudtam, hogy Sári nem fog Pesten unatkozni!
         Tudtam, hogy Sári nem fog Pesten unatkozni!
         Tudtam, hogy Sári nem fog Pesten unatkozni!
 ```
+
+
+# 16. Nagyon jól éreztem magam
+```
+András, De szép barna vagy! Úgy látszik, jó idő volt.
+        De szép barna vagy! Úgy látszik, jó idő volt.
+        De szép barna vagy! Úgy látszik, jó idő volt.
+        De szép barna vagy! Úgy látszik, jó idő volt.
+        De szép barna vagy! Úgy látszik, jó idő volt.
+Edit,   Igen, végig nagyon jó idő volt, igazi kánikula. Sokat fürödtünk, napoztunk. Igaz, sokat kellet dolgozni: reggel 8-tól délután 4-ig voltam szolgálatban. Elég fárasztó 11-14 éves gyerekekre vigyázni, programokat szervezni nekik. De 4-től szabad voltam. Nagyon jól éreztem magam.
+        Igen, végig nagyon jó idő volt, igazi kánikula. Sokat fürödtünk, napoztunk. Igaz, sokat kellet dolgozni: reggel 8-tól délután 4-ig voltam szolgálatban. Elég fárasztó 11-14 éves gyerekekre vigyázni, programokat szervezni nekik. De 4-től szabad voltam. Nagyon jól éreztem magam.
+        Igen, végig nagyon jó idő volt, igazi kánikula. Sokat fürödtünk, napoztunk. Igaz, sokat kellet dolgozni: reggel 8-tól délután 4-ig voltam szolgálatban. Elég fárasztó 11-14 éves gyerekekre vigyázni, programokat szervezni nekik. De 4-től szabad voltam. Nagyon jól éreztem magam.
+        Igen, végig nagyon jó idő volt, igazi kánikula. Sokat fürödtünk, napoztunk. Igaz, sokat kellet dolgozni: reggel 8-tól délután 4-ig voltam szolgálatban. Elég fárasztó 11-14 éves gyerekekre vigyázni, programokat szervezni nekik. De 4-től szabad voltam. Nagyon jól éreztem magam.
+        Igen, végig nagyon jó idő volt, igazi kánikula. Sokat fürödtünk, napoztunk. Igaz, sokat kellet dolgozni: reggel 8-tól délután 4-ig voltam szolgálatban. Elég fárasztó 11-14 éves gyerekekre vigyázni, programokat szervezni nekik. De 4-től szabad voltam. Nagyon jól éreztem magam.
+András, És milyenek voltak a többiek?
+        És milyenek voltak a többiek?
+        És milyenek voltak a többiek?
+        És milyenek voltak a többiek?
+        És milyenek voltak a többiek?
+Edit,   Elég szimpatikusak.
+        Elég szimpatikusak.
+        Elég szimpatikusak.
+        Elég szimpatikusak.
+        Elég szimpatikusak.
+András, És mit tudtatok este csinálni? Hova jártatok szórakozni?
+        És mit tudtatok este csinálni? Hova jártatok szórakozni?
+        És mit tudtatok este csinálni? Hova jártatok szórakozni?
+        És mit tudtatok este csinálni? Hova jártatok szórakozni?
+        És mit tudtatok este csinálni? Hova jártatok szórakozni?
+Edit,   Eleinte a discóba, de azt hamar meguntuk. Fonyódon van egy kertmozi, ott többször is voltunk. Minden este más film ment. Viszonylag jó filmeket játszottak. A hétvégeken vagy a szabadnopokon sokféle program volt: koncertek, kiállítások. Egyszer hajókirándulásra mentünk a gyerekekkel. Kár, hogy nem voltál ott! Lehetett vitorlázni, csónakázni, szörfözni.
+        Eleinte a discóba, de azt hamar meguntuk. Fonyódon van egy kertmozi, ott többször is voltunk. Minden este más film ment. Viszonylag jó filmeket játszottak. A hétvégeken vagy a szabadnopokon sokféle program volt: koncertek, kiállítások. Egyszer hajókirándulásra mentünk a gyerekekkel. Kár, hogy nem voltál ott! Lehetett vitorlázni, csónakázni, szörfözni.
+        Eleinte a discóba, de azt hamar meguntuk. Fonyódon van egy kertmozi, ott többször is voltunk. Minden este más film ment. Viszonylag jó filmeket játszottak. A hétvégeken vagy a szabadnopokon sokféle program volt: koncertek, kiállítások. Egyszer hajókirándulásra mentünk a gyerekekkel. Kár, hogy nem voltál ott! Lehetett vitorlázni, csónakázni, szörfözni.
+        Eleinte a discóba, de azt hamar meguntuk. Fonyódon van egy kertmozi, ott többször is voltunk. Minden este más film ment. Viszonylag jó filmeket játszottak. A hétvégeken vagy a szabadnopokon sokféle program volt: koncertek, kiállítások. Egyszer hajókirándulásra mentünk a gyerekekkel. Kár, hogy nem voltál ott! Lehetett vitorlázni, csónakázni, szörfözni.
+        Eleinte a discóba, de azt hamar meguntuk. Fonyódon van egy kertmozi, ott többször is voltunk. Minden este más film ment. Viszonylag jó filmeket játszottak. A hétvégeken vagy a szabadnopokon sokféle program volt: koncertek, kiállítások. Egyszer hajókirándulásra mentünk a gyerekekkel. Kár, hogy nem voltál ott! Lehetett vitorlázni, csónakázni, szörfözni.
+András, Tudod, hogy engem nem érdekelnek a gyerekek, főleg nem a Balatonnál!
+        Tudod, hogy engem nem érdekelnek a gyerekek, főleg nem a Balatonnál!
+        Tudod, hogy engem nem érdekelnek a gyerekek, főleg nem a Balatonnál!
+        Tudod, hogy engem nem érdekelnek a gyerekek, főleg nem a Balatonnál!
+        Tudod, hogy engem nem érdekelnek a gyerekek, főleg nem a Balatonnál!
+Edit,   Lusta vagy András, az a baj!
+        Lusta vagy András, az a baj!
+        Lusta vagy András, az a baj!
+        Lusta vagy András, az a baj!
+        Lusta vagy András, az a baj!
+András, Én? Lusta? Ki szokta a kutyát minden nap kétszer levinni sétálni? Talán te? A Balaton már különben sem a régi: túl nagy a tömeg. És az árak! Azokról jobb nem is beszélni! Már a lángos is egy vagyonba kerül. Emlékszel, amikor gyerekek voltunk? Hogy imádtunk ott lenni! Egész nap a vízben játszottunk. Soha nem unatkoztunk. És a főtt kolbász a sült hal, a sok finom palacsinta ...
+        Én? Lusta? Ki szokta a kutyát minden nap kétszer levinni sétálni? Talán te? A Balaton már különben sem a régi: túl nagy a tömeg. És az árak! Azokról jobb nem is beszélni! Már a lángos is egy vagyonba kerül. Emlékszel, amikor gyerekek voltunk? Hogy imádtunk ott lenni! Egész nap a vízben játszottunk. Soha nem unatkoztunk. És a főtt kolbász a sült hal, a sok finom palacsinta ...
+        Én? Lusta? Ki szokta a kutyát minden nap kétszer levinni sétálni? Talán te? A Balaton már különben sem a régi: túl nagy a tömeg. És az árak! Azokról jobb nem is beszélni! Már a lángos is egy vagyonba kerül. Emlékszel, amikor gyerekek voltunk? Hogy imádtunk ott lenni! Egész nap a vízben játszottunk. Soha nem unatkoztunk. És a főtt kolbász a sült hal, a sok finom palacsinta ...
+        Én? Lusta? Ki szokta a kutyát minden nap kétszer levinni sétálni? Talán te? A Balaton már különben sem a régi: túl nagy a tömeg. És az árak! Azokról jobb nem is beszélni! Már a lángos is egy vagyonba kerül. Emlékszel, amikor gyerekek voltunk? Hogy imádtunk ott lenni! Egész nap a vízben játszottunk. Soha nem unatkoztunk. És a főtt kolbász a sült hal, a sok finom palacsinta ...
+        Én? Lusta? Ki szokta a kutyát minden nap kétszer levinni sétálni? Talán te? A Balaton már különben sem a régi: túl nagy a tömeg. És az árak! Azokról jobb nem is beszélni! Már a lángos is egy vagyonba kerül. Emlékszel, amikor gyerekek voltunk? Hogy imádtunk ott lenni! Egész nap a vízben játszottunk. Soha nem unatkoztunk. És a főtt kolbász a sült hal, a sok finom palacsinta ...
+```
 """  # noqa: E501
