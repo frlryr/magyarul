@@ -482,6 +482,150 @@
 | Ellen   | Against      |         |
 
 ## Endings
+### -k
+* It's the plural form.
+* Not exactly an ending as it can be used with other endings.
+    * e.g. Kertekbe
+    * e.g. Házakba
+
+#### Nouns
+* The plural of nuns is formed with the -k ending
+* Just add -k to words ending in a vowel. (As usual, before it,
+    a changes to á. and e to é.)
+
+| Ki?  | Kik?  | Mi?   | Mik?   |
+|------|-------|-------|--------|
+| Nő   | Nő    | Autó  | Autók  |
+| Anya | Anyák | Lecke | Leckék |
+
+* Nouns endings in a consonant take the same linking vowel before
+    the plural ending as before the object ending.
+
+| Ki? Mi?  | Kit? Mit?  | Kik? Mik?  |
+|----------|------------|------------|
+| Étlap    | Étlaplot   | Étlapok    |
+| Ház      | Házat      | Házak      |
+| Gyerek   | Gyereket   | Gyerekek   |
+| Gyümölcs | Gyümölcsök | Gyümölcsök |
+
+* The same irregulatities also occurs before the plural, as before
+the object ending.
+
+| Ki? Mi?  | Kit? Mit?  | Kik? Mik?  |
+|----------|------------|------------|
+| Étlap    | Étlaplot   | Étlapok    |
+| Ház      | Házat      | Házak      |
+| Gyerek   | Gyereket   | Gyerekek   |
+| Gyümölcs | Gyümölcsök | Gyümölcsök |
+
+* Note that the plural for férfi is férfiak and for szó is szavak.
+    * e.g. A férfiak otthon maradtak.
+* In Hungarian, nouns are not always singular or plural when they
+are in English.
+* With numbers and words expressing quantity like sok, kevés, pár,
+    etc. always use the singular.
+    * e.g. Két körtefa van a kertben.
+* With names of fruits always use singular in Hungarian.
+    * e.g. Szereted a nrancsot?
+* Use singular when talking about something in connection with
+    several people. Using plural may imply everyone is doing more
+    than one thing to something. e.g. buying more than one car.
+    * e.g. Kevesen vesznek luxus autót Magyarországon.
+* Note that the definite artcile is required before indefinite plural
+    nouns in Hungarian.
+    * e.g. A gyerekeke nem tudnak sokáig koncentrálni.
+
+#### Adjectives
+* Just add the -k ending to most adjectives ending in a vowel. (As
+    usual, a changes to á, nd e to é before it.)
+* However, back vowel adjectives ending in ú or i take an a, and
+    front vowel adjectives ending in ű or i take an e linking vowel
+    before the plural ending.
+
+| Milyen?  | Milyenek?  |
+|----------|------------|
+| Jó       | Jók        |
+| Buta     | Buták      |
+| Fekete   | Feketék    |
+| Lassú    | Lassúak    |
+| Igazi    | Igaziak    |
+| Gyönyörű | Gyönyörűek |
+| Eredeti  | Eredetiek  |
+
+* Back vowel adjectives ending in a consonant take the linking vowel
+    a before the plural ending.
+
+| Milyen? | Milyenek? |
+|---------|-----------|
+| Piros   | Pirosak   |
+
+* Front vowel adjectives ending in a consonant, almost without
+    exception, take the e linking vowel.
+
+| Milyen? | Milyenek? |
+|---------|-----------|
+| Kedves  | Kedvesek  |
+
+* Adjectives only take the plural ending if they do not preceded a
+    noun (used on their own).
+    * e.g. Ezek drága cipők.
+    * e.g. Ezek a cipők drágák.
+* To say the old, the young, the English, etc. in Hungarian use the
+    plural form of the adjective.
+    * e.g. Az öregek.
+    * e.g. A fiatalok.
+    * e.g. Az angolok.
+
+#### Other endings
+* It can be followed by almost all the endings seen so far.
+* There might be exceptions though.
+
+| Ending           | Front Vowel Word | Back Vowel Words |
+|------------------|------------------|------------------|
+| -t               | Kerteket         | Házakat          |
+| -ba, -be         | Kertekbe         | Házakba          |
+| -ban, -ben       | Kertekben        | Házakban         |
+| -ból, -ből       | Kertekből        | Házakból         |
+| -n               | Székeken         | Asztalokon       |
+| -ra, -re         | Székekre         | Asztalokra       |
+| -ról, -ről       | Székekről        | Asztalokról      |
+| -hoz, -hez, -höz | Gyerekekhez      | Lányokhoz        |
+| -nál, -nél       | Gyereknél        | Lányoknál        |
+| -tól, -től       | Gyerektől        | Lányoktól        |
+| -val, -vel       | Gyerekekkel      | Lányokkal        |
+| -nak, -nek       | Gyerekeknek      | Lányoknak        |
+| -ig              | Kertekig         | Házakig          |
+
+### -szor, -szer, -ször
+* It means times.
+* It's added straight to the word stem. (Apply vowel harmony, when
+    choosing the right form.)
+* It's used with 3 groups of words:
+    * a. After cardinal numbers.
+        * e.g. Hányszor.
+    * b. After ordinal numbers without -ik.
+        * e.g. Hányadszor?
+    * c. After certain words.
+        * e.g. Néhányszor.
+        * e.g. Párszor.
+        * e.g. Sokszor.
+        * e.g. Számtalanszor.
+        * e.g. Többször.
+* In pronunciation the
+    * t and sz change to cc.
+        * e.g. kétszer (pron. kéccer).
+    * gy to ty before sz.
+        * e.g. egyszer (pron. etyszer).
+    * d and sz change to cc.
+        * e.g. Másodszor (pron. másoccor)
+    * Először is the only exception.
+
+### -féle, -fajta
+* It means sorts of, kinds of
+* These can be used interchangeably after numbres and certain words.
+    * e.g. Kétféle.
+    * e.g. Sokfajta.
+
 ### -ról, -ről
 * Used with words taking the ending:
     * -n in answer to Hol?.
@@ -1035,4 +1179,59 @@
 | Hol?       | Where?      | Ahol        | where      |
 | Hova/Hová? | Where to?   | Ahova/Ahová | where to   |
 | Honnan?    | Where from? | Ahonna      | where from |
-"""  # noqa: E501
+
+## Ezek, Azok
+* It means these and those respectively.
+    * e.g. Ezek a lányok elég csinosak.
+    * e.g. Ezek az ablakok piszkosak.
+
+## Magam
+* It means myself.
+* It's used the same way as in English.
+* They can take endings if required by a verb.
+    * e.g. Vettem magamnak egy szép blúzt.
+    * e.g. Györgyi mindig csak magáról beszél!
+* Expression jól érzem magam and rosszul érzem magam can mean
+    I have a good/bad time or I feel well/unwell.
+* Note that maga requires the definite conjugation. In the 1st
+    and 2nd person singular, the object ending can be left out.
+* Note that maga is sometimes used where English uses a personal
+    pronoun.
+    * e.g. Engem is magaddal viszel?
+
+| Magyar  | Meaning            |
+|---------|--------------------|
+| Magam   | Myself             |
+| Magad   | Yourself (fam.)    |
+| Maga    | Yourself (form.)   |
+| Maga    | Himself/Herself    |
+| Magunk  | Ourselves          |
+| Magatok | Yourselves (fam.)  |
+| Maguk   | Yourselves (form.) |
+| Maguk   | Themselves         |
+
+## Érdekel
+* It means be interested in something/somebody.
+* vkit érdekel vmi vki.
+* In some persons it takes the definite, and in others the indefinite
+    conjugation.
+
+|            | Magyar  | Magyar     |
+|------------|---------|------------|
+| Engem      | Érdekel | Érdekelnek |
+| Téged      | Érdekel | Érdekelnek |
+| Magát      | Érdekli | Érdeklik   |
+| Önt        | Érdekli | Érdeklik   |
+| Őt         | Érdekli | Érdeklik   |
+| Minket     | Érdekel | Érdekelnek |
+| Titeket    | Érdekel | Érdekelnek |
+| Benneteket | Érdekel | Érdekelnek |
+| Magukat    | Érdekli | Érdeklik   |
+| Önöket     | Érdekli | Érdeklik   |
+| Őket       | Érdekli | Érdeklik   |
+
+## Fürdik
+* It means have a bathe, bathe
+* Its conjugation in the past tense is irregular,
+
+"""  # noqa: E501TOD
