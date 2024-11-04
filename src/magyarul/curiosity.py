@@ -373,6 +373,32 @@
 | Önök  | Üdvözölnek             | Üdvözlik             |
 | Ők    | Üdvözölnek             | Üdvözlik             |
 
+## Expressing habitual actions
+* The verb szokott is conjugated only in the past tense, but it is
+    mainly used to express present habits.
+    * e.g. Ebben a közértben szoktunk vásárolni.
+
+|       | Indefinite Conjugation | Definite Conjugation |
+|-------|------------------------|----------------------|
+| Én    | Szoktam                | Szoktam              |
+| Te    | Szoktál                | Szoktad              |
+| Maga  | Szokott                | Szokta               |
+| Ön    | Szokott                | Szokta               |
+| Ő     | Szokott                | Szokta               |
+| Mi    | Szoktunk               | Szoktuk              |
+| Ti    | Szoktatok              | Szoktátok            |
+| Maguk | Szoktak                | Szoktuk              |
+| Önök  | Szoktak                | Szoktuk              |
+| Ők    | Szoktak                | Szoktuk              |
+
+# Balaton
+* A magyar tenger (the Hungarian Sea), or Balaton, is the biggest lake in
+    Central Europe.
+* It's one hour away from Budapeste.
+* It's considered the country's main holiday resort.
+* It's water has a special, soft quality and its colour is green-silver.
+* It's a shallow lake and its water is very warm.
+
 # Dictionary
 *
 

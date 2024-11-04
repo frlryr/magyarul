@@ -687,11 +687,21 @@
     * b. Expect somebody or something.
     * c. Look forward to something.
     * e.g. Marit várom.
-           Levelet vársz?
-           Várom a nyarat.
+    * e.g. Levelet vársz?
+    * e.g. Várom a nyarat.
 
 ## Time expressions
 * Unlike in English, time expressions in Hungarian go from the general to the particular.
     * e.g. Délután npegy óra fele lehetett.
-           Vasárnap este 11-kor érkeztünk a Balatonhoz.
+    * e.g. Vasárnap este 11-kor érkeztünk a Balatonhoz.
+
+## Kell
+* It has 2 meanings:
+    * It means is needed, is necessary when used with nouns
+        * e.g. Mi kell még?
+        * e.g. Kell egy kiló krumpli is.
+    * When used with the infinitive it means have to, must. This is a impersonal
+        form and usually means one has to | must.
+        * e.g. Hétfőn sokat kellet dolgozni.
+
 """  # noqa: E501
