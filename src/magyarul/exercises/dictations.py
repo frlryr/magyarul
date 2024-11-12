@@ -1642,7 +1642,6 @@ Bea,    Tudtam, hogy Sári nem fog Pesten unatkozni!
         Tudtam, hogy Sári nem fog Pesten unatkozni!
 ```
 
-
 # 16. Nagyon jól éreztem magam
 ```
 András, De szép barna vagy! Úgy látszik, jó idő volt.
@@ -1690,5 +1689,69 @@ András, Én? Lusta? Ki szokta a kutyát minden nap kétszer levinni sétálni? 
         Én? Lusta? Ki szokta a kutyát minden nap kétszer levinni sétálni? Talán te? A Balaton már különben sem a régi: túl nagy a tömeg. És az árak! Azokról jobb nem is beszélni! Már a lángos is egy vagyonba kerül. Emlékszel, amikor gyerekek voltunk? Hogy imádtunk ott lenni! Egész nap a vízben játszottunk. Soha nem unatkoztunk. És a főtt kolbász a sült hal, a sok finom palacsinta ...
         Én? Lusta? Ki szokta a kutyát minden nap kétszer levinni sétálni? Talán te? A Balaton már különben sem a régi: túl nagy a tömeg. És az árak! Azokról jobb nem is beszélni! Már a lángos is egy vagyonba kerül. Emlékszel, amikor gyerekek voltunk? Hogy imádtunk ott lenni! Egész nap a vízben játszottunk. Soha nem unatkoztunk. És a főtt kolbász a sült hal, a sok finom palacsinta ...
         Én? Lusta? Ki szokta a kutyát minden nap kétszer levinni sétálni? Talán te? A Balaton már különben sem a régi: túl nagy a tömeg. És az árak! Azokról jobb nem is beszélni! Már a lángos is egy vagyonba kerül. Emlékszel, amikor gyerekek voltunk? Hogy imádtunk ott lenni! Egész nap a vízben játszottunk. Soha nem unatkoztunk. És a főtt kolbász a sült hal, a sok finom palacsinta ...
+```
+
+# 17. Mi a panasza?
+```
+Orvos,      Tessék, Márkus úr. Mi a panasza?
+            Tessék, Márkus úr. Mi a panasza?
+            Tessék, Márkus úr. Mi a panasza?
+            Tessék, Márkus úr. Mi a panasza?
+            Tessék, Márkus úr. Mi a panasza?
+Márkus úr,  Nagyon beteg vagyok doktor úr. Mindenem fáj: a torkom, a hasam. Erősen köhögök, és náthás is vagyok.
+            Nagyon beteg vagyok doktor úr. Mindenem fáj: a torkom, a hasam. Erősen köhögök, és náthás is vagyok.
+            Nagyon beteg vagyok doktor úr. Mindenem fáj: a torkom, a hasam. Erősen köhögök, és náthás is vagyok.
+            Nagyon beteg vagyok doktor úr. Mindenem fáj: a torkom, a hasam. Erősen köhögök, és náthás is vagyok.
+            Nagyon beteg vagyok doktor úr. Mindenem fáj: a torkom, a hasam. Erősen köhögök, és náthás is vagyok.
+Orvos,      Lázas?
+            Lázas?
+            Lázas?
+            Lázas?
+            Lázas?
+Márkus úr,  Lehet, de nem tudtam megmérni a lázam, mert nincs otthon lázmerőm.
+            Lehet, de nem tudtam megmérni a lázam, mert nincs otthon lázmerőm.
+            Lehet, de nem tudtam megmérni a lázam, mert nincs otthon lázmerőm.
+            Lehet, de nem tudtam megmérni a lázam, mert nincs otthon lázmerőm.
+            Lehet, de nem tudtam megmérni a lázam, mert nincs otthon lázmerőm.
+Orvos,      Tessék, itt van egy. (After taking Mr. Márkus' temperature.) Lássuk csak! Hm. Elég magas, 39 fokos láza van. És tud rendesen enni? Van étvágya?
+            Tessék, itt van egy. (After taking Mr. Márkus' temperature.) Lássuk csak! Hm. Elég magas, 39 fokos láza van. És tud rendesen enni? Van étvágya?
+            Tessék, itt van egy. (After taking Mr. Márkus' temperature.) Lássuk csak! Hm. Elég magas, 39 fokos láza van. És tud rendesen enni? Van étvágya?
+            Tessék, itt van egy. (After taking Mr. Márkus' temperature.) Lássuk csak! Hm. Elég magas, 39 fokos láza van. És tud rendesen enni? Van étvágya?
+            Tessék, itt van egy. (After taking Mr. Márkus' temperature.) Lássuk csak! Hm. Elég magas, 39 fokos láza van. És tud rendesen enni? Van étvágya?
+Márkus úr,  Nem nagyon. Tegnap egész nap alig ettem valamit. Elfelejtettem mondani, hogy szédülök is.
+            Nem nagyon. Tegnap egész nap alig ettem valamit. Elfelejtettem mondani, hogy szedülök is.
+            Nem nagyon. Tegnap egész nap alig ettem valamit. Elfelejtettem mondani, hogy szedülök is.
+            Nem nagyon. Tegnap egész nap alig ettem valamit. Elfelejtettem mondani, hogy szedülök is.
+            Nem nagyon. Tegnap egész nap alig ettem valamit. Elfelejtettem mondani, hogy szedülök is.
+Orvos,      Nyissa ki a száját! Megnézem a torkát. Egy kicsit piros. De meg fog gyógyulni, Márkus úr. Nem kell félni. Csak influenzája van. Felírok magának egy gyógyszert. Naponta háromszor kell beszedni étkezés után. Tessék ágyban maradni egy hétig. A jövő héten délután rendelek. Csürtörtökön majd úrja megvizsgálom. Tessék, itt a recept.
+            Nyissa ki a száját! Megnézem a torkát. Egy kicsit piros. De meg fog gyógyulni, Márkus úr. Nem kell félni. Csak influenzája van. Felírok magának egy gyógyszert. Naponta háromszor kell beszedni étkezés után. Tessék ágyban maradni egy hétig. A jövő héten délután rendelek. Csürtörtökön majd úrja megvizsgálom. Tessék, itt a recept.
+            Nyissa ki a száját! Megnézem a torkát. Egy kicsit piros. De meg fog gyógyulni, Márkus úr. Nem kell félni. Csak influenzája van. Felírok magának egy gyógyszert. Naponta háromszor kell beszedni étkezés után. Tessék ágyban maradni egy hétig. A jövő héten délután rendelek. Csürtörtökön majd úrja megvizsgálom. Tessék, itt a recept.
+            Nyissa ki a száját! Megnézem a torkát. Egy kicsit piros. De meg fog gyógyulni, Márkus úr. Nem kell félni. Csak influenzája van. Felírok magának egy gyógyszert. Naponta háromszor kell beszedni étkezés után. Tessék ágyban maradni egy hétig. A jövő héten délután rendelek. Csürtörtökön majd úrja megvizsgálom. Tessék, itt a recept.
+            Nyissa ki a száját! Megnézem a torkát. Egy kicsit piros. De meg fog gyógyulni, Márkus úr. Nem kell félni. Csak influenzája van. Felírok magának egy gyógyszert. Naponta háromszor kell beszedni étkezés után. Tessék ágyban maradni egy hétig. A jövő héten délután rendelek. Csürtörtökön majd úrja megvizsgálom. Tessék, itt a recept.
+Márkus úr,  Köszönöm. Ha már itt vagyok, doktor úr, van még valami. Szörnyen fáj a derekam meg a vállam. Tudja, a reumám ... Nem tud valamit ajánlani?
+            Köszönöm. Ha már itt vagyok, doktor úr, van még valami. Szörnyen fáj a derekam meg a vállam. Tudja, a reumám ... Nem tud valamit ajánlani?
+            Köszönöm. Ha már itt vagyok, doktor úr, van még valami. Szörnyen fáj a derekam meg a vállam. Tudja, a reumám ... Nem tud valamit ajánlani?
+            Köszönöm. Ha már itt vagyok, doktor úr, van még valami. Szörnyen fáj a derekam meg a vállam. Tudja, a reumám ... Nem tud valamit ajánlani?
+            Köszönöm. Ha már itt vagyok, doktor úr, van még valami. Szörnyen fáj a derekam meg a vállam. Tudja, a reumám ... Nem tud valamit ajánlani?
+Orvos,      Már a múltkor is akartam magát gyógyfürdőbe küldeni, de nem nagyon lelkesedett ... Pedig tudja jól, hogy jót tesz magának. Itt vagyunk a gyógyfürdők hazájában, és maga nem akarja kihasználni ezt a páratlan lehetőséget.
+            Már a múltkor is akartam magát gyógyfürdőbe küldeni, de nem nagyon lelkesedett ... Pedig tudja jól, hogy jót tesz magának. Itt vagyunk a gyógyfürdők hazájában, és maga nem akarja kihasználni ezt a páratlan lehetőséget.
+            Már a múltkor is akartam magát gyógyfürdőbe küldeni, de nem nagyon lelkesedett ... Pedig tudja jól, hogy jót tesz magának. Itt vagyunk a gyógyfürdők hazájában, és maga nem akarja kihasználni ezt a páratlan lehetőséget.
+            Már a múltkor is akartam magát gyógyfürdőbe küldeni, de nem nagyon lelkesedett ... Pedig tudja jól, hogy jót tesz magának. Itt vagyunk a gyógyfürdők hazájában, és maga nem akarja kihasználni ezt a páratlan lehetőséget.
+            Már a múltkor is akartam magát gyógyfürdőbe küldeni, de nem nagyon lelkesedett ... Pedig tudja jól, hogy jót tesz magának. Itt vagyunk a gyógyfürdők hazájában, és maga nem akarja kihasználni ezt a páratlan lehetőséget.
+Márkus úr,  Ígérem, doktor úr, most megfogadom a tanácsát.
+            Ígérem, doktor úr, most megfogadom a tanácsát.
+            Ígérem, doktor úr, most megfogadom a tanácsát.
+            Ígérem, doktor úr, most megfogadom a tanácsát.
+            Ígérem, doktor úr, most megfogadom a tanácsát.
+Orvos,      Hova szeretne menni? Hévízre vagy Gyulára?
+            Hova szeretne menni? Hévízre vagy Gyulára?
+            Hova szeretne menni? Hévízre vagy Gyulára?
+            Hova szeretne menni? Hévízre vagy Gyulára?
+            Hova szeretne menni? Hévízre vagy Gyulára?
+Márkus úr,  Nekem szeretne mindegy. Hévíz is, Gyula is rettenetesen drága lett. De egy hetek kibírok. Hátha segít ...
+            Nekem szeretne mindegy. Hévíz is, Gyula is rettenetesen drága lett. De egy hetek kibírok. Hátha segít ...
+            Nekem szeretne mindegy. Hévíz is, Gyula is rettenetesen drága lett. De egy hetek kibírok. Hátha segít ...
+            Nekem szeretne mindegy. Hévíz is, Gyula is rettenetesen drága lett. De egy hetek kibírok. Hátha segít ...
+            Nekem szeretne mindegy. Hévíz is, Gyula is rettenetesen drága lett. De egy hetek kibírok. Hátha segít ...
 ```
 """  # noqa: E501
