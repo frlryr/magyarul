@@ -399,6 +399,10 @@
 * It's water has a special, soft quality and its colour is green-silver.
 * It's a shallow lake and its water is very warm.
 
+# Gyógyfürdők
+* Hungary is very rich in natural hot sprints water.
+* They contain a lot of minerals which cure a number of diseases.
+
 # Dictionary
 *
 
