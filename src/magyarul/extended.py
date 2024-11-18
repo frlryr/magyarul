@@ -704,4 +704,46 @@
         form and usually means one has to | must.
         * e.g. Hétfőn sokat kellet dolgozni.
 
+## Beteg
+* It means both ill and patient.
+    * e.g. Beteg vagyok.
+    * e.g. Az orvos megvizsgálta a betegeket.
+
+## Naponta háromszor
+* It means three times a day.
+* Other similar expressions: hetente, havonta, évente.
+    * e.g. Hetente kétszer járok edzésre.
+    * e.g. Évente kétszer megnézek egy focimeccset.
+
+## Lázmérő
+* It means thermometer.
+* But its to take someone's temperature.
+* See hőmérő.
+
+## Hőmérő
+* It also means thermometer.
+* But its to take the temperature outside.
+* See Lázmérő.
+
+## Nekem teljesen mindegy
+* It means it's all the same to me.
+* Nekem mindegy or mindegy express indifference.
+    * e.g. Hová akarsz menni ma este? Nekem mindegy.
+
+## Váll, has, gyomor, kéz, kar, szem, száj, arc
+* It means shoulder, stomach, stomach, hand, arm, eye, mouth and
+    face respectively.
+* Parts of the body that have 2+ parts are mostly expressed in singular.
+    * e.g. Györgyinek kél szeme van.
+* Hungarians use the singular when talking about more than one person's face, mouth.
+    * e.g. Szerintem a szájuk túl nagy.
+
+| Ki?  | Kinél                                                   |
+|------|--------|-------|-------|-------|--------|-------|-------|
+| Én   | vállam | hasam | kezem | karom | szemem | szám  | arcom |
+| Te   | vallad | hasad | kezed | karod | szemed | szád  | arcod |
+| Maga | válla  | hasa  | keze  | karja | szeme  | szája | arca  |
+| Ön   | válla  | hasa  | keze  | karja | szeme  | szája | arca  |
+| Ö    | válla  | hasa  | keze  | karja | szeme  | szája | arca  |
+
 """  # noqa: E501

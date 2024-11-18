@@ -482,6 +482,134 @@
 | Ellen   | Against      |         |
 
 ## Endings
+### Possessive
+* My, your, his, her, etc. are expressed by possessive endings in Hungarian.
+* NOTE: Final vowel a and e changes to á and é.
+
+| Ki?  | Singular | Kik?  | Plural  |
+|------|----------|-------|---------|
+| Én   | Autóm    | Mi    | Autónk  |
+| Te   | Autód    | Ti    | Autótok |
+| Maga | Autója   | Maguk | Autójuk |
+| Ön   | Autója   | Önök  | Autójuk |
+| Ő    | Autója   | Ők    | Autójuk |
+
+| Ki?  | Singular | Kik?  | Plural   |
+|------|----------|-------|----------|
+| Én   | Kutyám   | Mi    | Kutyánk  |
+| Te   | Kutyád   | Ti    | Kutyátok |
+| Maga | Kutyája  | Maguk | Kutyajuk |
+| Ön   | Kutyája  | Önök  | Kutyajuk |
+| Ő    | Kutyája  | Ők    | Kutyajuk |
+
+#### Front Vowel Words ending in a vowel
+* NOTE: Second person plural -tök is needed instead of
+    -tek after words whose final vowel is ö, ő, ü, ű.
+* NOTE: Words ending in a consonant take the same linking vowel beofre possessive
+    ending starting with a consonant, as before the plural ending.
+
+| Ki?  | Singular | Kik?  | Plural  |
+|------|----------|-------|---------|
+| Én   | Cipőm    | Mi    | Cipőnk  |
+| Te   | Cipőd    | Ti    | Cipőtök |
+| Maga | Cipője   | Maguk | Cipőjük |
+| Ön   | Cipője   | Önök  | Cipőjük |
+| Ő    | Cipője   | Ők    | Cipőjük |
+
+| Ki?  | Singular | Kik?  | Plural    |
+|------|----------|-------|-----------|
+| Én   | Zsemlém  | Mi    | Zsemlénk  |
+| Te   | Zsemléd  | Ti    | Zsemlétek |
+| Maga | Zsemléje | Maguk | Zsemléjük |
+| Ön   | Zsemléje | Önök  | Zsemléjük |
+| Ő    | Zsemléje | Ők    | Zsemléjük |
+
+#### Back Vowel Words ending in a consonant
+* NOTE: t + j is pronounced as tty between two vowels and ty aftern a consonant.
+    * e.g. Barátja.
+    * e.g. Kertje.
+* NOTE: 3rd person singular and plural, the possessive endings after a conso-
+    -nant can  be either -ja/-a, -juk/uk or -je/e, jük/-ük. Unfortunately there
+    is no rule as to when to use the ending with or without the j. So you must
+    simply learn which endings to use with each word. There is one consolation:
+    if a word takes -ja or -je in the 3rd singular, it will take -juk or -jük
+    in the 3rd person plural. Same for -a/-uk and -e/-ük.
+    * e.g. Barátja - Barátjuk.
+    * e.g. Kertje  - Kertjük.
+    * e.g. Háza    - Házuk.
+    * e.g. Söre    - Sörük.
+* Same irregularities occur before the possessive endings as before the plural
+    and object endings.
+    * e.g. Név     - Nevet     - Nevek
+    * e.g. Nevem   - Neved     - Neve
+    * e.g. Nevünk  - Nevetek   - Nevük
+* You usually need the definite article before a possessive form.
+    * e.g. A barátom még nem evett kivit.
+    The indefinite article can also be used.
+        * e.g. Egy baratom mondta, hogy itt laksz.
+    Similarly az egyik can be used.
+        * e.g. Az egyik barátom mondta, hogy itt laksz.
+* Words with possessive endings always require the use of the definite conjugation.
+    * A feleségemet várom.
+
+#### Followed by other endings
+* Possessive forms can be followed by all the endings besides -kor.
+    * e.g. Hová tetted a könyvemet.
+* Final a and e of the possessive endings in the 3rd person singular form change to
+    á and é before the other endings.
+    * e.g. Ágyában.
+* NOTE: An accent makes a difference.
+    * e.g. Látom a házat.
+    * e.g. Látom a házát.
+* Before the object ending, the linking vowel is always a for back vowel
+    and e for front vowel words.
+    * e.g. Barátomat.
+    * e.g. Barátnődet.
+* The object ending is often left out after the 1st and 2nd person singular possesive
+    forms.
+    * e.g. Nem találom a fésűmet.
+    * e.g. Nem találom a fésűm.
+    * e.g. Hozod a kabátodat?
+    * e.g. Hozod a kabátod?
+
+#### Random I
+* How to say "Péter's father" or "the door of the car"?
+* In Hungarian the possessor is always followed by the thing possessed. To mark the
+    possession, the thing possessed takes the third person singular possessive ending.
+    * e.g. Péter édesapja.
+    * e.g. A kocsi ajtaja.
+* The possessor can also take possessive endings in expressions like
+    * Az édepsapám neve.
+    * A barátnőd lakása.
+
+#### Random III
+* How to say "I have"?
+* This phrase is expressed by the word van (in positive questions and statements) or
+    nincs (in negative questions or statements), followed by the thing possessed. The
+    Thing possessed takes the possessive ending of the possessor.
+
+|           | Singular | Plural    |
+|-----------|----------|-----------|
+| Van/Nincs | Kalapom  | Kalapunk  |
+| Van/Nincs | Kalapod  | Kalapotok |
+| Van/Nincs | Kalapja  | Kalapjuk  |
+| Van/Nincs | Kalapja  | Kalapjuk  |
+| Van/Nincs | Kalapja  | Kalapjuk  |
+
+* NOTE: How to give short answers.
+    * e.g. Van egy tollad? Van.
+    * e.g. Van autótok? Nincs.
+    * e.g. Nincs kabátotok? De van.
+    * e.g. Nincs egy százasod. Nincs.
+* NOTE: When naming the possessor, use the dative ending.
+    * e.g. A haznak fehér ajtaja van.
+    * e.g. A gyerekeknek új angol tanáruk van.
+    * e.g. Jóska feleségének jó állása van.
+    * e.g. A szomszédunk fiának megint új kocsija van.
+* NOTE: In the past, use volt/nem volt. In the future, use lesz/ nem lesz.
+    * e.g. Sajnos nem volt kertünk.
+    * e.g. Nemsokára nekünk is lesz videónk.
+
 ### -k
 * It's the plural form.
 * Not exactly an ending as it can be used with other endings.
@@ -735,6 +863,59 @@ are in English.
 | Ön   | Önnél   | Önök  | Önöknél  |
 | Ő    | Nála    | Ők    | Náluk    |
 
+### Adverbs of manner: -t
+* Adverbs of manner answer the question Hogy? or Hogyan?.
+* They are formed from adjectives by adding the -n ending.
+* NOTE: a and e changes to á and é as usual.
+* NOTE: before the plural ending, back vowel adjectives ending
+    in ú or i, take the linking vowel a. Front vowel adjectives
+    ending in ű or i, take the linking vowel e before it.
+
+| Milyen?  | Hogyan?    |
+|----------|------------|
+| Olcsó    | Olcsón     |
+| Drága    | Drágán     |
+| Gyenge   | Gyengén    |
+| Szomorú  | Szomorúan  |
+| Kíváncsi | Kíváncsian |
+| Gyönyörű | Gyönyörűen |
+| Eredeti  | Eredetien  |
+
+* NOTE: However we have exceptions.
+
+| Milyen?    | Hogyan?      |
+|------------|--------------|
+| Lassú      | Lassan       |
+| Könnyű     | Könnyen      |
+| Szörnyű    | Szörnyen     |
+| Rossz      | Rosszul      |
+| Jó         | Jól          |
+| Kiváló     | Kiválóan     |
+| Kitűnő     | Kitűnően     |
+| Felelőtlen | Felelőtlenül |
+| Hosszú     | Hosszan      |
+
+* Back vowel adjectives ending in a consonant take the a linking
+    vowel, and front vowel adjectives ending in a consonant take
+    the e linking vowel before the -n ending.
+
+| Milyen?    | Hogyan?      |
+|------------|--------------|
+| Komoly     | Komolyan     |
+| Kedves     | Kedvesen     |
+
+* NOTE: However we again have exceptions.
+
+| Milyen? | Hogyan?  |
+|---------|----------|
+| Nagy    | Nagyon   |
+| Szabad  | Szabadon |
+| Gazdag  | Gazdagon |
+| Vastag  | Vastagon |
+| Fiatal  | Fiatalon |
+| Bátor   | Bátran   |
+| Nehéz   | Nehezen  |
+
 ### Accusative: -t
 * The object of hungarian sentence is marked by -t.
 * Transitive verbs requires an object and therefore a -t ending.
@@ -911,6 +1092,24 @@ are in English.
            You like cocoa, don't you? Yes, I do.
 
 # Quirks
+## ... is és ... is; ... is, ... is
+* It means both ... and ....
+* Unlike in English, both words comes after.
+    * e.g. Mari szép is és okos is.
+    * e.g. Mari szép is, okos is.
+
+## nem is ... és nem is; nem is ..., nem is; se nem ..., se nem ...
+* It means neither ... nor ....
+    * e.g. Edit nem is szép és nem is okos.
+    * e.g. Edit nem is szép, nem is okos.
+    * e.g. Edit se nem szép, se nem okos.
+* NOTE: Se can be substituted by sem.
+    * e.g. Sem a zöld, sem a kék kalap nem tetszett.
+
+## Vagy ..., vagy ...
+* It means either ... or ....
+    * e.g. Vagy színházba, vagy moziba megyünk.
+
 ## Esz, Azt
 | Magyar | Meaning |
 |--------|---------|
