@@ -1754,4 +1754,48 @@ Márkus úr,  Nekem szeretne mindegy. Hévíz is, Gyula is rettenetesen drága l
             Nekem szeretne mindegy. Hévíz is, Gyula is rettenetesen drága lett. De egy hetek kibírok. Hátha segít ...
             Nekem szeretne mindegy. Hévíz is, Gyula is rettenetesen drága lett. De egy hetek kibírok. Hátha segít ...
 ```
+
+# 18. Milyen emberek voltak a szülei?
+```
+Riporter,   Hogyan emlekszik a gyerekkorára?
+            Hogyan emlekszik a gyerekkorára?
+            Hogyan emlekszik a gyerekkorára?
+            Hogyan emlekszik a gyerekkorára?
+            Hogyan emlekszik a gyerekkorára?
+Almási K.,  Nagyon boldog gyerekkorom volt. Öten voltunk testvérek. A szüleinkkel egy nagy, romos házban éltünk Szekszárdon. Sajnos soha nem volt elég pénzünk a házat teljesen rendbe hozni. De talán éppen ezért volt olyan romantikus! A házunk mögött volt egy óriási kert. Tavasztól őszig itt szoktunk játszani a testvéreimmel.
+            Nagyon boldog gyerekkorom volt. Öten voltunk testvérek. A szüleinkkel egy nagy, romos házban éltünk Szekszárdon. Sajnos soha nem volt elég pénzünk a házat teljesen rendbe hozni. De talán éppen ezért volt olyan romantikus! A házunk mögött volt egy óriási kert. Tavasztól őszig itt szoktunk játszani a testvéreimmel.
+            Nagyon boldog gyerekkorom volt. Öten voltunk testvérek. A szüleinkkel egy nagy, romos házban éltünk Szekszárdon. Sajnos soha nem volt elét pénzünk a házat teljesen rendbe hozni. De talán éppen ezért volt olyan romantikus! A házunk mögött volt egy óriási kert. Tavasztól őszig itt szoktunk játszani a testvéreimmel.
+            Nagyon boldog gyerekkorom volt. Öten voltunk testvérek. A szüleinkkel egy nagy, romos házban éltünk Szekszárdon. Sajnos soha nem volt elét pénzünk a házat teljesen rendbe hozni. De talán éppen ezért volt olyan romantikus! A házunk mögött volt egy óriási kert. Tavasztól őszig itt szoktunk játszani a testvéreimmel.
+            Nagyon boldog gyerekkorom volt. Öten voltunk testvérek. A szüleinkkel egy nagy, romos házban éltünk Szekszárdon. Sajnos soha nem volt elét pénzünk a házat teljesen rendbe hozni. De talán éppen ezért volt olyan romantikus! A házunk mögött volt egy óriási kert. Tavasztól őszig itt szoktunk játszani a testvéreimmel.
+Riporter,   Milyen emberek voltak a szülei?
+            Milyen emberek voltak a szülei?
+            Milyen emberek voltak a szülei?
+            Milyen emberek voltak a szülei?
+            Milyen emberek voltak a szülei?
+Almási K.,  Anyám magas, karcsú, világosbarna hají, kék szemű lány volt. Imádott olvasni, színházba járni. Mindig vidám, kedves, igen vallásos ember volt; katolikus. Apámmal jól kiegészítették egymást. Ő ugyanis csendes, komoly ember volt, de anyám hite erősebb volt, mint apámé. így katolikus templomban volt az esküvőjük, és minket is ebben a hitben neveltek. minden vasárnap jártunk misére. A szüleim életük végéig nagyon szerették egymást. Ritkán veszekedtek, de akkor is hamar kibékültek.
+            Anyám magas, karcsú, világosbarna hají, kék szemű lány volt. Imádott olvasni, színházba járni. Mindig vidám, kedves, igen vallásos ember volt; katolikus. Apámmal jól kiegészítették egymást. Ő ugyanis csendes, komoly ember volt, de anyám hite erősebb volt, mint apámé. így katolikus templomban volt az esküvőjük, és minket is ebben a hitben neveltek. minden vasárnap jártunk misére. A szüleim életük végéig nagyon szerették egymást. Ritkán veszekedtek, de akkor is hamar kibékültek.
+            Anyám magas, karcsú, világosbarna hají, kék szemű lány volt. Imádott olvasni, színházba járni. Mindig vidám, kedves, igen vallásos ember volt; katolikus. Apámmal jól kiegészítették egymást. Ő ugyanis csendes, komoly ember volt, de anyám hite erősebb volt, mint apámé. így katolikus templomban volt az esküvőjük, és minket is ebben a hitben neveltek. minden vasárnap jártunk misére. A szüleim életük végéig nagyon szerették egymást. Ritkán veszekedtek, de akkor is hamar kibékültek.
+            Anyám magas, karcsú, világosbarna hají, kék szemű lány volt. Imádott olvasni, színházba járni. Mindig vidám, kedves, igen vallásos ember volt; katolikus. Apámmal jól kiegészítették egymást. Ő ugyanis csendes, komoly ember volt, de anyám hite erősebb volt, mint apámé. így katolikus templomban volt az esküvőjük, és minket is ebben a hitben neveltek. minden vasárnap jártunk misére. A szüleim életük végéig nagyon szerették egymást. Ritkán veszekedtek, de akkor is hamar kibékültek.
+            Anyám magas, karcsú, világosbarna hají, kék szemű lány volt. Imádott olvasni, színházba járni. Mindig vidám, kedves, igen vallásos ember volt; katolikus. Apámmal jól kiegészítették egymást. Ő ugyanis csendes, komoly ember volt, de anyám hite erősebb volt, mint apámé. Így katolikus templomban volt az esküvőjük, és minket is ebben a hitben neveltek. Minden vasárnap jártunk misére. A szüleim életük végéig nagyon szerették egymást. Ritkán veszekedtek, de akkor is hamar kibékültek.
+Riporter,   Mindez nagyon idillikusan hangzik. Milyenek voltak a rokonai?
+            Mindez nagyon idillikusan hangzik. Milyenek voltak a rokonai?
+            Mindez nagyon idillikusan hangzik. Milyenek voltak a rokonai?
+            Mindez nagyon idillikusan hangzik. Milyenek voltak a rokonai?
+            Mindez nagyon idillikusan hangzik. Milyenek voltak a rokonai?
+Almási K.,  Nagy család volt a miénk. Anyámék hatan voltak testvérek, apámék pedig hárman. Így sok nagynéni, nagybácsi, unokatestvér volt mindig nálunk. Vidám, zajos család voltunk. Különösen Jaba bácsira emlékszem, anyám nővérének a férjére. Ő volt az egyetlen liberális a mi konzervatív családunkban. Igazi különc volt, de imádtuk. Emlékszem mindig cukorral, csokoládéval érkezett. Nem csoda, hogy olyan rosszak a fogaim!
+            Nagy család volt a miénk. Anyámék hatan voltak testvérek, apámék pedig hárman. Így sok nagynéni, nagybácsi, unokatestvér volt mindig nálunk. Vidám, zajos család voltunk. Különösen Jaba bácsira emlékszem, anyám nővérének a férjére. Ő volt az egyetlen liberális a mi konzervatív családunkban. Igazi különc volt, de imádtuk. Emlékszem mindig cukorral, csokoládéval érkezett. Nem csoda, hogy olyan rosszak a fogaim!
+            Nagy család volt a miénk. Anyámék hatan voltak testvérek, apámék pedig hárman. Így sok nagynéni, nagybácsi, unokatestvér volt mindig nálunk. Vidám, zajos család voltunk. Különösen Jaba bácsira emlékszem, anyám nővérének a férjére. Ő volt az egyetlen liberális a mi konzervatív családunkban. Igazi különc volt, de imádtuk. Emlékszem mindig cukorral, csokoládéval érkezett. Nem csoda, hogy olyan rosszak a fogaim!
+            Nagy család volt a miénk. Anyámék hatan voltak testvérek, apámék pedig hárman. Így sok nagynéni, nagybácsi, unokatestvér volt mindig nálunk. Vidám, zajos család voltunk. Különösen Jaba bácsira emlékszem, anyám nővérének a férjére. Ő volt az egyetlen liberális a mi konzervatív családunkban. Igazi különc volt, de imádtuk. Emlékszem mindig cukorral, csokoládéval érkezett. Nem csoda, hogy olyan rosszak a fogaim!
+            Nagy család volt a miénk. Anyámék hatan voltak testvérek, apámék pedig hárman. Így sok nagynéni, nagybácsi, unokatestvér volt mindig nálunk. Vidám, zajos család voltunk. Különösen Jaba bácsira emlékszem, anyám nővérének a férjére. Ő volt az egyetlen liberális a mi konzervatív családunkban. Igazi különc volt, de imádtuk. Emlékszem mindig cukorral, csokoládéval érkezett. Nem csoda, hogy olyan rosszak a fogaim!
+Riporter,   Ugy tudom, egyedül a húga folytatta a családi hagyományt: neki öt gyereke van.
+            Ugy tudom, egyedül a húga folytatta a családi hagyományt: neki öt gyereke van.
+            Ugy tudom, egyedül a húga folytatta a családi hagyományt: neki öt gyereke van.
+            Ugy tudom, egyedül a húga folytatta a családi hagyományt: neki öt gyereke van.
+            Ugy tudom, egyedül a húga folytatta a családi hagyományt: neki öt gyereke van.
+Almási K.,  Igen, a másik három testvéremnek nincs családja, és sajnos nekem sincsenek gyerekeim. Igaz, az öcsém még elég fiatal, nőtlen. Ő is, a menyasszonya is imádják a gyerekeket. Talán nemsókára újra nagynéni leszek ...
+            Igen, a másik három testvéremnek nincs családja, és sajnos nekem sincsenek gyerekeim. Igaz, az öcsém még elég fiatal, nőtlen. Ő is, a menyasszonya is imádják a gyerekeket. Talán nemsókára újra nagynéni leszek ...
+            Igen, a másik három testvéremnek nincs családja, és sajnos nekem sincsenek gyerekeim. Igaz, az öcsém még elég fiatal, nőtlen. Ő is, a menyasszonya is imádják a gyerekeket. Talán nemsókára újra nagynéni leszek ...
+            Igen, a másik három testvéremnek nincs családja, és sajnos nekem sincsenek gyerekeim. Igaz, az öcsém még elég fiatal, nőtlen. Ő is, a menyasszonya is imádják a gyerekeket. Talán nemsókára újra nagynéni leszek ...
+            Igen, a másik három testvéremnek nincs családja, és sajnos nekem sincsenek gyerekeim. Igaz, az öcsém még elég fiatal, nőtlen. Ő is, a menyasszonya is imádják a gyerekeket. Talán nemsókára újra nagynéni leszek ...
+```
 """  # noqa: E501
