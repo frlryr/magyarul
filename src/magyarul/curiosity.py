@@ -403,6 +403,33 @@
 * Hungary is very rich in natural hot sprints water.
 * They contain a lot of minerals which cure a number of diseases.
 
+# Vallás
+* There are a number of keresztény (christian) denominations in Hungary:
+    * Katolikus.
+    * Protestáns református.
+    * Protestáns evangélikus.
+    * Zsidó.
+    * Ateista.
+
+# Esküvő
+* It means the wedding ceremony itself.
+* Afterwards people usually go to a restaurant to celebrate.
+* A lakodalom (country wedding) my last for three days.
+* A menyasszonytánc (the bride's dance) is the most famous event. Everyone wanting to
+    dance with the bride has to put money in a hat. The money can then be used by the
+    couple to help them out with their lives.
+
+# Marital status
+* Nőtlen means single man. If he marries he becomes a nős (married man).
+* Nincs férjnél means single woman. If she marries she becomes férjnél van (married woman).
+* Elvált means divorced.
+* Özvegy means widower.
+* Özvegyasszobt means widow.
+
+# Bajusz
+* It means moustache.
+* Traditionally, big droop moustaches are very popular with Hungarian men.
+
 # Dictionary
 *
 

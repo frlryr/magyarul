@@ -738,6 +738,59 @@
 * Hungarians use the singular when talking about more than one person's face, mouth.
     * e.g. Szerintem a szájuk túl nagy.
 
+## Szeretet
+* While szeret means love, like or be fond of, the noun only refers to love without
+    sexual attraction.
+* Szerelem is used to represent love between man and woman.
+
+## Testvér
+* It means simbling. Brother or sister.
+* Hungarian uses separate words for brother and sister when they're younger or older.
+
+| Magyar  | Meaning         | Possessive                                             |
+|---------|-----------------|--------------------------------------------------------|
+| Öcs     | Younger brother | Öcsém, öcséd, öccse, öcsénk, öcsétek, öccsük           |
+| Báty    | Elder brother   | Bátyám, bátyád, bátyja, bátyánk, bátyátok, bátyjuk     |
+| Húg     | Younger sister  | Húgom, húga                                            |
+| Nővér   | Elder sister    | Nővérem, nővére                                        |
+| Szülők  | Parents         | Szüleim, szüleid, szülei, szüleink, szüleitek, szüleik |
+| Fiú     | Son             | Fiam, fiad, fia, fiunk, fiatok, fiuk                   |
+| Lány    | Daughter        | Lányom, lánya                                          |
+| Anya    | Mother          | Anyám, anyja                                           |
+| Apa     | Father          | Apám, apja                                             |
+| Feleség | Wife            | Feleségem, felesége                                    |
+| Férj    | Husband         | Férjem, férje                                          |
+
+## Appearance
+| Magyar      | Meaning     |
+|-------------|-------------|
+| Agresszív   | Aggressive  |
+| Alacsony    | Short       |
+| Becstelen   | Dishonest   |
+| Becsületes  | Honest      |
+| Durva       | Rude        |
+| Intelligens | Intelligent |
+| Kopasz      | Bald        |
+| Középkorú   | Middle Aged |
+| Ősz         | Grey        |
+| Sovány      | Thin        |
+| Szőke       | Blonde      |
+| Szomorú     | Sad         |
+| Udvarias    | Polite      |
+| Udvariatlan | Impolite    |
+
+## Politika
+| Magyar           | Meaning         |
+|------------------|-----------------|
+| Kommunista       | Communist       |
+| Konzervatív      | Conservative    |
+| Liberális        | Liberal         |
+| Szociáldemokrata | Social Democrat |
+| Szocialista      | Socialist       |
+| Jobboldali       | Right Wing      |
+| Baloldali        | Left Wing       |
+| Párt             | Party           |
+
 | Ki?  | Kinél                                                   |
 |------|--------|-------|-------|-------|--------|-------|-------|
 | Én   | vállam | hasam | kezem | karom | szemem | szám  | arcom |
@@ -745,5 +798,10 @@
 | Maga | válla  | hasa  | keze  | karja | szeme  | szája | arca  |
 | Ön   | válla  | hasa  | keze  | karja | szeme  | szája | arca  |
 | Ö    | válla  | hasa  | keze  | karja | szeme  | szája | arca  |
+
+## Personal pronouns used for emphasis
+* Personal pronouns are often used for emphasis or when drawing a contrast.
+    * e.g. Énvelem senki sem ajar ma beszélni?
+    * e.g. A mi szüleink nem szeretik ha késŐn járunk haza. És a tieitek?
 
 """  # noqa: E501
