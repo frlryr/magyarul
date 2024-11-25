@@ -482,6 +482,56 @@
 | Ellen   | Against      |         |
 
 ## Endings
+### -e
+* This ending is used when the thing possessed has already been mentioned, and
+    there is no need to repeat it.
+    * e.g. Kié ez a toll?
+    * e.g. Karcsié.
+
+| Ki?   | Kié?   | Kik?     | Kiké?     |
+|-------|--------|----------|-----------|
+| Anikó | Akikóé | Gyerekek | Gyerekeké |
+| Anna  | Annáé  | Szüleink | Szüleinké |
+| Imre  | Imréé  |          |           |
+| Péter | Péteré |          |           |
+| Apám  | Apámé  |          |           |
+
+* It can also come after plural forms and noun with possessive endings.
+    * a. The -é ending can also be followed by the -i ending to denote a plural
+        possessive. Always make sure you pronounce the two or three vowels at the
+        end of the words distinctly.
+        * e.g. Péter gyerekei még nagyon kicsik, Imrééi már felnőttek.
+    * b. Instead of nouns with the -é ending, possessive pronouns can be used.
+
+| Single Possession | Plural Possession |
+|-------------------|-------------------|
+| Enyém             | Enyéim            |
+| Tied/Tiéd         | Tieid/Tiéid       |
+| Magáé, Öné        | Magáéi, Önéi      |
+| Övé               | Övéi              |
+| Mienk/Miénk       | Mieink/Miéink     |
+| Tietek/Tiétek     | Tieitek/Tiéitek   |
+| Maguké, Önöké     | Magukéi, Önökéi   |
+| Övék              | Övéik             |
+
+    * c. The possessive pronouns are usually preceded by the definite article.
+        * e.g. Kié ez az esernyő? Az enyém.
+    * d. All these forms can be followed by other endings:
+        * e.g. Zsiga új házát már láttuk, de Tamáset még nem.
+        * e.g. A mi kocsink nem akart elindulni, így a szüleinkével mentünk le a
+            Balatonhoz.
+        * e.g. A ti utcátokban van közért?
+
+### -ek
+* It is used to denote a group of poeple like family.
+    * e.g. Péterék.
+* The -ék ending is added to the word stem. With the usual changes of a or e to
+    á and é respectively.
+* It can be followed by other endings.
+    * e.g. Annáékkal voltunk moziban.
+    * e.g. Feketééknek még nincs színes tévéjük.
+    * e.g. A barátodék is Erdélybe mennek nyaralni?
+
 ### Possessive
 * My, your, his, her, etc. are expressed by possessive endings in Hungarian.
 * NOTE: Final vowel a and e changes to á and é.
@@ -571,6 +621,72 @@
     * e.g. Nem találom a fésűm.
     * e.g. Hozod a kabátodat?
     * e.g. Hozod a kabátod?
+
+#### Double possession
+* This means that there are two possessions expressed by one phrase.
+    * e.g. Péter feleségének a barátnője.
+* In this phrase the two possessions are:
+    * Péter felesége.
+    * Feleség barátnője.
+* They are joined by the dative ending -nak/-nek.
+* It comes after the second noun. The third noun is usually preceded by the definite
+    article, and it can take a number of endings.
+
+#### Plural
+* This is used whem there is more than one thing possessed.
+    * e.g. Autóim.
+* The plural possessive is formed with the -i ending.
+* With the exception of the 3rd person singular and plural, this form is the followed
+    by the possessive endings learnt previously.
+    * a. With words ending in a vowel, simply add the -i ending. As usual words ending
+        with an a or e changes to á and é respectively.
+    * b. With words ending in consonant, the -i ending comes after the 3rd person
+        singular possessive form.
+        * e.g. Háza.
+        * e.g. Kalapja.
+    * c. The same irregularities occur here as before the object, the plural and the
+        other possessive endings.
+        * e.g. Név - Nevet - Nevek - Nevem - Neveim.
+    * d. A plural possessive form can also be followed by other endings.
+        * e.g. Már nem a szüleimmmel járok nyaralni.
+
+##### Back vowel words ending in a vowel
+*
+
+| Ki?  | Singular | Kik?  | Plural   |
+|------|----------|-------|----------|
+| Én   | Autóim   | Mi    | Autóink  |
+| Te   | Autóid   | Ti    | Autóitok |
+| Maga | Autói    | Maguk | Autóik   |
+| Ön   | Autói    | Önök  | Autóik   |
+| Ő    | Autó     | Ők    | Autóik   |
+
+| Ki?  | Singular | Kik?  | Plural    |
+|------|----------|-------|-----------|
+| Én   | Kutyáim  | Mi    | Kutyáink  |
+| Te   | Kutyáid  | Ti    | Kutyáitok |
+| Maga | Kutyái   | Maguk | Kutyáik   |
+| Ön   | Kutyái   | Önök  | Kutyáik   |
+| Ő    | Kutyái   | Ők    | Kutyáik   |
+
+##### Front vowel words ending in a vowel
+*
+
+| Ki?  | Singular | Kik?  | Plural   |
+|------|----------|-------|----------|
+| Én   | Füleim   | Mi    | Füleink  |
+| Te   | Füleid   | Ti    | Füleitek |
+| Maga | Fülei    | Maguk | Füleik   |
+| Ön   | Fülei    | Önök  | Füleik   |
+| Ő    | Fülei    | Ők    | Füleik   |
+
+| Ki?  | Singular | Kik?  | Plural     |
+|------|----------|-------|------------|
+| Én   | Kertjeim | Mi    | Kertjeink  |
+| Te   | Kertjeid | Ti    | Kertjeitek |
+| Maga | Kertjei  | Maguk | Kertjeik   |
+| Ön   | Kertjei  | Önök  | Kertjeik   |
+| Ő    | Kertjei  | Ők    | Kertjeik   |
 
 #### Random I
 * How to say "Péter's father" or "the door of the car"?
@@ -1432,5 +1548,17 @@ are in English.
 ## Fürdik
 * It means have a bathe, bathe
 * Its conjugation in the past tense is irregular,
+
+## Sincs, sincsenek
+* It means isn't, aren't, haven't ... either.
+* It expresses nincs is and nincsenek is, which do not exist.
+    * e.g. Bálint még nincs itt és Eszter sincs.
+    * e.g. Nekem nincsenek angol ismorőseim. Neked sincsenek?
+
+## Egymás
+* It means each other, one another.
+* When used with a transitive verb, this word is always requires the definite
+    conjugation.
+    * e.g. A szüleim nagyon szerették egymást.
 
 """  # noqa: E501TOD
