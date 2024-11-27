@@ -1798,4 +1798,68 @@ Almási K.,  Igen, a másik három testvéremnek nincs családja, és sajnos nek
             Igen, a másik három testvéremnek nincs családja, és sajnos nekem sincsenek gyerekeim. Igaz, az öcsém még elég fiatal, nőtlen. Ő is, a menyasszonya is imádják a gyerekeket. Talán nemsókára újra nagynéni leszek ...
             Igen, a másik három testvéremnek nincs családja, és sajnos nekem sincsenek gyerekeim. Igaz, az öcsém még elég fiatal, nőtlen. Ő is, a menyasszonya is imádják a gyerekeket. Talán nemsókára újra nagynéni leszek ...
 ```
+
+# 19. Sokkai jobban tetszik
+```
+Antal,  Szevasz, Tibor! Ezer éve nem láttalak! Mi van veled, öregem?
+        Szevasz, Tibor! Ezer éve nem láttalak! Mi van veled, öregem?
+        Szevasz, Tibor! Ezer éve nem láttalak! Mi van veled, öregem?
+        Szevasz, Tibor! Ezer éve nem láttalak! Mi van veled, öregem?
+        Szevasz, Tibor! Ezer éve nem láttalak! Mi van veled, öregem?
+Tibor,  Már két hónapja új vállalatnál dolgozom.
+        Már két hónapja új vállalatnál dolgozom.
+        Már két hónapja új vállalatnál dolgozom.
+        Már két hónapja új vállalatnál dolgozom.
+        Már két hónapja új vállalatnál dolgozom.
+Antal,  Emlékszem, hogy a régi munkahelyeden nem érezted jól magad.
+        Emlékszem, hogy a régi munkahelyeden nem érezted jól magad.
+        Emlékszem, hogy a régi munkahelyeden nem érezted jól magad.
+        Emlékszem, hogy a régi munkahelyeden nem érezted jól magad.
+        Emlékszem, hogy a régi munkahelyeden nem érezted jól magad.
+Tibor,  Igen, szükségem volt a változásra.
+        Igen, szükségem volt a változásra.
+        Igen, szükségem volt a változásra.
+        Igen, szükségem volt a változásra.
+        Igen, szükségem volt a változásra.
+Antal,  És itt milyen?
+        És itt milyen?
+        És itt milyen?
+        És itt milyen?
+        És itt milyen?
+Tibor,  Sokkal jobban tetszik. Nemcsak érdekesebb a munkám, hanem többet is keresek. Az idő is gyorsabban telik, ha az ember nem unatkozik. Saját irodám, titkárnőm van. Igaz, kicsit korábban kell kelnem, mert hamarabb is végzek. Az óvodába is odaérek minden nap ödre. Ritkán kel túlóráznom, de azt is jól megfizetik.
+        Sokkal jobban tetszik. Nemcsak érdekesebb a munkám, hanem többet is keresek. Az idő is gyorsabban telik, ha az ember nem unatkozik. Saját irodám, titkárnőm van. Igaz, kicsit korábban kell kelnem, mert hamarabb is végzek. Az óvodába is odaérek minden nap ödre. Ritkán kel túlóráznom, de azt is jól megfizetik.
+        Sokkal jobban tetszik. Nemcsak érdekesebb a munkám, hanem többet is keresek. Az idő is gyorsabban telik, ha az ember nem unatkozik. Saját irodám, titkárnőm van. Igaz, kicsit korábban kell kelnem, mert hamarabb is végzek. Az óvodába is odaérek minden nap ödre. Ritkán kel túlóráznom, de azt is jól megfizetik.
+        Sokkal jobban tetszik. Nemcsak érdekesebb a munkám, hanem többet is keresek. Az idő is gyorsabban telik, ha az ember nem unatkozik. Saját irodám, titkárnőm van. Igaz, kicsit korábban kell kelnem, mert hamarabb is végzek. Az óvodába is odaérek minden nap ödre. Ritkán kel túlóráznom, de azt is jól megfizetik.
+        Sokkal jobban tetszik. Nemcsak érdekesebb a munkám, hanem többet is keresek. Az idő is gyorsabban telik, ha az ember nem unatkozik. Saját irodám, titkárnőm van. Igaz, kicsit korábban kell kelnem, mert hamarabb is végzek. Az óvodába is odaérek minden nap ödre. Ritkán kel túlóráznom, de azt is jól megfizetik.
+Antal,  Jól hangzik!
+        Jól hangzik!
+        Jól hangzik!
+        Jól hangzik!
+        Jól hangzik!
+Tibor,  Ráadásul gyakran járok külföldre is. Legutóbb Londonba küldtek pár napra tárgyalni és egy szerződést aláírni. Jól esett, hogy ilyen hamar megbíztak bennem. Azt mondják, én folyékonyabban beszélek angolul, mint a tolmács. Azt hiszem, hamarosan vegyes vállalat leszünk. Az egyik legnagyobb brit gépipari vállalattal folytatunk tárgyalásokat. Akkor pedig még nagyobb lesz a felelősségem.
+        Ráadásul gyakran járok külföldre is. Legutóbb Londonba küldtek pár napra tárgyalni és egy szerződést aláírni. Jól esett, hogy ilyen hamar megbíztak bennem. Azt mondják, én folyékonyabban beszélek angolul, mint a tolmács. Azt hiszem, hamarosan vegyes vállalat leszünk. Az egyik legnagyobb brit gépipari vállalattal folytatunk tárgyalásokat. Akkor pedig még nagyobb lesz a felelősségem.
+        Ráadásul gyakran járok külföldre is. Legutóbb Londonba küldtek pár napra tárgyalni és egy szerződést aláírni. Jól esett, hogy ilyen hamar megbíztak bennem. Azt mondják, én folyékonyabban beszélek angolul, mint a tolmács. Azt hiszem, hamarosan vegyes vállalat leszünk. Az egyik legnagyobb brit gépipari vállalattal folytatunk tárgyalásokat. Akkor pedig még nagyobb lesz a felelősségem.
+        Ráadásul gyakran járok külföldre is. Legutóbb Londonba küldtek pár napra tárgyalni és egy szerződést aláírni. Jól esett, hogy ilyen hamar megbíztak bennem. Azt mondják, én folyékonyabban beszélek angolul, mint a tolmács. Azt hiszem, hamarosan vegyes vállalat leszünk. Az egyik legnagyobb brit gépipari vállalattal folytatunk tárgyalásokat. Akkor pedig még nagyobb lesz a felelősségem.
+        Ráadásul gyakran járok külföldre is. Legutóbb Londonba küldtek pár napra tárgyalni és egy szerződést aláírni. Jól esett, hogy ilyen hamar megbíztak bennem. Azt mondják, én folyékonyabban beszélek angolul, mint a tolmács. Azt hiszem, hamarosan vegyes vállalat leszünk. Az egyik legnagyobb brit gépipari vállalattal folytatunk tárgyalásokat. Akkor pedig még nagyobb lesz a felelősségem.
+Antal,  Jön a tizenhetes. Felszállsz erre a buszra?
+        Jön a tizenhetes. Felszállsz erre a buszra?
+        Jön a tizenhetes. Felszállsz erre a buszra?
+        Jön a tizenhetes. Felszállsz erre a buszra?
+        Jön a tizenhetes. Felszállsz erre a buszra?
+Tibor,  Fel, mert sietek. De majd a héten felhívlak.
+        Fel, mert sietek. De majd a héten felhívlak.
+        Fel, mert sietek. De majd a héten felhívlak.
+        Fel, mert sietek. De majd a héten felhívlak.
+        Fel, mert sietek. De majd a héten felhívlak.
+Antal,  További sok sikert!
+        További sok sikert!
+        További sok sikert!
+        További sok sikert!
+        További sok sikert!
+Tibor,  Kösz! Szevasz!
+        Kösz! Szevasz!
+        Kösz! Szevasz!
+        Kösz! Szevasz!
+        Kösz! Szevasz!
+```
 """  # noqa: E501
