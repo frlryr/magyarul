@@ -695,6 +695,54 @@
     * e.g. Délután npegy óra fele lehetett.
     * e.g. Vasárnap este 11-kor érkeztünk a Balatonhoz.
 
+### With for
+* The word for is expressed in different ways in Hungarian.
+    * a. To express a specified period of time during which someone has not done something,
+    or something has not happened, use the 3rd person singular possessive ending.
+        * e.g. Két perce, Órája, Napja, Hete, Honápja, Éve.
+        * e.g. Ezer éve nem láttalak.
+        * e.g. Két napja nem ettem.
+    * NOTE: Questions like:
+        * e.g. Mennyi ideje?
+        * e.g. Mióta?
+        * e.g. Hány napja?
+        * e.g. Mióta nem kaptál levelet?
+    * NOTE: If changed to positive how meaning changes:
+        * e.g. Két éve nem voltam Londoban.
+        * e.g. Két éve voltam Londoban.
+        * e.g. Egy hete nem láttalak.
+        * e.g. Egy hete láttalak.
+    * b. To express a period of time extending into the present, use also the 3rd person
+        singular possessive ending.
+        * e.g. Már két hónapja új vállalatnál dolgozom.
+        * e.g. Két órája várlak!.
+    * c. To express the period of time that something is, or was, to last.
+        * i. Use the -ra/-re ending with dynamic verbs (i.e. verbs which express any form
+            of movement).
+            * e.g. Két hétre/hónapra.
+            * e.g. Pár napra Londonba küldtek tárgyalni.
+            * e.g. Két hétre mentünk Olaszországba.
+        * NOTE: Questions like:
+            * e.g. Mennyi időre?
+            * e.g. Hány napra?
+            * e.g. Mannyi időre mész Párizsba?
+        * ii. Use the -ig ending with static verbs (i.g. verbs not expressing any form
+            of movement).
+            * e.g. Két napig tartott a konferencia.
+            * e.g. Három hétig lesznek itt a szüleim.
+        * NOTE: Questions like:
+            * e.g. Mennyi ideig?
+            * e.g. Meddig?
+            * e.g. Mannyi ideig lesznek itt a szüleid?
+    * d. To Express that something was, is, or will be done by a certain time, also use
+        the -ra/-re ending.
+        * e.g. Az óvodába is odaérek minden nap ötre.
+    * NOTE: Questions like:
+        * e.g. Hány órára?
+        * e.g. Hányra?
+        * e.g. Mikorra?
+        * e.g. Hányra kell az irodába menned?
+
 ## Kell
 * It has 2 meanings:
     * It means is needed, is necessary when used with nouns
@@ -804,4 +852,82 @@
     * e.g. Énvelem senki sem ajar ma beszélni?
     * e.g. A mi szüleink nem szeretik ha késŐn járunk haza. És a tieitek?
 
+## Az ember
+* It means one, you.
+* It is used with the 3rd person singular form.
+    * e.g. Az dő is gyorsabban telik, ha az ember nem unatkozik.
+
+
+## To wish people well
+*
+
+| Magyar              | Meaning              | Context             |
+|---------------------|----------------------|---------------------|
+| Sok sikert!         | Lots of success!     | On a new enterprise |
+| Sok szerencsét!     | Lots of luck!        | On a new enterprise |
+| További sok sikert! | Further success!     | On a new enterprise |
+| Jó szórakozást!     | Have a nice time!    | Wishing well        |
+| Jó hétvégét!        | Have a nice weekend! | Wishing well        |
+| Jó pihenést!        | Have a good rest!    | Wishing well        |
+
+## Bennem
+* It measn in me.
+* Bennem is formed from the ending -ban/-ben with the first person singular possessive
+    ending. The same in English is expressed by a preposition followed by the object
+    form of the personal pronoun.
+
+| Magyar | Magyar | Magyar | Meaning  |
+|--------|--------|--------|----------|
+| Én     | Bennem | Mi     | Bennünk  |
+| Te     | Benned | Ti     | Bennetek |
+| Maga   | Benne  | Maguk  | Bennük   |
+| Ön     | Benne  | Önök   | Bennük   |
+| Ő      | Benne  | Ők     | Bennük   |
+
+* These forms are used when certain words require the use of the -ban/-ben ending.
+    * e.g. Nagyon jól esset, hogy ilyen hamar megbíztak bennem.
+
+## Végez
+* It means finish.
+* This is a somewhat irregular verb.
+    * e.g. Present tense indefinite conjugation:
+        végzek
+        végzel
+        végez
+        végzünk
+        végeztek
+        végeznek
+    * e.g. Present tense definite conjugation:
+        végzem
+        végzed
+        végzi
+        végezzük
+        végzitek
+        végzik
+    * e.g. Past tense indefinite conjugation:
+        végeztem
+        végeztél
+        végzett
+        végztünk
+        végeztetek
+        végeztek
+    * e.g. Past tense definite conjugation:
+        végeztem
+        végezted
+        végezte
+        végeztük
+        végeztétek
+        végezték
+
+
+
+## Temporal
+*
+
+| Magyar               | Meaning                           | Context                |
+|----------------------|-----------------------------------|------------------------|
+| A héten              | This week                         | Used over ezen a héten |
+| Az este              | Yesterday evening or this evening |                        |
+| Az éjszaka, Az éjjel | Last night or tonight             |                        |
+| A nyáron             | This summer or last summer        |                        |
 """  # noqa: E501
