@@ -1,5 +1,163 @@
 """
 # Grammar
+
+## Comparisons
+* There are 3 degrees of comparison:
+    * e.g. Positive: cheap, expensive.
+    * e.g. Comparative: cheaper, more expensive.
+    * e.g. Superlative: cheapest, most expensive.
+* In Hungarian, the comparative is formed by adding the edding -bb to the positive form
+    of the adjective. Simply add -bb after words ending in a vowel.
+* As always endings in a changes to á and e to é.
+* Words ending in a consonant takes a linking vowel.
+
+| Magyar     | Meaning   | Comparative   | Meaning        |
+|------------|-----------|---------------|----------------|
+| Olcsó      | Cheap     | Olcsóbb       | Cheaper        |
+| Drága      | Expensive | Drágább       | More expensive |
+| Fekete     | Black     | Feketébb      | Blacker        |
+| Magas      | Tall      | Magasabb      | Taller         |
+| Becsületes | Honest    | Becsületesebb | More honest    |
+
+* The superlative is formed by adding the particle leg- to the comparative form of the
+    adjective.
+* NOTE: Just like in English, the superlative is usually preceded by the definite article.
+    * e.g. A legmagasabb.
+
+| Positive      | Meaning        | Superlative      | Meaning        |
+|---------------|----------------|------------------|----------------|
+| Olcsóbb       | Cheaper        | Legolcsóbb       | Cheapest       |
+| Drágább       | More expensive | Legdrágább       | Most expensive |
+| Feketébb      | Blacker        | Legfeketébb      | Blackest       |
+| Magasabb      | Taller         | Legmagasabb      | Tallest        |
+| Becsületesebb | More honest    | Legbecsületesebb | Most honest    |
+
+* NOTE: Some irregular forms.
+
+| Magyar     | Meaning     | Comparative | Meaning        | Superlative | Meaning        |
+|------------|-------------|-------------|----------------|-------------|----------------|
+| Jó         | Good        | Jobb        | Better         | Legjobb     | Best           |
+| Nagy       | Big         | Nagyobb     | Bigger         | Legnagyobb  | Biggest        |
+| Szép       | Beautiful   | Szebb       | More Beautiful | Legszebb    | Most Beautiful |
+| Sok        | Many        | Több        | More           | Legtöbb     | Most           |
+| Kis, Kicsi | Small       | Kisebb      | Smaller        | Legkisebb   | Smallest       |
+| Könnyű     | Easy        | Könnyebb    | Easier         | Legkönnyebb | Easiest        |
+| Hosszú     | Long        | Hosszabb    | Longer         | Leghosszabb | Longest        |
+| Lassú      | Slow        | Lassabb     | Slower         | Leglassabb  | Slowest        |
+| Kevés      | Little, Few | Kevesebb    | Less, Fewer    | Legkevesebb | Least, Fewest  |
+| Nehéz      | Difficult   | Nehezebb    | More Difficult | Legnehezebb | Most Difficult |
+| Bátor      | Brave       | Bátrabb     | Braver         | legbátrabb  | Bravest        |
+| Bő         | Loose       | Bővebb      | Looser         | Legbővebb   | Loosest        |
+| Régi       | Old         | Régebbi     | Older          | Legrégebbi  | Oldest         |
+
+* There are three very common constructions with comparisons.
+    * a. Constructions with the positive forms of adjectives:
+        * e.g. Zsolt már olyan magas, a mint az édesapja.
+        * e.g. Boriska nem olyan szép, mint Greta Garbo.
+    * b. Constructions with the comparative forms of adjectives:
+        * e.g. Magyarország szegényebb ország, mint Anglia.
+        * e.g. A magyar nehezebb nyelv, mint a német.
+
+        * NOTE: These two sentences can also be expressed by using the -nál/-nél ending
+            instead of the word mint.
+        * e.g. Magyarország szegényebb ország Anglianál.
+        * e.g. A magyar nehezebb nyelv a németnél.
+
+        * NOTE: To express how much poorer, more difficult, etc. something or someone is,
+            use the -vál/-vél ending.
+        * e.g. A piros szín sokkal jobban áll neked, mint a fekete.
+        * e.g. A piros szín sokkal jobbal áll neked a fekténél
+    * Constructions with the superlative forms of adjectives:
+        * e.g. Szeritem Budapest a legszebb város a vil´agon.
+
+        * NOTE: The expression az egyik leg ... bb
+        * e.g. A Kovács Margit Múzeum az egyik legérdekesebb múzeum Magyarországon.
+
+* When not followed by a noun, the comparative and the superlative can take other endings
+    as well.
+    * e.g. Többet nem kerek.
+
+### Adverbs of manner in comparisons
+* To form adverbs of manner, add -an or -en to the comparative or the superlative
+    form of the adjective.
+
+| Comparative | Meaning | Superlative | Meaning      | Manner Comparison | Meaning      |
+|-------------|---------|-------------|--------------|-------------------|--------------|
+| Olcsón      | Cheaply | Olcsóbban   | More Cheaply | Legolcsóbban      | Most Cheaply |
+| Gyorsan     | Quickly | Gyorsabban  | More Quickly | Leggyorsabban     | Most Quickly |
+| Kedvesen    | Kindly  | Kedvesebben | More Kindly  | legkedvesebben    | Most Kindly  |
+| Jól         | Well    | Jobban      | Better       | Legjobban         | Best         |
+
+* NOTE: The superlative is usually preceded by the definite article.
+    * e.g. Jakab gyorsabban fut nálam.
+
+* NOTE: Some irregular forms.
+
+| Comparative  | Meaning       | Superlative     | Meaning           | Manner Comparison  | Meaning            |
+|--------------|---------------|-----------------|-------------------|--------------------|--------------------|
+| Rosszul      | Bad           | Rosszabbul      | More Badly        | Legrosszabbul      | Most Badly         |
+| Felelőtlenül | Irresponsibly | Felelőtlenebbül | More Irresonsably | Legfelelőtlenebbül | Most Irresponsibly |
+
+## Verbal particles expressing the direction of an action
+* Verbal particles are use with verbs, and have several functions in Hungarian. Some of
+    them express the direction of an action.
+    * e.g. Visszahoztad a könyvem?
+    * e.g. Balázs kijöt az erkélyre.
+
+| Magyar   | Meaning      | With Particle | Meaning         |
+|----------|--------------|---------------|-----------------|
+| Be       | In, Into     | Bemegy        | Go In, Into     |
+| Bele     | Into         | Beleugrik     | Jump Into       |
+| Ki       | Out, Out of  | Kijön         | Come Out/Out Of |
+| Le       | Down         | Lefut         | Run Down        |
+| Fel, Föl | Up           | Felszalad     | Run Up          |
+| El       | Away, Off    | Eltesz        | Put Away        |
+| Vissza   | Back         | Visszahoz     | Bring Back      |
+| Át       | Across, Over | Átsétál       | Walk Across     |
+| Végig    | Along        | Vegigmegy     | Go Along        |
+| Ide      | Here         | Idemegy       | Come Here       |
+| Oda      | There        | Odamegy       | Go There        |
+| Rá       | On, Onto     | Rátesz        | Put Onto        |
+| Haza     | Home         | Hazamegy      | Go Home         |
+| Össze    | Together     | Összejön      | Come Together   |
+| Szét     | Apart        | Szétszalad    | Scatter         |
+
+* NOTE: Verbal particles sometimes require certain endings:
+    * e.g. Kati bement a szobába.
+    * e.g. Zita kijött a konyhából.
+    * e.g. A lift gyorsan leért az első emeletről a földszintre.
+    * e.g. Este végigsétáltunk a körúton.
+    * e.g. Átmentem az úton.
+
+* NOTE: Following expressions:
+    * e.g. Felszáll a buszra/villamosra, etc.
+    * e.g. Leszáll a buszról/villamosról, etc.
+    * e.g. Beszáll a taxixa/kocsiba.
+    * e.g. Kiszáll a taxiból/kocsiból.
+    * e.g. Átszáll a buszról a metróra, etc.
+
+### The word rder of the verbal particle and the verb.
+* The position of the verbal particle depends on the empashis in the sentence.
+    * a. The verbal particle forms the first part of the verb and together they make
+        a single word if this word is the focus of the sentence
+        * e.g. Elmész a koncertre?
+        or if there is no special emphasis on any word in the sentence.
+        * e.g. Felszálltam a villamostra.
+    * NOTE: Yes-or-no questions always have this word order.
+        * e.g. Felszállsz a villamostra?
+    * b. The verbal partcile follows the verb making a separate word if the focus is
+        any other word or group of words.
+        * e.g. A villamosra szálltam fel.
+        * e.g. Nem a buszra szálltam fel.
+    * NOTE: The word order is always verb + verbal partcile if the verb is negated.
+        * e.g. Nem szálltam fel a villamosra.
+
+### Yes-or-no questions with verbal particle
+* A positive short answer to these questions can be given by just repeating the verbal
+    particle.
+    * e.g. Elmész? El.
+    * e.g. Hazamentek? Haza.
+
 ## Definite article: a, az
 * Usage similar to English.
 * With the following usable exceptions:
@@ -551,6 +709,19 @@
 | Maga | Kutyája  | Maguk | Kutyajuk |
 | Ön   | Kutyája  | Önök  | Kutyajuk |
 | Ő    | Kutyája  | Ők    | Kutyajuk |
+
+#### The infinitive with possessive endings (improve)
+* The infinitive is often used to express a general, impersona statement.
+    * e.g. Itt nem szabad dohányozni.
+* To says who is not allowed to smoke use the possessive endings. They are added to the
+    infinitive, omitting the i, except in the 3rd person singular and plural forms, where
+    i is retained.
+    * e.g.
+* Though it is grammatically correct ot use the infinitive without the possessive endings,
+    it is better style to use it with them.
+* To emphasize the person or to draw a contrast, use the dative ending.
+    * e.g. Kinek kell aláírnia a szerződést? Nekem?
+    * e.g. Editnek nem szabad dohányoznia, mert terhes.
 
 #### Front Vowel Words ending in a vowel
 * NOTE: Second person plural -tök is needed instead of

@@ -430,6 +430,34 @@
 * It means moustache.
 * Traditionally, big droop moustaches are very popular with Hungarian men.
 
+# Vegyes vállalat
+* It means joint venture.
+* Usually between a Hungarian and a foreign company.
+* Most frequent business types are:
+    * e.g. Részvénytársaság - stock company.
+    * e.g. Korlátolt felelősségű társaság - limited liability company.
+    * e.g. Betéti társaság - desposit company.
+
+| Magyar                                 | Meaning       |
+|----------------------------------------|---------------|
+| Adó                                    | Tax           |
+| Áfa                                    | VAT           |
+| Cég                                    | Firm          |
+| Faxol                                  | Fax (verb)    |
+| Fenymásoló                             | Photocopier   |
+| Komputer (pron. kompjúter), Számítógép | Computer      |
+| Névjegykártya                          | Business Card |
+| Nyamtató                               | Printer       |
+| Privatizáció                           | Privatization |
+| Fax                                    | Fax Machine   |
+| Üzenetrögzítő                          | Answerphone   |
+| Vám                                    | Custom Duty   |
+| Mobil                                  | Mobile        |
+| Internet                               | Internet      |
+| E-mail                                 | E-mail        |
+
+
+
 # Dictionary
 *
 
