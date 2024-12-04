@@ -1862,4 +1862,63 @@ Tibor,  Kösz! Szevasz!
         Kösz! Szevasz!
         Kösz! Szevasz!
 ```
+
+# 20. Jobb lett volna, ha ...
+```
+Robi,   Apa, mit írnak keresztmamáék?
+        Apa, mit írnak keresztmamáék?
+        Apa, mit írnak keresztmamáék?
+        Apa, mit írnak keresztmamáék?
+        Apa, mit írnak keresztmamáék?
+Apa,    Meghívtak bennünket disznóölésre.
+        Meghívtak bennünket disznóölésre.
+        Meghívtak bennünket disznóölésre.
+        Meghívtak bennünket disznóölésre.
+        Meghívtak bennünket disznóölésre.
+Robi,   De jó lenne elmenni! Én még soha sem voltam disznótoron. Emlékszel, amikor húsvétkor náluk voltunk, milyen finom volt a kolbász! Most még több finomat ehetünk majd: hurkát, kocsonyát ... És mikor lesz náluk a disznóölés?
+        De jó lenne elmenni! Én még soha sem voltam disznótoron. Emlékszel, amikor húsvétkor náluk voltunk, milyen finom volt a kolbász! Most még több finomat ehetünk majd: hurkát, kocsonyát ... És mikor lesz náluk a disznóölés?
+        De jó lenne elmenni! Ém még soha sem voltam disznótoron. Emlékszel, amikor húsvétkor náluk voltunk, milyen finom volt a kolbász! Most még több finomat ehetünk majd: hurkát, kocsonyát ... És mikor lesz náluk a disznóölés?
+        De jó lenne elmenni! Ém még soha sem voltam disznótoron. Emlékszel, amikor húsvétkor náluk voltunk, milyen finom volt a kolbász! Most még több finomat ehetünk majd: hurkát, kocsonyát ... És mikor lesz náluk a disznóölés?
+        De jó lenne elmenni! Ém még soha sem voltam disznótoron. Emlékszel, amikor húsvétkor náluk voltunk, milyen finom volt a kolbász! Most még több finomat ehetünk majd: hurkát, kocsonyát ... És mikor lesz náluk a disznóölés?
+Apa,    Karácsonu előtt. Eltölhetnénk náluk néhány napot, sőt karácsonyra is ott maradhatunk. Télen még úgysem voltál falun!
+        Karácsonu előtt. Eltölhetnénk náluk néhány napot, sőt karácsonyra is ott maradhatunk. Télen még úgysem voltál falun!
+        Karácsonu előtt. Eltölhetnénk náluk néhány napot, sőt karácsonyra is ott maradhatunk. Télen még úgysem voltál falun!
+        Karácsonu előtt. Eltölhetnénk náluk néhány napot, sőt karácsonyra is ott maradhatunk. Télen még úgysem voltál falun!
+        Karácsonu előtt. Eltölhetnénk náluk néhány napot, sőt karácsonyra is ott maradhatunk. Télen még úgysem voltál falun!
+Robi,   Nem, de szilveszterre szeretnék hazajönni. Pali báscsiéknak nincs tévéjük, és én meg szeretném nézni a szilveszteri műsort, meg lesz néhány jó film ...
+        Nem, de szilveszterre szeretnék hazajönni. Pali báscsiéknak nincs tévéjük, és én meg szeretném nézni a szilveszteri műsort, meg lesz néhány jó film ...
+        Nem, de szilveszterre szeretnék hazajönni. Pali báscsiéknak nincs tévéjük, és én meg szeretném nézni a szilveszteri műsort, meg lesz néhány jó film ...
+        Nem, de szilveszterre szeretnék hazajönni. Pali báscsiéknak nincs tévéjük, és én meg szeretném nézni a szilveszteri műsort, meg lesz néhány jó film ...
+        Nem, de szilveszterre szeretnék hazajönni. Pali báscsiéknak nincs tévéjük, és én meg szeretném nézni a szilveszteri műsort, meg lesz néhány jó film ...
+Apa,    Jó, majd meglátjuk. Egyszer talán kibírod tv nélkül is.
+        Jó, majd meglátjuk. Egyszer talán kibírod tv nélkül is.
+        Jó, majd meglátjuk. Egyszer talán kibírod tv nélkül is.
+        Jó, majd meglátjuk. Egyszer talán kibírod tv nélkül is.
+        Jó, majd meglátjuk. Egyszer talán kibírod tv nélkül is.
+Anya,   Miklós, szerinted jó ötlet karácsonyra is lenn maradni? Húsvétkor is egy egész hetet náluk töltötünk. Jobb lett volna, ha csak egy-két napra mentünk volna. Az ember ott mást se csinál, csak eszik egész nap. Állandóan kínálnak, és nem lehet nekik nemet mondani. Vilma egész nap csak plety-kálna ... Sokkal fárasztóbb vendégségbe menni, mintha itthon maradnánk, és mindent nekem kellene egyedül csinálnom: főzni, takarítani, karácsonyfát díszíteni.
+        Miklós, szerinted jó ötlet karácsonyra is lenn maradni? Húsvétkor is egy egész hetet náluk töltötünk. Jobb lett volna, ha csak egy-két napra mentünk volna. Az ember ott mást se csinál, csak eszik egész nap. Állandóan kínálnak, és nem lehet nekik nemet mondani. Vilma egész nap csak plety-kálna ... Sokkal fárasztóbb vendégségbe menni, mintha itthon maradnánk, és mindent nekem kellene egyedül csinálnom: főzni, takarítani, karácsonyfát díszíteni.
+        Miklós, szerinted jó ötlet karácsonyra is lenn maradni? Húsvétkor is egy egész hetet náluk töltötünk. Jobb lett volna, ha csak egy-két napra mentünk volna. Az ember ott mást se csinál, csak eszik egész nap. Állandóan kínálnak, és nem lehet nekik nemet mondani. Vilma egész nap csak plety-kálna ... Sokkal fárasztóbb vendégségbe menni, mintha itthon maradnánk, és mindent nekem kellene egyedül csinálnom: főzni, takarítani, karácsonyfát díszíteni.
+        Miklós, szerinted jó ötlet karácsonyra is lenn maradni? Húsvétkor is egy egész hetet náluk töltötünk. Jobb lett volna, ha csak egy-két napra mentünk volna. Az ember ott mást se csinál, csak eszik egész nap. Állandóan kínálnak, és nem lehet nekik nemet mondani. Vilma egész nap csak plety-kálna ... Sokkal fárasztóbb vendégségbe menni, mintha itthon maradnánk, és mindent nekem kellene egyedül csinálnom: főzni, takarítani, karácsonyfát díszíteni.
+        Miklós, szerinted jó ötlet karácsonyra is lenn maradni? Húsvétkor is egy egész hetet náluk töltötünk. Jobb lett volna, ha csak egy-két napra mentünk volna. Az ember ott mást se csinál, csak eszik egész nap. Állandóan kínálnak, és nem lehet nekik nemet mondani. Vilma egész nap csak plety-kálna ... Sokkal fárasztóbb vendégségbe menni, mintha itthon maradnánk, és mindent nekem kellene egyedül csinálnom: főzni, takarítani, karácsonyfát díszíteni.
+Robi,   De anya, én mindig meg szoktalak kérdezni, hogy miben segíthetek. De te mindig azt mondod, hogy inkább egyedül csinálod.
+        De anya, én mindig meg szoktalak kérdezni, hogy miben segíthetek. De te mindig azt mondod, hogy inkább egyedül csinálod.
+        De anya, én mindig meg szoktalak kérdezni, hogy miben segíthetek. De te mindig azt mondod, hogy inkább egyedül csinálod.
+        De anya, én mindig meg szoktalak kérdezni, hogy miben segíthetek. De te mindig azt mondod, hogy inkább egyedül csinálod.
+        De anya, én mindig meg szoktalak kérdezni, hogy miben segíthetek. De te mindig azt mondod, hogy inkább egyedül csinálod.
+Apa,    Vilmáék már évek óta hívnak bennünket disznóölésre vagy karácsonyra. Tavalyelőtt azt mondtuk, hogy a nagy hó miatt leálltak a vonatok, tavaly a kocsink nem volt jó. Nem hinném, hogy idén is sikerülne valami jó kifogást találnunk ... Muszáj egyszer elfogadni a meghívásukat, különben megsértődnek. Vilma mégiscsak a nővérem!
+        Vilmáék már évek óta hívnak bennünket disznóölésre vagy karácsonyra. Tavalyelőtt azt mondtuk, hogy a nagy hó miatt leálltak a vonatok, tavaly a kocsink nem volt jó. Nem hinném, hogy idén is sikerülne valami jó kifogást találnunk ... Muszáj egyszer elfogadni a meghívásukat, különben megsértődnek. Vilma mégiscsak a nővérem!
+        Vilmáék már évek óta hívnak bennünket disznóölésre vagy karácsonyra. Tavalyelőtt azt mondtuk, hogy a nagy hó miatt leálltak a vonatok, tavaly a kocsink nem volt jó. Nem hinném, hogy idén is sikerülne valami jó kifogást találnunk ... Muszáj egyszer elfogadni a meghívásukat, különben megsértődnek. Vilma mégiscsak a nővérem!
+        Vilmáék már évek óta hívnak bennünket disznóölésre vagy karácsonyra. Tavalyelőtt azt mondtuk, hogy a nagy hó miatt leálltak a vonatok, tavaly a kocsink nem volt jó. Nem hinném, hogy idén is sikerülne valami jó kifogást találnunk ... Muszáj egyszer elfogadni a meghívásukat, különben megsértődnek. Vilma mégiscsak a nővérem!
+        Vilmáék már évek óta hívnak bennünket disznóölésre vagy karácsonyra. Tavalyelőtt azt mondtuk, hogy a nagy hó miatt leálltak a vonatok, tavaly a kocsink nem volt jó. Nem hinném, hogy idén is sikerülne valami jó kifogást találnunk ... Muszáj egyszer elfogadni a meghívásukat, különben megsértődnek. Vilma mégiscsak a nővérem!
+Anya,   Persze, hogy muszáj. De nem kell feltétlenül olyan sokáig lenn maradnunk. Mi lenne, ha csak disznóölésre mennénk? Karácsonyra pedig hazajövünk.
+        Persze, hogy muszáj. De nem kell feltétlenül olyan sokáig lenn maradnunk. Mi lenne, ha csak disznóölésre mennénk? Karácsonyra pedig hazajövünk.
+        Persze, hogy muszáj. De nem kell feltétlenül olyan sokáig lenn maradnunk. Mi lenne, ha csak disznóölésre mennénk? Karácsonyra pedig hazajövünk.
+        Persze, hogy muszáj. De nem kell feltétlenül olyan sokáig lenn maradnunk. Mi lenne, ha csak disznóölésre mennénk? Karácsonyra pedig hazajövünk.
+        Persze, hogy muszáj. De nem kell feltétlenül olyan sokáig lenn maradnunk. Mi lenne, ha csak disznóölésre mennénk? Karácsonyra pedig hazajövünk.
+Apa,    Na jó, nem bánom! Szevégny Vilma, nem lesz kivel pletykálnia az ünnepek alatt ...
+        Na jó, nem bánom! Szevégny Vilma, nem lesz kivel pletykálnia az ünnepek alatt ...
+        Na jó, nem bánom! Szevégny Vilma, nem lesz kivel pletykálnia az ünnepek alatt ...
+        Na jó, nem bánom! Szevégny Vilma, nem lesz kivel pletykálnia az ünnepek alatt ...
+        Na jó, nem bánom! Szevégny Vilma, nem lesz kivel pletykálnia az ünnepek alatt ...
+```
 """  # noqa: E501
