@@ -1293,136 +1293,190 @@ Jóska,          Jó napot kivánok! Látom, itt van kiadó szoba.
                 Jó napot kivánok! Látom, itt van kiadó szoba.
                 Jó napot kivánok! Látom, itt van kiadó szoba.
                 Jó napot kivánok! Látom, itt van kiadó szoba.
+```
+```
 Juliska néni,   Tessék? Nem hallom! Sajnos egy kicsit süket vagyok.
                 Tessék? Nem hallom! Sajnos egy kicsit süket vagyok.
                 Tessék? Nem hallom! Sajnos egy kicsit süket vagyok.
                 Tessék? Nem hallom! Sajnos egy kicsit süket vagyok.
                 Tessék? Nem hallom! Sajnos egy kicsit süket vagyok.
+```
+```
 Jóska,          (Raising his voice.) Tessék mondani, van szabad szoba?
                 (Raising his voice.) Tessék mondani, van szabad szoba?
                 (Raising his voice.) Tessék mondani, van szabad szoba?
                 (Raising his voice.) Tessék mondani, van szabad szoba?
                 (Raising his voice.) Tessék mondani, van szabad szoba?
+```
+```
 Juliska néni,   Igen, két üres szoba is van. Az egyik egyágyas, a másik pedig kétágyas. Hány személyre kellene?
                 Igen, két üres szoba is van. Az egyik egyágyas, a másik pedig kétágyas. Hány személyre kellene?
                 Igen, két üres szoba is van. Az egyik egyágyas, a másik pedig kétágyas. Hány személyre kellene?
                 Igen, két üres szoba is van. Az egyik egyágyas, a másik pedig kétágyas. Hány személyre kellene?
                 Igen, két üres szoba is van. Az egyik egyágyas, a másik pedig kétágyas. Hány személyre kellene?
+```
+```
 Jóska,          Két személyre. Ketten vagyunk a feleségemmel.
                 Két személyre. Ketten vagyunk a feleségemmel.
                 Két személyre. Ketten vagyunk a feleségemmel.
                 Két személyre. Ketten vagyunk a feleségemmel.
                 Két személyre. Ketten vagyunk a feleségemmel.
+```
+```
 Juliska néni,   Értem. Akkor nyilván a második szobát kérik. Hány éjszakára kellene?
                 Értem. Akkor nyilván a második szobát kérik. Hány éjszakára kellene?
                 Értem. Akkor nyilván a második szobát kérik. Hány éjszakára kellene?
                 Értem. Akkor nyilván a második szobát kérik. Hány éjszakára kellene?
                 Értem. Akkor nyilván a második szobát kérik. Hány éjszakára kellene?
+```
+```
 Jóska,          Valószínűleg két vagy három éjszakára, de még nem tudjuk biztosan. Egy csendes szobát keresünk szép kilátással.
                 Valószínűleg két vagy három éjszakára, de még nem tudjuk biztosan. Egy csendes szobát keresünk szép kilátással.
                 Valószínűleg két vagy három éjszakára, de még nem tudjuk biztosan. Egy csendes szobát keresünk szép kilátással.
                 Valószínűleg két vagy három éjszakára, de még nem tudjuk biztosan. Egy csendes szobát keresünk szép kilátással.
                 Valószínűleg két vagy három éjszakára, de még nem tudjuk biztosan. Egy csendes szobát keresünk szép kilátással.
+```
+```
 Juliska néni,   A kilátás nagyon szép. A egyik ablak a tóra néz, a másik a kertre.
                 A kilátás nagyon szép. A egyik ablak a tóra néz, a másik a kertre.
                 A kilátás nagyon szép. A egyik ablak a tóra néz, a másik a kertre.
                 A kilátás nagyon szép. A egyik ablak a tóra néz, a másik a kertre.
                 A kilátás nagyon szép. A egyik ablak a tóra néz, a másik a kertre.
+```
+```
 Klára,          A fürdőszoba közös a családdal?
                 A fürdőszoba közös a családdal?
                 A fürdőszoba közös a családdal?
                 A fürdőszoba közös a családdal?
                 A fürdőszoba közös a családdal?
+```
+```
 Juliska néni,   Mit mond? Nem hallom?
                 Mit mond? Nem hallom?
                 Mit mond? Nem hallom?
                 Mit mond? Nem hallom?
                 Mit mond? Nem hallom?
+```
+```
 Klára,          (Raising her voice.) Közös fürdőszoba a családdal?
                 (Raising her voice.) Közös fürdőszoba a családdal?
                 (Raising her voice.) Közös fürdőszoba a családdal?
                 (Raising her voice.) Közös fürdőszoba a családdal?
                 (Raising her voice.) Közös fürdőszoba a családdal?
+```
+```
 Juliska néni,   Igen.
                 Igen.
                 Igen.
                 Igen.
                 Igen.
+```
+```
 Klára,          És mennyibe kerül a szoba egy éjszakára?
                 És mennyibe kerül a szoba egy éjszakára?
                 És mennyibe kerül a szoba egy éjszakára?
                 És mennyibe kerül a szoba egy éjszakára?
                 És mennyibe kerül a szoba egy éjszakára?
+```
+```
 Juliska néni,   Kilencszáz forintba.
                 Kilencszáz forintba.
                 Kilencszáz forintba.
                 Kilencszáz forintba.
                 Kilencszáz forintba.
+```
+```
 Jóska,          Nem is drága. Az árban benne van a reggeli is?
                 Nem is drága. Az árban benne van a reggeli is?
                 Nem is drága. Az árban benne van a reggeli is?
                 Nem is drága. Az árban benne van a reggeli is?
                 Nem is drága. Az árban benne van a reggeli is?
+```
+```
 Juliska néni,   Nincsen. De ha kérnek reggelit, szívesen kérszítek. A reggeli hét órakor van a teraszon és plusz szávötven forintba kerül.
                 Nincsen. De ha kérnek reggelit, szívesen kérszítek. A reggeli hét órakor van a teraszon és plusz szávötven forintba kerül.
                 Nincsen. De ha kérnek reggelit, szívesen kérszítek. A reggeli hét órakor van a teraszon és plusz szávötven forintba kerül.
                 Nincsen. De ha kérnek reggelit, szívesen kérszítek. A reggeli hét órakor van a teraszon és plusz szávötven forintba kerül.
                 Nincsen. De ha kérnek reggelit, szívesen kérszítek. A reggeli hét órakor van a teraszon és plusz szávötven forintba kerül.
+```
+```
 Jóska,          Nem lehetne nyolckor reggelizni? Most szabadságon vagyunk és nem akarunk korán kelni.
                 Nem lehetne nyolckor reggelizni? Most szabadságon vagyunk és nem akarunk korán kelni.
                 Nem lehetne nyolckor reggelizni? Most szabadságon vagyunk és nem akarunk korán kelni.
                 Nem lehetne nyolckor reggelizni? Most szabadságon vagyunk és nem akarunk korán kelni.
                 Nem lehetne nyolckor reggelizni? Most szabadságon vagyunk és nem akarunk korán kelni.
+```
+```
 Juliska néni,   Hogyne lehetne!
                 Hogyne lehetne!
                 Hogyne lehetne!
                 Hogyne lehetne!
                 Hogyne lehetne!
+```
+```
 Jóska,          (Looking around cheerfully.) Nagyon szép helyen tetszenek lakni! És ha megunjuk Tihanyt, közel van Balatonfüred. Nem tetszik tudni, milyen gyakran indul hajó Tihanyból Balatonfüredre?
                 (Looking around cheerfully.) Nagyon szép helyen tetszenek lakni! És ha megunjuk Tihanyt, közel van Balatonfüred. Nem tetszik tudni, milyen gyakran indul hajó Tihanyból Balatonfüredre?
                 (Looking around cheerfully.) Nagyon szép helyen tetszenek lakni! És ha megunjuk Tihanyt, közel van Balatonfüred. Nem tetszik tudni, milyen gyakran indul hajó Tihanyból Balatonfüredre?
                 (Looking around cheerfully.) Nagyon szép helyen tetszenek lakni! És ha megunjuk Tihanyt, közel van Balatonfüred. Nem tetszik tudni, milyen gyakran indul hajó Tihanyból Balatonfüredre?
                 (Looking around cheerfully.) Nagyon szép helyen tetszenek lakni! És ha megunjuk Tihanyt, közel van Balatonfüred. Nem tetszik tudni, milyen gyakran indul hajó Tihanyból Balantofüredre?
+```
+```
 Juliska néni,   Úgy tudom, minden fél órában.
                 Úgy tudom, minden fél órában.
                 Úgy tudom, minden fél órában.
                 Úgy tudom, minden fél órában.
                 Úgy tudom, minden fél órában.
+```
+```
 Jóska,          Nagyszerű! De még nem is mutatkoztunk be: engem Jóskának hívnak, a feleségemet pedig Klárának hívják.
                 Nagyszerű! De még nem is mutatkoztunk be: engem Jóskának hívnak, a feleségemet pedig Klárának hívják.
                 Nagyszerű! De még nem is mutatkoztunk be: engem Jóskának hívnak, a feleségemet pedig Klárának hívják.
                 Nagyszerű! De még nem is mutatkoztunk be: engem Jóskának hívnak, a feleségemet pedig Klárának hívják.
                 Nagyszerű! De még nem is mutatkoztunk be: engem Jóskának hívnak, a feleségemet pedig Klárának hívják.
+```
+```
 Juliska néni,   Én pedig Juliska néni vagyok. Tessenek bafáradni! Megmutatom a szobát. (She leads the way.) Erre tessenek!
                 Én pedig Juliska néni vagyok. Tessenek bafáradni! Megmutatom a szobát. (She leads the way.) Erre tessenek!
                 Én pedig Juliska néni vagyok. Tessenek bafáradni! Megmutatom a szobát. (She leads the way.) Erre tessenek!
                 Én pedig Juliska néni vagyok. Tessenek bafáradni! Megmutatom a szobát. (She leads the way.) Erre tessenek!
                 Én pedig Juliska néni vagyok. Tessenek bafáradni! Megmutatom a szobát. (She leads the way.) Erre tessenek!
+```
+```
 Jóska,          Jó, megnézzük! (They enter a room.)
                 Jó, megnézzük! (They enter a room.)
                 Jó, megnézzük! (They enter a room.)
                 Jó, megnézzük! (They enter a room.)
                 Jó, megnézzük! (They enter a room.)
+```
+```
 Klára,          Erkély is van?! Milyen gyönyörű az erkélyről a kilátás! (Suddenly a loud snore comes through the thin wall from the adjoining room. Klára and Jóska look startled.)
                 Erkély is van?! Milyen gyönyörű az erkélyről a kilátás! (Suddenly a loud snore comes through the thin wall from the adjoining room. Klára and Jóska look startled.)
                 Erkély is van?! Milyen gyönyörű az erkélyről a kilátás! (Suddenly a loud snore comes through the thin wall from the adjoining room. Klára and Jóska look startled.)
                 Erkély is van?! Milyen gyönyörű az erkélyről a kilátás! (Suddenly a loud snore comes through the thin wall from the adjoining room. Klára and Jóska look startled.)
                 Erkély is van?! Milyen gyönyörű az erkélyről a kilátás! (Suddenly a loud snore comes through the thin wall from the adjoining room. Klára and Jóska look startled.)
+```
+```
 Klára,          Tessék mondani, mi ez a zaj?
                 Tessék mondani, mi ez a zaj?
                 Tessék mondani, mi ez a zaj?
                 Tessék mondani, mi ez a zaj?
                 Tessék mondani, mi ez a zaj?
+```
+```
 Juliska néni,   Zaj?! Ja! A férjem minden délután alszik ebéd után. De alig lehet hallani.
                 Zaj?! Ja! A férjem minden délután alszik ebéd után. De alig lehet hallani.
                 Zaj?! Ja! A férjem minden délután alszik ebéd után. De alig lehet hallani.
                 Zaj?! Ja! A férjem minden délután alszik ebéd után. De alig lehet hallani.
                 Zaj?! Ja! A férjem minden délután alszik ebéd után. De alig lehet hallani.
+```
+```
 Jóska,          Köszönjük szépen, de nem egészen ilyen szobát keresünk. (They leave hastily.)
                 Köszönjük szépen, de nem egészen ilyen szobát keresünk. (They leave hastily.)
                 Köszönjük szépen, de nem egészen ilyen szobát keresünk. (They leave hastily.)
                 Köszönjük szépen, de nem egészen ilyen szobát keresünk. (They leave hastily.)
                 Köszönjük szépen, de nem egészen ilyen szobát keresünk. (They leave hastily.)
+```
+```
 Juliska néni,   (Bewildered.) Nem értem! Mindig ezt mondják ...
                 (Bewildered.) Nem értem! Mindig ezt mondják ...
                 (Bewildered.) Nem értem! Mindig ezt mondják ...
@@ -1437,66 +1491,92 @@ Feri,       Apu, te voltál már Szentendrén?
             Apu, te voltál már Szentendrén?
             Apu, te voltál már Szentendrén?
             Apu, te voltál már Szentendrén?
+```
+```
 B. János,   Voltam, de nagyon régen. Miért?
             Voltam, de nagyon régen. Miért?
             Voltam, de nagyon régen. Miért?
             Voltam, de nagyon régen. Miért?
             Voltam, de nagyon régen. Miért?
+```
+```
 Feri,       Pista szombaton ott volt a szüleivel. Azt mondja, hogy Szentendrénél a Dunában sok halat lehet fogni.
             Pista szombaton ott volt a szüleivel. Azt mondja, hogy Szentendrénél a Dunában sok halat lehet fogni.
             Pista szombaton ott volt a szüleivel. Azt mondja, hogy Szentendrénél a Dunában sok halat lehet fogni.
             Pista szombaton ott volt a szüleivel. Azt mondja, hogy Szentendrénél a Dunában sok halat lehet fogni.
             Pista szombaton ott volt a szüleivel. Azt mondja, hogy Szentendrénél a Dunában sok halat lehet fogni.
+```
+```
 B. János,   Tényleg? Hm ... Régen voltunk már horgászni ...
             Tényleg? Hm ... Régen voltunk már horgászni ...
             Tényleg? Hm ... Régen voltunk már horgászni ...
             Tényleg? Hm ... Régen voltunk már horgászni ...
             Tényleg? Hm ... Régen voltunk már horgászni ...
+```
+```
 Baloghné,   Csak a múlt szombaton ...
             Csak a múlt szombaton ...
             Csak a múlt szombaton ...
             Csak a múlt szombaton ...
             Csak a múlt szombaton ...
+```
+```
 Andrea,     Anyu, a Tóth Vali is volt Szentendrén. Azt mondja, hogy sok jó butik van a városba. Nagyon szeretnék egy divatos, sötétkét miniszoknyát a ballagásra. Vali is ott fog venni egyet. Holnapután szomba lesz. Nem megyünk Szentendrére?
             Anyu, a Tóth Vali is volt Szentendrén. Azt mondja, hogy sok jó butik van a városba. Nagyon szeretnék egy divatos, sötétkét miniszoknyát a ballagásra. Vali is ott fog venni egyet. Holnapután szomba lesz. Nem megyünk Szentendrére?
             Anyu, a Tóth Vali is volt Szentendrén. Azt mondja, hogy sok jó butik van a városba. Nagyon szeretnék egy divatos, sötétkét miniszoknyát a ballagásra. Vali is ott fog venni egyet. Holnapután szomba lesz. Nem megyünk Szentendrére?
             Anyu, a Tóth Vali is volt Szentendrén. Azt mondja, hogy sok jó butik van a városba. Nagyon szeretnék egy divatos, sötétkét miniszoknyát a ballagásra. Vali is ott fog venni egyet. Holnapután szomba lesz. Nem megyünk Szentendrére?
             Anyu, a Tóth Vali is volt Szentendrén. Azt mondja, hogy sok jó butik van a városba. Nagyon szeretnék egy divatos, sötétkét miniszoknyát a ballagásra. Vali is ott fog venni egyet. Holnapután szomba lesz. Nem megyünk Szentendrére?
+```
+```
 B. János,   Ti nők mindig csak a pénzt költitek!
             Ti nők mindig csak a pénzt költitek!
             Ti nők mindig csak a pénzt költitek!
             Ti nők mindig csak a pénzt költitek!
             Ti nők mindig csak a pénzt költitek!
+```
+```
 Baloghné,   Emlékszel, János? Szentendrén van a Kovács Margit Múzeum. És milyen romantikus volt a Duna-parton sétálni ... Holnapután elmegyünk a múzeumba és aztán sétálunk a városban.
             Emlékszel, János? Szentendrén van a Kovács Margit Múzeum. És milyen romantikus volt a Duna-parton sétálni ... Holnapután elmegyünk a múzeumba és aztán sétálunk a városban.
             Emlékszel, János? Szentendrén van a Kovács Margit Múzeum. És milyen romantikus volt a Duna-parton sétálni ... Holnapután elmegyünk a múzeumba és aztán sétálunk a városban.
             Emlékszel, János? Szentendrén van a Kovács Margit Múzeum. És milyen romantikus volt a Duna-parton sétálni ... Holnapután elmegyünk a múzeumba és aztán sétálunk a városban.
             Emlékszel, János? Szentendrén van a Kovács Margit Múzeum. És milyen romantikus volt a Duna-parton sétálni ... Holnapután elmegyünk a múzeumba és aztán sétálunk a városban.
+```
+```
 Feri,       De én nem akarok múzeumba menni! Utálok múzeumba járni! Én horgászni fogok apával. Jó, apa?
             De én nem akarok múzeumba menni! Utálok múzeumba járni! Én horgászni fogok apával. Jó, apa?
             De én nem akarok múzeumba menni! Utálok múzeumba járni! Én horgászni fogok apával. Jó, apa?
             De én nem akarok múzeumba menni! Utálok múzeumba járni! Én horgászni fogok apával. Jó, apa?
             De én nem akarok múzeumba menni! Utálok múzeumba járni! Én horgászni fogok apával. Jó, apa?
+```
+```
 B. János,   Jó! Vasárnap délben halászlét eszünk.
             Jó! Vasárnap délben halászlét eszünk.
             Jó! Vasárnap délben halászlét eszünk.
             Jó! Vasárnap délben halászlét eszünk.
             Jó! Vasárnap délben halászlét eszünk.
+```
+```
 Andrea,     Én nem fogok veletek egész nap a Duna-parton ülni! Ti mindig csak horgászni akartok. Nincs is még olyan jó idő!
             Én nem fogok veletek egész nap a Duna-parton ülni! Ti mindig csak horgászni akartok. Nincs is még olyan jó idő!
             Én nem fogok veletek egész nap a Duna-parton ülni! Ti mindig csak horgászni akartok. Nincs is még olyan jó idő!
             Én nem fogok veletek egész nap a Duna-parton ülni! Ti mindig csak horgászni akartok. Nincs is még olyan jó idő!
             Én nem fogok veletek egész nap a Duna-parton ülni! Ti mindig csak horgászni akartok. Nincs is még olyan jó idő!
+```
+```
 Feri,       Nem baj! Mi nem fázunk. Ti majd a Kovács Margit Múzeumba mentek és sétáltok a városban. Mi pedig horgászni fogunk. Ti is szeretitek a halászlét, nem?
             Nem baj! Mi nem fázunk. Ti majd a Kovács Margit Múzeumba mentek és sétáltok a városban. Mi pedig horgászni fogunk. Ti is szeretitek a halászlét, nem?
             Nem baj! Mi nem fázunk. Ti majd a Kovács Margit Múzeumba mentek és sétáltok a városban. Mi pedig horgászni fogunk. Ti is szeretitek a halászlét, nem?
             Nem baj! Mi nem fázunk. Ti majd a Kovács Margit Múzeumba mentek és sétáltok a városban. Mi pedig horgászni fogunk. Ti is szeretitek a halászlét, nem?
             Nem baj! Mi nem fázunk. Ti majd a Kovács Margit Múzeumba mentek és sétáltok a városban. Mi pedig horgászni fogunk. Ti is szeretitek a halászlét, nem?
+```
+```
 Andrea,     De igen. Feltéve persze, ha fogtok halat. Anyu, azt hiszem jobb lesz, ha holnap bevásárolunk.
             De igen. Feltéve persze, ha fogtok halat. Anyu, azt hiszem jobb lesz, ha holnap bevásárolunk.
             De igen. Feltéve persze, ha fogtok halat. Anyu, azt hiszem jobb lesz, ha holnap bevásárolunk.
             De igen. Feltéve persze, ha fogtok halat. Anyu, azt hiszem jobb lesz, ha holnap bevárárolunk.
             De igen. Feltéve persze, ha fogtok halat. Anyu, azt hiszem jobb lesz, ha holnap bevárárolunk.
+```
+```
 Baloghné,   Igazad van, Andrea. Biztos, ami biztos. Holnap veszünk babot, hátha csak bablevest eszünk vasárnap ebédre.
             Igazad van, Andrea. Biztos, ami biztos. Holnap veszünk babot, hátha csak bablevest eszünk vasárnap ebédre.
             Igazad van, Andrea. Biztos, ami biztos. Holnap veszünk babot, hátha csak bablevest eszünk vasárnap ebédre.
@@ -1511,76 +1591,106 @@ Kardos P.,  Azt hiszem, én már mindent elmondtam az állásról. Most maga kö
             Azt hiszem, én már mindent elmondtam az állásról. Most maga következik. Először is néhany személyi adatot szeretnék tudni. Mikor és hol született?
             Azt hiszem, én már mindent elmondtam az állásról. Most maga következik. Először is néhany személyi adatot szeretnék tudni. Mikor és hol született?
             Azt hiszem, én már mindent elmondtam az állásról. Most maga következik. Először is néhany személyi adatot szeretnék tudni. Mikor és hol született?
+```
+```
 Mária,      1967. február 4-én születtem Egerben. De a szüleim 1970-ben Budapestre költöztek, és én itt Pesten jártam iskolába a Horváth Mihály téren.
             1967. február 4-én születtem Egerben. De a szüleim 1970-ben Budapestre költöztek, és én itt Pesten jártam iskolába a Horváth Mihály téren.
             1967. február 4-én születtem Egerben. De a szüleim 1970-ben Budapestre költöztek, és én itt Pesten jártam iskolába a Horváth Mihály téren.
             1967. február 4-én születtem Egerben. De a szüleim 1970-ben Budapestre költöztek, és én itt Pesten jártam iskolába a Horváth Mihály téren.
             1967. február 4-én születtem Egerben. De a szüleim 1970-ben Budapestre költöztek, és én itt Pesten jártam iskolába a Horváth Mihály téren.
+```
+```
 Kardos P.,  Szóval maga a híres Fazekas Mihály Gimnáziumba járt?
             Szólva maga a híres Fazekas Mihály Gimnáziumba járt?
             Szóval maga a híres Fazekas Mihály Gimnáziumba járt?
             Szóval maga a híres Fazekas Mihály Gimnáziumba járt?
             Szóval maga a híres Fazekas Mihály Gimnáziumba járt?
+```
+```
 Mária,      Gimnáziumba sajnos nem ide jártam, csak általános iskolába. Tanulni soha sem szerettem.
             Gimnáziumba sajnos nem ide jártam, csak általános iskolába. Tanulni soha sem szerettem.
             Gimnáziumba sajnos nem ide jártam, csak általános iskolába. Tanulni soha nem szerettem.
             Gimnáziumba sajnos nem ide jártam, csak általános iskolába. Tanulni soha nem szerettem.
             Gimnáziumba sajnos nem ide jártam, csak általános iskolába. Tanulni soha nem szerettem.
+```
+```
 Kardos P.,  Értem. És hol tanult táncolni?
             Értem. És hol tanult táncolni?
             Értem. És hol tanult táncolni?
             Értem. És hol tanult táncolni?
             Értem. És hol tanult táncolni?
+```
+```
 Mária,      Mindig is imádtam balettozni. Már az általános iskolában is különárára jártam Kocsis Márta nénihez. Híres, kiváló tanár és csodálatos ember volt. Szegény tavaly meghalt. Nem ismerte véletlenül.
             Mindig is imádtam balettozni. Már az általános iskolában is különárára jártam Kocsis Márta nénihez. Híres, kiváló tanár és csodálatos ember volt. Szegény tavaly meghalt. Nem ismerte véletlenül.
             Mindig is imádtam balettozni. Már az általános iskolában is különárára jártam Kocsis Márta nénihez. Híres, kiváló tanár és csodálatos ember volt. Szegény tavaly meghalt. Nem ismerte véletlenül.
             Mindig is imádtam balettozni. Már az általános iskolában is különárára jártam Kocsis Márta nénihez. Híres, kiváló tanár es csodálatos ember volt. Szegény tavaly meghalt. Nem ismerte véletlenül.
             Mindig is imádtam balettozni. Már az általános iskolában is különárára jártam Kocsis Márta nénihez. Híres, kiváló tanár es csodálatos ember volt. Szegény tavaly meghalt. Nem ismerte véletlenül.
+```
+```
 Kardos P.,  Dehogynem! Márta nénit mindenki ismerte. És hogy ment a balett?
             Dehogynem! Márta nénit mindenki ismerte. És hogy ment a balett?
             Dehogynem! Márta nénit mindenki ismerte. És hogy ment a balett?
             Dehogynem! Márta nénit mindenki ismerte. És hogy ment a balett?
             Dehogynem! Márta nénit mindenki ismerte. És hogy ment a balett?
+```
+```
 Mária,      Nagyon jól. Szerencsés voltam, mert Márta néni mindenkivel nagyon türelmes és kedves volt. Később ő küldött jazz-balettra is. De sajnos nem lehettem balett-táncos, mert sokáig beteg voltam.
             Nagyon jól. Szerencsés voltam, mért Márta néni mindenkivel nagyon türelmes és kedves volt. Később ő küldött jazz-balettra is. De sajnos nem lehettem balett-táncos, mert sokáig beteg voltam.
             Nagyon jól. Szerencsés voltam, mért Márta néni mindenkivel nagyon türelmes és kedves volt. Később ő küldött jazz-balettra is. De sajnos nem lehettem balett-táncos, mert sokáig beteg voltam.
             Nagyon jól. Szerencsés voltam, mért Márta néni mindenkivel nagyon türelmes és kedves volt. Később ő küldött jazz-balettra is. De sajnos nem lehettem balett-táncos, mert sokáig beteg voltam.
             Nagyon jól. Szerencsés voltam, mért Márta néni mindenkivel nagyon türelmes és kedves volt. Később ő küldött jazz-balettra is. De sajnos nem lehettem balett-táncos, mert sokáig beteg voltam.
+```
+```
 Kardos P.,  Szóval többé nem táncol?
             Szóval többé nem táncol?
             Szóval többé nem táncol?
             Szóval többé nem táncol?
             Szóval többé nem táncol?
+```
+```
 Mária,      Sajnos nem. Csak tánchazba járok a szabadidőmben. Ez a hobbim.
             Sajnos nem. Csak tánchazba járok a szabadidőmben. Ez a hobbim.
             Sajnos nem. Csak tánchazba járok a szabadidőmben. Ez a hobbim.
             Sajnos nem. Csak tánchazba járok a szabadidőmben. Ez a hobbim.
             Sajnos nem. Csak tánchazba járok a szabadidőmben. Ez a hobbim.
+```
+```
 Kardos P.,  És tanított már jazz-balettot?
             És tanított már jazz-balettot?
             És tanított már jazz-balettot?
             És tanított már jazz-balettot?
             És tanított már jazz-balettot?
+```
+```
 Mária,      Igen, a Balett Intézetben. A második évben jártak hozzám a gyerekek.
             Igen, a Balett Intézetben. A második évben jártak hozzám a gyerekek.
             Igen, a Balett Intézetben. A második évben jártak hozzám a gyerekek.
             Igen, a Balett Intézetben. A második évben jártak hozzám a gyerekek.
             Igen, a Balett Intézetben. A második évben jártak hozzám a gyerekek.
+```
+```
 Kardos P.,  Ilyen jó állást otthagyott?
             Ilyen jó állást otthagyott?
             Ilyen jó állást otthagyott?
             Ilyen jó állást otthagyott?
             Ilyen jó állást otthagyott?
+```
+```
 Mária,      Hát, muszáj volt. Két évvel ezelőtt férjhez mentem, és tavaly szültem. Most szeretnék visszamenni, de sajnos ott már más tanít. Nagyon szeretnék újra tanítani, és persze a pénz is jól jön.
             Hát, muszáj volt. Két évvel ezelőtt férjhez mentem, és tavaly szültem. Most szeretnék visszamenni, de sajnos ott már más tanít. Nagyon szeretnék újra tanítani, és persze a pénz is jól jön.
             Hát, muszáj volt. Két évvel ezelőtt férjhez mentem, és tavaly szültem. Most szeretnék visszamenni, de sajnos ott már más tanít. Nagyon szeretnék újra tanítani, és persze a pénz is jól jön.
             Hát, muszáj volt. Két évvel ezelőtt férjhez mentem, és tavaly szültem. Most szeretnék visszamenni, de sajnos ott már más tanít. Nagyon szeretnék újra tanítani, és persze a pénz is jól jön.
             Hát, muszáj volt. Két évvel ezelőtt férjhez mentem, és tavaly szültem. Most szeretnék visszamenni, de sajnos ott már más tanít. Nagyon szeretnék újra tanítani, és persze a pénz is jól jön.
+```
+```
 Kardos P.,  Értem. Azt hiszem, mindent megbeszéltünk. Vagy esetleg szeretne még valamit kérdezni?
             Értem. Azt hiszem, mindent megbeszéltünk. Vagy esetleg szeretne még valamit kérdezni?
             Értem. Azt hiszem, mindent megbeszéltünk. Vagy esetleg szeretne még valamit kérdezni?
             Értem. Azt hiszem, mindent megbeszéltünk. Vagy esetleg szeretne még valamit kérdezni?
             Értem. Azt hiszem, mindent megbeszéltünk. Vagy esetleg szeretne még valamit kérdezni?
+```
+```
 Mária,      Igen, csak egy utolsó kérdést. Megkapom az állást?
             Igen, csak egy utolsó kérdést. Megkapom az állást?
             Igen, csak egy utolsó kérdést. Megkapom az állást?
@@ -1595,6 +1705,8 @@ Bea,    Régen írt már Sári. Mi lehet vele? Tudod, milyen. Vele mindig tört�
         Régen írt már Sári. Mi lehet vele? Tudod, milyen. Vele mindig történik valami.
         Régen írt már Sári. Mi lehet vele? Tudod, milyen. Vele mindig történik valami.
         Régen írt már Sári. Mi lehet vele? Tudod, milyen. Vele mindig történik valami.
+```
+```
 Rita,   Éppen ma reggel kaptam tőle levelet. Várj csak, itt van! (She pulls it out of her handbag and reads it out to Bea.)
         Éppen ma reggel kaptam tőle levelet. Várj csak, itt van! (She pulls it out of her handbag and reads it out to Bea.)
         Éppen ma reggel kaptam tőle levelet. Várj csak, itt van! (She pulls it out of her handbag and reads it out to Bea.)
@@ -1612,29 +1724,39 @@ Rita,   Éppen ma reggel kaptam tőle levelet. Várj csak, itt van! (She pulls i
             ,, Ne haragudj hogy olyan sokáig nem írtam. Nem felej-tettelek el benneteket, de rengeteg minden történt velem. Képzeld megismerkedtem egy érdekes angol fiúval.
             ,, Ne haragudj hogy olyan sokáig nem írtam. Nem felej-tettelek el benneteket, de rengeteg minden történt velem. Képzeld megismerkedtem egy érdekes angol fiúval.
             ,, Ne haragudj hogy olyan sokáig nem írtam. Nem felej-tettelek el benneteket, de rengeteg minden történt velem. Képzeld megismerkedtem egy érdekes angol fiúval.
+```
+```
 Bea,    Ez jól kezdődik! Kíváncsi vagyok, kivel találkozott megint... Emlékszel, amikor azt a skót szoknyás fiút bemutatta?
         Ez jól kezdődik! Kíváncsi vagyok, kivel találkozott megint... Emlékszel, amikor azt a skót szoknyás fiút bemutatta?
         Ez jól kezdődik! Kíváncsi vagyok, kivel találkozott megint... Emlékszel, amikor azt a skót szoknyás fiút bemutatta?
         Ez jól kezdődik! Kíváncsi vagyok, kivel találkozott megint... Emlékszel, amikor azt a skót szoknyás fiút bemutatta?
         Ez jól kezdődik! Kíváncsi vagyok, kivel találkozott megint... Emlékszel, amikor azt a skót szoknyás fiút bemutatta?
+```
+```
 Rita,   És emlékszel az amerikai baseball-játékosra?
         És emlékszel az amerikai baseball-játékosra?
         És emlékszel az amerikai baseball-játékosra?
         És emlékszel az amerikai baseball-játékosra?
         És emlékszel az amerikai baseball-játékosra?
-
+```
+```
 (Both of them laugh.)
-
+```
+```
 Bea,    Folytasd! Mit ír?
         Folytasd! Mit ír?
         Folytasd! Mit ír?
         Folytasd! Mit ír?
         Folytasd! Mit ír?
+```
+```
 Rita,   ,, Pár nappal ezelőtt egy kisvendéglőbe mentem ebédelni a József körúton. Elég késő volt, délután fél négy fele lehetett. Nem volt nagy választék: már csak csirke és pörkölt maradt. Egy másik asztalnál egy 22 év körüli fíu ült az ablak mellett. Gondoltam, hogy turista lehet, mert egy hátizsák feküdt mellette a földön. A fiú odahívta a pincért, és a csirkét kérte. A pincér nem értette. A fiú lassan, hangosan megismételte: csírr-ke. A pincér még mindig nem értette, mit akar. A fiú ekkor felugrott és elkezdett hadonászni csapkodja és most már kiabálta: csírr-ke!!! A pincér ijedt arccal hátrált. Mindenki nevetett. ,, Azt hiszem, csirkét kér. - mondtam a pincérnek. ,, Á, csirke. - ismételte a pincér. ,, Most már értem! ,, De hát én is ezt mondtam! - mondta a fiú. Elmagyaráztam neki, hogy a kiejtése nem volt tökéletes. Együtt ebédeltünk. Sok mindenről beszélgettünk. Képzeld, este 8-ig ott ültünk az étteremben! Alig várom a vasárnapot. A hét húszas vonattal érkezem. A többit majd szóban elmondom. Beát is üdvözlöm. Sok puszi: Sari.
         ,, Pár nappal ezelőtt egy kisvendéglőbe mentem ebédelni a József körúton. Elég késő volt, délután fél négy fele lehetett. Nem volt nagy választék: már csak csirke és pörkölt maradt. Egy másik asztalnál egy 22 év körüli fíu ült az ablak mellett. Gondoltam, hogy turista lehet, mert egy hátizsák feküdt mellette a földön. A fiú odahívta a pincért, és a csirkét kérte. A pincér nem értette. A fiú lassan, hangosan megismételte: csírr-ke. A pincér még mindig nem értette, mit akar. A fiú ekkor felugrott és elkezdett hadonászni csapkodja és most már kiabálta: csírr-ke!!! A pincér ijedt arccal hátrált. Mindenki nevetett. ,, Azt hiszem, csirkét kér. - mondtam a pincérnek. ,, Á, csirke. - ismételte a pincér. ,, Most már értem! ,, De hát én is ezt mondtam! - mondta a fiú. Elmagyaráztam neki, hogy a kiejtése nem volt tökéletes. Együtt ebédeltünk. Sok mindenről beszélgettünk. Képzeld, este 8-ig ott ültünk az étteremben! Alig várom a vasárnapot. A hét húszas vonattal érkezem. A többit majd szóban elmondom. Beát is üdvözlöm. Sok puszi: Sari.
         ,, Pár nappal ezelőtt egy kisvendéglőbe mentem ebédelni a József körúton. Elég késő volt, délután fél négy fele lehetett. Nem volt nagy választék: már csak csirke és pörkölt maradt. Egy másik asztalnál egy 22 év körüli fíu ült az ablak mellett. Gondoltam, hogy turista lehet, mert egy hátizsák feküdt mellette a földön. A fiú odahívta a pincért, és a csirkét kérte. A pincér nem értette. A fiú lassan, hangosan megismételte: csírr-ke. A pincér még mindig nem értette, mit akar. A fiú ekkor felugrott és elkezdett hadonászni csapkodja és most már kiabálta: csírr-ke!!! A pincér ijedt arccal hátrált. Mindenki nevetett. ,, Azt hiszem, csirkét kér. - mondtam a pincérnek. ,, Á, csirke. - ismételte a pincér. ,, Most már értem! ,, De hát én is ezt mondtam! - mondta a fiú. Elmagyaráztam neki, hogy a kiejtése nem volt tökéletes. Együtt ebédeltünk. Sok mindenről beszélgettünk. Képzeld, este 8-ig ott ültünk az étteremben! Alig várom a vasárnapot. A hét húszas vonattal érkezem. A többit majd szóban elmondom. Beát is üdvözlöm. Sok puszi: Sari.
         ,, Pár nappal ezelőtt egy kisvendéglőbe mentem ebédelni a József körúton. Elég késő volt, délután fél négy fele lehetett. Nem volt nagy választék: már csak csirke és pörkölt maradt. Egy másik asztalnál egy 22 év körüli fíu ült az ablak mellett. Gondoltam, hogy turista lehet, mert egy hátizsák feküdt mellette a földön. A fiú odahívta a pincért, és a csirkét kérte. A pincér nem értette. A fiú lassan, hangosan megismételte: csírr-ke. A pincér még mindig nem értette, mit akar. A fiú ekkor felugrott és elkezdett hadonászni csapkodja és most már kiabálta: csírr-ke!!! A pincér ijedt arccal hátrált. Mindenki nevetett. ,, Azt hiszem, csirkét kér. - mondtam a pincérnek. ,, Á, csirke. - ismételte a pincér. ,, Most már értem! ,, De hát én is ezt mondtam! - mondta a fiú. Elmagyaráztam neki, hogy a kiejtése nem volt tökéletes. Együtt ebédeltünk. Sok mindenről beszélgettünk. Képzeld, este 8-ig ott ültünk az étteremben! Alig várom a vasárnapot. A hét húszas vonattal érkezem. A többit majd szóban elmondom. Beát is üdvözlöm. Sok puszi: Sari.
         ,, Pár nappal ezelőtt egy kisvendéglőbe mentem ebédelni a József körúton. Elég késő volt, délután fél négy fele lehetett. Nem volt nagy választék: már csak csirke és pörkölt maradt. Egy másik asztalnál egy 22 év körüli fíu ült az ablak mellett. Gondoltam, hogy turista lehet, mert egy hátizsák feküdt mellette a földön. A fiú odahívta a pincért, és a csirkét kérte. A pincér nem értette. A fiú lassan, hangosan megismételte: csírr-ke. A pincér még mindig nem értette, mit akar. A fiú ekkor felugrott és elkezdett hadonászni csapkodja és most már kiabálta: csírr-ke!!! A pincér ijedt arccal hátrált. Mindenki nevetett. ,, Azt hiszem, csirkét kér. - mondtam a pincérnek. ,, Á, csirke. - ismételte a pincér. ,, Most már értem! ,, De hát én is ezt mondtam! - mondta a fiú. Elmagyaráztam neki, hogy a kiejtése nem volt tökéletes. Együtt ebédeltünk. Sok mindenről beszélgettünk. Képzeld, este 8-ig ott ültünk az étteremben! Alig váram a vasárnapot. A hét húszas vonattal érkezem. A többit majd szóban elmondom. Beát is üdvözlöm. Sok puszi: Sari.
+```
+```
 Bea,    Tudtam, hogy Sári nem fog Pesten unatkozni!
         Tudtam, hogy Sári nem fog Pesten unatkozni!
         Tudtam, hogy Sári nem fog Pesten unatkozni!
@@ -1649,41 +1771,57 @@ András, De szép barna vagy! Úgy látszik, jó idő volt.
         De szép barna vagy! Úgy látszik, jó idő volt.
         De szép barna vagy! Úgy látszik, jó idő volt.
         De szép barna vagy! Úgy látszik, jó idő volt.
+```
+```
 Edit,   Igen, végig nagyon jó idő volt, igazi kánikula. Sokat fürödtünk, napoztunk. Igaz, sokat kellet dolgozni: reggel 8-tól délután 4-ig voltam szolgálatban. Elég fárasztó 11-14 éves gyerekekre vigyázni, programokat szervezni nekik. De 4-től szabad voltam. Nagyon jól éreztem magam.
         Igen, végig nagyon jó idő volt, igazi kánikula. Sokat fürödtünk, napoztunk. Igaz, sokat kellet dolgozni: reggel 8-tól délután 4-ig voltam szolgálatban. Elég fárasztó 11-14 éves gyerekekre vigyázni, programokat szervezni nekik. De 4-től szabad voltam. Nagyon jól éreztem magam.
         Igen, végig nagyon jó idő volt, igazi kánikula. Sokat fürödtünk, napoztunk. Igaz, sokat kellet dolgozni: reggel 8-tól délután 4-ig voltam szolgálatban. Elég fárasztó 11-14 éves gyerekekre vigyázni, programokat szervezni nekik. De 4-től szabad voltam. Nagyon jól éreztem magam.
         Igen, végig nagyon jó idő volt, igazi kánikula. Sokat fürödtünk, napoztunk. Igaz, sokat kellet dolgozni: reggel 8-tól délután 4-ig voltam szolgálatban. Elég fárasztó 11-14 éves gyerekekre vigyázni, programokat szervezni nekik. De 4-től szabad voltam. Nagyon jól éreztem magam.
         Igen, végig nagyon jó idő volt, igazi kánikula. Sokat fürödtünk, napoztunk. Igaz, sokat kellet dolgozni: reggel 8-tól délután 4-ig voltam szolgálatban. Elég fárasztó 11-14 éves gyerekekre vigyázni, programokat szervezni nekik. De 4-től szabad voltam. Nagyon jól éreztem magam.
+```
+```
 András, És milyenek voltak a többiek?
         És milyenek voltak a többiek?
         És milyenek voltak a többiek?
         És milyenek voltak a többiek?
         És milyenek voltak a többiek?
+```
+```
 Edit,   Elég szimpatikusak.
         Elég szimpatikusak.
         Elég szimpatikusak.
         Elég szimpatikusak.
         Elég szimpatikusak.
+```
+```
 András, És mit tudtatok este csinálni? Hova jártatok szórakozni?
         És mit tudtatok este csinálni? Hova jártatok szórakozni?
         És mit tudtatok este csinálni? Hova jártatok szórakozni?
         És mit tudtatok este csinálni? Hova jártatok szórakozni?
         És mit tudtatok este csinálni? Hova jártatok szórakozni?
+```
+```
 Edit,   Eleinte a discóba, de azt hamar meguntuk. Fonyódon van egy kertmozi, ott többször is voltunk. Minden este más film ment. Viszonylag jó filmeket játszottak. A hétvégeken vagy a szabadnopokon sokféle program volt: koncertek, kiállítások. Egyszer hajókirándulásra mentünk a gyerekekkel. Kár, hogy nem voltál ott! Lehetett vitorlázni, csónakázni, szörfözni.
         Eleinte a discóba, de azt hamar meguntuk. Fonyódon van egy kertmozi, ott többször is voltunk. Minden este más film ment. Viszonylag jó filmeket játszottak. A hétvégeken vagy a szabadnopokon sokféle program volt: koncertek, kiállítások. Egyszer hajókirándulásra mentünk a gyerekekkel. Kár, hogy nem voltál ott! Lehetett vitorlázni, csónakázni, szörfözni.
         Eleinte a discóba, de azt hamar meguntuk. Fonyódon van egy kertmozi, ott többször is voltunk. Minden este más film ment. Viszonylag jó filmeket játszottak. A hétvégeken vagy a szabadnopokon sokféle program volt: koncertek, kiállítások. Egyszer hajókirándulásra mentünk a gyerekekkel. Kár, hogy nem voltál ott! Lehetett vitorlázni, csónakázni, szörfözni.
         Eleinte a discóba, de azt hamar meguntuk. Fonyódon van egy kertmozi, ott többször is voltunk. Minden este más film ment. Viszonylag jó filmeket játszottak. A hétvégeken vagy a szabadnopokon sokféle program volt: koncertek, kiállítások. Egyszer hajókirándulásra mentünk a gyerekekkel. Kár, hogy nem voltál ott! Lehetett vitorlázni, csónakázni, szörfözni.
         Eleinte a discóba, de azt hamar meguntuk. Fonyódon van egy kertmozi, ott többször is voltunk. Minden este más film ment. Viszonylag jó filmeket játszottak. A hétvégeken vagy a szabadnopokon sokféle program volt: koncertek, kiállítások. Egyszer hajókirándulásra mentünk a gyerekekkel. Kár, hogy nem voltál ott! Lehetett vitorlázni, csónakázni, szörfözni.
+```
+```
 András, Tudod, hogy engem nem érdekelnek a gyerekek, főleg nem a Balatonnál!
         Tudod, hogy engem nem érdekelnek a gyerekek, főleg nem a Balatonnál!
         Tudod, hogy engem nem érdekelnek a gyerekek, főleg nem a Balatonnál!
         Tudod, hogy engem nem érdekelnek a gyerekek, főleg nem a Balatonnál!
         Tudod, hogy engem nem érdekelnek a gyerekek, főleg nem a Balatonnál!
+```
+```
 Edit,   Lusta vagy András, az a baj!
         Lusta vagy András, az a baj!
         Lusta vagy András, az a baj!
         Lusta vagy András, az a baj!
         Lusta vagy András, az a baj!
+```
+```
 András, Én? Lusta? Ki szokta a kutyát minden nap kétszer levinni sétálni? Talán te? A Balaton már különben sem a régi: túl nagy a tömeg. És az árak! Azokról jobb nem is beszélni! Már a lángos is egy vagyonba kerül. Emlékszel, amikor gyerekek voltunk? Hogy imádtunk ott lenni! Egész nap a vízben játszottunk. Soha nem unatkoztunk. És a főtt kolbász a sült hal, a sok finom palacsinta ...
         Én? Lusta? Ki szokta a kutyát minden nap kétszer levinni sétálni? Talán te? A Balaton már különben sem a régi: túl nagy a tömeg. És az árak! Azokról jobb nem is beszélni! Már a lángos is egy vagyonba kerül. Emlékszel, amikor gyerekek voltunk? Hogy imádtunk ott lenni! Egész nap a vízben játszottunk. Soha nem unatkoztunk. És a főtt kolbász a sült hal, a sok finom palacsinta ...
         Én? Lusta? Ki szokta a kutyát minden nap kétszer levinni sétálni? Talán te? A Balaton már különben sem a régi: túl nagy a tömeg. És az árak! Azokról jobb nem is beszélni! Már a lángos is egy vagyonba kerül. Emlékszel, amikor gyerekek voltunk? Hogy imádtunk ott lenni! Egész nap a vízben játszottunk. Soha nem unatkoztunk. És a főtt kolbász a sült hal, a sok finom palacsinta ...
@@ -1698,56 +1836,78 @@ Orvos,      Tessék, Márkus úr. Mi a panasza?
             Tessék, Márkus úr. Mi a panasza?
             Tessék, Márkus úr. Mi a panasza?
             Tessék, Márkus úr. Mi a panasza?
+```
+```
 Márkus úr,  Nagyon beteg vagyok doktor úr. Mindenem fáj: a torkom, a hasam. Erősen köhögök, és náthás is vagyok.
             Nagyon beteg vagyok doktor úr. Mindenem fáj: a torkom, a hasam. Erősen köhögök, és náthás is vagyok.
             Nagyon beteg vagyok doktor úr. Mindenem fáj: a torkom, a hasam. Erősen köhögök, és náthás is vagyok.
             Nagyon beteg vagyok doktor úr. Mindenem fáj: a torkom, a hasam. Erősen köhögök, és náthás is vagyok.
             Nagyon beteg vagyok doktor úr. Mindenem fáj: a torkom, a hasam. Erősen köhögök, és náthás is vagyok.
+```
+```
 Orvos,      Lázas?
             Lázas?
             Lázas?
             Lázas?
             Lázas?
+```
+```
 Márkus úr,  Lehet, de nem tudtam megmérni a lázam, mert nincs otthon lázmerőm.
             Lehet, de nem tudtam megmérni a lázam, mert nincs otthon lázmerőm.
             Lehet, de nem tudtam megmérni a lázam, mert nincs otthon lázmerőm.
             Lehet, de nem tudtam megmérni a lázam, mert nincs otthon lázmerőm.
             Lehet, de nem tudtam megmérni a lázam, mert nincs otthon lázmerőm.
+```
+```
 Orvos,      Tessék, itt van egy. (After taking Mr. Márkus' temperature.) Lássuk csak! Hm. Elég magas, 39 fokos láza van. És tud rendesen enni? Van étvágya?
             Tessék, itt van egy. (After taking Mr. Márkus' temperature.) Lássuk csak! Hm. Elég magas, 39 fokos láza van. És tud rendesen enni? Van étvágya?
             Tessék, itt van egy. (After taking Mr. Márkus' temperature.) Lássuk csak! Hm. Elég magas, 39 fokos láza van. És tud rendesen enni? Van étvágya?
             Tessék, itt van egy. (After taking Mr. Márkus' temperature.) Lássuk csak! Hm. Elég magas, 39 fokos láza van. És tud rendesen enni? Van étvágya?
             Tessék, itt van egy. (After taking Mr. Márkus' temperature.) Lássuk csak! Hm. Elég magas, 39 fokos láza van. És tud rendesen enni? Van étvágya?
+```
+```
 Márkus úr,  Nem nagyon. Tegnap egész nap alig ettem valamit. Elfelejtettem mondani, hogy szédülök is.
             Nem nagyon. Tegnap egész nap alig ettem valamit. Elfelejtettem mondani, hogy szedülök is.
             Nem nagyon. Tegnap egész nap alig ettem valamit. Elfelejtettem mondani, hogy szedülök is.
             Nem nagyon. Tegnap egész nap alig ettem valamit. Elfelejtettem mondani, hogy szedülök is.
             Nem nagyon. Tegnap egész nap alig ettem valamit. Elfelejtettem mondani, hogy szedülök is.
+```
+```
 Orvos,      Nyissa ki a száját! Megnézem a torkát. Egy kicsit piros. De meg fog gyógyulni, Márkus úr. Nem kell félni. Csak influenzája van. Felírok magának egy gyógyszert. Naponta háromszor kell beszedni étkezés után. Tessék ágyban maradni egy hétig. A jövő héten délután rendelek. Csürtörtökön majd úrja megvizsgálom. Tessék, itt a recept.
             Nyissa ki a száját! Megnézem a torkát. Egy kicsit piros. De meg fog gyógyulni, Márkus úr. Nem kell félni. Csak influenzája van. Felírok magának egy gyógyszert. Naponta háromszor kell beszedni étkezés után. Tessék ágyban maradni egy hétig. A jövő héten délután rendelek. Csürtörtökön majd úrja megvizsgálom. Tessék, itt a recept.
             Nyissa ki a száját! Megnézem a torkát. Egy kicsit piros. De meg fog gyógyulni, Márkus úr. Nem kell félni. Csak influenzája van. Felírok magának egy gyógyszert. Naponta háromszor kell beszedni étkezés után. Tessék ágyban maradni egy hétig. A jövő héten délután rendelek. Csürtörtökön majd úrja megvizsgálom. Tessék, itt a recept.
             Nyissa ki a száját! Megnézem a torkát. Egy kicsit piros. De meg fog gyógyulni, Márkus úr. Nem kell félni. Csak influenzája van. Felírok magának egy gyógyszert. Naponta háromszor kell beszedni étkezés után. Tessék ágyban maradni egy hétig. A jövő héten délután rendelek. Csürtörtökön majd úrja megvizsgálom. Tessék, itt a recept.
             Nyissa ki a száját! Megnézem a torkát. Egy kicsit piros. De meg fog gyógyulni, Márkus úr. Nem kell félni. Csak influenzája van. Felírok magának egy gyógyszert. Naponta háromszor kell beszedni étkezés után. Tessék ágyban maradni egy hétig. A jövő héten délután rendelek. Csürtörtökön majd úrja megvizsgálom. Tessék, itt a recept.
+```
+```
 Márkus úr,  Köszönöm. Ha már itt vagyok, doktor úr, van még valami. Szörnyen fáj a derekam meg a vállam. Tudja, a reumám ... Nem tud valamit ajánlani?
             Köszönöm. Ha már itt vagyok, doktor úr, van még valami. Szörnyen fáj a derekam meg a vállam. Tudja, a reumám ... Nem tud valamit ajánlani?
             Köszönöm. Ha már itt vagyok, doktor úr, van még valami. Szörnyen fáj a derekam meg a vállam. Tudja, a reumám ... Nem tud valamit ajánlani?
             Köszönöm. Ha már itt vagyok, doktor úr, van még valami. Szörnyen fáj a derekam meg a vállam. Tudja, a reumám ... Nem tud valamit ajánlani?
             Köszönöm. Ha már itt vagyok, doktor úr, van még valami. Szörnyen fáj a derekam meg a vállam. Tudja, a reumám ... Nem tud valamit ajánlani?
+```
+```
 Orvos,      Már a múltkor is akartam magát gyógyfürdőbe küldeni, de nem nagyon lelkesedett ... Pedig tudja jól, hogy jót tesz magának. Itt vagyunk a gyógyfürdők hazájában, és maga nem akarja kihasználni ezt a páratlan lehetőséget.
             Már a múltkor is akartam magát gyógyfürdőbe küldeni, de nem nagyon lelkesedett ... Pedig tudja jól, hogy jót tesz magának. Itt vagyunk a gyógyfürdők hazájában, és maga nem akarja kihasználni ezt a páratlan lehetőséget.
             Már a múltkor is akartam magát gyógyfürdőbe küldeni, de nem nagyon lelkesedett ... Pedig tudja jól, hogy jót tesz magának. Itt vagyunk a gyógyfürdők hazájában, és maga nem akarja kihasználni ezt a páratlan lehetőséget.
             Már a múltkor is akartam magát gyógyfürdőbe küldeni, de nem nagyon lelkesedett ... Pedig tudja jól, hogy jót tesz magának. Itt vagyunk a gyógyfürdők hazájában, és maga nem akarja kihasználni ezt a páratlan lehetőséget.
             Már a múltkor is akartam magát gyógyfürdőbe küldeni, de nem nagyon lelkesedett ... Pedig tudja jól, hogy jót tesz magának. Itt vagyunk a gyógyfürdők hazájában, és maga nem akarja kihasználni ezt a páratlan lehetőséget.
+```
+```
 Márkus úr,  Ígérem, doktor úr, most megfogadom a tanácsát.
             Ígérem, doktor úr, most megfogadom a tanácsát.
             Ígérem, doktor úr, most megfogadom a tanácsát.
             Ígérem, doktor úr, most megfogadom a tanácsát.
             Ígérem, doktor úr, most megfogadom a tanácsát.
+```
+```
 Orvos,      Hova szeretne menni? Hévízre vagy Gyulára?
             Hova szeretne menni? Hévízre vagy Gyulára?
             Hova szeretne menni? Hévízre vagy Gyulára?
             Hova szeretne menni? Hévízre vagy Gyulára?
             Hova szeretne menni? Hévízre vagy Gyulára?
+```
+```
 Márkus úr,  Nekem szeretne mindegy. Hévíz is, Gyula is rettenetesen drága lett. De egy hetek kibírok. Hátha segít ...
             Nekem szeretne mindegy. Hévíz is, Gyula is rettenetesen drága lett. De egy hetek kibírok. Hátha segít ...
             Nekem szeretne mindegy. Hévíz is, Gyula is rettenetesen drága lett. De egy hetek kibírok. Hátha segít ...
@@ -1762,36 +1922,50 @@ Riporter,   Hogyan emlekszik a gyerekkorára?
             Hogyan emlekszik a gyerekkorára?
             Hogyan emlekszik a gyerekkorára?
             Hogyan emlekszik a gyerekkorára?
+```
+```
 Almási K.,  Nagyon boldog gyerekkorom volt. Öten voltunk testvérek. A szüleinkkel egy nagy, romos házban éltünk Szekszárdon. Sajnos soha nem volt elég pénzünk a házat teljesen rendbe hozni. De talán éppen ezért volt olyan romantikus! A házunk mögött volt egy óriási kert. Tavasztól őszig itt szoktunk játszani a testvéreimmel.
             Nagyon boldog gyerekkorom volt. Öten voltunk testvérek. A szüleinkkel egy nagy, romos házban éltünk Szekszárdon. Sajnos soha nem volt elég pénzünk a házat teljesen rendbe hozni. De talán éppen ezért volt olyan romantikus! A házunk mögött volt egy óriási kert. Tavasztól őszig itt szoktunk játszani a testvéreimmel.
             Nagyon boldog gyerekkorom volt. Öten voltunk testvérek. A szüleinkkel egy nagy, romos házban éltünk Szekszárdon. Sajnos soha nem volt elét pénzünk a házat teljesen rendbe hozni. De talán éppen ezért volt olyan romantikus! A házunk mögött volt egy óriási kert. Tavasztól őszig itt szoktunk játszani a testvéreimmel.
             Nagyon boldog gyerekkorom volt. Öten voltunk testvérek. A szüleinkkel egy nagy, romos házban éltünk Szekszárdon. Sajnos soha nem volt elét pénzünk a házat teljesen rendbe hozni. De talán éppen ezért volt olyan romantikus! A házunk mögött volt egy óriási kert. Tavasztól őszig itt szoktunk játszani a testvéreimmel.
             Nagyon boldog gyerekkorom volt. Öten voltunk testvérek. A szüleinkkel egy nagy, romos házban éltünk Szekszárdon. Sajnos soha nem volt elét pénzünk a házat teljesen rendbe hozni. De talán éppen ezért volt olyan romantikus! A házunk mögött volt egy óriási kert. Tavasztól őszig itt szoktunk játszani a testvéreimmel.
+```
+```
 Riporter,   Milyen emberek voltak a szülei?
             Milyen emberek voltak a szülei?
             Milyen emberek voltak a szülei?
             Milyen emberek voltak a szülei?
             Milyen emberek voltak a szülei?
+```
+```
 Almási K.,  Anyám magas, karcsú, világosbarna hají, kék szemű lány volt. Imádott olvasni, színházba járni. Mindig vidám, kedves, igen vallásos ember volt; katolikus. Apámmal jól kiegészítették egymást. Ő ugyanis csendes, komoly ember volt, de anyám hite erősebb volt, mint apámé. így katolikus templomban volt az esküvőjük, és minket is ebben a hitben neveltek. minden vasárnap jártunk misére. A szüleim életük végéig nagyon szerették egymást. Ritkán veszekedtek, de akkor is hamar kibékültek.
             Anyám magas, karcsú, világosbarna hají, kék szemű lány volt. Imádott olvasni, színházba járni. Mindig vidám, kedves, igen vallásos ember volt; katolikus. Apámmal jól kiegészítették egymást. Ő ugyanis csendes, komoly ember volt, de anyám hite erősebb volt, mint apámé. így katolikus templomban volt az esküvőjük, és minket is ebben a hitben neveltek. minden vasárnap jártunk misére. A szüleim életük végéig nagyon szerették egymást. Ritkán veszekedtek, de akkor is hamar kibékültek.
             Anyám magas, karcsú, világosbarna hají, kék szemű lány volt. Imádott olvasni, színházba járni. Mindig vidám, kedves, igen vallásos ember volt; katolikus. Apámmal jól kiegészítették egymást. Ő ugyanis csendes, komoly ember volt, de anyám hite erősebb volt, mint apámé. így katolikus templomban volt az esküvőjük, és minket is ebben a hitben neveltek. minden vasárnap jártunk misére. A szüleim életük végéig nagyon szerették egymást. Ritkán veszekedtek, de akkor is hamar kibékültek.
             Anyám magas, karcsú, világosbarna hají, kék szemű lány volt. Imádott olvasni, színházba járni. Mindig vidám, kedves, igen vallásos ember volt; katolikus. Apámmal jól kiegészítették egymást. Ő ugyanis csendes, komoly ember volt, de anyám hite erősebb volt, mint apámé. így katolikus templomban volt az esküvőjük, és minket is ebben a hitben neveltek. minden vasárnap jártunk misére. A szüleim életük végéig nagyon szerették egymást. Ritkán veszekedtek, de akkor is hamar kibékültek.
             Anyám magas, karcsú, világosbarna hají, kék szemű lány volt. Imádott olvasni, színházba járni. Mindig vidám, kedves, igen vallásos ember volt; katolikus. Apámmal jól kiegészítették egymást. Ő ugyanis csendes, komoly ember volt, de anyám hite erősebb volt, mint apámé. Így katolikus templomban volt az esküvőjük, és minket is ebben a hitben neveltek. Minden vasárnap jártunk misére. A szüleim életük végéig nagyon szerették egymást. Ritkán veszekedtek, de akkor is hamar kibékültek.
+```
+```
 Riporter,   Mindez nagyon idillikusan hangzik. Milyenek voltak a rokonai?
             Mindez nagyon idillikusan hangzik. Milyenek voltak a rokonai?
             Mindez nagyon idillikusan hangzik. Milyenek voltak a rokonai?
             Mindez nagyon idillikusan hangzik. Milyenek voltak a rokonai?
             Mindez nagyon idillikusan hangzik. Milyenek voltak a rokonai?
+```
+```
 Almási K.,  Nagy család volt a miénk. Anyámék hatan voltak testvérek, apámék pedig hárman. Így sok nagynéni, nagybácsi, unokatestvér volt mindig nálunk. Vidám, zajos család voltunk. Különösen Jaba bácsira emlékszem, anyám nővérének a férjére. Ő volt az egyetlen liberális a mi konzervatív családunkban. Igazi különc volt, de imádtuk. Emlékszem mindig cukorral, csokoládéval érkezett. Nem csoda, hogy olyan rosszak a fogaim!
             Nagy család volt a miénk. Anyámék hatan voltak testvérek, apámék pedig hárman. Így sok nagynéni, nagybácsi, unokatestvér volt mindig nálunk. Vidám, zajos család voltunk. Különösen Jaba bácsira emlékszem, anyám nővérének a férjére. Ő volt az egyetlen liberális a mi konzervatív családunkban. Igazi különc volt, de imádtuk. Emlékszem mindig cukorral, csokoládéval érkezett. Nem csoda, hogy olyan rosszak a fogaim!
             Nagy család volt a miénk. Anyámék hatan voltak testvérek, apámék pedig hárman. Így sok nagynéni, nagybácsi, unokatestvér volt mindig nálunk. Vidám, zajos család voltunk. Különösen Jaba bácsira emlékszem, anyám nővérének a férjére. Ő volt az egyetlen liberális a mi konzervatív családunkban. Igazi különc volt, de imádtuk. Emlékszem mindig cukorral, csokoládéval érkezett. Nem csoda, hogy olyan rosszak a fogaim!
             Nagy család volt a miénk. Anyámék hatan voltak testvérek, apámék pedig hárman. Így sok nagynéni, nagybácsi, unokatestvér volt mindig nálunk. Vidám, zajos család voltunk. Különösen Jaba bácsira emlékszem, anyám nővérének a férjére. Ő volt az egyetlen liberális a mi konzervatív családunkban. Igazi különc volt, de imádtuk. Emlékszem mindig cukorral, csokoládéval érkezett. Nem csoda, hogy olyan rosszak a fogaim!
             Nagy család volt a miénk. Anyámék hatan voltak testvérek, apámék pedig hárman. Így sok nagynéni, nagybácsi, unokatestvér volt mindig nálunk. Vidám, zajos család voltunk. Különösen Jaba bácsira emlékszem, anyám nővérének a férjére. Ő volt az egyetlen liberális a mi konzervatív családunkban. Igazi különc volt, de imádtuk. Emlékszem mindig cukorral, csokoládéval érkezett. Nem csoda, hogy olyan rosszak a fogaim!
+```
+```
 Riporter,   Ugy tudom, egyedül a húga folytatta a családi hagyományt: neki öt gyereke van.
             Ugy tudom, egyedül a húga folytatta a családi hagyományt: neki öt gyereke van.
             Ugy tudom, egyedül a húga folytatta a családi hagyományt: neki öt gyereke van.
             Ugy tudom, egyedül a húga folytatta a családi hagyományt: neki öt gyereke van.
             Ugy tudom, egyedül a húga folytatta a családi hagyományt: neki öt gyereke van.
+```
+```
 Almási K.,  Igen, a másik három testvéremnek nincs családja, és sajnos nekem sincsenek gyerekeim. Igaz, az öcsém még elég fiatal, nőtlen. Ő is, a menyasszonya is imádják a gyerekeket. Talán nemsókára újra nagynéni leszek ...
             Igen, a másik három testvéremnek nincs családja, és sajnos nekem sincsenek gyerekeim. Igaz, az öcsém még elég fiatal, nőtlen. Ő is, a menyasszonya is imádják a gyerekeket. Talán nemsókára újra nagynéni leszek ...
             Igen, a másik három testvéremnek nincs családja, és sajnos nekem sincsenek gyerekeim. Igaz, az öcsém még elég fiatal, nőtlen. Ő is, a menyasszonya is imádják a gyerekeket. Talán nemsókára újra nagynéni leszek ...
@@ -1806,56 +1980,78 @@ Antal,  Szevasz, Tibor! Ezer éve nem láttalak! Mi van veled, öregem?
         Szevasz, Tibor! Ezer éve nem láttalak! Mi van veled, öregem?
         Szevasz, Tibor! Ezer éve nem láttalak! Mi van veled, öregem?
         Szevasz, Tibor! Ezer éve nem láttalak! Mi van veled, öregem?
+```
+```
 Tibor,  Már két hónapja új vállalatnál dolgozom.
         Már két hónapja új vállalatnál dolgozom.
         Már két hónapja új vállalatnál dolgozom.
         Már két hónapja új vállalatnál dolgozom.
         Már két hónapja új vállalatnál dolgozom.
+```
+```
 Antal,  Emlékszem, hogy a régi munkahelyeden nem érezted jól magad.
         Emlékszem, hogy a régi munkahelyeden nem érezted jól magad.
         Emlékszem, hogy a régi munkahelyeden nem érezted jól magad.
         Emlékszem, hogy a régi munkahelyeden nem érezted jól magad.
         Emlékszem, hogy a régi munkahelyeden nem érezted jól magad.
+```
+```
 Tibor,  Igen, szükségem volt a változásra.
         Igen, szükségem volt a változásra.
         Igen, szükségem volt a változásra.
         Igen, szükségem volt a változásra.
         Igen, szükségem volt a változásra.
+```
+```
 Antal,  És itt milyen?
         És itt milyen?
         És itt milyen?
         És itt milyen?
         És itt milyen?
+```
+```
 Tibor,  Sokkal jobban tetszik. Nemcsak érdekesebb a munkám, hanem többet is keresek. Az idő is gyorsabban telik, ha az ember nem unatkozik. Saját irodám, titkárnőm van. Igaz, kicsit korábban kell kelnem, mert hamarabb is végzek. Az óvodába is odaérek minden nap ödre. Ritkán kel túlóráznom, de azt is jól megfizetik.
         Sokkal jobban tetszik. Nemcsak érdekesebb a munkám, hanem többet is keresek. Az idő is gyorsabban telik, ha az ember nem unatkozik. Saját irodám, titkárnőm van. Igaz, kicsit korábban kell kelnem, mert hamarabb is végzek. Az óvodába is odaérek minden nap ödre. Ritkán kel túlóráznom, de azt is jól megfizetik.
         Sokkal jobban tetszik. Nemcsak érdekesebb a munkám, hanem többet is keresek. Az idő is gyorsabban telik, ha az ember nem unatkozik. Saját irodám, titkárnőm van. Igaz, kicsit korábban kell kelnem, mert hamarabb is végzek. Az óvodába is odaérek minden nap ödre. Ritkán kel túlóráznom, de azt is jól megfizetik.
         Sokkal jobban tetszik. Nemcsak érdekesebb a munkám, hanem többet is keresek. Az idő is gyorsabban telik, ha az ember nem unatkozik. Saját irodám, titkárnőm van. Igaz, kicsit korábban kell kelnem, mert hamarabb is végzek. Az óvodába is odaérek minden nap ödre. Ritkán kel túlóráznom, de azt is jól megfizetik.
         Sokkal jobban tetszik. Nemcsak érdekesebb a munkám, hanem többet is keresek. Az idő is gyorsabban telik, ha az ember nem unatkozik. Saját irodám, titkárnőm van. Igaz, kicsit korábban kell kelnem, mert hamarabb is végzek. Az óvodába is odaérek minden nap ödre. Ritkán kel túlóráznom, de azt is jól megfizetik.
+```
+```
 Antal,  Jól hangzik!
         Jól hangzik!
         Jól hangzik!
         Jól hangzik!
         Jól hangzik!
+```
+```
 Tibor,  Ráadásul gyakran járok külföldre is. Legutóbb Londonba küldtek pár napra tárgyalni és egy szerződést aláírni. Jól esett, hogy ilyen hamar megbíztak bennem. Azt mondják, én folyékonyabban beszélek angolul, mint a tolmács. Azt hiszem, hamarosan vegyes vállalat leszünk. Az egyik legnagyobb brit gépipari vállalattal folytatunk tárgyalásokat. Akkor pedig még nagyobb lesz a felelősségem.
         Ráadásul gyakran járok külföldre is. Legutóbb Londonba küldtek pár napra tárgyalni és egy szerződést aláírni. Jól esett, hogy ilyen hamar megbíztak bennem. Azt mondják, én folyékonyabban beszélek angolul, mint a tolmács. Azt hiszem, hamarosan vegyes vállalat leszünk. Az egyik legnagyobb brit gépipari vállalattal folytatunk tárgyalásokat. Akkor pedig még nagyobb lesz a felelősségem.
         Ráadásul gyakran járok külföldre is. Legutóbb Londonba küldtek pár napra tárgyalni és egy szerződést aláírni. Jól esett, hogy ilyen hamar megbíztak bennem. Azt mondják, én folyékonyabban beszélek angolul, mint a tolmács. Azt hiszem, hamarosan vegyes vállalat leszünk. Az egyik legnagyobb brit gépipari vállalattal folytatunk tárgyalásokat. Akkor pedig még nagyobb lesz a felelősségem.
         Ráadásul gyakran járok külföldre is. Legutóbb Londonba küldtek pár napra tárgyalni és egy szerződést aláírni. Jól esett, hogy ilyen hamar megbíztak bennem. Azt mondják, én folyékonyabban beszélek angolul, mint a tolmács. Azt hiszem, hamarosan vegyes vállalat leszünk. Az egyik legnagyobb brit gépipari vállalattal folytatunk tárgyalásokat. Akkor pedig még nagyobb lesz a felelősségem.
         Ráadásul gyakran járok külföldre is. Legutóbb Londonba küldtek pár napra tárgyalni és egy szerződést aláírni. Jól esett, hogy ilyen hamar megbíztak bennem. Azt mondják, én folyékonyabban beszélek angolul, mint a tolmács. Azt hiszem, hamarosan vegyes vállalat leszünk. Az egyik legnagyobb brit gépipari vállalattal folytatunk tárgyalásokat. Akkor pedig még nagyobb lesz a felelősségem.
+```
+```
 Antal,  Jön a tizenhetes. Felszállsz erre a buszra?
         Jön a tizenhetes. Felszállsz erre a buszra?
         Jön a tizenhetes. Felszállsz erre a buszra?
         Jön a tizenhetes. Felszállsz erre a buszra?
         Jön a tizenhetes. Felszállsz erre a buszra?
+```
+```
 Tibor,  Fel, mert sietek. De majd a héten felhívlak.
         Fel, mert sietek. De majd a héten felhívlak.
         Fel, mert sietek. De majd a héten felhívlak.
         Fel, mert sietek. De majd a héten felhívlak.
         Fel, mert sietek. De majd a héten felhívlak.
+```
+```
 Antal,  További sok sikert!
         További sok sikert!
         További sok sikert!
         További sok sikert!
         További sok sikert!
+```
+```
 Tibor,  Kösz! Szevasz!
         Kösz! Szevasz!
         Kösz! Szevasz!
@@ -1870,55 +2066,206 @@ Robi,   Apa, mit írnak keresztmamáék?
         Apa, mit írnak keresztmamáék?
         Apa, mit írnak keresztmamáék?
         Apa, mit írnak keresztmamáék?
+```
+```
 Apa,    Meghívtak bennünket disznóölésre.
         Meghívtak bennünket disznóölésre.
         Meghívtak bennünket disznóölésre.
         Meghívtak bennünket disznóölésre.
         Meghívtak bennünket disznóölésre.
+```
+```
 Robi,   De jó lenne elmenni! Én még soha sem voltam disznótoron. Emlékszel, amikor húsvétkor náluk voltunk, milyen finom volt a kolbász! Most még több finomat ehetünk majd: hurkát, kocsonyát ... És mikor lesz náluk a disznóölés?
         De jó lenne elmenni! Én még soha sem voltam disznótoron. Emlékszel, amikor húsvétkor náluk voltunk, milyen finom volt a kolbász! Most még több finomat ehetünk majd: hurkát, kocsonyát ... És mikor lesz náluk a disznóölés?
         De jó lenne elmenni! Ém még soha sem voltam disznótoron. Emlékszel, amikor húsvétkor náluk voltunk, milyen finom volt a kolbász! Most még több finomat ehetünk majd: hurkát, kocsonyát ... És mikor lesz náluk a disznóölés?
         De jó lenne elmenni! Ém még soha sem voltam disznótoron. Emlékszel, amikor húsvétkor náluk voltunk, milyen finom volt a kolbász! Most még több finomat ehetünk majd: hurkát, kocsonyát ... És mikor lesz náluk a disznóölés?
         De jó lenne elmenni! Ém még soha sem voltam disznótoron. Emlékszel, amikor húsvétkor náluk voltunk, milyen finom volt a kolbász! Most még több finomat ehetünk majd: hurkát, kocsonyát ... És mikor lesz náluk a disznóölés?
+```
+```
 Apa,    Karácsonu előtt. Eltölhetnénk náluk néhány napot, sőt karácsonyra is ott maradhatunk. Télen még úgysem voltál falun!
         Karácsonu előtt. Eltölhetnénk náluk néhány napot, sőt karácsonyra is ott maradhatunk. Télen még úgysem voltál falun!
         Karácsonu előtt. Eltölhetnénk náluk néhány napot, sőt karácsonyra is ott maradhatunk. Télen még úgysem voltál falun!
         Karácsonu előtt. Eltölhetnénk náluk néhány napot, sőt karácsonyra is ott maradhatunk. Télen még úgysem voltál falun!
         Karácsonu előtt. Eltölhetnénk náluk néhány napot, sőt karácsonyra is ott maradhatunk. Télen még úgysem voltál falun!
+```
+```
 Robi,   Nem, de szilveszterre szeretnék hazajönni. Pali báscsiéknak nincs tévéjük, és én meg szeretném nézni a szilveszteri műsort, meg lesz néhány jó film ...
         Nem, de szilveszterre szeretnék hazajönni. Pali báscsiéknak nincs tévéjük, és én meg szeretném nézni a szilveszteri műsort, meg lesz néhány jó film ...
         Nem, de szilveszterre szeretnék hazajönni. Pali báscsiéknak nincs tévéjük, és én meg szeretném nézni a szilveszteri műsort, meg lesz néhány jó film ...
         Nem, de szilveszterre szeretnék hazajönni. Pali báscsiéknak nincs tévéjük, és én meg szeretném nézni a szilveszteri műsort, meg lesz néhány jó film ...
         Nem, de szilveszterre szeretnék hazajönni. Pali báscsiéknak nincs tévéjük, és én meg szeretném nézni a szilveszteri műsort, meg lesz néhány jó film ...
+```
+```
 Apa,    Jó, majd meglátjuk. Egyszer talán kibírod tv nélkül is.
         Jó, majd meglátjuk. Egyszer talán kibírod tv nélkül is.
         Jó, majd meglátjuk. Egyszer talán kibírod tv nélkül is.
         Jó, majd meglátjuk. Egyszer talán kibírod tv nélkül is.
         Jó, majd meglátjuk. Egyszer talán kibírod tv nélkül is.
+```
+```
 Anya,   Miklós, szerinted jó ötlet karácsonyra is lenn maradni? Húsvétkor is egy egész hetet náluk töltötünk. Jobb lett volna, ha csak egy-két napra mentünk volna. Az ember ott mást se csinál, csak eszik egész nap. Állandóan kínálnak, és nem lehet nekik nemet mondani. Vilma egész nap csak plety-kálna ... Sokkal fárasztóbb vendégségbe menni, mintha itthon maradnánk, és mindent nekem kellene egyedül csinálnom: főzni, takarítani, karácsonyfát díszíteni.
         Miklós, szerinted jó ötlet karácsonyra is lenn maradni? Húsvétkor is egy egész hetet náluk töltötünk. Jobb lett volna, ha csak egy-két napra mentünk volna. Az ember ott mást se csinál, csak eszik egész nap. Állandóan kínálnak, és nem lehet nekik nemet mondani. Vilma egész nap csak plety-kálna ... Sokkal fárasztóbb vendégségbe menni, mintha itthon maradnánk, és mindent nekem kellene egyedül csinálnom: főzni, takarítani, karácsonyfát díszíteni.
         Miklós, szerinted jó ötlet karácsonyra is lenn maradni? Húsvétkor is egy egész hetet náluk töltötünk. Jobb lett volna, ha csak egy-két napra mentünk volna. Az ember ott mást se csinál, csak eszik egész nap. Állandóan kínálnak, és nem lehet nekik nemet mondani. Vilma egész nap csak plety-kálna ... Sokkal fárasztóbb vendégségbe menni, mintha itthon maradnánk, és mindent nekem kellene egyedül csinálnom: főzni, takarítani, karácsonyfát díszíteni.
         Miklós, szerinted jó ötlet karácsonyra is lenn maradni? Húsvétkor is egy egész hetet náluk töltötünk. Jobb lett volna, ha csak egy-két napra mentünk volna. Az ember ott mást se csinál, csak eszik egész nap. Állandóan kínálnak, és nem lehet nekik nemet mondani. Vilma egész nap csak plety-kálna ... Sokkal fárasztóbb vendégségbe menni, mintha itthon maradnánk, és mindent nekem kellene egyedül csinálnom: főzni, takarítani, karácsonyfát díszíteni.
         Miklós, szerinted jó ötlet karácsonyra is lenn maradni? Húsvétkor is egy egész hetet náluk töltötünk. Jobb lett volna, ha csak egy-két napra mentünk volna. Az ember ott mást se csinál, csak eszik egész nap. Állandóan kínálnak, és nem lehet nekik nemet mondani. Vilma egész nap csak plety-kálna ... Sokkal fárasztóbb vendégségbe menni, mintha itthon maradnánk, és mindent nekem kellene egyedül csinálnom: főzni, takarítani, karácsonyfát díszíteni.
+```
+```
 Robi,   De anya, én mindig meg szoktalak kérdezni, hogy miben segíthetek. De te mindig azt mondod, hogy inkább egyedül csinálod.
         De anya, én mindig meg szoktalak kérdezni, hogy miben segíthetek. De te mindig azt mondod, hogy inkább egyedül csinálod.
         De anya, én mindig meg szoktalak kérdezni, hogy miben segíthetek. De te mindig azt mondod, hogy inkább egyedül csinálod.
         De anya, én mindig meg szoktalak kérdezni, hogy miben segíthetek. De te mindig azt mondod, hogy inkább egyedül csinálod.
         De anya, én mindig meg szoktalak kérdezni, hogy miben segíthetek. De te mindig azt mondod, hogy inkább egyedül csinálod.
+```
+```
 Apa,    Vilmáék már évek óta hívnak bennünket disznóölésre vagy karácsonyra. Tavalyelőtt azt mondtuk, hogy a nagy hó miatt leálltak a vonatok, tavaly a kocsink nem volt jó. Nem hinném, hogy idén is sikerülne valami jó kifogást találnunk ... Muszáj egyszer elfogadni a meghívásukat, különben megsértődnek. Vilma mégiscsak a nővérem!
         Vilmáék már évek óta hívnak bennünket disznóölésre vagy karácsonyra. Tavalyelőtt azt mondtuk, hogy a nagy hó miatt leálltak a vonatok, tavaly a kocsink nem volt jó. Nem hinném, hogy idén is sikerülne valami jó kifogást találnunk ... Muszáj egyszer elfogadni a meghívásukat, különben megsértődnek. Vilma mégiscsak a nővérem!
         Vilmáék már évek óta hívnak bennünket disznóölésre vagy karácsonyra. Tavalyelőtt azt mondtuk, hogy a nagy hó miatt leálltak a vonatok, tavaly a kocsink nem volt jó. Nem hinném, hogy idén is sikerülne valami jó kifogást találnunk ... Muszáj egyszer elfogadni a meghívásukat, különben megsértődnek. Vilma mégiscsak a nővérem!
         Vilmáék már évek óta hívnak bennünket disznóölésre vagy karácsonyra. Tavalyelőtt azt mondtuk, hogy a nagy hó miatt leálltak a vonatok, tavaly a kocsink nem volt jó. Nem hinném, hogy idén is sikerülne valami jó kifogást találnunk ... Muszáj egyszer elfogadni a meghívásukat, különben megsértődnek. Vilma mégiscsak a nővérem!
         Vilmáék már évek óta hívnak bennünket disznóölésre vagy karácsonyra. Tavalyelőtt azt mondtuk, hogy a nagy hó miatt leálltak a vonatok, tavaly a kocsink nem volt jó. Nem hinném, hogy idén is sikerülne valami jó kifogást találnunk ... Muszáj egyszer elfogadni a meghívásukat, különben megsértődnek. Vilma mégiscsak a nővérem!
+```
+```
 Anya,   Persze, hogy muszáj. De nem kell feltétlenül olyan sokáig lenn maradnunk. Mi lenne, ha csak disznóölésre mennénk? Karácsonyra pedig hazajövünk.
         Persze, hogy muszáj. De nem kell feltétlenül olyan sokáig lenn maradnunk. Mi lenne, ha csak disznóölésre mennénk? Karácsonyra pedig hazajövünk.
         Persze, hogy muszáj. De nem kell feltétlenül olyan sokáig lenn maradnunk. Mi lenne, ha csak disznóölésre mennénk? Karácsonyra pedig hazajövünk.
         Persze, hogy muszáj. De nem kell feltétlenül olyan sokáig lenn maradnunk. Mi lenne, ha csak disznóölésre mennénk? Karácsonyra pedig hazajövünk.
         Persze, hogy muszáj. De nem kell feltétlenül olyan sokáig lenn maradnunk. Mi lenne, ha csak disznóölésre mennénk? Karácsonyra pedig hazajövünk.
+```
+```
 Apa,    Na jó, nem bánom! Szevégny Vilma, nem lesz kivel pletykálnia az ünnepek alatt ...
         Na jó, nem bánom! Szevégny Vilma, nem lesz kivel pletykálnia az ünnepek alatt ...
         Na jó, nem bánom! Szevégny Vilma, nem lesz kivel pletykálnia az ünnepek alatt ...
         Na jó, nem bánom! Szevégny Vilma, nem lesz kivel pletykálnia az ünnepek alatt ...
         Na jó, nem bánom! Szevégny Vilma, nem lesz kivel pletykálnia az ünnepek alatt ...
+```
+
+# 21. Hová menjünk?
+```
+Teréz,  Jó lenne este valahova elmenni szórakozni. Hová menjünk?
+        Jó lenne este valahova elmenni szórakozni. Hová menjünk?
+        Jó lenne este valahova elmenni szórakozni. Hová menjünk?
+        Jó lenne este valahova elmenni szórakozni. Hová menjünk?
+        Jó lenne este valahova elmenni szórakozni. Hová menjünk?
+```
+```
+Tibor,  (Looking up from his newspaper) Nem tudom. Van valami ötleted?
+        (Looking up from his newspaper) Nem tudom. Van valami ötleted?
+        (Looking up from his newspaper) Nem tudom. Van valami ötleted?
+        (Looking up from his newspaper) Nem tudom. Van valami ötleted?
+        (Looking up from his newspaper) Nem tudom. Van valami ötleted?
+```
+```
+Teréz,  Régen voltunk táncolni. De el kellene mennem a patyolatba a piros ruhámért. Már elég késő van, nem hiszem, hogy a tisztító még nyitva van. Talán majd a jövő héten ... Tudod mit? Menjünk moziba! Van itthon egy Pesti Műsor? Tibi, hová tetted a Pesti Műsort? Nem találom.
+        Régen voltunk táncolni. De el kellene mennem a patyolatba a piros ruhámért. Már elég késő van, nem hiszem, hogy a tisztító még nyitva van. Talán majd a jövő héten ... Tudod mit? Menjünk moziba! Van itthon egy Pesti Műsor? Tibi, hová tetted a Pesti Műsort? Nem találom.
+        Régen voltunk táncolni. De el kellene mennem a patyolatba a piros ruhámért. Már elég késő van, nem hiszem, hogy a tisztító még nyitva van. Talán majd a jövő héten ... Tudod mit? Menjünk moziba! Van itthon egy Pesti Műsor? Tibi, hová tetted a Pesti Műsort? Nem találom.
+        Régen voltunk táncolni. De el kellene mennem a patyolatba a piros ruhámért. Már elég késő van, nem hiszem, hogy a tisztító még nyitva van. Talán majd a jövő héten ... Tudod mit? Menjünk moziba! Van itthon egy Pesti Műsor? Tibi, hová tetted a Pesti Műsort? Nem találom.
+        Régen voltunk táncolni. De el kellene mennem a patyolatba a piros ruhámért. Már elég késő van, nem hiszem, hogy a tisztító még nyitva van. Talán majd a jövő héten ... Tudod mit? Menjünk moziba! Van itthon egy Pesti Műsor? Tibi, hová tetted a Pesti Műsort? Nem találom.
+```
+```
+Tibor,  (Putting down his paper) Mit mondasz?
+        (Putting down his paper) Mit mondasz?
+        (Putting down his paper) Mit mondasz?
+        (Putting down his paper) Mit mondasz?
+        (Putting down his paper) Mit mondasz?
+```
+```
+Teréz,  Azt kérdeztem, hogy hová tetted a Pesti Műsort.
+        Azt kérdeztem, hogy hová tetted a Pesti Műsort.
+        Azt kérdeztem, hogy hová tetted a Pesti Műsort.
+        Azt kérdeztem, hogy hová tetted a Pesti Műsort.
+        Azt kérdeztem, hogy hová tetted a Pesti Műsort.
+```
+```
+Tibor,  Várj csak! Megkeresem. Azt hiszem, a tv mellé tettem. Megvan.
+        Várj csak! Megkeresem. Azt hiszem, a tv mellé tettem. Megvan.
+        Várj csak! Megkeresem. Azt hiszem, a tv mellé tettem. Megvan.
+        Várj csak! Megkeresem. Azt hiszem, a tv mellé tettem. Megvan.
+        Várj csak! Megkeresem. Azt hiszem, a tv mellé tettem. Megvan.
+```
+```
+Teréz,  Nézzük csak, mi a moziban! (Leafing through the entertainment guide) Már minden jó filmet láttunk. Azt mondják, a "Rémálom a Hotel Vadkacsában" nagyon izgalmas film. De az Ugocsában megy, az túl messze van. Különben sem rajongok a horrorfilmekért. Este nem tudok majd elaludni.
+        Nézzük csak, mi a moziban! (Leafing through the entertainment guide) Már minden jó filmet láttunk. Azt mondják, a "Rémálom a Hotel Vadkacsában" nagyon izgalmas film. De az Ugocsában megy, az túl messze van. Különben sem rajongok a horrorfilmekért. Este nem tudok majd elaludni.
+        Nézzük csak, mi a moziban! (Leafing through the entertainment guide) Már minden jó filmet láttunk. Azt mondják, a "Rémálom a Hotel Vadkacsában" nagyon izgalmas film. De az Ugocsában megy, az túl messze van. Különben sem rajongok a horrorfilmekért. Este nem tudok majd elaludni.
+        Nézzük csak, mi a moziban! (Leafing through the entertainment guide) Már minden jó filmet láttunk. Azt mondják, a "Rémálom a Hotel Vadkacsában" nagyon izgalmas film. De az Ugocsában megy, az túl messze van. Különben sem rajongok a horrorfilmekért. Este nem tudok majd elaludni.
+        Nézzük csak, mi a moziban! (Leafing through the entertainment guide) Már minden jó filmet láttunk. Azt mondják, a "Rémálom a Hotel Vadkacsában" nagyon izgalmas film. De az Ugocsában megy, az túl messze van. Különben sem rajongok a horrorfilmekért. Este nem tudok majd elaludni.
+```
+```
+Tibor,  Te, most jut eszembe. Feriék ma este szalonnasütést terveznek a kertjükben. Ne menjünk el hozzájuk?
+        Te, most jut eszembe. Feriék ma este szalonnasütést terveznek a kertjükben. Ne menjünk el hozzájuk?
+        Te, most jut eszembe. Feriék ma este szalonnasütést terveznek a kertjükben. Ne menjünk el hozzájuk?
+        Te, most jut eszembe. Feriék ma este szalonnasütést terveznek a kertjükben. Ne menjünk el hozzájuk?
+```
+```
+Teréz,  Nem rossz ötlet. De így egy kicsit kínos, hiszen nem is hívtak meg bennünket ...
+        Nem rossz ötlet. De így egy kicsit kínos, hiszen nem is hívtak meg bennünket ...
+        Nem rossz ötlet. De így egy kicsit kínos, hiszen nem is hívtak meg bennünket ...
+        Nem rossz ötlet. De így egy kicsit kínos, hiszen nem is hívtak meg bennünket ...
+        Nem rossz ötlet. De így egy kicsit kínos, hiszen nem is hívtak meg bennünket ...
+```
+```
+Tibor,  Ne aggódj! Feri jó barátom. Különben is úgy emlékszem, hogy meghívott, de elfelejtettem neked megmondani.
+        Ne aggódj! Feri jó barátom. Különben is úgy emlékszem, hogy meghívott, de elfelejtettem neked megmondani.
+        Ne aggódj! Feri jó barátom. Különben is úgy emlékszem, hogy meghívott, de elfelejtettem neked megmondani.
+        Ne aggódj! Feri jó barátom. Különben is úgy emlékszem, hogy meghívott, de elfelejtettem neked megmondani.
+        Ne aggódj! Feri jó barátom. Különben is úgy emlékszem, hogy meghívott, de elfelejtettem neked megmondani.
+```
+```
+Teréz,  Egyre szórakozottabb vagy, Tibi! Mi lesz veled öregkorodban? És még kik jönnek a szalonnasütésre?
+        Egyre szórakozottabb vagy, Tibi! Mi lesz veled öregkorodban? És még kik jönnek a szalonnasütésre?
+        Egyre szórakozottabb vagy, Tibi! Mi lesz veled öregkorodban? És még kik jönnek a szalonnasütésre?
+        Egyre szórakozottabb vagy, Tibi! Mi lesz veled öregkorodban? És még kik jönnek a szalonnasütésre?
+        Egyre szórakozottabb vagy, Tibi! Mi lesz veled öregkorodban? És még kik jönnek a szalonnasütésre?
+```
+```
+Tibor,  Icáék, Péterék, Gabiék. A többieket nem ismerem.
+        Icáék, Péterék, Gabiék. A többieket nem ismerem.
+        Icáék, Péterék, Gabiék. A többieket nem ismerem.
+        Icáék, Péterék, Gabiék. A többieket nem ismerem.
+        Icáék, Péterék, Gabiék. A többieket nem ismerem.
+```
+```
+Teréz,  Az jó! Icát nagyon megkedveltem. Szimpatikus.
+        Az jó! Icát nagyon megkedveltem. Szimpatikus.
+        Az jó! Icát nagyon megkedveltem. Szimpatikus.
+        Az jó! Icát nagyon megkedveltem. Szimpatikus.
+        Az jó! Icát nagyon megkedveltem. Szimpatikus.
+```
+```
+Tibor,  Akkor felhívjam Ferit, hogy megyünk?
+        Akkor felhívjam Ferit, hogy megyünk?
+        Akkor felhívjam Ferit, hogy megyünk?
+        Akkor felhívjam Ferit, hogy megyünk?
+        Akkor felhívjam Ferit, hogy megyünk?
+```
+```
+Teréz,  Jó, hívd fel. De mit vegyek fel?
+        Jó, hívd fel. De mit vegyek fel?
+        Jó, hívd fel. De mit vegyek fel?
+        Jó, hívd fel. De mit vegyek fel?
+        Jó, hívd fel. De mit vegyek fel?
+```
+```
+Tibor,  Mindegy, csak ne a lila kockás szoknyádat. Jobb ha nadrágban jössz. Az új blúzod nagyon jól áll.
+        Mindegy, csak ne a lila kockás szoknyádat. Jobb ha nadrágban jössz. Az új blúzod nagyon jól áll.
+        Mindegy, csak ne a lila kockás szoknyádat. Jobb ha nadrágban jössz. Az új blúzod nagyon jól áll.
+        Mindegy, csak ne a lila kockás szoknyádat. Jobb ha nadrágban jössz. Az új blúzod nagyon jól áll.
+        Mindegy, csak ne a lila kockás szoknyádat. Jobb ha nadrágban jössz. Az új blúzod nagyon jól áll.
+```
+```
+Teréz,  Még nem mostam ki. (To herself while choosing a blouse) Nem baj, jó lesz ez is.
+        Még nem mostam ki. (To herself while choosing a blouse) Nem baj, jó lesz ez is.
+        Még nem mostam ki. (To herself while choosing a blouse) Nem baj, jó lesz ez is.
+        Még nem mostam ki. (To herself while choosing a blouse) Nem baj, jó lesz ez is.
+        Még nem mostam ki. (To herself while choosing a blouse) Nem baj, jó lesz ez is.
+```
+```
+(After Tibor has phone and Teréz has got dressed)
+```
+```
+Tibor,  Gyerem siessünk! Már mindenki ott van!
+        Gyerem siessünk! Már mindenki ott van!
+        Gyerem siessünk! Már mindenki ott van!
+        Gyerem siessünk! Már mindenki ott van!
+        Gyerem siessünk! Már mindenki ott van!
+
 ```
 """  # noqa: E501
