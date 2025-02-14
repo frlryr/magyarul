@@ -86,7 +86,8 @@
     d. [vp] a főnök
     e. [vp] az új tanárnő csinos
 
-    NOTE: I'm pretty sure I got this right, but decided to write down instead of referencing?
+    NOTE: I'm pretty sure I got this right, but decided to write down
+        of referencing?
 ```
 ```
 2.
@@ -103,7 +104,7 @@
 ```
 1.
     a. [vp] True    -> Igen.
-    b. [vp] False   -> Nem. 
+    b. [vp] False   -> Nem.
     c. [x ] True    -> Nem.
     d. [vp] True    -> Igen.
     e. [vp] False   -> Nem.
@@ -150,11 +151,11 @@
 ```
 ```
 2.
-    a. [x] 
-    b. [x] 
-    c. [x] 
-    d. [x] 
-    e. [x] 
+    a. [x]
+    b. [x]
+    c. [x]
+    d. [x]
+    e. [x]
 ```
 
 # 10. Hétkor ott leszek

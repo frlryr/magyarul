@@ -94,7 +94,7 @@
 ```
 ```
 05.
-    a. [x ] 
+    a. [x ]
     b. [x ] Nem jól tudok magyarul
     c. [x ] Brit vagyok
     d. [vp] Csak egy kicsit tudok magyarul
@@ -181,7 +181,7 @@
     b. [v ] Attila franciául is tud.
     c. [x ] Éva beszél angolul is. -> Éva is beszél angolul
     d. [v ] Sört is kérek.
-    e. [x ] Te kérsz üdítőt is? -> Te is kérsz üdítőt 
+    e. [x ] Te kérsz üdítőt is? -> Te is kérsz üdítőt
     f. [v ] Palacsintát is kér?
 ```
 ```
@@ -214,7 +214,7 @@
     b. [v ] Ezer
     c. [v ] Ezerötszázhuszonhat
     d. [v ] Ezernyolcszázhuszonöt
-    e. [vp] Ezernyolcszáznegyvennyolcs - Ezernyolcszáznegyvennyolc 
+    e. [vp] Ezernyolcszáznegyvennyolcs - Ezernyolcszáznegyvennyolc
     f. [v ] Ezerkilencszázötvenhat
 ```
 ```
@@ -250,7 +250,7 @@
        [vp] Tessék, kilencszázhetven forintot kérek.
     e. [vp] Két kiló körtet és fél kiló barackat, legyen szíves.
        [vp] Tessék, kilencszázhetven forintot kérek.
-  
+
     NOTE: I think I got confused with order and mixed up things.
 ```
 ```
@@ -262,7 +262,8 @@
     c. [v ] Hány forint egy euró?
        [vp] Kétszázharminckilenc forint kilencvenkilenc fillér euró.
     d. [v ] Hány forint egy amerikai dollár?
-       [vp] Egyszázhuszonkét forint huszonhat fillér amerikai dollár. -> Egyszázhuszonkét
+       [vp] Egyszázhuszonkét forint huszonhat fillér amerikai dollár.
+        -> Egyszázhuszonkét
 ```
 ```
 05.
@@ -400,7 +401,8 @@
        [vp] Tanárnő - Szerinted milyen város Szeged?
        [vp] Attila  -
 
-    NOTE: I'm pretty sure I got this right, but the answers are as cryptic as the questions.
+    NOTE: I'm pretty sure I got this right, but the answers are as cryptic as the
+        questions.
 ```
 ```
 02.
@@ -411,7 +413,8 @@
     [vp] Délután Tibor megy a király fürdőbe.
     [vp] Este Tibor megy moziba.
 
-    NOTE: I'm pretty sure I got this right, but the answers are as cryptic as the questions.
+    NOTE: I'm pretty sure I got this right, but the answers are as cryptic as the
+        questions.
 ```
 ```
 03.
@@ -463,7 +466,7 @@
     d. [v ] iii
     e. [x ] iii -> i or ii
     f. [v ] ii
-    
+
     NOTE:
         i   - kis
         ii  - kicsi
@@ -472,7 +475,7 @@
 ```
 03.
     a. [x ] ismerem sem -> sem ismeren
-    b. [vp] bort sem 
+    b. [vp] bort sem
     c. [x ] Zsolt sem -> sem tud
     d. [vp] egri bikavért sem
     e. [vp] Mi sem
@@ -537,7 +540,7 @@
     a. [vp] Aquiraz
     b. [vp] Nem
     c. [vp] Hásban
-    d. [x ] 
+    d. [x ]
     e. [vp] Nem
     f. [vp] Nem
     g. [vp] Igen
@@ -607,7 +610,7 @@
     e. [x ] Nem tudom.
 ```
 ```
-07. 
+07.
     *. [vp] Peti akarni nyugati autót.
 ```
 ```
@@ -677,12 +680,12 @@
 ```
 ```
 06.
-    a. [x ] 
-    b. [x ] 
-    c. [x ] 
-    d. [x ] 
-    e. [x ] 
-    f. [x ] 
+    a. [x ]
+    b. [x ]
+    c. [x ]
+    d. [x ]
+    e. [x ]
+    f. [x ]
 ```
 ```
 07.
@@ -695,7 +698,7 @@
 ```
 ```
 08.
-    a. [vp] Negy van. 
+    a. [vp] Negy van.
     b. [vp] Nem. Én melegen szeretem.
     c. [vp] Kint jó van.
     d. [vp] Harminc fok lesz.
