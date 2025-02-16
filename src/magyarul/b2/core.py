@@ -104,9 +104,81 @@ NOTE:
         the former.
 
 ## Division of the sounds and words
-## Assimilation of sounds and articulations
+* To facilitate Etymological formations, Grammarians have assumed the division of vowels
+    into hard and soft ones:
+    * hard sound being: a, á, o, ó, u, ú
+    * soft sound being: e, é, i¹, ö, ő, ü, ű
+* If a word has both vowel classes, hard vowels dominate, making it a hard word;
+    otherwise, its a soft word.
+* While í is between hard and soft, a word is soft if í predominates or is the only
+    vowel.
+
+NOTE:
+    ¹ The long i may be considered as a medium sound between hard and soft.
+
+## Assimilation of sounds and articulation
+* Hungarian affixes adapt to the root word through vowel harmony (matching vowels: a/e,
+    o/ö, u/ü) and consonant assimilation (adjusting consonants for smoother
+    pronunciation).
+* The corresponding vowel pairs are a/e, o/ö, u/ü—so knowing one affix reveals the
+    other. For instance: In várunk (we wait), the root vár takes -unk as the affix. A
+    soft-vowel root like ül (to sit) takes -ünk, forming ülünk (we sit). Similarly,
+    házam (my house) uses -am, while the soft-vowel szék (chair) takes -em, forming
+    székem (my chair).
+* Consonants in verb conjugation assimilate to the root, just as vowels in affixes do:
+    * j → sz if the root ends in sz: másszon (he may creep) instead of mássjon.
+    * j → z if the root ends in z: hozzon (he may bring) instead of hozjon.
+    * j → s in three cases:
+        1. If the root ends in s: ásson (he may dig) instead of ásjon.
+        2. If the root ends in t after a long vowel or consonant: tanítson (he may
+            teach) instead of tanítjon.
+        3. If the root ends in t after a short vowel, t → s: fusson (he may run) from
+            futjon.
+    This keeps pronunciation smoother and more natural.
+* Demonstrative pronouns (ez = this, az = that) assimilate their z to the following
+    affix’s consonant:
+    * az-ról → arról (off that)
+    * ez-ből → ebből (out of this)
+    * ez-képen → ekképen (thus)
+* Similarly, the affixes -val/-vel (with)¹ and -vá/-vé (into) assimilate their v to the
+    final consonant of the root:
+    * kéz-vel → kézzel (with the hand)
+    * az-vá → azzá (into that)
+    * fegyver-vel → fegyverrel (with arms)
+
+NOTE:
+    ¹ Both avval/evvel and azzal/ezzel (with that/this) are correct, but the latter is
+        preferred.
+
 ## Pronlogation of the vowels
+* The short final vowels a and e are usually prolonged when a word takes any affix:
+    * ruha (dress) → ruhám (my dress), ruhát (dress - objective case), ruhával (with a
+        dress).
+* This prolongation applies across all grammatical forms.
+* If an affix ending in a or e takes another affix, the vowel is further accentuated:
+    * ruhája (his dress) → ruhájával (with his dress).
+* No prolongation occurs before the affixes -i, -ság, -kor, -kép, -ként:
+    * atyai (fatherly), gyávaság (cowardice).
+* Before the affixes -é, -ig, -ért, -úl, the prolongation is optional:
+    * hazáért / hazaért (for the fatherland), atyául / atyaúl (like a father).
+* Some words undergo root vowel lengthening in their formation, which is an etymological
+    process:
+    * szőni (to weave) from szövni, lőni (to shoot) from lövni.
+
 ## Contractions
+* Contractions in Hungarian occur when words take affixes, usually by abbreviating the
+    final syllable. This is done by:
+    * Shortening the long vowel of the final syllable.
+    * Dropping the short consonant of the final syllable.
+    However, contractions don’t happen if the final syllable ends with a double
+    consonant, or if the final consonants of the last and penultimate syllables are
+    similar but not easily articulated together. Consonants like l, m, n, r, cs, cz, sz,
+    z combine easily, especially with palatals and dentals:
+    dolog-ot → dolgot (the thing)
+    * járom-at → jármat (the yoke)
+    * tükör-öt → tükröt (the mirror)
+    * hajol-om → hajlom (I stoop)
+
 # Compositions
 # Theory of the Language
 """
