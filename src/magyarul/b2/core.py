@@ -753,9 +753,40 @@ NOTE:
 | Franciaország történelme.                                         | The history of France.                                                              |
 | A középkor háborúi.                                               | The wars of the Middle Ages.                                                        |
 
-
-
-
 #### 2. Whose is...? It is that of. Is that - of? etc.
+- The question "Whose is...?" is expressed with the affix -é → "Kié?":
+    - A kalmáré. → "It is that of the merchant."
+    - A szomszédunké ez a ház? → "Is this house that of our neighbor?"
+- For clarity, an extra -e may be added:
+    - A szomszédunkée ez a ház? → "Is this house that of our neighbor?"
+- The -é affix is also used with possessive forms:
+    - Az atyámé. → "That of my father."
+- The definite article a/az must always be used before these forms.
+NOTE:
+- The copula "is" / "are" is often omitted in Hungarian.
+- Sentences like "Is this house our father’s?" are better phrased as "Is this the house of our father?"
+
+### Declension of Possessive Interrogative ("Kié?") and Possessive Nouns
+
+| Case           | Singular                                | Plural                                     |
+|----------------|-----------------------------------------|--------------------------------------------|
+| **Nominative** | Kié? (Whose?)                           | Kiéi? (Whose [plural]?)                    |
+| **Objective**  | Kiét? (Whose [object]?)                 | Kiéit? (Whose [objects]?)                  |
+| **Nominative** | Az atyámé (That of my father)           | Az atyáméi (Those of my father)            |
+| **Objective**  | Az atyámét (That of my father [object]) | Az atyáméit (Those of my father [objects]) |
+
+| **Hungarian**       | **English**                |
+|---------------------|----------------------------|
+| Az atyám háza.      | My father’s house.         |
+| Ez a ház az atyámé. | This house is my father’s. |
+| Kié ez a könyv?     | Whose book is this?        |
+| A barátomé.         | It is my friend’s.         |
+| Kié ez a kert?      | Whose garden is this?      |
+| A nagybátyámé.      | It is my uncle’s.          |
+| Kié ez a kocsi?     | Whose car is this?         |
+| Az anyámé.          | It is my mother’s.         |
+| Kié ez a ruha?      | Whose dress is this?       |
+| Az enyém.           | It is mine.                |
+
 # Theory of the Language
 """  # noqa: E501
