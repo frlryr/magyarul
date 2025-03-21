@@ -539,7 +539,109 @@ English).
 | Szeretnék írni.                          | I should like to write.                    |
 | Szerettem volna olvasni.                 | I should have liked to read.               |
 
-### E. The Verb "to be". Vagyok, I am.
+### E. The Verb "to be": Vagyok (I am)
+#### Present
+- The third-person singular ("van") is often omitted when serving as a Copula:
+  - A virág szép (the flower is beautiful). Instead of A virág van szép.
+- The same applies in plural:
+  - A rózsák szép virágok (the roses are beautiful flowers).
+    Instead of A rózsák vannak szép virágok.
+- The verb "to be" follows the Adjective or Substantive used as the predicate:
+  - Én ember vagyok (I am a man).
+  - Te szorgalmas vagy (Thou art diligent).
+- The Subject, Predicate, and Copula must agree in Number.
 
+| **Modern Hungarian** | **Archaic Hungarian** | **English**  |
+|----------------------|-----------------------|--------------|
+| vagyok               | —                     | I am         |
+| vagy                 | —                     | Thou art     |
+| van                  | vagyon                | He/She/It is |
+| vagyunk              | —                     | We are       |
+| vagytok              | —                     | You are      |
+| vannak               | vagynak               | They are     |
+
+#### Past Tense
+- "Volt" is the common past form, but "vala" and its variants are archaic.
+- Plural agreement remains necessary:
+    - A fiú szorgalmatos volt. → The boy was diligent.
+    - A fiúk szorgalmatosak voltak. → The boys were diligent.
+    - Mi szorgalmatosak voltunk. → We were diligent.
+- Used with nouns and adjectives as predicates:
+    - A csata véres volt. → The battle was bloody.
+    - A tábor nagy volt. → The camp was large.
+    - A munka véghetetlen volt. → The work was endless.
+
+| **Modern Hungarian** | **Archaic Hungarian** | **English**               |
+|----------------------|-----------------------|---------------------------|
+| voltam               | valék                 | I was / have been         |
+| voltál               | valál                 | Thou wast / hast been     |
+| volt                 | vala                  | He/She/It was / has been  |
+| voltunk              | valánk                | We were / have been       |
+| voltatok             | valátok               | You were / have been      |
+| voltak               | valának               | They were / have been     |
+
+#### Conditional
+
+| **Modern Hungarian** | **Archaic Hungarian** | **English**                    |
+|----------------------|-----------------------|--------------------------------|
+| volnék              | —                      | I should be / If I were        |
+| volnál              | —                      | Thou wouldst be / If thou were |
+| volna               | —                      | He/She/It would be             |
+| volnánk             | —                      | We should be                   |
+| volnátok            | —                      | You would be                   |
+| volnának            | —                      | They would be                  |
+
+## Possessive forms of the Substantive
+### A. The Object possessed is but one
+- The j in ja/je (his/her/its) and juk/jük (their) drops after cs, cz, s, sz, z, v, ny, ly, ty, gy.
+- The vowel in the possessive suffix follows the vowel harmony of the plural form:
+  - **asztal** (table) → **asztalok** (tables) → **asztalom** (my table).
+  - **madár** (bird) → **madarak** (birds) → **madaram** (my bird).
+- Possessed nouns take -t in the accusative, with a/e added when needed.
+- Find the root by forming the plural nominative, dropping -k, then adding the suffix:
+    - szomszéd (neighbor) → szomszédok (neighbors) → szomszédom (my neighbor).
+
+| **Hungarian** | **English**   |
+|---------------|---------------|
+| ruhám         | my dress      |
+| ruhád         | thy dress     |
+| ruhája        | his/her dress |
+| ruhánk        | our dress     |
+| ruhátok       | your dress    |
+| ruhájuk       | their dress   |
+
+| **Hungarian** | **English**   |
+|---------------|---------------|
+| mezőm         | my field      |
+| meződ         | thy field     |
+| mezeje        | his/her field |
+| mezőnk        | our field     |
+| mezőtök       | your field    |
+| mezejök       | their field   |
+
+| **Hungarian**                    | **English**                 |
+|----------------------------------|-----------------------------|
+| A könyvem jó.                    | My book is good.            |
+| Az atyád vár.                    | Thy father waits.           |
+| Anyánk ír.                       | Our mother writes.          |
+| Barátotok hűtelen.               | Your friend is unfaithful.  |
+| A bátyám katona.                 | My brother is a soldier.    |
+| A hadseregünk vitéz.             | Our army is brave.          |
+| Táborunk nagy.                   | Our camp is large.          |
+| A királyunk szereti az országot. | Our king loves the country. |
+| A királyotok gyűlöli a népet.    | Your king hates the people. |
+
+| **Hungarian**                     | **English**                      |
+|-----------------------------------|----------------------------------|
+| Az anyámat látom.                 | I see my mother.                 |
+| Az atyámat keresem.               | I am looking for my father.      |
+| A barátodat láttam.               | I saw thy friend.                |
+| Ő a bátyámat szereti.             | He loves my brother.             |
+| A tanulók szeretik a tanítójukat. | The students love their teacher. |
+
+NOTE:
+    ¹ Monosyllabic and disyllabic words alter ő → e in possessive forms (e.g., nő → neje, erdeje), but longer words do not (levegő → levegője)
+
+### B.
 # Theory of the Language
 """  # noqa: E501
