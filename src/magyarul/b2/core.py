@@ -642,6 +642,120 @@ English).
 NOTE:
     ¹ Monosyllabic and disyllabic words alter ő → e in possessive forms (e.g., nő → neje, erdeje), but longer words do not (levegő → levegője)
 
-### B.
+### B. The Objects possessed are more tha one
+- The plural marker "-i-" precedes the possessive suffixes m, d, nk, tok, k.
+    - ruha (dress) → ruhák (dresses) → ruháim (my dresses).
+- Special case: Words Ending in a Consonant
+    - If a noun ends in a consonant, add -ja/-je before plural possessive suffixes:
+        - barát-ja-im → my friends
+        - barát-ja-id → your friends
+        - barát-ja-i → his/her friends
+     - An alternative form adds plural suffixes directly to the noun:
+        - barát-im → my friends
+        - barát-id → your friends
+- Special case: Words Ending in -ő
+    - For nouns ending in -ő, the long vowel may shorten to e in the third-person singular:
+        - mező → mező-im (my fields)
+        - mező → meze-im (my fields)
+    - Both forms are correct, but meze-im is more common in everyday use.
+
+| **Hungarian** | **English**     |
+|---------------|-----------------|
+| ruháim        | my dresses      |
+| ruháid        | thy dresses     |
+| ruhái         | his/her dresses |
+| ruháink       | our dresses     |
+| ruháitok      | your dresses    |
+| ruháik        | their dresses   |
+
+| **Hungarian** | **English**    |
+|---------------|----------------|
+| mezőim        | my fields      |
+| mezőid        | thy fields     |
+| mezői         | his/her fields |
+| mezőink       | our fields     |
+| mezőitek      | your fields    |
+| mezőik        | their fields   |
+
+| **Hungarian**                        | **English**                      |
+|--------------------------------------|----------------------------------|
+| Szeressed a felebarátodat.           | Love your neighbor.              |
+| Szeressétek ellenségeiteket is.      | Love your enemies too.           |
+| Barátim voltak.                      | They were my friends.            |
+| Ellenségeink gyűlölnek.              | Our enemies hate us.             |
+| A katonáink megverték az ellenséget. | Our soldiers defeated the enemy. |
+| A tábornok szereti a katonáit.       | The general loves his soldiers.  |
+| Könyveim elvesztek.                  | My books are lost.               |
+| Leveleidet olvastam.                 | I read your letters.             |
+
+| **Hungarian**                                        | **English**                                                     |
+|------------------------------------------------------|-----------------------------------------------------------------|
+| Katonáink tisztelik a vezérüket.                     | Our soldiers honor their leader.                                |
+| A királyotok fizeti a katonáit.                      | Your king pays his soldiers.                                    |
+| Ők valóban megfizetik adósságaikat.                  | They do pay their debts.                                        |
+| Lelkünk halhatatlan, de testünk halandó.             | Our soul is immortal, but our body is mortal.                   |
+| Gyermekeitek tétlenek, de a lánya szorgalmas.        | Your children (are) idle, but his daughter (is) diligent.       |
+| Barátaim szorgalmasak.                               | My friends (are) industrious.                                   |
+| Ellenségeitek hatalmasak.                            | Your enemies (are) powerful.                                    |
+| Ruhám drága.                                         | My dress is expensive.                                          |
+| Az ideje értékes.                                    | His time is valuable.                                           |
+| Megtaláltuk a könyvedet.                             | We found your book.                                             |
+| Károly megtalálta a tollát.                          | Charles found his pen.                                          |
+| Albert elolvasta a leckéjét.                         | Albert read his lesson.                                         |
+| A tanár látta a fordításunkat.                       | The teacher has seen our translation.                           |
+| Apánk megdicsérte a bátyádat; megtanulta a leckéjét. | Our father has praised your brother; he has learned his lesson. |
+
+### C. The Possessive Case: Genitive.
+
+#### 1.
+- Hungarian expresses the possessive case using possessive affixes.
+- Possession always involves two notions:
+    - The subject (possessor).
+    - The object (possessed), which takes third-person possessive suffixes.
+- The possessor takes -nak / -nek, often omitted and replaced by an apostrophe unless needed for clarity.
+    - Az atya háza → The father’s house
+    - A tanulók tollaik (or explicitly a tanulók-nak tollaik) → The scholar’s books
+    - A katonák-nak bátorságuk → The soldiers’ courage
+- This possessive form acts as a new nominal root, forming cases regularly:
+    - A szomszédunk házának a fedele → The roof of our neighbor’s house
+    - A bátyád könyvét láttam → I have seen thy brother’s book
+
+| **Hungarian**                                                     | **English**                                                                         |
+|-------------------------------------------------------------------|-------------------------------------------------------------------------------------|
+| Az embereknek életük rövid.                                       | The life of people is short.                                                        |
+| Az emberek szerencséjük változó.                                  | The fortune of people is changeable.                                                |
+| A szomszédunknak háza szép.                                       | Our neighbor's house is beautiful.                                                  |
+| A szüleink végtelen szerelmük.                                    | Our parents' love is infinite.                                                      |
+| Barátjaink hűsége vigasztaló.                                     | The loyalty of our friends is comforting.                                           |
+| A léleknek tehetségei felülmúlják a testnek erejét.               | The abilities of the soul surpass the strength of the body.                         |
+| Az ember cselekedetének forrása a szív.                           | The source of a man's actions is the heart.                                         |
+| A világnak öt részei.                                             | The world has five parts.                                                           |
+| Columbus felfedezte a világnak egy részét.                        | Columbus discovered one part of the world.                                          |
+| Amerikának termékenysége.                                         | The fertility of America.                                                           |
+| Ázsiának terményei.                                               | The products of Asia.                                                               |
+| A népeknek termesztményei.                                        | The cultivated products of the nations.                                             |
+| Anglia kiviszi termékeit.                                         | England exports its products.                                                       |
+| Az angolok eladják termékeiket.                                   | The Englishmen sell their productions.                                              |
+| Apám megkapta anyám levelét.                                      | My father received my mother’s letter.                                              |
+| Megírtad a leveledet.                                             | You have written your letter.                                                       |
+| Meg fogom írni a leveleimet.                                      | I shall write my letters.                                                           |
+| Az állatok ösztöne.                                               | The instinct of the animals.                                                        |
+| Az emberek értelme.                                               | The reason of men.                                                                  |
+| Az emberiség sorsa.                                               | The destiny of humankind.                                                           |
+| A népek sorsa.                                                    | The fate of the people.                                                             |
+| Isten bölcsessége és jósága.                                      | The wisdom and goodness of God.                                                     |
+| A királyok hatalma.                                               | The power of kings.                                                                 |
+| A nemzetek vágyai.                                                | The desires of nations.                                                             |
+| A népek közlekedése gazdagítja az elméjüket és növeli vagyonukat. | The commerce of nations enriches the mind of the people and increases their wealth. |
+| Amerika kereskedelme kiterjedt.                                   | The commerce of America is extensive.                                               |
+| A nyomdászat feltalálása.                                         | The invention of typography.                                                        |
+| Watt találmányai.                                                 | The inventions of Watt.                                                             |
+| Franciaország történelme.                                         | The history of France.                                                              |
+| A középkor háborúi.                                               | The wars of the Middle Ages.                                                        |
+
+
+
+
+#### 2. Whose is...? It is that of. Is that - of? etc.
 # Theory of the Language
 """  # noqa: E501
