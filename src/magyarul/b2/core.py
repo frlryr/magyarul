@@ -766,7 +766,7 @@ NOTE:
 - The copula "is" / "are" is often omitted in Hungarian.
 - Sentences like "Is this house our father’s?" are better phrased as "Is this the house of our father?"
 
-### Declension of Possessive Interrogative ("Kié?") and Possessive Nouns
+##### Declension of Possessive Interrogative ("Kié?") and Possessive Nouns
 
 | Case           | Singular                                | Plural                                     |
 |----------------|-----------------------------------------|--------------------------------------------|
@@ -787,6 +787,77 @@ NOTE:
 | Az anyámé.          | It is my mother’s.         |
 | Kié ez a ruha?      | Whose dress is this?       |
 | Az enyém.           | It is mine.                |
+
+#### 3. Mine, Thine, etc., of mine, of ours, etc., it belongs to me, etc.
+- Possessive pronouns show possession without repeating the noun, using suffixes on personal pronouns.
+
+| Hungarian (Singular) | English        | Hungarian (Plural) | English        |
+|----------------------|----------------|--------------------|----------------|
+| enyém                | mine           | enyéim / enyím     | mine           |
+| tiéd                 | thine/yours    | tiéid              | thine/yours    |
+| övé                  | his, hers, its | övéi               | his, hers, its |
+| miénk                | ours           | miéink             | ours           |
+| tiétek               | yours (plural) | tiéitek            | yours (plural) |
+| övék                 | theirs         | övéik              | theirs         |
+
+- The objective case adds -t, like possessive nouns.
+
+| Hungarian (Singular) | English                 | Hungarian (Plural)  | English                  |
+|----------------------|-------------------------|---------------------|--------------------------|
+| enyémet              | mine (object)           | enyéimet / enyímeit | mine (objects)           |
+| tiédet               | thine/yours (object)    | tiéidet             | thine/yours (objects)    |
+| övét                 | his, hers, its (object) | övéit               | his, hers, its (objects) |
+| miénket              | ours (object)           | miéinket            | ours (objects)           |
+| tiéteket             | yours (object)          | tiéiteket           | yours (objects)          |
+| övéiket              | theirs (object)         | övéiket             | theirs (objects)         |
+
+- The verbs "is" and "are" are often implied and omitted:
+    - Ez a könyv az enyém → This book is mine
+    - Az a toll a tiéd → That pen is yours
+    - Ez a ház a miénk → This house is ours
+
+- Possessive Pronouns Declension Quick-ref
+
+| **Case**       | **Singular**            | **Plural**                |
+|----------------|-------------------------|---------------------------|
+| **Nominative** | Kié? → Whose?           | Kiéi? → Whose [plural]?   |
+| **Objective**  | Kiét? → Whose [object]? | Kiéit? → Whose [objects]? |
+
+| **Case**       | **Singular**               | **Plural**                   |
+|----------------|----------------------------|------------------------------|
+| **Nominative** | Az enyém → Mine            | Az enyéim → Mine [plural]    |
+| **Objective**  | Az enyémet → Mine [object] | Az enyéimet → Mine [objects] |
+
+| **Hungarian**                                     | **English**                                                      |
+|---------------------------------------------------|------------------------------------------------------------------|
+| Ez a könyv az enyém.                              | This book is mine.                                               |
+| Az a toll a tiéd.                                 | That pen is yours.                                               |
+| Kié ez az írás? A miénk.                          | Whose writing is this? It is ours.                               |
+| Kié ez a ló? A tiéd.                              | Whose horse is this? It is yours.                                |
+| Kié ez a tollkés? Az övé.                         | To whom does this penknife belong? It is his/hers.               |
+| A tiétek ez a ház?                                | Does this house belong to you?                                   |
+| Nem, a szomszédunké.                              | No, it belongs to our neighbor.                                  |
+| Kiéi azok a rétek? A miéink, de az erdő a tiétek. | Whose are those meadows? They are ours, but the forest is yours. |
+
+| **Hungarian**                                              | **English**                                            |
+|------------------------------------------------------------|--------------------------------------------------------|
+| Az enyémet eladtam.                                        | I have sold mine.                                      |
+| Az a könyv a tiéd?                                         | Is that book yours?                                    |
+| Ez a toll a miénk, de azok az írások a tiétek.             | This pen is ours, but those writings are yours.        |
+| Kié az a kert? A miénk.                                    | Whose garden is that? It is ours.                      |
+| Ezek a házak a tiétek, azok a nagybátyátokéi.              | These houses are yours, those are your uncle’s.        |
+| Láttad a kertjeinket? A tieiket láttuk, de a tiéteket nem. | Did you see our gardens? We saw theirs, but not yours. |
+
+| **Hungarian**                                    | **English**                                                            |
+|--------------------------------------------------|------------------------------------------------------------------------|
+| Kié ez a tintatartó? Az enyém.                   | Whose inkstand is this? Mine.                                          |
+| Kié az a füzet? A tiéd.                          | Whose copybook is that? Yours.                                         |
+| Kié ez a sétabot? Az övé.                        | Whose walking cane is this? His.                                       |
+| Kiéi azok a kesztyűk? Az övéi.                   | Whose gloves are those? Hers.                                          |
+| Kiéi ezek a házak és azok a kertek? Az övéik.    | To whom do these houses and those gardens belong? They belong to them. |
+| Ez hozzám tartozik, az hozzád.                   | This belongs to me, that to you.                                       |
+| Ez a ház a miénk, a kert a tiétek, a rét az övé. | The house is ours, the garden is yours, and the meadow is his.         |
+| A mezők a tiétek, a ló az enyém.                 | The fields are thine, the horse is mine.                               |
 
 # Theory of the Language
 """  # noqa: E501
