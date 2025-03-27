@@ -942,20 +942,20 @@ NOTE:
     - Instead of teben (in thee), the affix d is added → benned
 - Some irregularities exist, which are outlined in the following table.
 
-| **Prepositional Affix**    | **1st Person Singular** | **2nd Person Singular** | **3rd Person Singular**       | **1st Person Plural**  | **2nd Person Plural**    | **3rd Person Plural**   |
-|----------------------------|-------------------------|-------------------------|-------------------------------|------------------------|--------------------------|-------------------------|
-| **ban, ben** (in)          | bennem (in me)          | benned (in thee)        | benne (in him/her/it)         | bennünk (in us)        | bennetek (in you)        | bennök (in them)        |
-| **ba, be** (into)          | belém (into me)         | beléd (into thee)       | belé/beléje (into him/her/it) | belénk (into us)       | belétek (into you)       | beléjök (into them)     |
-| **ra, re** (onto)          | reám/rám (onto me)      | reád/rád (onto thee)    | reá/rá (onto him/her/it)      | reánk/ránk (onto us)   | rátok (onto you)         | rájok (onto them)       |
-| **n** (on)                 | rajtam (on me)          | rajtad (on thee)        | rajta (on him/her/it)         | rajtunk (on us)        | rajtatok (on you)        | rajtok (on them)        |
-| **hoz, hez, höz** (to)     | hozzám (to me)          | hozzád (to thee)        | hozzá/hozzája (to him/her/it) | hozzánk (to us)        | hozzátok (to you)        | hozzájok (to them)      |
-| **nek** (to)               | nekem (to me)           | neked (to thee)         | neki (to him/her/it)          | nekünk (to us)         | nektek (to you)          | nekik (to them)         |
-| **ből, ből** (out of)      | belőlem (out of me)     | belőled (out of thee)   | belőle (out of him/her/it)    | belőlünk (out of us)   | belőletek (out of you)   | belőlük (out of them)   |
-| **tól, től** (from)        | tőlem (from me)         | tőled (from thee)       | tőle (from him/her/it)        | tőlünk (from us)       | tőletek (from you)       | tőlük (from them)       |
-| **ról, ről** (about, from) | rólam (about/from me)   | rólad (about/from thee) | róla (about/from him/her/it)  | rólunk (about/from us) | rólatok (about/from you) | róluk (about/from them) |
-| **nál, nél** (by, at)      | nálam (by/at me)        | nálad (by/at thee)      | nála (by/at him/her/it)       | nálunk (by/at us)      | nálatok (by/at you)      | náluk (by/at them)      |
-| **ért** (for)              | értem (for me)          | érted (for thee)        | érte (for him/her/it)         | értünk (for us)        | értetek (for you)        | értök (for them)        |
-| **vel, val** (with)        | velem (with me)         | veled (with thee)       | vele (with him/her/it)        | velünk (with us)       | veletek (with you)       | velök (with them)       |
+| Prepositional Affix    | 1st Person Singular   | 2nd Person Singular     | 3rd Person Singular           | 1st Person Plural      | 2nd Person Plural        | 3rd Person Plural       |
+|------------------------|-----------------------|-------------------------|-------------------------------|------------------------|--------------------------|-------------------------|
+| ban, ben (in)          | bennem (in me)        | benned (in thee)        | benne (in him/her/it)         | bennünk (in us)        | bennetek (in you)        | bennök (in them)        |
+| ba, be (into)          | belém (into me)       | beléd (into thee)       | belé/beléje (into him/her/it) | belénk (into us)       | belétek (into you)       | beléjök (into them)     |
+| ra, re (onto)          | reám/rám (onto me)    | reád/rád (onto thee)    | reá/rá (onto him/her/it)      | reánk/ránk (onto us)   | rátok (onto you)         | rájok (onto them)       |
+| n (on)                 | rajtam (on me)        | rajtad (on thee)        | rajta (on him/her/it)         | rajtunk (on us)        | rajtatok (on you)        | rajtok (on them)        |
+| hoz, hez, höz (to)     | hozzám (to me)        | hozzád (to thee)        | hozzá/hozzája (to him/her/it) | hozzánk (to us)        | hozzátok (to you)        | hozzájok (to them)      |
+| nek (to)               | nekem (to me)         | neked (to thee)         | neki (to him/her/it)          | nekünk (to us)         | nektek (to you)          | nekik (to them)         |
+| ből, ből (out of)      | belőlem (out of me)   | belőled (out of thee)   | belőle (out of him/her/it)    | belőlünk (out of us)   | belőletek (out of you)   | belőlük (out of them)   |
+| tól, től (from)        | tőlem (from me)       | tőled (from thee)       | tőle (from him/her/it)        | tőlünk (from us)       | tőletek (from you)       | tőlük (from them)       |
+| ról, ről (about, from) | rólam (about/from me) | rólad (about/from thee) | róla (about/from him/her/it)  | rólunk (about/from us) | rólatok (about/from you) | róluk (about/from them) |
+| nál, nél (by, at)      | nálam (by/at me)      | nálad (by/at thee)      | nála (by/at him/her/it)       | nálunk (by/at us)      | nálatok (by/at you)      | náluk (by/at them)      |
+| ért (for)              | értem (for me)        | érted (for thee)        | érte (for him/her/it)         | értünk (for us)        | értetek (for you)        | értök (for them)        |
+| vel, val (with)        | velem (with me)       | veled (with thee)       | vele (with him/her/it)        | velünk (with us)       | veletek (with you)       | velök (with them)       |
 
 | Hungarian                                | English                                     |
 |------------------------------------------|---------------------------------------------|
@@ -994,6 +994,89 @@ NOTE:
 | Rajtunk áll kötelességünket teljesíteni. | It is up to us to fulfill our duty.         |
 | Szüleink mindent tesznek értünk.         | Our parents do everything for us.           |
 | A gyermekek nem tesznek mindent értök.   | The children do not do everything for them. |
+
+## 4. Expression of the Verb "To have", "to be in possession of..."
+### 1.
+- Possession in Hungarian follows this structure:
+    - nekem, neked, neki, nekünk, nektek, nekik (indicating the possessor)
+    - the third person of to be (van, volt, lesz, etc.)
+    - the possessed object (with its possessive suffix)
+
+| Hungarian          | English                    |
+|--------------------|----------------------------|
+| Nekem van órám.    | I have a watch.            |
+| Neked van órád.    | Thou hast a watch.         |
+| Neki van órája.    | He/she has a watch.        |
+| Nekünk van óránk.  | We have a watch.           |
+| Nektek van órátok. | You (plural) have a watch. |
+| Nekik van órájuk.  | They have a watch.         |
+
+- Past Tense (Had) → Use volt/voltak (was/were)
+- Future Tense (Will Have) → Use lesz/lesznek (will be)
+
+| Hungarian           | English                   |
+|---------------------|---------------------------|
+| Nekem volt órám.    | I have had a watch.       |
+| Neked volt órád.    | Thou hast had a watch.    |
+| Neki volt órája.    | He/she has had a watch.   |
+| Nekünk volt óránk.  | We have had a watch.      |
+| Nektek volt órátok. | You have had a watch.     |
+| Nekik volt órájuk.  | They have had a watch.    |
+| Nekem lesz órám.    | I shall have a watch.     |
+| Neked lesz órád.    | Thou wilt have a watch.   |
+| Neki lesz órája.    | He/she will have a watch. |
+| Nekünk lesz óránk.  | We shall have a watch.    |
+| Nektek lesz órátok. | You will have a watch.    |
+| Nekik lesz órájuk.  | They will have a watch.   |
+
+- The nekem, neked, neki... structure can be omitted in speech.
+
+| Hungarian  | English             |
+|------------|---------------------|
+| Van órám.  | I have a watch.     |
+| Van órád.  | Thou hast a watch.  |
+| Van órája. | He/she has a watch. |
+
+- When a noun replaces én, te, ő, it must take the -nak / -nek suffix.
+
+| Hungarian                   | English                  |
+|-----------------------------|--------------------------|
+| A tanítónak van órája.      | The teacher has a watch. |
+| Az atyámnak van háza.       | My father has a house.   |
+| A nagybátyámnak van kertje. | My uncle has a garden.   |
+| Nekünk van könyvünk.        | We have a book.          |
+
+| Hungarian                  | English                      |
+|----------------------------|------------------------------|
+| Van-e munkád?              | Do you have work?            |
+| Van-e házatok?             | Do you have a house?         |
+| Lesz-e időd?               | Will you have time?          |
+| Lesz-e nektek időtök?      | Will you (plural) have time? |
+| Nekem van kedvem dolgozni. | I feel like working.         |
+| Mi dolgod van?             | What do you have to do?      |
+
+| Hungarian              | English                           |
+|------------------------|-----------------------------------|
+| Ha volna időm.         | If I had time.                    |
+| Ha időm volna.         | If I had time. (Alternative form) |
+| Volna időm.            | I would have time.                |
+| Legyen neki is almája. | Let him have apples as well.      |
+| Legyen neked órád.     | Mayst thou have a watch.          |
+
+| Hungarian                                             | English                                                |
+|-------------------------------------------------------|--------------------------------------------------------|
+| Én nekem volt könyvem.                                | I had a book.                                          |
+| A bátyámnak lesz papirosa és tolla.                   | My brother will have paper and a pen.                  |
+| Nekünk lesz pénzünk, nektek pedig lesz gyümölcsötök.  | We will have money, and you will have fruit.           |
+| A nagybátyámnak volt kertje.                          | My uncle had a garden.                                 |
+| A testvéremnek lesz órája.                            | My brother will have a watch.                          |
+| Legyen neki is tollkése.                              | Let him have a penknife as well.                       |
+| Ha nekem volna könyvem, tanulnék.                     | If I had a book, I would study.                        |
+| Ha a nővéremnek volna tanítója, magyarul tanulna.     | If my sister had a teacher, she would learn Hungarian. |
+| A nyelvtanáromnak volt egy könyve, és azt nekem adta. | My language teacher had a book, and he gave it to me.  |
+| Az anyámnak volt egy gyűrűje, és azt nekem adta.      | My mother had a ring, and she gave it to me.           |
+
+### 2.
 
 # Theory of the Language
 """  # noqa: E501
