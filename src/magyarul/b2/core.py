@@ -180,7 +180,7 @@ NOTE:
     * hajol-om → hajlom (I stoop)
 
 # Compositions
-## Verbs. - Active and Neuter. -
+## 1. Verbs. - Active and Neuter. -
 * Hungarian expresses grammatical forms (declension, conjugation, comparison) using
     affixes attached to word roots.
 * A verb's root is what remains after removing the -ni ending from the infinitive (e.g.,
@@ -591,7 +591,7 @@ English).
 | volnátok            | —                      | You would be                   |
 | volnának            | —                      | They would be                  |
 
-## Possessive forms of the Substantive
+## 2. Possessive forms of the Substantive
 ### A. The Object possessed is but one
 - The j in ja/je (his/her/its) and juk/jük (their) drops after cs, cz, s, sz, z, v, ny, ly, ty, gy.
 - The vowel in the possessive suffix follows the vowel harmony of the plural form:
@@ -858,6 +858,142 @@ NOTE:
 | Ez hozzám tartozik, az hozzád.                   | This belongs to me, that to you.                                       |
 | Ez a ház a miénk, a kert a tiétek, a rét az övé. | The house is ours, the garden is yours, and the meadow is his.         |
 | A mezők a tiétek, a ló az enyém.                 | The fields are thine, the horse is mine.                               |
+
+## 3. Affixes relative to place, directions, and expressions of the Dative Case.
+### 1.
+- These affixes, often prepositions in other languages, are called Conjunctive Prepositions by most Hungarian grammarians and Postpositions by some, expressing relations of place, direction, and combinations:
+
+| Affix  | Meaning               |
+|--------|-----------------------|
+| ba     | into (movement)       |
+| ban    | in (quietude)         |
+| ról    | from (downwards)      |
+| tól    | from of (removal)     |
+| ból    | out of                |
+| hoz    | to (next to, towards) |
+| nak    | to (Dative)           |
+| nál    | by, at                |
+| val    | with                  |
+| ért    | for                   |
+| n      | on, upon, at          |
+| ra     | on, upon (where to?)  |
+| ig     | till, until           |
+| kép    | in the form of...     |
+| ként   | like, as              |
+| úl     | as                    |
+| vá     | into (transformation) |
+
+- Hungarian words, whether hard or soft, adapt their vowels to those of the word they’re added to:
+    - be instead of ba
+    - ről instead of ról
+    - hoz becomes höz or hez for soft words.
+
+| Hungarian                                          | English                                                |
+|----------------------------------------------------|--------------------------------------------------------|
+| A templomból.                                      | From the church.                                       |
+| A szobából.                                        | From the room.                                         |
+| A falhoz.                                          | To the wall.                                           |
+| Az asztalon.                                       | On the table.                                          |
+| A könyvben.                                        | In the book.                                           |
+| Én az asztalra tettem.                             | I have put it on the table.                            |
+| A templomban voltunk.                              | We were in the church.                                 |
+| Az oskolába megyünk.                               | We go to school.                                       |
+| A könyvben írtam.                                  | I wrote in the book.                                   |
+| Az atyámnál voltam.                                | I was at my father's.                                  |
+| Én és a bátyám mi a nagybátyánk kertjében voltunk. | My brother and I were in our uncle's garden.           |
+| A barátomhoz megyek.                               | I go to my friend's place.                             |
+| Én az atyámnak adtam.                              | I gave it to my father.                                |
+| A nényémnek adom.                                  | I give it to my aunt.                                  |
+| Az anyámtól kaptam.                                | I received it from my mother.                          |
+| A húgom a barátnőjének könyvet adott ajándékba.    | My younger sister gave a book to her friend as a gift. |
+| Én ezt a könyvet ajándékba kaptam az anyámtól.     | I received this book as a present from my mother.      |
+| A kertből jövünk.                                  | We are coming from the garden.                         |
+| A szobába megyünk.                                 | We are going into the room.                            |
+| A házban vagyunk.                                  | We are in the house.                                   |
+| Asztalra tettem.                                   | I put it on the table.                                 |
+| A könyv az asztalon van.                           | The book is on the table.                              |
+
+| Hungarian                                 | English                                                    |
+|-------------------------------------------|------------------------------------------------------------|
+| Jövünk a templomból.                      | We come (out of) church.                                   |
+| Mentek az iskolába.                       | You go (to) school.                                        |
+| A kertbe megyünk.                         | We go into the garden.                                     |
+| A barátomnál voltam.                      | I have been at my friend's.                                |
+| Örömmel tanulok.                          | I learn with pleasure.                                     |
+| Tollal írsz.                              | You write with a pen.                                      |
+| Könyvből tanul.                           | He learns out of a book.                                   |
+| Egy könyvet kaptam ajándékba apámtól.     | I have received a book for a present from my father.       |
+| Az anyám könyvet adott idősebb nővérének. | My mother gave a book to her elder sister.                 |
+| Egy levelet vittem a nagybátyámnak.       | I have carried a letter to my uncle.                       |
+| Virágokat kaptunk a kertészünktől.        | We have received flowers from our gardener.                |
+| A kertész fia virágokat adott a húgomnak. | Our gardener's son has given flowers to my younger sister. |
+| Az asztalra tette.                        | He has put it on the table.                                |
+| A könyv az asztalon van.                  | The book is on the table.                                  |
+| A levél az apámnál van.                   | The letter is at my father's.                              |
+| A bátyám virágot ment.                    | My brother went for flowers.                               |
+| Két száz guineáért vettem egy lovat.      | I bought a horse for two hundred guineas.                  |
+
+### 2.
+- Hungarian prepositions follow the noun but stay separate:
+    - Az asztal felett → over the table
+- Possessive Pronouns (mine, thine, his, etc.) use possessive affixes (m, d, ja, etc.).
+- Prepositional Affixes follow the same pattern:
+    - Instead of énben (in me), the possessive affix m is added → bennem
+    - Instead of teben (in thee), the affix d is added → benned
+- Some irregularities exist, which are outlined in the following table.
+
+| **Prepositional Affix**    | **1st Person Singular** | **2nd Person Singular** | **3rd Person Singular**       | **1st Person Plural**  | **2nd Person Plural**    | **3rd Person Plural**   |
+|----------------------------|-------------------------|-------------------------|-------------------------------|------------------------|--------------------------|-------------------------|
+| **ban, ben** (in)          | bennem (in me)          | benned (in thee)        | benne (in him/her/it)         | bennünk (in us)        | bennetek (in you)        | bennök (in them)        |
+| **ba, be** (into)          | belém (into me)         | beléd (into thee)       | belé/beléje (into him/her/it) | belénk (into us)       | belétek (into you)       | beléjök (into them)     |
+| **ra, re** (onto)          | reám/rám (onto me)      | reád/rád (onto thee)    | reá/rá (onto him/her/it)      | reánk/ránk (onto us)   | rátok (onto you)         | rájok (onto them)       |
+| **n** (on)                 | rajtam (on me)          | rajtad (on thee)        | rajta (on him/her/it)         | rajtunk (on us)        | rajtatok (on you)        | rajtok (on them)        |
+| **hoz, hez, höz** (to)     | hozzám (to me)          | hozzád (to thee)        | hozzá/hozzája (to him/her/it) | hozzánk (to us)        | hozzátok (to you)        | hozzájok (to them)      |
+| **nek** (to)               | nekem (to me)           | neked (to thee)         | neki (to him/her/it)          | nekünk (to us)         | nektek (to you)          | nekik (to them)         |
+| **ből, ből** (out of)      | belőlem (out of me)     | belőled (out of thee)   | belőle (out of him/her/it)    | belőlünk (out of us)   | belőletek (out of you)   | belőlük (out of them)   |
+| **tól, től** (from)        | tőlem (from me)         | tőled (from thee)       | tőle (from him/her/it)        | tőlünk (from us)       | tőletek (from you)       | tőlük (from them)       |
+| **ról, ről** (about, from) | rólam (about/from me)   | rólad (about/from thee) | róla (about/from him/her/it)  | rólunk (about/from us) | rólatok (about/from you) | róluk (about/from them) |
+| **nál, nél** (by, at)      | nálam (by/at me)        | nálad (by/at thee)      | nála (by/at him/her/it)       | nálunk (by/at us)      | nálatok (by/at you)      | náluk (by/at them)      |
+| **ért** (for)              | értem (for me)          | érted (for thee)        | érte (for him/her/it)         | értünk (for us)        | értetek (for you)        | értök (for them)        |
+| **vel, val** (with)        | velem (with me)         | veled (with thee)       | vele (with him/her/it)        | velünk (with us)       | veletek (with you)       | velök (with them)       |
+
+| Hungarian                                | English                                     |
+|------------------------------------------|---------------------------------------------|
+| Az Isten igazságos, bízzunk benne.       | God is just, let us trust in Him.           |
+| Az öcsém nálam volt.                     | My younger brother was at my place.         |
+| Tegnap nálunk vendégek voltak.           | Yesterday, we had guests at our place.      |
+| Az atyám nekem adta az óráját.           | My father gave me his watch.                |
+| Én pedig neked adom.                     | And I give it to you.                       |
+| Nekünk ajándékozták ezt a könyvet.       | This book was gifted to us.                 |
+| Én nektek adtam a ruhámat.               | I gave you my clothes.                      |
+| Mondd meg neki.                          | Tell him/her.                               |
+| Az anyám neki azt mondta.                | My mother told that to him/her.             |
+| Én tőlünk kapja kenyerét.                | He/she gets their bread from us.            |
+| Ez nem áll rajtam.                       | This does not depend on me.                 |
+| Rólam azt mondják.                       | They say that about me.                     |
+| Hazánk tőlünk háladatosságot kíván.      | Our homeland expects gratitude from us.     |
+| Rajtunk áll kötelességünket teljesíteni. | It is up to us to fulfill our duty.         |
+| Szüleink mindent tesznek értünk.         | Our parents do everything for us.           |
+| A gyermekek nem tesznek mindent értök.   | The children do not do everything for them. |
+
+| Hungarian                                | English                                     |
+|------------------------------------------|---------------------------------------------|
+| Az Isten igazságos, bízzunk benne.       | God is just, let us trust in Him.           |
+| Az öcsém nálam volt.                     | My younger brother was at my place.         |
+| Tegnap nálunk vendégek voltak.           | Yesterday, we had guests at our place.      |
+| Az atyám nekem adta az óráját.           | My father gave me his watch.                |
+| Én pedig neked adom.                     | And I give it to you.                       |
+| Nekünk ajándékozták ezt a könyvet.       | This book was gifted to us.                 |
+| Én nektek adtam a ruhámat.               | I gave you my clothes.                      |
+| Mondd meg neki.                          | Tell him/her.                               |
+| Az anyám neki azt mondta.                | My mother told that to him/her.             |
+| Én tőlünk kapja kenyerét.                | He/she gets their bread from us.            |
+| Ez nem áll rajtam.                       | This does not depend on me.                 |
+| Rólam azt mondják.                       | They say that about me.                     |
+| Hazánk tőlünk háladatosságot kíván.      | Our homeland expects gratitude from us.     |
+| Rajtunk áll kötelességünket teljesíteni. | It is up to us to fulfill our duty.         |
+| Szüleink mindent tesznek értünk.         | Our parents do everything for us.           |
+| A gyermekek nem tesznek mindent értök.   | The children do not do everything for them. |
 
 # Theory of the Language
 """  # noqa: E501
