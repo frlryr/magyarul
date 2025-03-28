@@ -1077,6 +1077,56 @@ NOTE:
 | Az anyámnak volt egy gyűrűje, és azt nekem adta.      | My mother had a ring, and she gave it to me.           |
 
 ### 2.
+- Plural objects → add **plural suffix** to noun.
+- Use **"van" → "vannak"** (plural) for the verb *to be*:
+    - Nekem vannak óráim. → I have watches
+    - Nekem van órám. → I have a watch
+- Emphasis → use full pronoun before dative:
+    - Én nekem volt órám, nem a barátomnak. → I had a watch, not my friend's.
+- Used for contrast/emphasis only:
+    - Én tettem azt. → I did it.
+    - Az én könyvem. → My book (not his).
+
+| Hungarian                    | English                  |
+|------------------------------|--------------------------|
+| Nekünk van kertünk           | We have a garden         |
+| Nektek vannak kertjeitek     | You (pl) have gardens    |
+| Az atyámnak vannak lovai     | My father has horses     |
+| A városnak vannak lakosai    | The city has inhabitants |
+| A katonának van bátorsága    | The soldier has courage  |
+| A hadvezérnek van tehetsége  | The general has talent   |
+| A népnek van szabadsága      | The people have liberty  |
+| A királyoknak van hatalmuk   | Kings have power         |
+| Angliának van gazdagsága     | England has wealth       |
+| Britanniának van hajóserege  | Britain has a navy       |
+| A Magyarnak van híre         | The Hungarian has fame   |
+| Amerikának van szabadsága    | America has freedom      |
+| A Britteknek van királynőjök | The British have a queen |
+| Europának vannak zsarnokai   | Europe has tyrants       |
+
+| Hungarian                          | English                     |
+|------------------------------------|-----------------------------|
+| Az embereknek van lelkük           | Men have souls              |
+| Az állatoknak van ösztönük         | Animals have instinct       |
+| Az oroszlánnak van ereje           | Lions have strength         |
+| A madaraknak vannak szárnyaik      | Birds have wings            |
+| A növényeknek vannak gyökereik     | Plants have roots           |
+| A kertészünknek vannak virágai     | Our gardener has flowers    |
+| A nagynénémnek van kertje          | My aunt has a garden        |
+| Nekünk vannak fáink                | We have trees               |
+| A fáknak van gyümölcsük            | Trees have fruit            |
+| Nekünk voltak almáink              | We had apples               |
+| Nektek voltak szőlőiteket          | You had grapes              |
+| A húgomnak lesznek szép ruhái      | My sister will have dresses |
+| Neked lesz egy szép zongorád       | You’ll have a piano         |
+| Apámnak vannak lovai               | Dad has horses              |
+| A nagybátyámnak vannak házai       | Uncle has houses            |
+| A királyoknak van hatalmuk         | Kings have power            |
+| A hadvezéreknek vannak katonáik    | Generals have soldiers      |
+| Angliának vannak bátor admirálisai | England has admirals        |
+| Nelsonnak voltak bátor katonái     | Nelson had soldiers         |
+| A népnek lesz szabadsága           | People shall have liberty   |
+| Az igazaknak lesz jutalmuk         | The just will be rewarded   |
 
 # Theory of the Language
 """  # noqa: E501
